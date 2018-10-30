@@ -1,3 +1,4 @@
 /src/syntax_pipeline.log
 /src/data/**
 /src/__pycache__
+/src/*.zip
