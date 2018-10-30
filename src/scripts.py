@@ -13,8 +13,15 @@ from mtaac_conll import conll_file
 #---/ GENERAL COMMENTS /-------------------------------------------------------
 #
 '''
-WORKFLOW:
+PIP DEPENDENCIES:
+- ansi2html
+# - rdflib // not used
+# - SPARQLWrapper // not used
 
+OTHER DEPENDENCIES (Windows):
+- http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+WORKFLOW:
 + 1. CDLI-CoNLL (already there)
 + 2. CoNLL2RDF <https://github.com/acoli-repo/conll-rdf>
 + 3. RDF
@@ -29,15 +36,6 @@ WORKFLOW:
 ##
 ##1. CDLI-CoNLL / ETCSRI > CoNLL-RDF
 ##2. CoNLL-C > 
-
-# Pip dependencies:
-# ansi2html
-# rdflib // not used
-# SPARQLWrapper // not used
-
-# Dependencies (Windows):
-# http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-#
 
 #---/ CHECKS /-----------------------------------------------------------------
 #
