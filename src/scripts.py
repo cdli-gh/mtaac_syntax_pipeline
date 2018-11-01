@@ -1,25 +1,29 @@
 import os
 import sys
-import subprocess
 import codecs
 import re
 from ansi2html import Ansi2HTMLConverter
-from mtaac_conll import conll_file
+from mtaac_package.CoNLL_file_parser import conll_file
+from mtaac_package.common_functions import *
+'''
+Not in use:
 
-
-##import rdflib
-##from SPARQLWrapper import SPARQLWrapper, JSON
-
+import rdflib
+from SPARQLWrapper import SPARQLWrapper, JSON
+'''
+#
 #---/ GENERAL COMMENTS /-------------------------------------------------------
 #
 '''
 PIP DEPENDENCIES:
+- mtaac_package (https://github.com/cdli-gh/mtaac-package)
 - ansi2html
 # - rdflib // not used
 # - SPARQLWrapper // not used
 
 OTHER DEPENDENCIES (Windows):
-- http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+- http://www.oracle.com/technetwork/java/javase/downloads/
+  jdk8-downloads-2133151.html
 
 WORKFLOW:
 + 1. CDLI-CoNLL (already there)
@@ -27,107 +31,43 @@ WORKFLOW:
 + 3. RDF
 + 4. Syntactic Pre-annotator
 + 5. RDF2CoNLL
->? 6. CDLI-CoNLL2CoNLL-U <https://github.com/cdli-gh/CDLI-CoNLL-to-CoNLLU-Converter)>
+>? 6. CDLI-CoNLL2CoNLL-U
+    <https://github.com/cdli-gh/CDLI-CoNLL-to-CoNLLU-Converter)>
 > 7. CoNLLU > Brat
 8. Brat (push file to brat server)
 (9. Editor corrects syntax)
-10. Brat 2 CDLI-Conll <https://github.com/cdli-gh/brat_to_cdli_CONLLconverter>
+10. Brat 2 CDLI-Conll
+  <https://github.com/cdli-gh/brat_to_cdli_CONLLconverter>
+
+TODO:
++ check .sh scripts for missed steps
+- columns should be adjusted for CDLI-CoNLL:
+  ID WORD MORPH2 POS IGNORE IGNORE IGNORE
+- make sure columns are correctly designated for both formats
+- make sure abbreviations are unified:
+  - either different rules for different abbreviations
+    OR
+  - better:
+    - apply your own abbr. unifier (lemmatization data scripts)
+      to make the data unified.
+    - then insure that the abbr. in SPARQL match
+- Find a solution for rendering words in SPARQL.
+  Perhaps, FLASK templates would be the best solution also to corpus-specific
+  placeholders' rendering.
 '''
-##
-##1. CDLI-CoNLL / ETCSRI > CoNLL-RDF
-##2. CoNLL-C > 
-
-#---/ CHECKS /-----------------------------------------------------------------
-#
-def is_int(char):
-  try:
-    int(char)
-    return True
-  except ValueError:
-    return False
-
-#---/ COMMON FUNCTIONS /-------------------------------------------------------
-#
-class common_functions:
-
-  def load_json(self, path):
-    with codecs.open(path, 'r', 'utf-8') as f:
-      json_data = json.load(f)
-    return json_data
-  
-  def dump(self, data, filename, encoding='utf-8'):
-    if not os.path.exists(os.path.dirname(filename)):
-      os.makedirs(os.path.dirname(filename))
-    with codecs.open(filename, 'w', encoding) as dump:
-      dump.write(data)
-
-  def get_html(self, url="", path="", repeated=False):
-    html = None
-    if url:
-      try:
-        with urlopen(url) as response:
-          html = lxml_html.parse(response).getroot()
-      except (TimeoutError, URLError) as e:
-        if repeated==False:
-          print('TimeoutError: %s\nTrying again...' %(url))
-          return self.get_html(url=url, repeated=True)
-        else:
-          print('TimeoutError: %s\nFailed' %(url))
-          self.errors.append('TimeoutError: %s' %(url))
-          return None
-    elif path:
-      html = lxml_html.parse(path).getroot()
-    return html
 #
 #---/ ANSI 2 HTML /------------------------------------------------------------
 #
 a2h_conv = Ansi2HTMLConverter()
 #
-#---/ SUBPROCESS /-------------------------------------------------------------
+#---/ Variables /--------------------------------------------------------------
 #
-class subprocesses(common_functions):
-
-  def __init__(self):
-    self.subprocesses_list = []
-    self.pending_lst = []
-    self.max = 4
-    self.env = os.environ.copy()
-    
-  def run(self, cmd, cwd='', stdin=None, print_stdout=False,
-          return_stdout=True, decode_stdout=True, log_stdout=False):
-    print('\n')
-    print(r'run: %s' %(' '.join(cmd)))
-    if not cwd:
-      cwd = os.getcwd()
-##    print(r'cwd: %s' %(cwd))
-    p = subprocess.run(cmd,
-                       cwd=r'%s' %(cwd),
-                       input=stdin,
-                       stdout=subprocess.PIPE,
-                       stderr=subprocess.STDOUT,
-                       env=self.env,
-                       shell=True,
-                       )
-    output = self.trace_console(p, decode_stdout)
-    if output==None:
-      return None
-##    if print_stdout==True and type(output)!=bytes:
-##      print(output)
-    if log_stdout==True and type(output)!=bytes:
-      self.dump(output, 'syntax_pipeline.log')
-    if return_stdout==True:
-      return output
-      
-  def trace_console(self, p, decode_stdout):
-    if decode_stdout:
-      return p.stdout.decode('utf-8')
-    return p.stdout
-
 _path = os.path.dirname(os.path.abspath(__file__))
 sp = subprocesses()
-
+#
 #---/ CDLI-CoNLL > CONLL-U /---------------------------------------------------
 #
+
 class CC2CU(common_functions):
   '''
   Wrapper around CDLI-CoNLL-to-CoNLLU-Converter:
@@ -656,17 +596,19 @@ class syntax_preannotation(CoNLL2RDF):
       self.dump(tree_html, target_path)
     return tree_str
 
-#---/ ROOT COMMANDS /----------------------------------------------------------
+#---/ COMMANDS /---------------------------------------------------------------
 #
-
-f_path = os.path.join(_path, 'data', 'etcsri-conll-all') #'cdli-conll'
-sx = syntax_preannotation()
-for f in os.listdir(f_path):
-  try: 
-    sx.preannotate(os.path.join(f_path, f))
-  except Exception as e:
-    #raise e
-    pass
+'''
+Preannotate all files in data/etsri-conll-all, except all errors:
+'''
+##f_path = os.path.join(_path, 'data', 'etcsri-conll-all') #'cdli-conll'
+##sx = syntax_preannotation()
+##for f in os.listdir(f_path):
+##  try: 
+##    sx.preannotate(os.path.join(f_path, f))
+##  except Exception as e:
+##    raise e
+##    pass
 
 #CC2CU()
 #CoNLL2RDF()
@@ -675,24 +617,10 @@ for f in os.listdir(f_path):
 ##c = CoNLL2RDF()
 ##c.rdf2conll("data\conll-rdf\P100188.ttl")
 
-    ## ***** TO DO *****
-    ##  - check .sh scripts for missed steps
-    ##  - columns should be adjusted for CDLI-CoNLL:
-    ##    ID WORD MORPH2 POS IGNORE IGNORE IGNORE
-    ##  - make sure columns are correctly designated for both formats
-    ##  - make sure abbreviations are unified:
-    ##    - either different rules for different abbreviations
-    ##      OR
-    ##    - better:
-    ##      - apply your own abbr. unifier (lemmatization data scripts)
-    ##        to make the data unified.
-    ##      - then insure that the abbr. in SPARQL match
-    ##  - Find a solution for rendering words in SPARQL.
-    ##    Perhaps, FLASK templates would be the best solution also to corpus-specific
-    ##    placeholders' rendering.
-
+'''
+Garbage (?) code:
 ## FROM SYNTAX PREANNOTATION __INIT__
-
+'''
 ##    ### THE FOLLOWING LINES IN FUNCTION ARE TESTING ONLY:
 ##    #f_path = os.path.join(_path, 'data', 'cdli-conll', 'P100188.conll')
 ##    f_path = os.path.join(_path, 'data', 'cdli-conll', 'P100149.conll')
@@ -708,9 +636,9 @@ for f in os.listdir(f_path):
 ##
 ##  def preannotate(self, path):
 ##    self.graph.parse(path, format='n3')
-
+'''
 ## FROM SYNTAX PREANNOTATION preannotate()
- 
+'''
     #self.dump(rdf_str, dump_path)
     #print(rdf_str)
 
@@ -728,11 +656,10 @@ for f in os.listdir(f_path):
 ##              + self.COLUMNS_CDLI_CONLL
 ##    rdf_str = "#new_text" + self.run(command, f_path).split("#new_text")[1]
 ##    self.dump_rdf(rdf_str, f_path)
-
+'''
 ## FROM ROOT
-
-  ### THE FOLLOWING LINES IN FUNCTION ARE TESTING ONLY:
-
+'''
+### THE FOLLOWING LINES IN FUNCTION ARE TESTING ONLY:
 #CoNLL2RDF()
 
 #f_path = os.path.join(_path, 'data', 'cdli-conll', 'P100188.conll')
