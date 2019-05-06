@@ -1,0 +1,23 @@
+# 
+
+prefix : <http://oracc.museum.upenn.edu/etcsri/>
+prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+DELETE {
+	?num conll:SHIFT ?obj.
+	?last conll:SHIFT ?num.
+} INSERT {
+	?num conll:REDUCE ?obj; conll:EDGE 'nummod'.
+	?last conll:SHIFT ?obj.
+} WHERE {
+	?num conll:POS ?numpos.
+	?num conll:SHIFT ?obj.
+	?obj conll:POS ?objpos.
+	FILTER(
+		str(?numpos)='NU' && 
+		str(?objpos)='N')
+	OPTIONAL {?last conll:SHIFT ?num. }
+}

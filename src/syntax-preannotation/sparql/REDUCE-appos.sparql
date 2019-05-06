@@ -117,8 +117,12 @@ DELETE {
 	?appos conll:REDUCE ?gen.
 	?gen conll:EDGE "appos".
 	?gen conll:BASE ?gword.
-	FILTER(?gword!="lugal")								# expand with other possessor words
+	FILTER(
+		regex(?gword, "^(lugal|ensi2)") # expand with other possessor words
+		)
 	?gen conll:REDUCE ?head.
 	?head conll:BASE ?hword.
-	FILTER(?hword="lugal") 								# expand with other possessor words
+	FILTER(
+		regex(?hword, "lugal|ensi2") # expand with other possessor words
+	)
 };

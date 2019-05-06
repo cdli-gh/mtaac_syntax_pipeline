@@ -14,8 +14,8 @@ DELETE {
 	?last conll:SHIFT ?verb.
 } WHERE {
 	?noun conll:POS ?pos FILTER(strends(str(?pos),'N')).				# a noun
-	?noun conll:CASE ?case FILTER(?case="ABS")							# in absolutive case
-	?noun conll:SHIFT ?verb.											# that precedes
+	?noun conll:CASE ?case FILTER(?case="ABS")				# in absolutive case
+	?noun conll:SHIFT ?verb.				# that precedes
 	?verb conll:POS ?vPos FILTER(strstarts(str(?vPos),'V'))				# a verb
 	OPTIONAL {?last conll:SHIFT ?noun. }
 }

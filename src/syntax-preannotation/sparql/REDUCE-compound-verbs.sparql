@@ -16,11 +16,11 @@ DELETE {
 	?noun conll:REDUCE ?verb; conll:EDGE "mwe".
 	?last conll:SHIFT ?verb.
 } WHERE {
-	?noun conll:POS ?pos FILTER(strends(str(?pos),'N')).				# a noun
-	?noun conll:SHIFT ?verb.											# that precedes
-	?verb conll:POS ?vPos FILTER(strstarts(str(?vPos),'V'))				# a verb
+	?noun conll:POS ?pos FILTER(strends(str(?pos),'N')).		# a noun
+	?noun conll:SHIFT ?verb.		# that precedes
+	?verb conll:POS ?vPos FILTER(strstarts(str(?vPos),'V'))		# a verb
 	{ ?noun conll:BASE "ki". ?noun conll:SHIFT/conll:BASE "aj2". } 		# "ki ... aj2"
-	# UNION { ... }														# add more patterns
+	# UNION { ... }		# add more patterns
 	OPTIONAL { ?last conll:SHIFT ?noun }
 };
 

@@ -1,0 +1,188 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>conllu.js</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="CoNLL-U format library for JavaScript">
+    <link rel="stylesheet" href="css/jquery-ui-redmond.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/style-vis.css">
+	<link href="tabulator/css/tabulator.min.css" rel="stylesheet">
+	<script type="text/javascript" src="lib/ext/jquery.min.js"></script>
+	<script type="text/javascript" src="tabulator/js/tabulator.min.js"></script>
+    <script type="text/javascript" src="lib/ext/head.load.min.js"></script>
+	<script type="text/javascript" src="lib/brat/visualizer.js"></script>
+	<!-- https://github.com/eligrey/FileSaver.js -->
+	<script type="text/javascript" src="lib/ext/FileSaver.js"></script>
+</head>
+<body>
+<input type="file" id="input" onchange="importFile(this.files)">
+<button onclick="saveCoNLL()">Save</button><br>
+<article class="entry-content">
+<code class="conllu-parse" tabs="yes"><pre></pre></code>
+
+<div id="example-table"></div> <!-- tabulator table -->
+</body>
+
+<script type="text/javascript">
+    var root = ''; // filled in by jekyll
+    head.js(
+        // External libraries
+        root + 'lib/ext/jquery.min.js',
+        root + 'lib/ext/jquery.svg.min.js',
+        root + 'lib/ext/jquery.svgdom.min.js',
+        root + 'lib/ext/jquery-ui.min.js',
+        root + 'lib/ext/waypoints.min.js',
+
+        // brat helper modules
+        root + 'lib/brat/configuration.js',
+        root + 'lib/brat/util.js',
+        root + 'lib/brat/annotation_log.js',
+        root + 'lib/ext/webfont.js',
+        // brat modules
+        root + 'lib/brat/dispatcher.js',
+        root + 'lib/brat/url_monitor.js',
+        root + 'lib/brat/visualizer.js',
+
+        // annotation documentation support
+        root + 'lib/local/annodoc.js',
+        root + 'lib/local/config.js',
+
+        // the conllu.js library itself
+        root + 'conllu.js'
+    );
+
+    var webFontURLs = [
+        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+    ];
+/*
+    head.ready(function() {
+	// performes all embedding and support functions
+	Annodoc.activate(Config.bratCollData, {});
+    });
+*/
+</script>
+
+<script type="text/javascript"> <!-- CoNLL2JSON -->\
+var reader1 = new FileReader();
+var reader2 = new FileReader();
+function importFile(){
+	const selectedFile = document.getElementById('input').files[0];
+	reader1.readAsDataURL(selectedFile);
+	reader1.onload = function() {
+		dataURL = reader1.result;
+		console.log(dataURL)
+	}
+	reader2.readAsText(selectedFile);
+	reader2.onload = function() {
+		conllStr = reader2.result;
+		$('code.conllu-parse > pre').text(conllStr+'\n');
+		conllu2json(conllStr);
+	}
+};
+
+function saveCoNLL() {
+  var text = $('#embedded-1-in').text();
+  var filename = document.getElementById('input').value.split('\\')
+  filename = filename[filename.length-1]
+  console.log("saving", filename)
+  var blob = new Blob([text], {type: "text/plain;charset=utf-8"});
+  saveAs(blob, filename);
+};
+
+function loadData(linesData, conllStr){
+	table.setData(linesData)
+	.then(function(){
+		$('#embedded-1-in').text(conllStr);
+		$('code.conllu-parse > pre').text(conllStr);
+		//console.log($('#embedded-1-in').text())
+		event = new Event('change');
+		$('#embedded-1-in')[0].dispatchEvent(event);
+	});
+}
+
+/*
+if (typeof conllStr === 'undefined'){
+	var conllStr = $('code.conllu-parse > pre').text();
+};
+*/
+
+function conllu2json(conllStr){
+	conllLines = conllStr.split('\n');
+	headerLines = [];
+	linesData = [];
+	colNames = [];
+	for (var i = 0; i < conllLines.length; i++) {
+		lineCols = conllLines[i].split('\t');
+		comment =  conllLines[i][0]=='#'
+		colsNum = lineCols.length
+		if (comment==true){
+			lineCols[0] = lineCols[0].replace('#', '');
+			headerLines.push(conllLines[i]);
+		};
+		if (comment==true && colsNum > 1){
+			var colNames = lineCols;
+		};
+		if (comment==false && colsNum > 1){
+			lineObj = {};
+			colNames.forEach((key, n) => lineObj[key] = lineCols[n]);
+			linesData.push(lineObj);
+		};
+	}
+	if (!$('.tabulator-header').length){
+		console.log('make table')
+		makeTable(conllLines);
+	} else {
+		console.log('update table')
+		loadData(linesData, conllStr);
+	}
+};
+
+function json2conllu(object){
+	linesData = object;
+	conllStr = headerLines.join('\n')+'\n';
+	for (var i = 0; i < linesData.length; i++) {
+		conllStr+=Object.values(linesData[i]).join('\t')+'\n';
+	};
+	return conllStr
+};
+</script>
+
+<script type="text/javascript">
+function makeTable(conllLines){
+table = new Tabulator("#example-table", {
+ 	//height:205, // set height of table (in CSS or here), this enables the Virtual DOM and improves render speed dramatically (can be any valid css height value)
+ 	data:linesData, //assign data to table
+ 	layout:"fitColumns", //fit columns to width of table (optional)
+ 	columns:[ //Define Table Columns
+		{title:"ID", field:"ID"},
+	 	{title:"Form", field:"FORM"},
+		{title:"Lemma", field:"LEMMA"},
+		{title:"UPOSTAG", field:"UPOSTAG"},
+		{title:"XPOSTAG", field:"XPOSTAG"},
+		{title:"FEATS", field:"FEATS"},
+		{title:"HEAD", field:"HEAD", editor:true},
+		{title:"DEPREL", field:"DEPREL", editor:true},
+		{title:"FEATS", field:"FEATS"},
+		{title:"DEPS", field:"DEPS"},
+		{title:"MISC", field:"MISC"},
+ 	],
+	tableBuilt:function(){
+		//console.log($('code.conllu-parse > pre').text());
+		Annodoc.activate(Config.bratCollData, {});
+    },
+	dataEdited:function(data){
+		conllStr = json2conllu(data);
+		$('#embedded-1-in').text(conllStr);
+		$('code.conllu-parse > pre').text(conllStr);
+		event = new Event('change');
+		$('#embedded-1-in')[0].dispatchEvent(event);
+	},
+});
+};
+</script>
+
+</html>

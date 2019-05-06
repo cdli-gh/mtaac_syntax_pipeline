@@ -1,0 +1,23 @@
+# giri|kicib-N: giri|kicib <-GEN-PN|N
+
+
+
+# TODO: make different rule! PN-N: PN <-appos- N 
+
+# (giri|kicib[GEN] PN-N: (giri|kicib[GEN]→) PN←appos N
+
+# IMPORTANT: 
+# The first rule repeats the general genitive rule.
+# Do not add, reconsider order. 
+
+DELETE {
+	#?last conll:SHIFT ?noun.
+	#?noun conll:SHIFT ?verb.
+} INSERT {
+	#?noun conll:REDUCE ?verb; conll:EDGE ?case.
+	#?last conll:SHIFT ?verb.
+} WHERE {
+	?modif conll:FORM ?mform filter(). # TODO: filter giri|kicib in a SAFE way
+	?arg conll:POS ?pos filter(). #TODO: should be N|PN[GEN]
+	?arg conll:XPOSTAG ?case filter(). #TODO: GEN case here
+}

@@ -1,0 +1,29 @@
+# 
+
+prefix : <http://oracc.museum.upenn.edu/etcsri/>
+prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+DELETE {
+	?num1 conll:SHIFT ?math.
+	?math conll:SHIFT ?num2.
+	?num2 conll:SHIFT ?next.
+} INSERT {
+	?math conll:REDUCE ?num2; conll:EDGE ?case.
+	?num2 conll:REDUCE ?num1; conll:EDGE 'nummod'.
+	?num1 conll:SHIFT ?next.
+} WHERE {
+	?num1 conll:SHIFT ?math.
+	?math conll:SHIFT ?num2.
+	?math conll:FORM ?form.
+	?math conll:CASE ?case.
+	?num1 conll:POS ?num1_POS.
+	?num2 conll:POS ?num2_POS.
+	FILTER(
+		str(?num1_POS)='NU' && 
+		str(?num2_POS)='NU' && 
+		regex(?form, "la2")) #todo: add others, ignore brackets
+	OPTIONAL {?num2 conll:SHIFT ?next. }
+}

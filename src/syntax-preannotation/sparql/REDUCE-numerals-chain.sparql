@@ -1,0 +1,33 @@
+# NU NU => NU <-nummod- NU
+# NU1 NU2 => NU1 <-nummod- NU2
+
+prefix : <http://oracc.museum.upenn.edu/etcsri/>
+prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+DELETE {
+	?num1 conll:SHIFT ?num2.
+	?num2 conll:SHIFT ?next.
+} INSERT {
+	?num2 conll:REDUCE ?num1; conll:EDGE 'nummod'.
+	?num1 conll:SHIFT ?next.
+} WHERE {
+	?num1 conll:SHIFT ?num2.
+	?num1 conll:POS ?num1_pos.
+	?num2 conll:POS ?num2_pos.	
+	FILTER(
+		str(?num1_pos)='NU' && 
+		str(?num2_pos)='NU')
+	OPTIONAL {
+		?prev conll:SHIFT ?num1.
+		?prev conll:POS ?prev_pos.
+	}
+	FILTER(str(?prev_pos)!='NU'||!BOUND(?prev_pos))
+	OPTIONAL {
+		?num2 conll:SHIFT ?next.
+	}
+	#continue here: the non-NU filter does not work!!!!
+
+}

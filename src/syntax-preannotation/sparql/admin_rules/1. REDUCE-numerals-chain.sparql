@@ -1,0 +1,22 @@
+# NU NU => NU <-nummod- NU
+# NU1 NU2 => NU1 <-nummod- NU2
+
+prefix : <http://oracc.museum.upenn.edu/etcsri/>
+prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+DELETE {
+	#?last conll:SHIFT ?num1.
+	?num1 conll:SHIFT ?num2.
+} INSERT {
+	?num2 conll:REDUCE ?num1; conll:EDGE ?case.
+	#?last conll:SHIFT ?num2.
+} WHERE {
+	?num1 conll:POS ?pos FILTER(strends(str(?pos),'NU')).				# a noun
+	?num1 conll:CASE ?case FILTER(?case="ABS")				# in absolutive case
+	?num1 conll:SHIFT ?num2.				# that precedes
+	?num2 conll:POS ?vPos FILTER(strstarts(str(?vPos),'NU'))				# a verb
+	#OPTIONAL {?last conll:SHIFT ?num1. }
+}

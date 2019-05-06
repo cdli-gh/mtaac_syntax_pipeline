@@ -7,9 +7,12 @@ prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
 prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
 DELETE {
-	?a conll:SHIFT ?b
+	?a conll:SHIFT ?b.
+} INSERT {
+	?a conll:HEAD '0'.
+	?b conll:HEAD '0'.
 } WHERE {
-	?a conll:SHIFT ?b
+	?a conll:SHIFT ?b.
 };
 
 DELETE {

@@ -5,6 +5,10 @@ import re
 from ansi2html import Ansi2HTMLConverter
 from mtaac_package.CoNLL_file_parser import conll_file
 from mtaac_package.common_functions import *
+from cdliconll2conllu.converter import CdliCoNLLtoCoNLLUConverter
+##from conllu.convert import convert as conllu2brat
+from SPARQLTransformer import sparqlTransformer
+
 '''
 Not in use:
 
@@ -68,7 +72,7 @@ sp = subprocesses()
 #---/ CDLI-CoNLL > CONLL-U /---------------------------------------------------
 #
 
-class CC2CU(common_functions):
+class CC2CU(common_functions, CdliCoNLLtoCoNLLUConverter):
   '''
   Wrapper around CDLI-CoNLL-to-CoNLLU-Converter:
   https://github.com/cdli-gh/CDLI-CoNLL-to-CoNLLU-Converter
@@ -78,12 +82,17 @@ class CC2CU(common_functions):
               'Converter.git'
   
   def __init__(self):
-    self.install_or_upgrade_CC2CU()
-    from cdliconll2conllu.converter import CdliCoNLLtoCoNLLUConverter as conv
-    ## TESTING ONLY:
-    for f_name in ['P100149.conll', 'P100159.conll', 'P100188.conll']:
-      f_path = os.path.join(_path, 'data', 'cdli-conll', f_name)
-      self.convert_CC2CU(f_path)
+    self.cdliCoNLLInputFileName = 'CoNLL data'
+    ##    self.install_or_upgrade_CC2CU()
+    self.__reset__()
+    from cdliconll2conllu.mapping import Mapping
+    self.cl = Mapping()
+    self.header = '#%s' %'\t'.join(self.cl.conllUFields)
+##    print(self.cl.cdliConllFields, len(self.cl.cdliConllFields))
+##    ## TESTING ONLY:
+##    for f_name in ['P100149.conll', 'P100159.conll', 'P100188.conll']:
+##      f_path = os.path.join(_path, 'data', 'cdli-conll', f_name)
+##      self.convert_CC2CU(f_path)
 
   def install_or_upgrade_CC2CU(self):
     '''
@@ -91,11 +100,32 @@ class CC2CU(common_functions):
     '''
     sp.run(['pip', 'install', 'git+'+self.GIT_CC2CU, '--upgrade'])
 
-  def convert_CC2CU(self, filename):
+  def convert_from_str(self, conll_str):
     '''
-    Convert CDLI-CoNLL to CoNLL-U.
+    Convert CDLI-CoNLL to CoNLL-U from CoNLL string.
+    '''
+    #print(conll_str)
+    lines_all = [l.strip() for l in conll_str.splitlines()]
+    headerLines = [l for l in lines_all if l[0]=='#']
+    inputLines = [l.split('\t') for l in lines_all if l not in headerLines+['']]
+    if '\t' in headerLines[-1]:
+      headerLines = headerLines[:-1]
+    headerLines.append(self.header)
+    for l in inputLines:
+      print([l])
+    self.convertCDLICoNLLtoCoNLLU(inputLines)
+    #print(self.outputLines, ['\t'.join(l) for l in self.outputLines])
+    conll_str = '\n'.join(headerLines+['\t'.join(l) for l in self.outputLines])
+    self.__reset__()
+    return conll_str
+
+  def convert_from_file(self, filename):
+    '''
+    Convert CDLI-CoNLL to CoNLL-U from file.
     '''
     sp.run(['cdliconll2conllu', '-i', filename, '-v'], print_stdout=False)
+
+cdli_conll_u = CC2CU()
 
 #---/ CONLL-U <> CONLL-RDF /---------------------------------------------------
 #
@@ -108,57 +138,12 @@ class CoNLL2RDF(common_functions):
   GIT_CONLLRDF = 'https://github.com/acoli-repo/conll-rdf.git'
   CONLLRDF_PATH = os.path.join(_path, 'conll-rdf')
 
-  COLUMNS_CONLLU = [
-    'ID', 'FORM', 'LEMMA', 'UPOSTAG', 'XPOSTAG', 'FEATS', 'HEAD', 'DEPREL',
-    'DEPS', 'MISC']
-
-
-  #ORIGINAL CDLI: 'ID', 'FORM', 'SEGM', 'XPOSTAG', 'HEAD', 'DEPREL', 'MISC']
-  #CDLI AFTER PARSING: 'ID', 'WORD', 'BASE', 'SENSE', 'SEGM', 'POS'
-  
-  COLUMNS_CDLI_IN = ['OLD_ID', 'WORD', 'BASE', 'GW', 'MORPH2', 'POS']
-  COLUMNS_CDLI_CONVERT = [
-    'ID', 'OLD_ID', 'WORD', 'BASE', 'GW', 'MORPH2', 'POS', 'HEAD', 'EDGE']
-  COLUMNS_CDLI_DROP = [
-    'ID', 'IGNORE', 'WORD', 'BASE', 'GW', 'MORPH2', 'POS', 'HEAD', 'EDGE']
-  COLUMNS_CDLI_OUT = [
-    'ID', 'WORD', 'BASE', 'GW', 'MORPH2', 'HEAD', 'EDGE']
-
-##ETCSRI WORD = MTAAC FORM
-##
-##ETCSRI POS = MTAAC XPOSTAG (!)
-##ETCSRI MORPH2 = MTAAC XPOSTAG (!)
-##
-##ETCSRI STEM = MTAAC POS tags
-##ETCSRI NAME = (MTAAC Names entities tags)
-  
-  #OLD_ID WORD BASE CF EPOS FORM GW LANG MORPH MORPH2 NORM POS SENSE
-  COLUMNS_ETCSRI_IN = [
-    'OLD_ID', 'WORD', 'BASE', 'CF', 'EPOS', 'FORM', 'GW', 'LANG', 'MORPH',
-    'MORPH2', 'NORM', 'POS', 'SENSE']
-  COLUMNS_ETCSRI_CONVERT = [
-    'ID', 'OLD_ID', 'WORD', 'BASE', 'CF', 'EPOS', 'FORM', 'GW', 'LANG',
-    'MORPH','MORPH2', 'NORM', 'POS', 'SENSE', '_HEAD', 'HEAD', 'EDGE']
-  COLUMNS_ETCSRI_DROP = [
-    'ID', 'IGNORE', 'WORD', 'BASE', 'IGNORE', 'IGNORE', 'IGNORE', 'GW',
-    'IGNORE', 'IGNORE', 'MORPH2', 'IGNORE', 'POS', 'IGNORE', '_HEAD',
-    'HEAD', 'EDGE']
-  COLUMNS_ETCSRI_OUT = [
-    'ID', 'WORD', 'BASE', 'GW', 'MORPH2', 'POS', '_HEAD', 'HEAD', 'EDGE']
-##  COLUMNS_ETCSRI_DROP = [
-##    'ID', 'OLD_ID', 'WORD', 'BASE', 'CF', 'EPOS', 'FORM', 'GW', 'LANG',
-##    'MORPH','MORPH2', 'NORM', 'POS', 'SENSE', 'HEAD', 'EDGE']
-##  COLUMNS_ETCSRI_OUT = [
-##    'ID', 'OLD_ID', 'WORD', 'BASE', 'CF', 'EPOS', 'FORM', 'GW', 'LANG',
-##    'MORPH','MORPH2', 'NORM', 'POS', 'SENSE', 'HEAD', 'EDGE']
-
   def __init__(self):
+    '''
+    '''
     self.add_java_path()
     if not os.path.exists(self.CONLLRDF_PATH):
       self.install_CONLLRDF()
-    self.active_col_len = None
-      
-##    self.conll2rdf(f_path='data/cdli-conll/P100188.conll')
 
   def add_java_path(self):
     '''
@@ -242,23 +227,22 @@ class CoNLL2RDF(common_functions):
     '''
     Run Java CoNNL2RDF script to convert CoNLL file to RDF.
     '''
-    self.define_columns(columns_typ)
+    #self.define_columns(columns_typ)
     command = self.CoNLLStreamExtractor_command() + ['../data/'] \
               + self.columns
     self.dump_rdf(rdf_str, f_path)
 
-  def rdf2conll(self, columns_type, f_path=None, stdin_str=None,
+  def rdf2conll(self, columns, f_path=None, stdin_str=None,
                 decode_stdout=False, target_path=None):
     '''
     Run Java CoNNL2RDF script to convert CoNLL file to RDF.
     '''
-##    print('!!!!!!!!!!!!!!!!!!!!!!!!!!', stdin_str.decode('utf-8'))
-    self.define_columns(columns_type)
+    #self.define_columns(columns_type)
     if f_path==None and stdin_str==None:
       print('rdf2conll wrapper: specify path OR string.')
       return None
     command = self.CoNLLRDFFormatter_command() + ['-conll'] \
-              + self.columns
+              + columns
     (CONLLstr, errors) = self.run(
       command,
       cwd_path=f_path,
@@ -267,13 +251,14 @@ class CoNLL2RDF(common_functions):
     CONLLstr = CONLLstr.replace(' #', ' \n#') \
                .replace('\t#', '\n#').replace('\n\n', '\n')
     if target_path:
-      self.dump_conll(CONLLstr, target_path)
+      self.dump(CONLLstr, target_path)
     return CONLLstr
 
-  def get_stdin(self, stdin_path=None, stdin_str=None, escape_unicode=False):
+  def get_stdin(self, stdin_path=None, stdin_str=None): #escape_unicode=False
     '''
     Get stdin from path or string to use with run.
     '''
+    stdin = ''
     if stdin_path==None and stdin_str==None:
       return b''
     if stdin_path:
@@ -285,43 +270,25 @@ class CoNLL2RDF(common_functions):
       stdin = stdin_str
     if type(stdin)!=bytes:
       stdin = stdin.encode('utf-8')
-    if escape_unicode==True:
-      stdin = self.standardize_translit(stdin)
+##    if escape_unicode==True:
+##      stdin = self.standardize_translit(stdin)
+    print(stdin_str)
     return stdin
-
-  def convert_ETCSRI(self, f_str):
-    '''
-    Special function to properly format ETCSRI CoNLL files.
-    Extends the line ID with a text ID prefix.
-    '''
-    prefix = ''
-    lines_lst = []
-    for line in f_str.splitlines():
-      if line!='':
-        if '# Q' in line:
-          prefix = line.split(' ')[1].strip('\n')
-        elif is_int(line[0])==True and prefix!='':
-          t_lst = line.split('\t')
-          t_lst[0] = '%s.%s' %(prefix, t_lst[0])
-          line = '\t'.join(t_lst)
-        if '# Q' not in line:
-          lines_lst+=[line]
-    return '\n'.join(lines_lst)
     
   def run(self, command, cwd_path=None, stdin_path=None, stdin_str=None,
-          decode_stdout=True, escape_unicode=False):
+          decode_stdout=True):#, escape_unicode=False
     '''
     Open file, load it to stdin, run command, return stdout.
     '''
     stdin = self.get_stdin(
-      stdin_path, stdin_str, escape_unicode=escape_unicode)
+      stdin_path, stdin_str)#, escape_unicode=escape_unicode)
     if not cwd_path:
       cwd_path=self.CONLLRDF_PATH
     stdout = sp.run(
       command,
       cwd=cwd_path,
       stdin=stdin,
-      print_stdout=True,
+      print_stdout=False,
       decode_stdout=decode_stdout
       )
     return self.filter_errors(stdout)
@@ -344,14 +311,13 @@ class CoNLL2RDF(common_functions):
     if typ==bytes:
       errors = b'\n'.join(shell_lst)
       stdout = b'\n'.join(stdout_lst)
-      print(stdout.decode('utf-8'))
-      print(errors.decode('utf-8'))
+##      print(stdout.decode('utf-8'))
+##      print(errors.decode('utf-8'))
     elif typ==str:
       errors = b'\n'.join(shell_lst).decode('utf-8')
       stdout = b'\n'.join(stdout_lst).decode('utf-8')
-      print(stdout)
-      print(errors)
-    #input()
+##      print(stdout)
+##      print(errors)
     return (stdout, errors)
 
   def CoNLLStreamExtractor_command(self):
@@ -391,43 +357,7 @@ class CoNLL2RDF(common_functions):
     cp = libs
     if include_bin==True: 
       cp = ';'.join([dest, libs])
-    return ['java',
-            '-cp', cp]
-
-  def define_columns(self, typ):
-    '''
-    Define ´self.columns´ to match CoNLL format. 
-    '''
-    self.columns = getattr(self, 'COLUMNS_%s' %typ.upper())
-##    columns_dict = {
-##      'cdli_in': self.COLUMNS_CDLI,
-##      'etcsri_in': self.COLUMNS_ETCSRI_IN,
-##      'etcsri_convert': self.COLUMNS_ETCSRI_CONVERT,
-##      'etcsri_drop': self.COLUMNS_ETCSRI_DROP,
-##      'etcsri_out': self.COLUMNS_ETCSRI_OUT}
-##    self.columns = columns_dict[typ]
-##    if self.active_col_len:
-##      self.columns = self.columns[:self.active_col_len]
-
-  def standardize_translit(self, translit):
-    '''
-    Standardize transliteration and escape unicode chars.
-    Necessery due to conll-rdf unicode issues.
-    Accepts both utf-8 and bytes str.
-    '''
-    std_dict = {'š':'c', 'ŋ':'j', '₀':'0', '₁':'1', '₂':'2',
-                '₃':'3', '₄':'4', '₅':'5', '₆':'6', '₇':'7',
-                '₈':'8', '₉':'9', '+':'-', 'Š':'C', 'Ŋ':'J',
-                '·':'', '°':'', 'sz': 'c', 'SZ': 'C',
-                'ʾ': "'"}
-    typ = type(translit)
-    if typ==bytes:
-      translit = translit.decode('utf-8')
-    for key in std_dict.keys():
-      translit = translit.replace(key, std_dict[key])
-    if typ==bytes:
-      return translit.encode('utf-8')
-    return translit
+    return ['java', '-cp', cp]
       
   def dump_rdf(self, rdf_str, f_path):
     '''
@@ -437,14 +367,6 @@ class CoNLL2RDF(common_functions):
     filename = f_path.split('/')[-1].split('.')[0]+'.ttl'
     dump_path = os.path.join(_path, 'data', 'conll-rdf', filename)
     self.dump(rdf_str, dump_path)
-
-  def dump_conll(self, conll_str, target_path):
-    '''
-    Recieve original path and rdf string, dump to file.
-    '''
-    if type(conll_str)==bytes:
-      conll_str = conll_str.decode('utf-8')
-    self.dump(conll_str, target_path)
 
 #---/ SYNTAX PREANNOTATION /---------------------------------------------------
 #
@@ -458,23 +380,48 @@ class syntax_preannotation(CoNLL2RDF):
     ('extract-feats', 1),
     ('remove-MORPH2', 0),
     ('init-SHIFT',  1),
-    ('REDUCE-compound-verbs', 1),
     ('REDUCE-adjective', 3),
+    ('REDUCE-math-operators', 1), # <- additional rules for admin - 
+    ('REDUCE-numerals-chain', 6),
+    ('REDUCE-time-num', 1),
+    ('REDUCE-measurements', 1), # -->
+    ('REDUCE-compound-verbs', 1),
     ('REDUCE-adnominal', 3),
     ('REDUCE-appos', 1),
     ('REDUCE-absolutive', 1),
-    ('REDUCE-appos', 1),
-    ('REDUCE-adjective', 1),
-    ('REDUCE-appos', 4),
+    ('REDUCE-appos', 1), # again?
+    ('REDUCE-adjective', 1), # again?
+    ('REDUCE-appos', 4), # again?
     ('REDUCE-preposed-genitive', 1),
-    ('REDUCE-arguments', 5),
-    ('REDUCE-adjective', 1),
-    ('REDUCE-arguments', 5),
+    ('REDUCE-arguments', 5), # again?
+    ('REDUCE-adjective', 1), # again?
     ('REDUCE-to-HEAD', 1),
     ('remove-feats', 1),
     ('create-ID-and-DEP', 1),
     ('create-_HEAD', 1)
     ]
+
+  #other possible rules:
+  # PN <-- N (as in & instead of PN lugal)
+  # reduce remaining nouns to first verb as nmod (?)
+  # mu <-- V.MID
+
+  #           (NU) 
+  #            | 
+  #     (ADJ)  NU
+  #        \   /
+  #         UNIT\      
+  #   (...)/     \     (NU) 
+  #   ____________BASE__/
+  #  /  |     |    |    \
+  # u4  ki   giri  iti  (us)
+  # |   |     |    |     |
+  # NU  PN   PN  (diri)  mu
+  #     |     |    |     \
+  #   (...) (...)  MN     V.MID--...
+  #                   
+  #                  
+  
   REQUEST_REMOVE_IGNORE = [
     ('remove-IGNORE', 1)
     ]
@@ -482,6 +429,8 @@ class syntax_preannotation(CoNLL2RDF):
   OUTPUT_PATH = os.path.join(_path, 'data', 'conll-preannotated')
   
   def __init__(self):
+    '''
+    '''
     CoNLL2RDF.__init__(self)
 
   def load_requests(self, requests=[]):
@@ -506,80 +455,59 @@ class syntax_preannotation(CoNLL2RDF):
     First command converts CoNLL to RDF and applies preannotation
     rules to it. The second converts the file back to CoNLL.
     '''
+    columns = [
+      'ID_NUM', 'FORM', 'BASE', 'MORPH2',
+      'POS', 'EPOS', 'HEAD', 'DEP', 'EDGE']
     corpus = 'cdli'
-    self.active_col_len = None
+    override = {}
     if 'etcsri' in f_path:
       corpus = 'etcsri'
-      with codecs.open(f_path, 'r', 'utf-8') as f:
-        t = f.read()
-      columns = [s for s in t.split('\n') if '# ID\t' in s][0]\
-                .strip('# ').split('\t')
-      self.active_col_len = len(columns)
-##      print(columns)
-##      input(self.active_col_len)
-    rdf_str = self.convert_to_conll_and_preannotate(
-      f_path, columns_type='%s_in' %corpus)
-    rdf_str = self.change_formatting(rdf_str, columns_type='%s_convert' %corpus)
-    rdf_str = self.drop_columns(rdf_str, columns_type='%s_drop' %corpus)
+      columns = [
+        'ID_NUM', 'FORM_ATF', 'BASE', 'MORPH2',
+        'POS', 'EPOS', 'HEAD', 'DEP', 'EDGE']
+      override = {
+        'FORM_ATF': 'FORM'}
+    c = conll_file(path=f_path, corpus=corpus)
+    c.configure_str_output(columns, override=override)
+    rdf_str = self.convert_to_conll_and_preannotate(c)
+    print('zzzzzzzzzzzzzzzzz', rdf_str) #<-- PROBLEM HERE !!!! returns b''
+    filename, target_path, target_path_tree = self.get_path_data(f_path)
+    self.tree_output(rdf_str, target_path_tree)
+    conll_str = self.rdf2conll(columns=c.override_columns,
+                               stdin_str=rdf_str, decode_stdout=False)
+    c.merge_columns_from_conll_str(conll_str, ['HEAD', ('EDGE', 'DEPREL')])
+    c.configure_str_output(['ID_NUM']+c.COLUMNS_CDLI[1:], override=override)
+    conll_u = cdli_conll_u.convert_from_str(str(c))+'\n' #<--convert to CoNLL-U
+    self.dump(conll_u, target_path)
+
+  def get_path_data(self, f_path):
+    '''
+    '''
     filename = os.path.basename(f_path)
-    target_path = os.path.join(self.OUTPUT_PATH, filename)
+    target_path = os.path.join(self.OUTPUT_PATH, filename) 
     target_path_tree = os.path.join(
       self.OUTPUT_PATH, '%s_tree.html' %filename.split('.')[0])
-    self.tree_output(rdf_str, target_path_tree)
+    return filename, target_path, target_path_tree
     
-    self.rdf2conll(stdin_str=rdf_str, columns_type='%s_out' %corpus,
-                   decode_stdout=False,
-                   target_path=target_path)
-
-  def convert_to_conll_and_preannotate(self, f_path, columns_type):
+  def convert_to_conll_and_preannotate(self, conll_obj):
     '''
     Convert CoNLL to RDF and preannotate with SPARQL.
     '''
-    self.define_columns(columns_type)
     # !TODO!
     # REPLACE ['http://oracc.museum.upenn.edu/etcsri/'] by context!
     command = self.CoNLLStreamExtractor_command() \
               + ['http://oracc.museum.upenn.edu/etcsri/'] \
-              + self.columns + ['-u'] \
+              + conll_obj.override_columns + ['-u'] \
               + self.load_requests()
     run_dict={
-      'command': command, 'stdin_path': f_path,
-      'decode_stdout': False, 'escape_unicode': True}
-    if 'cdli' in f_path:
-      run_dict['stdin_str'] = str(conll_file(f_path))
-      del run_dict['stdin_path']
-    (rdf_str, errors) = self.run(**run_dict)
-    return rdf_str
-    
-  def change_formatting(self, rdf_str, columns_type):
-    '''
-    RDF2CoNLL function.
-    Replace Old_ID with ID (plain numeration), add DEP and EDGE.
-    '''
-    self.define_columns(columns_type)
-    command = self.CoNLLRDFFormatter_command() \
-          + ['-conll'] \
-          + self.columns
-    (rdf_str, errors) = \
-              self.run(command, stdin_str=rdf_str,
-                       decode_stdout=False)
-    return rdf_str
-
-  def drop_columns(self, rdf_str, columns_type):
-    '''
-    CoNLL2RDF function plus drop extra columns.
-    '''
-    #print(rdf_str.decode('utf-8'))
-    self.define_columns(columns_type)
-    # !TODO!
-    # REPLACE ['http://oracc.museum.upenn.edu/etcsri/'] by context!
-    command = self.CoNLLStreamExtractor_command() \
-              + ['http://oracc.museum.upenn.edu/etcsri/'] \
-              + self.columns + ['-u'] \
-              + self.load_requests(self.REQUEST_REMOVE_IGNORE)
-    (rdf_str, errors) = \
-              self.run(command, stdin_str=rdf_str, 
-                       decode_stdout=False)
+      'command': command, 'stdin_str': str(conll_obj),
+      'decode_stdout': False}
+      #, 'escape_unicode': True}
+    #print(run_dict) #<-- ALL GOOD
+    (rdf_str, errors) = self.run(**run_dict) #<-- PROBLEM SOMEWHERE HERE !!!! returns b''
+    print(errors) #Error in Parsing Data: Incorrect XPOSTAG at line:
+    #'1	{d}en-lil₂	_	NAME	_	_	_' in file CoNLL data.
+    print('!!!!!!!!!!!!!!!!!!!!', str(conll_obj))
     return rdf_str
 
   def tree_output(self, rdf_str, target_path=''):
@@ -601,7 +529,7 @@ class syntax_preannotation(CoNLL2RDF):
 '''
 Preannotate all files in data/etsri-conll-all, except all errors:
 '''
-##f_path = os.path.join(_path, 'data', 'etcsri-conll-all') #'cdli-conll'
+##f_path = os.path.join(_path, 'data', 'etcsri-conll-all')
 ##sx = syntax_preannotation()
 ##for f in os.listdir(f_path):
 ##  try: 
@@ -610,76 +538,23 @@ Preannotate all files in data/etsri-conll-all, except all errors:
 ##    raise e
 ##    pass
 
+'''
+Preannotate all files in data/cdli-conll-all, except all errors:
+'''
+f_path = os.path.join(_path, 'data', 'cdli-jinyan-non-admin') #'etcsri-conll-all')
+##f_path = os.path.join(_path, 'data', 'cdli-conll-all')
+sx = syntax_preannotation()
+for f in os.listdir(f_path):
+  try:
+    sx.preannotate(os.path.join(f_path, f))
+  except Exception as e:
+    raise e
+    pass
+
 #CC2CU()
 #CoNLL2RDF()
 #syntax_preannotation()
 
 ##c = CoNLL2RDF()
 ##c.rdf2conll("data\conll-rdf\P100188.ttl")
-
-'''
-Garbage (?) code:
-## FROM SYNTAX PREANNOTATION __INIT__
-'''
-##    ### THE FOLLOWING LINES IN FUNCTION ARE TESTING ONLY:
-##    #f_path = os.path.join(_path, 'data', 'cdli-conll', 'P100188.conll')
-##    f_path = os.path.join(_path, 'data', 'cdli-conll', 'P100149.conll')
-##    #f_path = os.path.join(_path, 'data', 'etcsri-conll', 'Q000937.conll')
-##
-##    etcsri = 'etcsri' in f_path
-##    self.preannotate(f_path, ETCSRI=etcsri)
-
-    #f_path = 'data/cdli-conll/P100188.conll' #os.path.join(_path, 'data', 'conll-rdf', 'P100188.ttl')
-    #self.preannotate(f_path, ETCSRI=True)
-    
-##    self.graph = rdflib.Graph()
-##
-##  def preannotate(self, path):
-##    self.graph.parse(path, format='n3')
-'''
-## FROM SYNTAX PREANNOTATION preannotate()
-'''
-    #self.dump(rdf_str, dump_path)
-    #print(rdf_str)
-
-##    command = self.CoNLLRDFFormatter_command() + ['-conll', 'ID'] \
-##              + ['../data/'] + columns + ['DEP', 'EDGE']
-##    conll_str = self.run(command, stdin_str=rdf_str, ETCSRI=ETCSRI)
-##    print(conll_str)
-##    self.dump_rdf(conll_str, f_path)
-
-##  def conll2rdf(self, f_path):
-##    '''
-##    Run Java CoNNL2RDF script to convert CoNLL file to RDF.
-##    '''
-##    command = self.CoNLLStreamExtractor_command() + ['../data/'] \
-##              + self.COLUMNS_CDLI_CONLL
-##    rdf_str = "#new_text" + self.run(command, f_path).split("#new_text")[1]
-##    self.dump_rdf(rdf_str, f_path)
-'''
-## FROM ROOT
-'''
-### THE FOLLOWING LINES IN FUNCTION ARE TESTING ONLY:
-#CoNLL2RDF()
-
-#f_path = os.path.join(_path, 'data', 'cdli-conll', 'P100188.conll')
-#f_path = os.path.join(_path, 'data', 'cdli-conll', 'P100149.conll')
-#f_path = os.path.join(_path, 'data', 'etcsri-conll', 'Q000937.conll')
-#f_path = os.path.join(_path, 'data', 'cdli-conll', 'test.conll')
-
-##    # test for unicode errors
-##    for b in rdf_str.split(b'\n'):
-##      try:
-##        b.decode('utf-8')
-##      except UnicodeDecodeError as e:
-##        print('!!!!!!!', e, b)
-
-
-
-
-
-
-
-
-
 

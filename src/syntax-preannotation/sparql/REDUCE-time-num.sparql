@@ -1,0 +1,52 @@
+#  (N) TIME NU => (N <-appos-)[TIME <-nummod- NU]
+
+prefix : <http://oracc.museum.upenn.edu/etcsri/>
+prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+DELETE {
+	?time conll:SHIFT ?num.
+	?num conll:SHIFT ?next.
+} INSERT {
+	?num conll:REDUCE ?time; conll:EDGE 'nummod'.
+	?time conll:SHIFT ?next.
+} WHERE {
+	?num conll:POS ?num_pos.
+	?time conll:SHIFT ?num.
+	?time conll:POS ?time_pos.
+	?time conll:FORM ?form.
+	FILTER(
+		strends(str(?num_pos),'NU') && 
+		strends(str(?time_pos),'N') && 
+		regex(?form, "u4|iti|mu")) #todo: ignore brackets
+	OPTIONAL {
+		?num conll:SHIFT ?next.
+	} OPTIONAL {
+		?prev conll:SHIFT ?time.
+		?prev conll:POS ?prev_pos.
+		FILTER(?prev_pos='N')
+	}
+};
+DELETE {
+	?prev conll:SHIFT ?time.
+	?time conll:SHIFT ?next.
+} INSERT {
+	?time conll:REDUCE ?prev; conll:EDGE 'appos'.
+	?prev conll:SHIFT ?next.
+} WHERE {
+	?time conll:SHIFT ?next.
+	?prev conll:SHIFT ?time.
+	?time conll:POS ?time_pos.
+	?prev conll:POS ?prev_pos.
+	?time conll:FORM ?form.
+	?num conll:REDUCE ?time.
+	FILTER(
+		strends(str(?prev_pos),'N') && 
+		strends(str(?time_pos),'N') && 
+		regex(?form, "u4|iti|mu")) #todo: ignore brackets
+	OPTIONAL {
+		?time conll:SHIFT ?next.
+	}
+}

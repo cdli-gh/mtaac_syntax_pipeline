@@ -1,0 +1,16 @@
+# u3-N : u3 -cc-> N
+# N-N (<-cc- u3) : N <-conj- N (<-cc- u3)
+
+DELETE {
+	?noun1 conll:SHIFT ?conj.
+	?conj conll:SHIFT ?noun2.
+} INSERT {
+	?conj conll:REDUCE ?noun2; conll:EDGE 'cc'.
+	?noun2 conll:REDUCE ?noun1; conll:EDGE 'conj'.
+} WHERE {
+	?noun1 conll:POS ?pos FILTER(strends(str(?pos),'N')).
+	?noun2 conll:POS ?pos FILTER(strends(str(?pos),'N')).
+	?conj conll:POS ?pos FILTER(strends(str(?pos),'CNJ')).
+	?noun1 conll:SHIFT ?conj.
+	?conj conll:SHIFT ?noun2.
+}

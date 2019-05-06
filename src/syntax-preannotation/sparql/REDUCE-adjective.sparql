@@ -18,18 +18,18 @@ DELETE {
 	?noun conll:CASE ?case.
 } WHERE {
 	?noun conll:POS ?pos FILTER(strends(?pos,"N")).	# a noun or proper noun
-	MINUS { ?noun conll:CASE [] }					# that is uninflected for case (! -- otherwise, it is an independent argument)
-	?noun conll:SHIFT ?adj.							# and precedes
-	?adj conll:NOM [] .								# a nominalized verb
+	MINUS { ?noun conll:CASE [] }	# that is uninflected for case (! -- otherwise, it is an independent argument)
+	?noun conll:SHIFT ?adj.	# and precedes
+	?adj conll:NOM [] .	# a nominalized verb
 	OPTIONAL { ?adj conll:SHIFT ?next }
 	OPTIONAL { ?adj conll:CASE ?case. }
 };
 
-# (2) label adjustment for lu₂: relcl
+# (2) label adjustment for lu2: relcl
 DELETE {
 	?adj conll:EDGE "amod".
 } INSERT {
 	?adj conll:EDGE "relcl".
 } WHERE {
-	?adj conll:REDUCE/conll:WORD "lu2"; conll:EDGE "amod".
+	?adj conll:REDUCE/conll:FORM "lu2"; conll:EDGE "amod".
 };
