@@ -1,0 +1,39 @@
+# project: etcsri 
+# textid: Q001076 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001076.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001076.1
+1	{d}inana	{d}inana	Inanak	DN	{d}inana	1	sux	N1=Inanak	N1=NAME	Inanak	DN	1
+
+# Q001076.2
+1	eb-gal-ra	eb-gal	Ebgal	TN	eb-gal-ra	1	sux	N1=Ebgal.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Ebgal.ak.ra	TN	1
+
+# Q001076.3
+1	en-an-na-tum₂	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂	1	sux	N1=Enanatum	N1=NAME	Enanatum	RN	En-ana-tum I, ruler of Lagaš
+
+# Q001076.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001076.5
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1
+
+# Q001076.6
+1	eb-gal	eb-gal	Ebgal	TN	eb-gal\abs	1	sux	N1=Ebgal.N5=ø	N1=NAME.N5=ABS	Ebgal.ø	TN	1
+
+# Q001076.7
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+
+# Q001076.8
+1	kur-kur-ra	kur-kur	kur	N	kur-kur-ra\n5al2	mountain	sux	N1=kurkur.N5='a	N1=STEM-RDP.N5=L2-NH	kurkur.'a	N	mountain
+
+# Q001076.9
+1	mu-na-dirig	dirig	dirig	V/t	mu-na-dirig	exceed	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dirig.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dirig.ø	V/t	create
+

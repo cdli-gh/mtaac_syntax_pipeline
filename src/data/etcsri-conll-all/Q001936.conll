@@ -1,0 +1,69 @@
+# project: etcsri 
+# textid: Q001936 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001936.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001936.1
+1	{d}šu-i₃-li₂-šu	{d}šu-i₃-li₂-šu	Šuilišu	RN	{d}šu-i₃-li₂-šu	1	sux	N1=Šuilišu	N1=NAME	Šuilišu	RN	2nd king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q001936.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001936.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri-ke₄	ki-uri	Akkad	GN	ki-uri-ke₄	1	sux	N1=Akkad.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Akkad.ak.e	GN	1	_	_	_	_	_	_	_
+
+# Q001936.4
+1	nam	nam	nam	N	nam	fate	sux	N1=nam	N1=STEM	nam	N	fate	_	_	_	_	_	_	_
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great	_	_	_	_	_	_	_
+3	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+4	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	3	mwe	_	_	_	_	_
+
+# Q001936.5
+1	{d}nin-isin₂{si}-na-ta	{d}nin-isin₂{si}-na	Ninisinak	DN	{d}nin-isin₂{si}-na-ta\gen\abl	1	sux	N1=Ninisinak.N5=ak.N5=ta	N1=NAME.N5=GEN.N5=ABL	Ninisinak.ak.ta	DN	1	_	_	_	_	_	_	_
+
+# Q001936.6
+1	i₃-si-in{ki}-da	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-da	1	sux	N1=Isin.N5=da	N1=NAME.N5=COM	Isin.da	SN	1	_	_	_	_	_	_	_
+
+# Q001936.7
+1	ma-da	ma-da	mada	N	ma-da	land	sux	N1=mada	N1=STEM	mada	N	land, country	_	_	_	_	_	_	_
+2	sig	sig	sig	N	sig	weak	sux	NV2=sig	NV2=STEM	sig	V/i	lower lands	_	_	_	_	_	_	_
+3	nim	nim	nim	N	nim	high	sux	NV2=nim	NV2=STEM	nim	V/i	upper lands	_	_	_	_	_	_	_
+4	sag₂	sag₂	sag	V/t	sag₂\abs	scatter	sux	NV2=sag	NV2=STEM	sag	V/t	scatter, disperse	_	_	_	_	_	_	_
+5	dug₄-ga	dug₄	dug	V/t	dug₄-ga\abs	speak	sux	NV2=dug.NV4='a.N5=ø	NV2=STEM.NV4=SUB.N5=ABS	dug.'a.ø	V/t	speak	_	_	_	_	_	_	_
+
+# Q001936.8
+1	ki-tuš-ba	ki-tuš	kituš	N	ki-tuš-ba	dwelling	sux	N1=kituš.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L1	kituš.bi.'a	N	dwelling place	_	_	_	_	_	_	_
+2	gen₆-ne₂-de₃	gen₆	gin	V/t	gen₆-ne₂-de₃	establish	sux	NV2=gin.NV3=ed.N5=e	NV2=STEM.NV3=PF.N5=DAT-NH	gin.ed.e	V/i	establish, confirm, make firm	_	_	_	_	_	_	_
+
+# Q001936.9
+1	bad₃	bad₃	bad	N	bad₃	wall	sux	N1=bad	N1=STEM	bad	N	wall, fortification	_	_	_	_	_	_	_
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great	_	_	_	_	_	_	_
+3	me-lem₄-ba	me-lem₄	melim	N	me-lem₄-ba	splendor	sux	N1=melim.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L1	melim.bi.'a	N	frightening splendor, fearsome radiance	_	_	_	_	_	_	_
+4	gu₃	gu₃	gu	N	gu₃\abs	voice	sux	N1=gu.N5=ø	N1=STEM.N5=ABS	gu.ø	N	voice	_	_	_	_	_	_	_
+5	lu₂	lu₂	lu	N	lu₂\erg	person	sux	N1=lu.N5=e	N1=STEM.N5=ERG	lu.e	N	person	_	_	_	_	_	_	_
+6	nu-ŋa₂-ŋa₂	ŋa₂-ŋa₂	ŋar	V/t	nu-ŋa₂-ŋa₂\abs	place	sux	NV1=nu.NV2=ŋaŋa.NV4=ed.N5=ø	NV1=NEG.NV2=STEM-PF.NV4=PF.N5=ABS	nu.ŋaŋa.ed.ø	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q001936.10
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001936.11
+1	bad₃-ba	bad₃	bad	N	bad₃-ba\dem2\gen	wall	sux	N1=bad.N3=bi.N5=ak	N1=STEM.N3=DEM2.N5=GEN	bad.bi.ak	N	wall, fortification	_	_	_	_	_	_	_
+
+# Q001936.12
+1	{d}šu-i₃-li₂-šu	{d}šu-i₃-li₂-šu	Šuilišu	RN	{d}šu-i₃-li₂-šu	1	sux	N1=Šuilišu	N1=NAME	Šuilišu	RN	2nd king of the dynasty of Isin	_	_	_	_	_	_	_
+2	ri-im	_	_	_	ri-im	_	sux	_	_	_	L	_	_	_	_	_	_	_	_
+3	eš₄-tar₂	_	Eštar	_	eš₄-tar₂	1	sux	_	_	_	DN	_	_	_	_	_	_	_	_
+
+# Q001936.13
+1	mu-bi-im	mu	mu	N	mu-bi-im	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name	_	_	_	_	_	_	_
+

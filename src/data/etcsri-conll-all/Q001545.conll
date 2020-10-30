@@ -1,0 +1,274 @@
+# project: etcsri 
+# textid: Q001545 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001545.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001545.1
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1	_	_	_	_	_	_	_
+
+# Q001545.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001545.3
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001545.4
+1	ur	ur	ur	N	ur	servant	sux	N1=ur	N1=STEM	ur	N	servant, devotee	_	_	_	_	_	_	_
+2	{d}ŋa₂-tum₃-dug₃	{d}ŋa₂-tum₃-dug₃	Ŋatumdug	DN	{d}ŋa₂-tum₃-dug₃	1	sux	N1=Ŋatumdug	N1=NAME	Ŋatumdug	DN	1	_	_	_	_	_	_	_
+
+# Q001545.5
+1	{d}ŋa₂-tum₃-dug₃	{d}ŋa₂-tum₃-dug₃	Ŋatumdug	DN	{d}ŋa₂-tum₃-dug₃	1	sux	N1=Ŋatumdug	N1=NAME	Ŋatumdug	DN	1	_	_	_	_	_	_	_
+
+# Q001545.6
+1	ama	ama	ama	N	ama	mother	sux	N1=ama	N1=STEM	ama	N	mother	_	_	_	_	_	_	_
+2	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001545.7
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1	_	_	_	_	_	_	_
+
+# Q001545.8
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001545.9
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001545.10
+1	ur	ur	ur	N	ur	servant	sux	N1=ur	N1=STEM	ur	N	servant, devotee	_	_	_	_	_	_	_
+2	{d}ŋa₂-tum₃-dug₃	{d}ŋa₂-tum₃-dug₃	Ŋatumdug	DN	{d}ŋa₂-tum₃-dug₃\gen	1	sux	N1=Ŋatumdug.N5=ak	N1=NAME.N5=GEN	Ŋatumdug.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001545.11
+1	arad₂	arad₂	arad	N	arad₂	slave	sux	N1=arad	N1=STEM	arad	N	slave, servant	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-zu	aŋ₂	aŋ	V/t	aŋ₂-zu	measure	sux	NV2=aŋ.N3=zu	NV2=STEM.N3=2-SG-POSS	aŋ.zu	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001545.12
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	niŋ₂-du₇-e	niŋ₂-du₇	niŋdu	N	niŋ₂-du₇-e\n5el3	appropriate thing	sux	N1=niŋdu.N5=e	N1=STEM.N5=L3-NH	niŋdu.e	N	appropriate thing	_	_	_	_	_	_	_
+3	pa	pa	pa	N	pa\abs	branch	sux	N1=pa.N5=ø	N1=STEM.N5=ABS	pa.ø	N	branch	_	_	pa e	appear	appear	V/t	V/t
+4	bi₂-e₃-a	e₃	e	V/i	bi₂-e₃-a\v10l3\erg	leave	sux	V5=b.V10=i.V11=n.V12=e.V14=ø.V15='a.N5=e	V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ERG	b.i.n.e.ø.'a.e	V/i	to leave, go out	3	mwe	_	_	_	_	_
+
+# Q001545.13
+1	e₂-ninnu-anzud₂{mušen}-babbar₂	e₂-ninnu-anzud₂{mušen}-babbar₂	Eninnu-anzubabbar	TN	e₂-ninnu-anzud₂{mušen}-babbar₂	1	sux	N1=Eninnu-anzubabbar	N1=NAME	Eninnu-anzubabbar	TN	1	_	_	_	_	_	_	_
+
+# Q001545.14
+1	{d}nin-ŋir₂-su-ka	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka\abs	1	sux	N1=Ninŋirsuk.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninŋirsuk.ak.ø	DN	1	_	_	_	_	_	_	_
+
+# Q001545.15
+1	mu-du₃-a	du₃	du	V/t	mu-du₃-a	build	sux	V4=mu.V11=n.V12=du.V14=ø.V15='a	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB	mu.n.du.ø.'a	V/t	to build	_	_	_	_	_	_	_
+
+# Q001545.16
+1	{d}ŋa₂-tum₃-dug₃	{d}ŋa₂-tum₃-dug₃	Ŋatumdug	DN	{d}ŋa₂-tum₃-dug₃	1	sux	N1=Ŋatumdug	N1=NAME	Ŋatumdug	DN	1	_	_	_	_	_	_	_
+
+# Q001545.17
+1	nin-a-ne₂	nin	nin	N	nin-a-ne₂	lady	sux	N1=nin.N3=ani.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=ERG	nin.ani.e	N	lady	_	_	_	_	_	_	_
+
+# Q001545.18
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}	1	sux	N1=Lagaš	N1=NAME	Lagaš	SN	1	_	_	_	_	_	_	_
+
+# Q001545.19
+1	iri	iri	iri	N	iri	city	sux	N1=iri	N1=STEM	iri	N	city	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ŋa₂-ni-ta	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni-ta	measure	sux	NV2=aŋ.N3=ani.N5=ta	NV2=STEM.N3=3-SG-H-POSS.N5=ABL	aŋ.ani.ta	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001545.20
+1	unu₆	unu₆	unu	N	unu₆	dwelling	sux	N1=unu	N1=STEM	unu	N	dwelling	_	_	_	_	_	_	_
+2	šuba₃-a	šuba₃	šuba	V/i	šuba₃-a\l1	multicoloured	sux	N1=šuba.N5='a	N1=STEM.N5=L1	šuba.'a	V/i	multicoloured	_	_	_	_	_	_	_
+
+# Q001545.21
+1	mu-ni-tud-da-a	tud	utud	V/t	mu-ni-tud-da-a	bear	sux	V4=mu.V10=ni.V11=n.V12=utud.V14=ø.V15='a.N5='a	V4=VEN.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.ni.n.utud.ø.'a.'a	V/t	bear	_	_	_	_	_	_	_
+
+# Q001545.22
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	{d}ŋa₂-tum₃-dug₃	{d}ŋa₂-tum₃-dug₃	Ŋatumdug	DN	{d}ŋa₂-tum₃-dug₃	1	sux	N1=Ŋatumdug	N1=NAME	Ŋatumdug	DN	1	_	_	_	_	_	_	_
+
+# Q001545.23
+1	nin-a-na	nin	nin	N	nin-a-na\abs	lady	sux	N1=nin.N3=ani.N5=ak.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=ABS	nin.ani.ak.ø	N	lady	_	_	_	_	_	_	_
+
+# Q001545.24
+1	du₃-de₃	du₃	du	V/t	du₃-de₃\n5edat	build	sux	NV2=du.NV3=ed.N5=e	NV2=STEM.NV3=PF.N5=DAT-NH	du.ed.e	V/t	to build	_	_	_	_	_	_	_
+
+# Q001545.25
+1	u₃	u₃	u	N	u₃\abs	sleep	sux	N1=u.N5=ø	N1=STEM.N5=ABS	u.ø	N	sleep	_	_	_	_	_	_	_
+2	nu-ma-ši-kur₉(REC145)	kur₉(REC145)	kur	V/i	nu-ma-ši-kur₉(REC145)\v5nh3	enter	sux	V1=nu.V4=m.V5=ba.V9=ši.V11=n.V12=kur.V14=ø	V1=NEG.V4=VEN.V5=MID.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	nu.m.ba.ši.n.kur.ø	V/i	enter	_	_	_	_	_	_	_
+
+# Q001545.26
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1	_	_	_	_	_	_	_
+
+# Q001545.27
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001545.28
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001545.29
+1	ŋeštug₂	ŋeštug₂	ŋeštug	N	ŋeštug₂	ear	sux	N1=ŋeštug	N1=STEM	ŋeštug	N	ear	_	_	_	_	_	_	_
+2	daŋal-kam	daŋal	daŋal	V/i	daŋal-kam	wide	sux	NV2=daŋal.N5=ak.N5=ø.N6=am	NV2=STEM.N5=GEN.N5=ABS.N6=COP-3-SG	daŋal.ak.ø.am	V/i	(to be) wide	_	_	_	_	_	_	_
+
+# Q001545.30
+1	arad₂	arad₂	arad	N	arad₂	slave	sux	N1=arad	N1=STEM	arad	N	slave, servant	_	_	_	_	_	_	_
+2	ni₂-tuku	ni₂-tuku	nituku	AJ	ni₂-tuku	pious	sux	N1=nituku	N1=STEM	nituku	AJ	pious	_	_	_	_	_	_	_
+
+# Q001545.31
+1	nin-a-na-kam	nin	nin	N	nin-a-na-kam	lady	sux	N1=nin.N3=ani.N5=ak.N5=ø.N6=am	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=ABS.N6=COP-3-SG	nin.ani.ak.ø.am	N	lady	_	_	_	_	_	_	_
+
+# Q001545.32
+1	bisaŋ	bisaŋ	bisaŋ	N	bisaŋ	basket	sux	N1=bisaŋ	N1=STEM	bisaŋ	N	frame	_	_	_	_	_	_	_
+2	{ŋeš}u₃-šub-ba-ka	{ŋeš}u₃-šub	ušub	N	{ŋeš}u₃-šub-ba-ka\n5al2	brick-mold	sux	N1=ušub.N5=ak.N5='a	N1=STEM.N5=GEN.N5=L2-NH	ušub.ak.'a	N	brick-mold	_	_	_	_	_	_	_
+
+# Q001545.33
+1	ŋeš	ŋeš	ŋeš	N	ŋeš\abs	tree	sux	N1=ŋeš.N5=ø	N1=STEM.N5=ABS	ŋeš.ø	N	tree	_	_	ŋeš hur	draw	draw	V/t	V/t
+2	ba-an-hur	hur	hur	V/t	ba-an-hur	scratch	sux	V5=ba.V11=n.V12=hur.V14=ø	V5=MID.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ba.n.hur.ø	V/t	to scratch	1	mwe	_	_	_	_	_
+
+# Q001545.34
+1	ka-al-ka	ka-al-k·a	kalak	N	ka-al-ka\l2	trench	sux	N1=kalak.N5='a	N1=STEM.N5=L2-NH	kalak.'a	N	trench	_	_	_	_	_	_	_
+
+# Q001545.35
+1	urin	urin	urin	N	urin\abs	standard	sux	N1=urin.N5=ø	N1=STEM.N5=ABS	urin.ø	N	standard	_	_	_	_	_	_	_
+2	ba-mul	mul	mul	V/i	ba-mul	shine	sux	V5=ba.V11=n.V12=mul.V14=ø	V5=MID.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ba.n.mul.ø	V/i	to shine	_	_	_	_	_	_	_
+
+# Q001545.36
+1	im-bi	im	im	N	im-bi\abs	clay	sux	N1=im.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	im.bi.ø	N	clay	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki	place	sux	N1=ki	N1=STEM	ki	N	place	_	_	_	_	_	_	_
+3	kug-ga	kug	kug	V/i	kug-ga\l2	pure	sux	NV2=kug.N5='a	NV2=STEM.N5=L2-NH	kug.'a	V/i	pure	_	_	_	_	_	_	_
+
+# Q001545.37
+1	im-mi-lu	lu	lu	V/t	im-mi-lu	mix	sux	V2=i.V4=m.V5=b.V10=i.V11=n.V12=lu.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-A	i.m.b.i.n.lu.ø	V/t	mix	_	_	_	_	_	_	_
+
+# Q001545.38
+1	šeg₁₂-bi	šeg₁₂	šeg	N	šeg₁₂-bi\abs	brick	sux	N1=šeg.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	šeg.bi.ø	N	brick	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki	place	sux	N1=ki	N1=STEM	ki	N	place	_	_	_	_	_	_	_
+3	sikil-a	sikil	sikil	V/i	sikil-a\n5al2	pure	sux	NV2=sikil.N5='a	NV2=STEM.N5=L2-NH	sikil.'a	V/i	(to be) pure	_	_	_	_	_	_	_
+
+# Q001545.39
+1	im-mi-du₈	du₈	du	V/t	im-mi-du₈	spread	sux	V2=i.V4=m.V5=b.V10=i.V11=n.V12=du.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.m.b.i.n.du.ø	V/t	spread	_	_	_	_	_	_	_
+
+# Q001545.40
+1	uš-bi	uš	uš	N	uš-bi\abs	foundation	sux	N1=uš.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	uš.bi.ø	N	foundation	_	_	_	_	_	_	_
+2	mu-kug	kug	kug	V/i	mu-kug	pure	sux	V4=mu.V11=n.V12=kug.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.kug.ø	V/i	pure	_	_	_	_	_	_	_
+
+# Q001545.41
+1	izi	izi	izi	N	izi\abs	fire	sux	N1=izi.N5=ø	N1=STEM.N5=ABS	izi.ø	N	fire	_	_	_	_	_	_	_
+2	i₃-im-ta-la₂	la₂	la	V/t	i₃-im-ta-la₂	hang	sux	V2=i.V4=m.V5=b.V9=ta.V11=n.V12=la.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V9=ABL.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.m.b.ta.n.la.ø	V/t	to hang	_	_	_	_	_	_	_
+
+# Q001545.42
+1	temen-be₂	temen	temen	N	temen-be₂\n5edat	foundation	sux	N1=temen.N3=bi.N5=e	N1=STEM.N3=3-SG-NH-POSS.N5=DAT-NH	temen.bi.e	N	foundation, foundation peg	_	_	_	_	_	_	_
+
+# Q001545.43
+1	i₃	i₃	i	N	i₃	oil	sux	N1=i	N1=STEM	i	N	oil	_	_	_	_	_	_	_
+2	ir	ir	ir	N	ir	scent	sux	N1=ir	N1=STEM	ir	N	scent	_	_	_	_	_	_	_
+3	nun-ka	nun	nun	N	nun-ka	prince	sux	N1=nun.N5=ak.N5='a	N1=STEM.N5=GEN.N5=L1	nun.ak.'a	N	prince, (as attribute) foremost, best	_	_	_	_	_	_	_
+
+# Q001545.44
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand	_	_	šu tag	decorate	decorate	V/t	V/t
+2	tag	tag-tag	tag	V/t	tag\abs	touch	sux	NV2=tag.N5=ø	NV2=STEM.N5=ABS	tag.ø	V/t	touch	1	mwe	_	_	_	_	_
+3	ba-ni-dug₄	dug₄	dug	V/t	ba-ni-dug₄	speak	sux	V5=b.V7=a.V10=ni.V11=n.V12=dug.V14=ø	V5=3-NH.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.a.ni.n.dug.ø	V/t	speak	_	_	_	_	_	_	_
+
+# Q001545.45
+1	iri-kug-ga	iri-kug	Irikug	SN	iri-kug-ga\l1	1	sux	N1=Irikug.N5='a	N1=NAME.N5=L1	Irikug.'a	SN	1	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki	place	sux	N1=ki	N1=STEM	ki	N	place	_	_	_	_	_	_	_
+3	dadag-ga-a	dadag	dadag	V/i	dadag-ga-a\n5al2	bright	sux	NV2=dadag.NV4='a.N5='a	NV2=STEM.NV4=SUB.N5=L2-NH	dadag.'a.'a	V/i	(to be) bright	_	_	_	_	_	_	_
+
+# Q001545.46
+1	e₂	e₂	e	N	e₂\abs	house	sux	N1=e.N5=ø	N=STEM.N5=ABS	e.ø	N	house, temple	_	_	_	_	_	_	_
+2	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001545.47
+1	{ŋeš}dur₂-ŋar	{ŋeš}dur₂-ŋar	durŋar	N	{ŋeš}dur₂-ŋar	chair	sux	N1=durŋar	N1=STEM	durŋar	N	chair	_	_	_	_	_	_	_
+2	mah	mah	mah	V/i	mah	great	sux	NV2=mah	NV2=STEM	mah	V/i	great	_	_	_	_	_	_	_
+3	nam-nin-ka-ni	nam-nin	namnin	N	nam-nin-ka-ni\abs	ladyship	sux	N1=namnin.N5=ak.N3=ani.N5=ø	N1=STEM.N5=GEN.N3=3-SG-H-POSS.N5=ABS	namnin.ak.ani.ø	N	ladyship	_	_	_	_	_	_	_
+
+# Q001545.48
+1	mu-na-dim₂	dim₂	dim	V/t	mu-na-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create	_	_	_	_	_	_	_
+
+# Q001545.49
+1	dub-šen	dub-šen	dubšen	N	dub-šen	chest	sux	N1=dubšen	N1=STEM	dubšen	N	chest	_	_	_	_	_	_	_
+2	kug-ga-ni	kug	kug	V/i	kug-ga-ni\abs	pure	sux	NV2=kug.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	kug.ani.ø	V/i	pure	_	_	_	_	_	_	_
+
+# Q001545.50
+1	mu-na-dim₂	dim₂	dim	V/t	mu-na-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create	_	_	_	_	_	_	_
+
+# Q001545.51
+1	gud	gud	gud	N	gud\abs	ox	sux	N1=gud.N5=ø	N1=STEM.N5=ABS	gud.ø	N	bull, ox	_	_	_	_	_	_	_
+2	šu₄-dul₄-la	šu₄-dul₄	šudul	N	šu₄-dul₄-la\l1	yoke	sux	N1=šudul.N5='a	N1=STEM.N5=L1	šudul.'a	N	yoke	_	_	_	_	_	_	_
+
+# Q001545.52
+1	si	si	si	N	si\abs	horn	sux	N1=si.N5=ø	N1=STEM.N5=ABS	si.ø	N	horn	_	_	_	_	_	_	_
+2	ba-ni-sa₂-sa₂	sa₂-sa₂	sa	N	ba-ni-sa₂-sa₂	equal	sux	V5=b.V7=a.V10=ni.V11=n.V12=sasa.V14=ø	V5=3-NH.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	b.a.ni.n.sasa.ø	V/t	equal	_	_	_	_	_	_	_
+
+# Q001545.53
+1	engar	engar	engar	N	engar	farmer	sux	N1=engar	N1=STEM	engar	N	farmer	_	_	_	_	_	_	_
+2	gud-ra-bi	gud-rah₂	gudrah	N	gud-ra-bi	drover	sux	N1=gudrah.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	gudrah.bi.ø	N	drover	_	_	_	_	_	_	_
+
+# Q001545.54
+1	im-mi-us₂	us₂	us	V/i	im-mi-us₂\v10l3	follow	sux	V2=i.V4=m.V5=b.V10=i.V11=n.V12=us.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.m.b.i.n.us.ø	V/i	follow, to be next	_	_	_	_	_	_	_
+
+# Q001545.55
+1	ab₂	ab₂	ab	N	ab₂	cow	sux	N1=ab	N1=STEM	ab	N	cow	_	_	_	_	_	_	_
+2	zid-da	zid	zid	V/i	zid-da\l1	right	sux	NV2=zid.N5='a	NV2=STEM.N5=L1	zid.'a	V/i	fecund, healthy, fertile	_	_	_	_	_	_	_
+
+# Q001545.56
+1	amar	amar	amar	N	amar	young	sux	N1=amar	N1=STEM	amar	N	young	_	_	_	_	_	_	_
+2	zid	zid	zid	V/i	zid\abs	right	sux	NV2=zid.N5=ø	NV2=STEM.N5=ABS	zid.ø	V/i	fecund, healthy, fertile	_	_	_	_	_	_	_
+3	mu-ni-du₁₀-du₁₀	du₁₀-du₁₀	utud	V/t	mu-ni-du₁₀-du₁₀	bear	sux	V4=mu.V10=ni.V11=n.V12=dudu.V14=ø	V4=VEN.V10=L1.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	mu.ni.n.dudu.ø	V/t	bear	_	_	_	_	_	_	_
+
+# Q001545.57
+1	unud-bi	unud	unud	N	unud-bi\abs	cowherd	sux	N1=unud.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ø	unud.bi.ø	N	cowherd	_	_	_	_	_	_	_
+
+# Q001545.58
+1	bi₂-us₂	us₂	us	V/i	bi₂-us₂\v10l3	follow	sux	V5=b.V10=i.V11=n.V12=us.V14=ø	V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.us.ø	V/i	follow, to be next	_	_	_	_	_	_	_
+
+# Q001545.59
+1	u₈	u₈	u	N	u₈	ewe	sux	N1=u	N1=STEM	u	N	ewe	_	_	_	_	_	_	_
+2	zid-da	zid	zid	V/i	zid-da\l1	right	sux	NV2=zid.N5='a	NV2=STEM.N5=L1	zid.'a	V/i	fecund, healthy, fertile	_	_	_	_	_	_	_
+
+# Q001545.60
+1	sila₄	sila₄	sila	N	sila₄	lamb	sux	N1=sila	N1=STEM	sila	N	lamb	_	_	_	_	_	_	_
+2	zid	zid	zid	V/i	zid	right	sux	NV2=zid	NV2=STEM	zid	V/i	fecund, healthy, fertile	_	_	_	_	_	_	_
+3	mu-ni-du₁₀-du₁₀	du₁₀-du₁₀	utud	V/t	mu-ni-du₁₀-du₁₀	bear	sux	V4=mu.V10=ni.V11=n.V12=dudu.V14=ø	V4=VEN.V10=L1.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	mu.ni.n.dudu.ø	V/t	bear	_	_	_	_	_	_	_
+
+# Q001545.61
+1	sipad-bi	sipad	sipad	N	sipad-bi\abs	shepherd	sux	N1=sipad.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	sipad.bi.ø	N	shepherd	_	_	_	_	_	_	_
+
+# Q001545.62
+1	im-mi-us₂	us₂	us	V/i	im-mi-us₂\v10l3	follow	sux	V2=i.V4=m.V5=b.V10=i.V11=n.V12=us.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.m.b.i.n.us.ø	V/i	follow, to be next	_	_	_	_	_	_	_
+
+# Q001545.63
+1	ud₅	ud₅	uzud	N	ud₅	goat	sux	N1=uzud	N1=STEM	uzud	N	goat	_	_	_	_	_	_	_
+2	zid-da	zid	zid	V/i	zid-da\l1	right	sux	NV2=zid.N5='a	NV2=STEM.N5=L1	zid.'a	V/i	fecund, healthy, fertile	_	_	_	_	_	_	_
+
+# Q001545.64
+1	maš₂	maš₂	maš	N	maš₂	goat	sux	N1=maš	N1=STEM	maš	N	goat	_	_	_	_	_	_	_
+2	zid	zid	zid	V/i	zid\abs	right	sux	NV2=zid.N5=ø	NV2=STEM.N5=ABS	zid.ø	V/i	fecund, healthy, fertile	_	_	_	_	_	_	_
+3	mu-ni-du₁₀-du₁₀	du₁₀-du₁₀	utud	V/t	mu-ni-du₁₀-du₁₀	bear	sux	V4=mu.V10=ni.V11=n.V12=dudu.V14=ø	V4=VEN.V10=L1.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	mu.ni.n.dudu.ø	V/t	bear	_	_	_	_	_	_	_
+
+# Q001545.65
+1	sipad-bi	sipad	sipad	N	sipad-bi\abs	shepherd	sux	N1=sipad.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	sipad.bi.ø	N	shepherd	_	_	_	_	_	_	_
+
+# Q001545.66
+1	im-mi-us₂	us₂	us	V/i	im-mi-us₂\v10l3	follow	sux	V2=i.V4=m.V5=b.V10=i.V11=n.V12=us.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.m.b.i.n.us.ø	V/i	follow, to be next	_	_	_	_	_	_	_
+
+# Q001545.67
+1	anše	anše	anše	N	anše	equid	sux	N1=anše	N1=STEM	anše	N	equid	_	_	_	_	_	_	_
+2	ama-šaganₓ(GAN)-a	ama-šaganₓ(GAN)	amašagan	N	ama-šaganₓ(GAN)-a\n5al2	mother	sux	N1=amašagan.N5='a	N1=STEM.N5=L2-NH	amašagan.'a	N	bearing mother (human and animal)	_	_	_	_	_	_	_
+
+# Q001545.68
+1	dur₃	dur₃	dur	N	dur₃	donkey	sux	N1=dur	N1=STEM	dur	N	donkey	_	_	_	_	_	_	_
+2	kaš₄-bi	kaš₄	kaš	N	kaš₄-bi\abs	runner	sux	N1=kaš.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	kaš.bi.ø	N	runner	_	_	_	_	_	_	_
+
+# Q001545.69
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand	_	_	šu bar	release	to release	V/t	V/t
+2	im-ma-ba	ba	bar	V/t	im-ma-ba	cvve	sux	V2=i.V4=m.V5=ba.V11=n.V12=bar.V14=ø	V2=FIN.V4=VEN.V5=MID.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.m.ba.n.bar.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+
+# Q001545.70
+1	na-gada-bi	na-gada	nagada	N	na-gada-bi\abs	herdsman	sux	N1=nagada.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	nagada.bi.ø	N	herdsman	_	_	_	_	_	_	_
+
+# Q001545.71
+1	bi₂-us₂	us₂	us	V/i	bi₂-us₂\v10l3	follow	sux	V5=b.V10=i.V11=n.V12=us.V14=ø	V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.us.ø	V/i	follow, to be next	_	_	_	_	_	_	_
+

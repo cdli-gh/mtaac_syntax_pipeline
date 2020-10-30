@@ -1,0 +1,81 @@
+# project: etcsri 
+# textid: Q001032 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001032.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001032.1
+1	ur-{d}nanše	ur-{d}nanše	Urnanše	RN	ur-{d}nanše	1	sux	N1=Urnanše	N1=NAME	Urnanše	RN	King of Lagaš
+
+# Q001032.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001032.3
+1	lagaš	lagaš	Lagaš	SN	lagaš\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001032.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	gu-|NI.DU|	gu-|NI.DU|	Gu-NI.DU	PN	gu-|NI.DU|	1	sux	N1=GU-NI.DU	N1=NAME	GU-NI.DU	PN	1
+
+# Q001032.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	citizen
+2	gur-sar	gur-sar	Gursar	GN	gur-sar\gen\gen\erg	1	sux	N1=Gursar.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Gursar.ak.ak.e	GN	1
+
+# Q001032.6
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}nanše	{d}nanše	Nanše	DN	{d}nanše\gen\abs	1	sux	N1=Nanše.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Nanše.ak.ø	DN	1
+
+# Q001032.7
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001032.8
+1	eš₃	eš₃	eš	N	eš₃	shrine	sux	N1=eš	N1=STEM	eš	N	shrine
+2	ŋir₂-su	ŋir₂-su	Ŋirsu	SN	ŋir₂-su\gen\abs	1	sux	N1=Ŋirsu.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ŋirsu.ak.ø	SN	1
+
+# Q001032.9
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001032.10
+1	eb-gal	eb-gal	Ebgal	TN	eb-gal\abs	1	sux	N1=Ebgal.N5=ø	N1=NAME.N5=ABS	Ebgal.ø	TN	1
+
+# Q001032.11
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001032.12
+1	e₂-ŋidru	e₂-ŋidru	Eŋidruk	TN	e₂-ŋidru\abs	1	sux	N1=Eŋidruk.N5=ø	N1=NAME.N5=ABS	Eŋidruk.ø	TN	E-ĝidru of Lagaš
+
+# Q001032.13
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001032.14
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}ŋa₂-tum₃-dug₃	{d}ŋa₂-tum₃-dug₃	Ŋatumdug	DN	{d}ŋa₂-tum₃-dug₃\gen\abs	1	sux	N1=Ŋatumdug.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ŋatumdug.ak.ø	DN	1
+
+# Q001032.15
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001032.16
+1	e₂-dam	e₂-dam	Edam	TN	e₂-dam\abs	1	sux	N1=Edam.N5=ø	N1=NAME.N5=ABS	Edam.ø	TN	1
+
+# Q001032.17
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001032.18
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}nin-mar-ki	{d}nin-mar-ki	Ninmarkik	DN	{d}nin-mar-ki\gen\abs	1	sux	N1=Ninmarkik.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninmarkik.ak.ø	DN	1
+
+# Q001032.19
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001032.20
+1	abzu-eg₂	abzu-eg₂	Abzuegak	TN	abzu-eg₂\abs	1	sux	N1=Abzuegak.N5=ø	N1=NAME.N5=ABS	Abzuegak.ø	TN	1
+
+# Q001032.21
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+

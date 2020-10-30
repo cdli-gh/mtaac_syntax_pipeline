@@ -1,0 +1,39 @@
+# project: etcsri 
+# textid: Q004369 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004369.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004369.1
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim
+
+# Q004369.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q004369.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q004369.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba\abs	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ø	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	limmu.bi.ak.ø	NU	four
+
+# Q004369.5
+1	arad₂-{d}nanna	arad₂-{d}nanna	Aradnanna	PN	arad₂-{d}nanna	4	sux	N1=Aradnanna	N1=NAME	Aradnanna	PN	4
+
+# Q004369.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	i₃-li₂-x-x	i₃-li₂-x-x	Ili-X	PN	i₃-li₂-x-x	1	sux	N1=Ili-X	N1=NAME	Ili-X	PN	1
+
+# Q004369.7
+1	sagi	sagi	šagia	N	sagi\gen\abs	cup-bearer	sux	N1=šagia.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	šagia.ak.ø	N	cup-bearer
+2	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

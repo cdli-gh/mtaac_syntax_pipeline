@@ -1,0 +1,60 @@
+# project: etcsri 
+# textid: Q002257 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002257.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q002257.1
+1	{d}inana	{d}inana	Inanak	DN	{d}inana	1	sux	N1=Inanak	N1=NAME	Inanak	DN	1	_	_	_	_	_	_	_
+
+# Q002257.2
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great	_	_	_	_	_	_	_
+3	e₂-an-na	e₂-an-na	Eanak	TN	e₂-an-na\gen	1	sux	N1=Eanak.N5=ak	N1=NAME.N5=GEN	Eanak.ak	TN	1	_	_	_	_	_	_	_
+
+# Q002257.3
+1	nin-a-ni-ir	nin	nin	N	nin-a-ni-ir	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q002257.4
+1	an-am₃	an-am₃	Anam	RN	an-am₃	1	sux	N1=Anam	N1=NAME	Anam	RN	King of Unug	_	_	_	_	_	_	_
+
+# Q002257.5
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd	_	_	_	_	_	_	_
+2	zid	zid	zid	V/i	zid	right	sux	NV2=zid	NV2=STEM	zid	V/i	right	_	_	_	_	_	_	_
+3	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q002257.6
+1	še-ga	še	šeg	V/t	še-ga	agree	sux	NV2=šeg.NV4='a	NV2=STEM.NV4=SUB	šeg.'a	V/t	to agree, be in agreement, to obey	_	_	_	_	_	_	_
+2	an	an	An	DN	an	1	sux	N1=AN	N1=NAME	AN	DN	1	_	_	_	_	_	_	_
+3	{d}inana	{d}inana	Inanak	DN	{d}inana\gen	1	sux	N1=Inanak.N5=ak	N1=NAME.N5=GEN	Inanak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q002257.7
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q002257.8
+1	{d}inana-ke₄	{d}inana	Inanak	DN	{d}inana-ke₄	1	sux	N1=Inanak.N5=e	N1=NAME.N5=ERG	Inanak.e	DN	1	_	_	_	_	_	_	_
+
+# Q002257.9
+1	kisal	kisal	kisal	N	kisal	courtyard	sux	N1=kisal	N1=STEM	kisal	N	courtyard	_	_	_	_	_	_	_
+2	bar-ra	bar-ra	bar	N	bar-ra	outside	sux	N1=bar	N1=STEM	bar	N	outside, behind	_	_	_	_	_	_	_
+
+# Q002257.10
+1	e₂-ŋi₆-par₃	e₂-ŋi₆-par₃	Eŋipar	TN	e₂-ŋi₆-par₃	2	sux	N1=Eŋipar	N1=NAME	Eŋipar	TN	2	_	_	_	_	_	_	_
+2	en-na	en	en	N	en-na\gen	priest	sux	N1=en.N5=ak	N1=STEM.N5=GEN	en.ak	N	priest	_	_	_	_	_	_	_
+
+# Q002257.11
+1	ki-tuš	ki-tuš	kituš	N	ki-tuš	dwelling	sux	N1=kituš	N1=STEM	kituš	N	dwelling place	_	_	_	_	_	_	_
+2	šag₄	šag₄	šag	N	šag₄\abs	heart	sux	N1=šag.N5=ø	N1=STEM.N5=ABS	šag.ø	N	heart, inner body	_	_	šag hul	happy	happy	V/i	V/i
+3	hul₂-la-na	hul₂	hul	V/i	hul₂-la-na\gen\abs	rejoice	sux	NV2=hul.NV4='a.N3=ani.N5=ak.N5=ø	NV2=STEM.NV4=SUB.N3=3-SG-H-POSS.N5=GEN.N5=ABS	hul.'a.ani.ak.ø	V/i	to rejoice at something (= COM)	2	mwe	_	_	_	_	_
+
+# Q002257.12
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

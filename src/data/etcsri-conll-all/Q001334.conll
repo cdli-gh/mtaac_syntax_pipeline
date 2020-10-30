@@ -1,0 +1,28 @@
+# project: etcsri 
+# textid: Q001334 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001334.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001334.1
+1	{d}nin-a-zu₅	{d}nin-a-zu₅	Ninazu	DN	{d}nin-a-zu₅\dat	1	sux	N1=Ninazu.N5=ra	N1=NAME.N5=DAT-H	Ninazu.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001334.2
+1	lu₂-dug₃-ga	lu₂-dug₃-ga	Luduga	PN	lu₂-dug₃-ga\erg	1	sux	N1=Luduga.N5=e	N1=NAME.N5=ERG	Luduga.e	PN	1	_	_	_	_	_	_	_
+
+# Q001334.3
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001334.4
+1	aya₂-an-ne₂-pad₃-da-še₃	aya₂-an-ne₂-pad₃-da	Ayaanepada	RN	aya₂-an-ne₂-pad₃-da-še₃	1	sux	N1=Ayaanepada.N5=ak.N5=še	N1=NAME.N5=GEN.N5=TERM	Ayaanepada.ak.še	RN	King of Urim	_	_	_	_	_	_	_
+
+# Q001334.5
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-še₃-ru	ru	ru	V/t	mu-na-še₃-ru	cvve	sux	V4=mu.V6=nn.V7=a.V9=ši.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ši.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

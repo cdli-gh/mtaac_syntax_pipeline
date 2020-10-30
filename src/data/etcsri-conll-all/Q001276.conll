@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q001276 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001276.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001276.2
+1	x-na-na	x-na-na	X-nana	PN	x-na-na	1	sux	N1=X-nana	N1=NAME	X-nana	PN	1	_	_	_	_	_	_	_
+
+# Q001276.3
+1	šag₄-zu	šag₄-zu	šagzu	N	šag₄-zu\erg	midwife	sux	N1=šagzu.N5=e	N1=STEM.N5=ERG	šagzu.e	N	midwife	_	_	_	_	_	_	_
+
+# Q001276.4
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-ru	ru	ru	V/t	mu-ru\dat	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

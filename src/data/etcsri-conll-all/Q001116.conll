@@ -1,0 +1,46 @@
+# project: etcsri 
+# textid: Q001116 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001116.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001116.1
+1	{d}nin-ŋir₂-su₂	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1
+
+# Q001116.2
+1	e₂-ninnu-ra	e₂-ninnu	Eninnu	TN	e₂-ninnu-ra	1	sux	N1=Eninnu.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Eninnu.ak.ra	TN	1
+
+# Q001116.3
+1	du-du	du-du	Dudu	PN	du-du	1	sux	N1=Dudu	N1=NAME	Dudu	PN	1
+
+# Q001116.4
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household
+2	{d}nin-ŋir₂-su₂-ka-ke₄	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka-ke₄	1	sux	N1=Ninŋirsuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninŋirsuk.ak.e	DN	1
+
+# Q001116.5
+1	|URU×A.A|{ki}-ta	|URU×A.A|{ki}	Arawa	SN	|URU×A.A|{ki}-ta	1	sux	N1=Arawa.N5=ta	N1=NAME.N5=ABL	Arawa.ta	SN	1
+2	mu-na-ta-ed₃	ed₃	ed	V/i	mu-na-ta-ed₃	ascend	sux	V4=mu.V6=nn.V7=a.V9=ta.V11=n.V12=ed.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ta.n.ed.ø	V/i	ascend
+
+# Q001116.6
+1	gag	gag	gag	N	gag	nail	sux	N1=gag	N1=STEM	gag	N	peg, nail
+2	ŋeš-ur₃-še₃	ŋeš-ur₃	ŋušur	N	ŋeš-ur₃-še₃	beam	sux	N1=ŋušur.N5=še	N1=STEM.N5=TERM	ŋušur.še	N	beam
+
+# Q001116.7
+1	mu-na-dim₂	dim₂	dim	V/t	mu-na-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create
+
+# Q001116.8
+1	du-du	du-du	Dudu	PN	du-du	1	sux	N1=Dudu	N1=NAME	Dudu	PN	1
+
+# Q001116.9
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household
+2	mah	mah	mah	V/i	mah	great	sux	NV2=mah	NV2=STEM	mah	V/i	great
+
+# Q001116.10
+1	{d}nin-ŋir₂-su₂-ka	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka\abs	1	sux	N1=Ninŋirsuk.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninŋirsuk.ak.ø	DN	1
+

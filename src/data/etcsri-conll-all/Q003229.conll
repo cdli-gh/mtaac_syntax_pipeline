@@ -1,0 +1,39 @@
+# project: etcsri 
+# textid: Q003229 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003229.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003229.1
+1	{d}nin-kar₂	{d}nin-kar₂	Ninkar	DN	{d}nin-kar₂	1	sux	N1=Ninkar	N1=NAME	Ninkar	DN	1
+
+# Q003229.2
+1	diŋir	diŋir	diŋir	N	diŋir	deity	sux	N1=diŋir	N1=STEM	diŋir	N	deity, personal god
+2	šuba₃	šuba₃	šuba	V/i	šuba₃	multicoloured	sux	N1=šuba	N1=STEM	šuba	V/i	multicoloured
+3	an-na	an	an	N	an-na\gen	sky	sux	N1=an.N5=ak	N1=STEM.N5=GEN	an.ak	N	sky, heaven
+
+# Q003229.3
+1	lugal-a-ni	lugal	lugal	N	lugal-a-ni\dat	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king
+
+# Q003229.4
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1
+
+# Q003229.5
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q003229.6
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1
+
+# Q003229.7
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	niŋin₆{ki}-ka-ni	niŋin₆{ki}	Niŋin	SN	niŋin₆{ki}-ka-ni\abs	1	sux	N1=Niŋin.N3=ani.N5=ø	N1=NAME.N3=3-SG-H-POSS.N5=ABS	Niŋin.ani.ø	SN	1
+
+# Q003229.8
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

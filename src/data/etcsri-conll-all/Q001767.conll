@@ -1,0 +1,58 @@
+# project: etcsri 
+# textid: Q001767 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001767.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001767.1
+1	{d}meš₃-lam-ta-e₃-a	{d}meš₃-lam-ta-e₃-a	Mešlamtaea	DN	{d}meš₃-lam-ta-e₃-a	1	sux	N1=Mešlamtaea	N1=NAME	Mešlamtaea	DN	1
+
+# Q001767.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	a₂	a₂	a	N	a₂	arm	sux	N1=a	N1=STEM	a	N	arm
+3	zid-da	zid	zid	V/i	zid-da	right	sux	NV2=zid.NV4='a	NV2=STEM.NV4=SUB	zid.'a	V/i	right
+
+# Q001767.3
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄\n5edat	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=DAT-NH	Lagaš.ak.e	SN	1
+
+# Q001767.4
+1	nam-ti-il	nam-ti-il	namtil	N	nam-ti-il	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q001767.5
+1	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+2	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+3	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001767.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma-ka-še₃	urim₅{ki}	Urim	SN	urim₅{ki}-ma-ka-še₃	1	sux	N1=Urim.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Urim.ak.ak.še	SN	1
+
+# Q001767.7
+1	ki-lul-la	ki-lul-la	Kilula	PN	ki-lul-la	1	sux	N1=Kilula	N1=NAME	Kilula	PN	1
+2	gu-za-la₂	gu-za-la₂	guzala	N	gu-za-la₂	official	sux	N1=guza	N1=STEM	guza	N	an official, throne-bearer
+
+# Q001767.8
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ur-ba-gara₂-ke₄	ur-ba-gara₂	Urbagarak	PN	ur-ba-gara₂-ke₄	1	sux	N1=Urbagara.N5=e	N1=NAME.N5=ERG	Urbagara.e	PN	1
+
+# Q001767.9
+1	mu-na-dim₂	dim₂	dim	V/t	mu-na-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create
+2	kišib-ba	kišib	kišib	N	kišib-ba\dem2	seal	sux	N1=kišib.N3=bi.N5=ak	N1=STEM.N3=DEM2.N5=GEN	kišib.bi.ak	N	seal, sealed tablet
+
+# Q001767.10
+1	lugal-ŋu₁₀	lugal	lugal	N	lugal-ŋu₁₀\abs	king	sux	N1=lugal.N3=ŋu.N5=ø	N1=STEM.N3=1-SG-POSS.N5=ABS	lugal.ŋu.ø	N	king
+2	ŋeštug₃	ŋeštug₃	ŋeštug	N	ŋeštug₃	ear	sux	N1=ŋeštug	N1=STEM	ŋeštug	N	ear
+3	niŋ₂-sag₉-ga-ka-ne₂	niŋ₂-sag₉-ga	niŋsaga	N	niŋ₂-sag₉-ga-ka-ne₂	goodness	sux	N1=niŋsaga.N5=ak.N3=ani.N5=e	N1=STEM.N5=GEN.N3=3-SG-H-POSS.N5=X	niŋsaga.ak.ani.e	N	goodness, good (thing)
+
+# Q001767.11
+1	ga-an-ti-il	ti-il	til	V/i	ga-an-ti-il\v10l1	live	sux	V2=ga.V10=n.V12=til	V2=MOD2.V10=L1-SYN.V12=STEM	ga.n.til	V/i	live
+
+# Q001767.12
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name
+

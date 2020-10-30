@@ -1,0 +1,34 @@
+# project: etcsri 
+# textid: Q004274 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004274.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004274.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q004274.3
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q004274.4
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q004274.7
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q004274.8
+1	lagaš{ki}-ka-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-ke₄	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q004274.9
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q004274.10
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

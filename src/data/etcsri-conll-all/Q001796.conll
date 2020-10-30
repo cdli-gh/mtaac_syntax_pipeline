@@ -1,0 +1,32 @@
+# project: etcsri 
+# textid: Q001796 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001796.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001796.2
+1	saŋ-us₂	saŋ-us₂	saŋus	V/i	saŋ-us₂	constant	sux	NV2=saŋus	NV2=STEM	saŋus	V/i	(to be) constant, regular
+
+# Q001796.3
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}en-lil₂-ka	{d}en-lil₂	Enlil	DN	{d}en-lil₂-ka	1	sux	N1=Enlil.N5=ak.N5=ak	N1=NAME.N5=GEN.N5=GEN	Enlil.ak.ak	DN	1
+
+# Q001796.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001796.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q001796.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba-ke₄	limmu₂	limmu	NU	limmu₂-ba-ke₄	four	sux	NV2=limmu.N3=bi.N5=ak.N5=e	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	limmu.bi.ak.e	NU	four
+

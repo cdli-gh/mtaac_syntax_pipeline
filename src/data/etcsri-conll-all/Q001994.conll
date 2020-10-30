@@ -1,0 +1,61 @@
+# project: etcsri 
+# textid: Q001994 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001994.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001994.1
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001994.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001994.3
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x-me-en	_	_	_	x-me-en	_	sux	_	_	_	u	_
+
+# Q001994.4
+1	eš₃	eš₃	eš	N	eš₃	shrine	sux	N1=eš	N1=STEM	eš	N	shrine
+2	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen	1	sux	N1=Nibru.N5=ak	N1=NAME.N5=GEN	Nibru.ak	SN	1
+
+# Q001994.5
+1	dur-an-ki-a-še₃	dur-an-ki	Durankik	TN	dur-an-ki-a-še₃	1	sux	N1=Durankik.N5=še	N1=NAME.N5=TERM	Durankik.še	TN	1
+
+# Q001994.6
+1	gu₃	gu₃	gu	N	gu₃	voice	sux	N1=gu	N1=STEM	gu	N	voice
+2	zid-de₃-eš	zid	zid	V/i	zid-de₃-eš	right	sux	NV2=zid.N5=eš	NV2=STEM.N5=ADV	zid.eš	V/i	right
+3	ma-an-de₂	de₂	de	V/t	ma-an-de₂	pour	sux	V4=m.V7=a.V11=n.V12=de.V14=ø	V4=VEN.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	m.a.n.de.ø	V/t	pour
+
+# Q001994.7
+1	saŋ-ki	saŋ-ki	saŋki	N	saŋ-ki	forehead	sux	N1=saŋki	N1=STEM	saŋki	N	forehead, brow, front
+2	zalag-ga-ni	zalag	zalag	V/i	zalag-ga-ni\abs	shine	sux	NV2=zalag.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	zalag.ani.ø	V/i	(to be) pure, (fire) light, (to be) bright, to shine
+
+# Q001994.8
+1	mu-ši-in-bar	ba	bar	V/t	mu-ši-in-bar	cvve	sux	V4=mu.V6=1.V9=ši.V11=n.V12=bar.V14=ø	V4=VEN.V6=1-SG.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.1.ši.n.bar.ø	V/t	(compound verb verbal element)
+
+# Q001994.9
+1	nam	nam	nam	N	nam	fate	sux	N1=nam	N1=STEM	nam	N	fate
+2	dug₃	dug₃	dug	V/i	dug₃\abs	good	sux	NV2=dug.N5=ø	NV2=STEM.N5=ABS	dug.ø	V/i	good
+3	mu-un-tar	tar	tar	V/t	mu-un-tar	cut	sux	V4=mu.V10=e.V11=n.V12=tar.V14=ø	V4=VEN.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.e.n.tar.ø	V/t	cut
+
+# Q001994.10
+1	{d}en-lil₂-ba-ni	{d}en-lil₂-ba-ni	Enlilbani	RN	{d}en-lil₂-ba-ni\abs	1	sux	N1=Enlilbani.N5=ø	N1=NAME.N5=ABS	Enlilbani.ø	RN	10th king of the dynasty of Isin
+
+# Q001994.11
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	dug₄-ga-ŋu₁₀-me-en	dug₄	dug	V/t	dug₄-ga-ŋu₁₀-me-en	speak	sux	NV2=dug.NV4='a.N3=ŋu.N5=ø.N6=men	NV2=STEM.NV4=SUB.N3=1-SG-POSS.N5=ABS.N6=COP-2-SG	dug.'a.ŋu.ø.men	V/t	speak
+
+# Q001994.12
+1	a₂	a₂	a	N	a₂	arm	sux	N1=a	N1=STEM	a	N	arm
+2	nun	nun	nun	N	nun\abs	prince	sux	N1=nun.N5=ø	N1=STEM.N5=ABS	nun.ø	N	prince, (as attribute) foremost, best
+
+# Q001994.13
+1	hu-mu-ta-ŋal₂	ŋal₂	ŋal	V/i	hu-mu-ta-ŋal₂	be	sux	V1=ha.V4=mu.V6=e.V8=da.V12=ŋal.V14=ø	V1=MOD1.V4=VEN.V6=2-SG.V8=COM.V12=STEM.V14=3-SG-S	ha.mu.e.da.ŋal.ø	V/i	be
+

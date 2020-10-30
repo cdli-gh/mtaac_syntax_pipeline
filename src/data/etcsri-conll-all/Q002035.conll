@@ -1,0 +1,32 @@
+# project: etcsri 
+# textid: Q002035 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002035.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q002035.1
+1	{d}nin-gal	{d}nin-gal	Ningal	DN	{d}nin-gal	1	sux	N1=Ningal	N1=NAME	Ningal	DN	1
+
+# Q002035.2
+1	nin-a-ni-ir	nin	nin	N	nin-a-ni-ir	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady
+
+# Q002035.3
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q002035.4
+1	{d}su-mu-AN	{d}su-mu-AN	Sumuel	RN	{d}su-mu-AN	1	sux	N1=Sumuel	N1=NAME	Sumuel	PN	1 King of Larsa
+
+# Q002035.5
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q002035.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+

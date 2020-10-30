@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q003668 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003668.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q003668.1
+1	{d}en-lil₂-la	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la	1	sux	N1=Enlil.N5=ra	N1=NAME.N5=DAT-H	Enlil.ra	DN	1	_	_	_	_	_	_	_
+
+# Q003668.2
+1	lugal-ki-ŋen-ne₂-du₇-du₇-de₃	lugal-ki-ŋen-ne₂-du₇-du₇	Lugalkiŋenešdudud	RN	lugal-ki-ŋen-ne₂-du₇-du₇-de₃	1	sux	N1=Lugalkiŋenešdudud.N5=e	N1=NAME.N5=ERG	Lugalkiŋenešdudud.e	RN	King of Unug, king of Urim	_	_	_	_	_	_	_
+
+# Q003668.3
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

@@ -1,0 +1,34 @@
+# project: etcsri 
+# textid: Q000980 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000980.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q000980.1
+1	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+
+# Q000980.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q000980.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q000980.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba\abs	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ø	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	limmu.bi.ak.ø	NU	four
+
+# Q000980.5
+1	ME-{d}en-lil₂	ME-{d}en-lil₂	Simatenlil	PN	ME-{d}en-lil₂\abs	1	sux	N1=Simatenlil.N5=ø	N1=NAME.N5=ABS	Simatenlil.ø	PN	Daughter of Šulgi, king of Urim
+
+# Q000980.6
+1	dumu-munus-a-ni	dumu-munus	dumumunus	N	dumu-munus-a-ni\abs	daughter	sux	N1=dumumunus.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	dumumunus.ani.ø	N	daughter
+

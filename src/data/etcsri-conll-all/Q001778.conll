@@ -1,0 +1,45 @@
+# project: etcsri 
+# textid: Q001778 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001778.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001778.1
+1	{d}x	{d}x	X	DN	{d}x	1	sux	N1=X.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	X.ak.ø	DN	1
+
+# Q001778.2
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady
+
+# Q001778.3
+1	nam-ti-il	nam-ti-il	namtil	N	nam-ti-il	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q001778.4
+1	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+
+# Q001778.5
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001778.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₂{ki}-ma	urim₂{ki}	Urim	SN	urim₂{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q001778.7
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba-ka-še₃	limmu₂	limmu	NU	limmu₂-ba-ka-še₃	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ak.N5=še	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=GEN.N5=TERM	limmu.bi.ak.ak.še	NU	four
+
+# Q001778.8
+1	x-kalam-ma	x-kalam-ma	X-kalama	PN	x-kalam-ma	1	sux	N1=X-kalama	N1=NAME	X-kalama	PN	1
+
+# Q001778.9
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+

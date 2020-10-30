@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q001354 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001354.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001354.1
+1	{d}ama-ŋeštin-ra	{d}ama-ŋeštin	Ŋeštinanak	DN	{d}ama-ŋeštin-ra	1	sux	N1=Ŋeštinanak.N5=ra	N1=NAME.N5=DAT-H	Ŋeštinanak.ra	DN	1
+
+# Q001354.2
+1	nin-nam	nin-nam	Ninam	PN	nin-nam	1	sux	N1=Ninam	N1=NAME	Ninam	PN	1
+
+# Q001354.3
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	e₂-x-ke₄	e₂-x	E-X	PN	e₂-x-ke₄	1	sux	N1=E-X.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	E-X.ak.e	PN	1
+
+# Q001354.4
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life
+
+# Q001354.5
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+2	dumu-na-še₃	dumu	dumu	N	dumu-na-še₃	child	sux	N1=dumu.N3=ani.N5=ak.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=TERM	dumu.ani.ak.še	N	child
+
+# Q001354.6
+1	a	a	a	N	a	water	sux	N1=a	N1=STEM	a	N	water
+2	mu-na-ši-ru	ru	ru	V/t	mu-na-ši-ru	cvve	sux	V4=mu.V6=nn.V7=a.V9=ši.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ši.n.ru.ø	V/t	(compound verb verbal element)
+

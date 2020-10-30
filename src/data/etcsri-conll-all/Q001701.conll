@@ -1,0 +1,42 @@
+# project: etcsri 
+# textid: Q001701 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001701.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001701.1
+1	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q001701.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001701.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001701.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba	four	sux	NV2=limmu.N3=bi.N5=ak	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN	limmu.bi.ak	NU	four	_	_	_	_	_	_	_
+
+# Q001701.5
+1	{d}šul-gi-si₂-im-tum	{d}šul-gi-si₂-im-tum	Šulgisimti	PN	{d}šul-gi-si₂-im-tum	1	sux	N1=Šulgisimti	N1=NAME	Šulgisimti	PN	Consort of Šulgi, king of Urim	_	_	_	_	_	_	_
+
+# Q001701.6
+1	lukur	lukur	lukur	N	lukur	priestess	sux	N1=lukur	N1=STEM	lukur	N	a priestess, consort	_	_	lukur kaskalak	wife	a consort who accompanies the ruler during journeys, accompanying consort	N	N
+2	kaskal-la-ka-ni	kaskal	kaskal	N	kaskal-la-ka-ni\abs	way	sux	N1=kaskal.N5=ak.N3=ani.N5=ø	N1=STEM.N5=GEN.N3=3-SG-H-POSS.N5=ABS	kaskal.ak.ani.ø	N	way, road	1	mwe	_	_	_	_	_
+
+# Q001701.7
+1	maš-gu-la	maš-gu-la	Mašgula	PN	maš-gu-la	1	sux	N1=Mašgula	N1=NAME	Mašgula	PN	1	_	_	_	_	_	_	_
+
+# Q001701.8
+1	sukkal	sukkal	sukkal	N	sukkal\abs	secretary	sux	N1=sukkal.N5=ø	N1=STEM.N5=ABS	sukkal.ø	N	secretary, envoy	_	_	_	_	_	_	_
+2	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant	_	_	_	_	_	_	_
+

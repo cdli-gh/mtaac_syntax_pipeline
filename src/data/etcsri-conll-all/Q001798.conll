@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q001798 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001798.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001798.1
+1	nin-he₂-du₇	nin-he₂-du₇	Ninhedu	PN	nin-he₂-du₇	2	sux	N1=Ninhedu	N1=NAME	Ninhedu	PN	Daughter of Amar-Suena, king of Urim
+
+# Q001798.2
+1	dumu-munus	dumu-munus	dumumunus	N	dumu-munus	daughter	sux	N1=dumumunus	N1=STEM	dumumunus	N	daughter
+2	lugal	lugal	lugal	N	lugal\gen\abs	king	sux	N1=lugal.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	lugal.ak.ø	N	king
+
+# Q001798.3
+1	ur-gu	ur-gu	Urgu	PN	ur-gu	1	sux	N1=Urgu	N1=NAME	Urgu	PN	1
+2	gurušta	gurušta	kurušda	N	gurušta\abs	fattener	sux	N1=kurušda.N5=ø	N1=STEM.N5=ABS	kurušda.ø	N	animal fattener
+
+# Q001798.4
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

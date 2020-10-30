@@ -1,0 +1,124 @@
+# project: etcsri 
+# textid: Q000997 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000997.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q000997.1
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q000997.2
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	1	mwe	_	_	_	_	_
+3	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1	_	_	_	_	_	_	_
+
+# Q000997.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	{d}en-lil₂-le	{d}en-lil₂	Enlil	DN	{d}en-lil₂-le	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+
+# Q000997.4
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	1	mwe	_	_	_	_	_
+3	šag₄-ga-na	šag₄	šag	N	šag₄-ga-na	heart	sux	N1=šag.N3=ani.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L1	šag.ani.'a	N	heart, inner body	_	_	_	_	_	_	_
+
+# Q000997.5
+1	in-pad₃	pad₃	pad	V/t	in-pad₃	find	sux	V2=i.V11=n.V12=pad.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.pad.ø	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q000997.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q000997.7
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000997.8
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba	four	sux	NV2=limmu.N3=bi.N5=ak	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN	limmu.bi.ak	NU	four	_	_	_	_	_	_	_
+
+# Q000997.9
+1	lugal-a-ni-ir	lugal	lugal	N	lugal-a-ni-ir	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king	_	_	_	_	_	_	_
+
+# Q000997.10
+1	arad₂-{d}nanna	arad₂-{d}nanna	Aradnanna	PN	arad₂-{d}nanna	1	sux	N1=Aradnanna	N1=NAME	Aradnanna	PN	Grand vizier	_	_	_	_	_	_	_
+
+# Q000997.11
+1	sukkal-mah	sukkal-mah	sukkalmah	N	sukkal-mah	official	sux	N1=sukkalmah	N1=STEM	sukkalmah	N	official	_	_	_	_	_	_	_
+
+# Q000997.12
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor	_	_	_	_	_	_	_
+
+# Q000997.13
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q000997.14
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household	_	_	_	_	_	_	_
+2	{d}en-ki-ka	{d}en-ki	Enkik	DN	{d}en-ki-ka	1	sux	N1=Enkik.N5=ak	N1=NAME.N5=GEN	Enkik.ak	DN	1	_	_	_	_	_	_	_
+
+# Q000997.15
+1	šagina	šagina	šakkanak	N	šagina	general	sux	N1=šakkanak	N1=STEM	šakkanak	N	military governor	_	_	_	_	_	_	_
+2	u₂-ṣa-ar-ŋar-ša-na{ki}	u₂-ṣa-ar-ŋar-ša-na{ki}	Uṣarŋaršana	SN	u₂-ṣa-ar-ŋar-ša-na{ki}\gen	1	sux	N1=Uṣarŋaršana.N5=ak	N1=NAME.N5=GEN	Uṣarŋaršana.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000997.16
+1	šagina	šagina	šakkanak	N	šagina	general	sux	N1=šakkanak	N1=STEM	šakkanak	N	military governor	_	_	_	_	_	_	_
+2	ba-šim-e{ki}	ba-šim-e{ki}	Bašime	SN	ba-šim-e{ki}\gen	1	sux	N1=Bašime.N5=ak	N1=NAME.N5=GEN	Bašime.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000997.17
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor	_	_	_	_	_	_	_
+2	sa-bu-um{ki}	sa-bu-um{ki}	Sabum	SN	sa-bu-um{ki}	1	sux	N1=Sabum	N1=NAME	Sabum	SN	1	_	_	_	_	_	_	_
+
+# Q000997.18
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+2	ma-da	ma-da	mada	N	ma-da	land	sux	N1=mada	N1=STEM	mada	N	land, country	_	_	_	_	_	_	_
+3	gu-te-bu-um{ki}-ma	gu-te-bu-um{ki}	Gutebum	GN	gu-te-bu-um{ki}-ma	1	sux	N1=Gutebum.N5=ak	N1=NAME.N5=GEN	Gutebum.ak	GN	1	_	_	_	_	_	_	_
+
+# Q000997.19
+1	šagina	šagina	šakkanak	N	šagina	general	sux	N1=šakkanak	N1=STEM	šakkanak	N	military governor	_	_	_	_	_	_	_
+2	di₃-ma-at-{d}en-lil₂-la₂	di₃-ma-at-{d}en-lil₂-la₂	Dimatenlilak	SN	di₃-ma-at-{d}en-lil₂-la₂\gen	1	sux	N1=Dimatenlilak.N5=ak	N1=NAME.N5=GEN	Dimatenlilak.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000997.20
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor	_	_	_	_	_	_	_
+2	a-al-{d}šu-{d}suen	a-al-{d}šu-{d}suen	Alšusuen	SN	a-al-{d}šu-{d}suen\gen	1	sux	N1=Alšusuen.N5=ak	N1=NAME.N5=GEN	Alšusuen.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000997.21
+1	šagina	šagina	šakkanak	N	šagina	general	sux	N1=šakkanak	N1=STEM	šakkanak	N	military governor	_	_	_	_	_	_	_
+2	ur-bi₂-lum{ki}	ur-bi₂-lum{ki}	Urbillum	SN	ur-bi₂-lum{ki}\gen	1	sux	N1=Urbillum.N5=ak	N1=NAME.N5=GEN	Urbillum.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000997.22
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor	_	_	_	_	_	_	_
+2	ha-am₃-zi₂{ki}	ha-am₃-zi₂{ki}	Hamzi	SN	ha-am₃-zi₂{ki}	1	sux	N1=Hamzi	N1=NAME	Hamzi	SN	1	_	_	_	_	_	_	_
+
+# Q000997.23
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+2	kara₂-har{ki}	kara₂-har{ki}	Karahar	SN	kara₂-har{ki}\gen	1	sux	N1=Karahar.N5=ak	N1=NAME.N5=GEN	Karahar.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000997.24
+1	šagina	šagina	šakkanak	N	šagina	general	sux	N1=šakkanak	N1=STEM	šakkanak	N	military governor	_	_	_	_	_	_	_
+2	|NI.HI|{ki}	|NI.HI|{ki}	NI.HI	SN	|NI.HI|{ki}\gen	1	sux	N1=NI.HI.N5=ak	N1=NAME.N5=GEN	NI.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000997.25
+1	šagina	šagina	šakkanak	N	šagina	general	sux	N1=šakkanak	N1=STEM	šakkanak	N	military governor	_	_	_	_	_	_	_
+2	šimaški{ki}	šimaški{ki}	Šimaški	EN	šimaški{ki}	1	sux	N1=Šimaški	N1=NAME	Šimaški	EN	1	_	_	_	_	_	_	_
+
+# Q000997.26
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+2	ma-da	ma-da	mada	N	ma-da	land	sux	N1=mada	N1=STEM	mada	N	land, country	_	_	_	_	_	_	_
+3	kar-da{ki}-ka	kar-da{ki}	Kardak	GN	kar-da{ki}-ka	1	sux	N1=Kardak.N5=ak	N1=NAME.N5=GEN	Kardak.ak	GN	1	_	_	_	_	_	_	_
+
+# Q000997.27
+1	arad₂-da-a-ne₂	arad₂	arad	N	arad₂-da-a-ne₂	slave	sux	N1=arad.N3=ani.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=ERG	arad.ani.e	N	slave, servant	_	_	_	_	_	_	_
+
+# Q000997.28
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	ŋir₂-su{ki}-ka-ni	ŋir₂-su{ki}	Ŋirsu	SN	ŋir₂-su{ki}-ka-ni\abs	1	sux	N1=Ŋirsu.N5=ak.N3=ani.N5=ø	N1=STEM.N5=GEN.N3=3-SG-H-POSS.N5=ABS	Ŋirsu.ak.ani.ø	SN	1	_	_	_	_	_	_	_
+
+# Q000997.29
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

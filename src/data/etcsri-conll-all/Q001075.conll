@@ -1,0 +1,67 @@
+# project: etcsri 
+# textid: Q001075 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001075.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001075.1
+1	en-an-na-tum₂	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂	1	sux	N1=Enanatum	N1=NAME	Enanatum	RN	En-ana-tum I, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001075.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001075.3
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001075.4
+1	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	mu pad	nominate	to nominate, to proclaim one's name publicly	V/t	V/t
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	1	mwe	_	_	_	_	_
+
+# Q001075.5
+1	{d}inana-ka-ke₄	{d}inana	Inanak	DN	{d}inana-ka-ke₄	1	sux	N1=Inanak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Inanak.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001075.6
+1	eb-gal	eb-gal	Ebgal	TN	eb-gal\abs	1	sux	N1=Ebgal.N5=ø	N1=NAME.N5=ABS	Ebgal.ø	TN	1	_	_	_	_	_	_	_
+
+# Q001075.7
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001075.8
+1	e₂-an-na	e₂-an-na	Eanak	TN	e₂-an-na\abs	1	sux	N1=Eanak.N5=ø	N1=NAME.N5=ABS	Eanak.ø	TN	1	_	_	_	_	_	_	_
+
+# Q001075.9
+1	kur-kur-ra	kur-kur	kur	N	kur-kur-ra\n5al2	mountain	sux	N1=kurkur.N5='a	N1=STEM-RDP.N5=L2-NH	kurkur.'a	N	mountain	_	_	_	_	_	_	_
+2	mu-na-dirig-ga-a	dirig	dirig	V/t	mu-na-dirig-ga-a	exceed	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dirig.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.dirig.ø.'a.'a	V/t	create	_	_	_	_	_	_	_
+
+# Q001075.10
+1	ud-ba	ud	ud	N	ud-ba	sun	sux	N1=ud.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	ud.bi.'a	N	day, sun	_	_	_	_	_	_	_
+
+# Q001075.11
+1	lum-ma-tur	lum-ma-tur	Lumatur	PN	lum-ma-tur	1	sux	N1=Lumatur	N1=NAME	Lumatur	PN	Son of En-ana-tum I, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001075.12
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	en-an-na-tum₂	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂	1	sux	N1=Enanatum	N1=NAME	Enanatum	RN	En-ana-tum I, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001075.13
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001075.14
+1	lagaš{ki}-ka-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-ke₄	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001075.15
+1	KIB@g	KIB@g	kib	N	KIB@g\abs	object	sux	N1=kib.N5=ø	N1=STEM.N5=ABS	kib.ø	N	an object, inscribed clay nail?	_	_	_	_	_	_	_
+2	mu-dim₂-dim₂	dim₂-dim₂	dim	V/t	mu-dim₂-dim₂	create	sux	V4=mu.V11=n.V12=dimdim.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	mu.n.dimdim.ø	V/t	create	_	_	_	_	_	_	_
+
+# Q001075.16
+1	e₂-an-na-ke₄	e₂-an-na	Eanak	TN	e₂-an-na-ke₄\n5el3	1	sux	N1=Eanak.N5=e	N1=NAME.N5=L3-NH	Eanak.e	TN	1	_	_	_	_	_	_	_
+
+# Q001075.17
+1	mu-na-dug₄	dug₄	dug	V/t	mu-na-dug₄	speak	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dug.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dug.ø	V/t	speak	_	_	_	_	_	_	_
+

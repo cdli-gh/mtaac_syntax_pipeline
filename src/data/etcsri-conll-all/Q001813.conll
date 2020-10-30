@@ -1,0 +1,66 @@
+# project: etcsri 
+# textid: Q001813 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001813.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001813.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001813.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001813.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₂{ki}-ma	urim₂{ki}	Urim	SN	urim₂{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001813.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₂-ba-ke₄	limmu₂	limmu	NU	limmu₂-ba-ke₄	four	sux	NV2=limmu.N3=bi.N5=ak.N5=e	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	limmu.bi.ak.e	NU	four	_	_	_	_	_	_	_
+
+# Q001813.6
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	ma-da	ma-da	mada	N	ma-da	land	sux	N1=mada	N1=STEM	mada	N	land, country	_	_	_	_	_	_	_
+3	za-ab-ša-li{ki}	za-ab-ša-li{ki}	Zabšali	GN	za-ab-ša-li{ki}	1	sux	N1=Zabšali	N1=NAME	Zabšali	GN	1	_	_	_	_	_	_	_
+
+# Q001813.7
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+2	ma-da-ma-da	ma-da-ma-da	mada	N	ma-da-ma-da	land	sux	N1=madamada	N1=STEM-RDP	madamada	N	land, country	_	_	_	_	_	_	_
+
+# Q001813.8
+1	šimaški{ki}-ka	šimaški{ki}	Šimaški	EN	šimaški{ki}-ka\abs	1	sux	N1=Šimaški.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Šimaški.ak.ak.ø	EN	1	_	_	_	_	_	_	_
+
+# Q001813.9
+1	mu-hul-a	hul	hulu	V/t	mu-hul-a\l1	bad	sux	V4=mu.V11=n.V12=hulu.V14=ø.V15='a.N5='a	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.n.hulu.ø.'a.'a	V/t	to plunder, raid	_	_	_	_	_	_	_
+
+# Q001813.10
+1	maš₂-gal	maš₂-gal	mašgal	N	maš₂-gal	goat	sux	N1=mašgal	N1=STEM	mašgal	N	billy goat	_	_	_	_	_	_	_
+
+# Q001813.11
+1	gu₂-un	gu₂-un	gun	N	gu₂-un	load	sux	N1=gun	N1=STEM	gun	N	load	_	_	_	_	_	_	_
+2	an-ša-an{ki}-na	an-ša-an{ki}	Anšan	SN	an-ša-an{ki}-na\abs	1	sux	N1=Anšan.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Anšan.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001813.12
+1	mu-un-tum₂-ma-na	tum₂	tum	V/t	mu-un-tum₂-ma-na	lead	sux	V4=mu.V11=n.V12=tum.V14=ø.V15='a.N3=ani.N5=ak	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N3=3-SG-H-POSS.N5=GEN	mu.n.tum.ø.'a.ani.ak	V/t	to lead	_	_	_	_	_	_	_
+
+# Q001813.13
+1	tam₂-ši-lum-bi	tam₂-ši-lum	tamšilum	N	tam₂-ši-lum-bi\abs	image	sux	N1=tamšilum.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	tamšilum.bi.ø	N	image, likeness	_	_	_	_	_	_	_
+
+# Q001813.14
+1	mu-na-an-dim₂	dim₂	dim	V/t	mu-na-an-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create	_	_	_	_	_	_	_
+
+# Q001813.15
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q001813.16
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

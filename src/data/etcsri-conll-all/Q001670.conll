@@ -1,0 +1,48 @@
+# project: etcsri 
+# textid: Q001670 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001670.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001670.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	hi-a	hi	hi	V/t	hi-a\abs	mix	sux	NV2=hi.NV4='a.N5=ø	NV2=STEM.NV4=SUB.N5=ABS	hi.'a.ø	V/t	to mix (up)
+
+# Q001670.3
+1	nam-ra-aš	nam-ra	namra	N	nam-ra-aš	booty	sux	N1=namra.N5=eš	N1=STEM.N5=ADV	namra.eš	N	booty
+
+# Q001670.4
+1	ha-ba-ak	ak	ak	V/t	ha-ba-ak	do	sux	V1=ha..V11=n.V12=ak.V14=ø	V1=MOD1.V5=MID.V11=3-SG-H-A.V12=stem.V14=3-SG-P	ha.n.ak.ø	V/t	do
+
+# Q001670.5
+1	|NE.EŠ₂|	|NE.EŠ₂|	NE.EŠ₂	RN	|NE.EŠ₂|	1	sux	N1=NE.EŠ₂	N1=NAME	NE.EŠ₂	RN	1
+2	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001670.6
+1	x-x{ki}	x-x{ki}	X	GN	x-x{ki}\gen\abs	1	sux	N1=X.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	X.ak.ø	GN	1
+
+# Q001670.7
+1	šaŋa-a	šaŋa	šaŋar	V/i	šaŋa-a	oppressed	sux	N1=šaŋar.N5='a	N1=STEM.N5=L1	šaŋar.'a	V/i	(to be) afflicted, oppressed
+
+# Q001670.8
+1	ha-ni-dab₅	dab₅	dab	V/t	ha-ni-dab₅\v11sg1a	seize	sux	V1=ha.V10=ni.V11=1.V12=dab.V14=ø	V1=MOD1.V10=L1.V11=1-SG-A.V12=STEM.V14=3-SG-P	ha.ni.1.dab.ø	V/t	to seize, to take, to hold
+
+# Q001670.9
+1	šu-ŋu₁₀	šu	šu	N	šu-ŋu₁₀\abl	hand	sux	N1=šu.N3=ŋu.N5=ta	N1=STEM.N3=1-SG-POSS.N5=ABL	šu.ŋu.ta	N	hand
+2	ba-ra-ba-ta-e₃	e₃	e	V/i	ba-ra-ba-ta-e₃\v5nh3\v14sg3s	leave	sux	V2=bara.V5=ba.V9=ta.V12=e.V14=ø	V2=MOD4.V5=MID.V9=ABL.V12=STEM.V14=3-SG-S	bara.ba.ta.e.ø	V/i	to leave, go out
+
+# Q001670.10
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+2	hul	hul	hulu	V/i	hul\abs	bad	sux	NV2=hulu.N5=ø	NV2=STEM.N5=ABS	hulu.ø	V/t	(to be) bad, evil
+
+# Q001670.11
+1	ib₂-x	_	_	_	ib₂-x	_	sux	_	_	_	u	_
+

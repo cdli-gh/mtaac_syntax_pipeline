@@ -1,0 +1,30 @@
+# project: etcsri 
+# textid: Q004139 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004139.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004139.1
+1	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuenak	RN	{d}amar-{d}suen	1	sux	N1=Amarsuenak	N1=NAME	Amarsuenak	RN	3rd king of the 3rd dynasty of Urim
+
+# Q004139.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q004139.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\abs	1	sux	N1=Urim.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urim.ak.ø	SN	1
+
+# Q004139.4
+1	nam-ha-ni	nam-ha-ni	Namhani	PN	nam-ha-ni	1	sux	N1=Namhani	N1=NAME	Namhani	PN	1
+
+# Q004139.5
+1	sukkal	sukkal	sukkal	N	sukkal\abs	secretary	sux	N1=sukkal.N5=ø	N1=STEM.N5=ABS	sukkal.ø	N	secretary, envoy
+2	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

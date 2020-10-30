@@ -1,0 +1,15 @@
+# project: etcsri 
+# textid: Q003658 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003658.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003658.1
+1	aya₂-anzud{mušen}	aya₂-anzud{mušen}	Ayaanzud	RN	aya₂-anzud{mušen}\abs	1	sux	N1=Ayaanzud.N5=ø	N1=NAME.N5=ABS	Ayaanzud.ø	RN	King of Urim?
+

@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001797 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001797.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001797.1
+1	en-mah-gal-an-na	en-mah-gal-an-na	Enmahgalanak	PN	en-mah-gal-an-na	1	sux	N1=Enmahgalanak	N1=NAME	Enmahgalanak	PN	1
+
+# Q001797.2
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen\abs	1	sux	N1=Nanna.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Nanna.ak.ø	DN	1
+

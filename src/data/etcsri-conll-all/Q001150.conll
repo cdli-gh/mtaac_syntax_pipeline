@@ -1,0 +1,31 @@
+# project: etcsri 
+# textid: Q001150 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001150.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001150.1
+1	{d}nin-ŋir₂-su₂-ke₄	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ke₄	1	sux	N1=Ninŋirsuk.N5=e	N1=NAME.N5=ERG	Ninŋirsuk.e	DN	1	_	_	_	_	_	_	_
+2	iri-ka-gen₆-na-da	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na-da	1	sux	N1=Irikaginak.N5=da	N1=NAME.N5=COM	Irikaginak.da	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+3	e-da-dug₄-ga-a	dug₄	dug	V/t	e-da-dug₄-ga-a	speak	sux	V2=i.V6=nn.V8=da.V11=n.V12=dug.V14=ø.V15='a.N5='a	V2=FIN.V6=3-SG-H.V8=COM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	i.nn.da.n.dug.ø.'a.'a	V/t	speak	_	_	_	_	_	_	_
+4	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand	_	_	šu bala	change	to change, alter, revoke (something = L1)	V/t	V/t
+5	nu-di₃-ni-bala-e	bala	bala	V/t	nu-di₃-ni-bala-e	turn	sux	V1=nu.V6=nn.V8=da.V10=ni.V11=b.V12=bala.V14=e	V1=NEG.V6=3-SG-H.V8=COM.V10=L1.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A	nu.nn.da.ni.b.bala.e	V/t	turn, rotate, to change, to revoke	4	mwe	_	_	_	_	_
+
+# Q001150.2
+1	iri-ka-gen₆-na	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na	1	sux	N1=Irikaginak	N1=NAME	Irikaginak	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001150.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q001150.4
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001150.5
+1	i₃-gub	gub	gub	V/i	i₃-gub	stand	sux	V2=i.V11=n.V12=gub.V14=ø	V2=FIN.V11=3-SG-H-A.V12=gub.V14=3-SG-P	i.n.gub.ø	V/i	stand	_	_	_	_	_	_	_
+

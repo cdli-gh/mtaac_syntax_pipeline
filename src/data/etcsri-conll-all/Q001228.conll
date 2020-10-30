@@ -1,0 +1,18 @@
+# project: etcsri 
+# textid: Q001228 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001228.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001228.1
+1	{d}nin-e₂-gid₂-da	{d}nin-e₂-gid₂-da	Ninegidak	DN	{d}nin-e₂-gid₂-da\abs	1	sux	N1=Ninegidak.N5=ø	N1=NAME.N5=ABS	Ninegidak.ø	DN	1
+
+# Q001228.2
+1	me-barag-abzu	me-barag-abzu	Mebaragabzu	PN	me-barag-abzu\abs	1	sux	N1=Mebaragabzu.N5=ø	N1=NAME.N5=ABS	Mebaragabzu.ø	PN	1
+

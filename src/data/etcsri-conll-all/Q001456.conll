@@ -1,0 +1,78 @@
+# project: etcsri 
+# textid: Q001456 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001456.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001456.1
+1	{d}utu-he₂-ŋal₂	{d}utu-he₂-ŋal₂	Utuheŋal	RN	{d}utu-he₂-ŋal₂	1	sux	N1=Utuheŋal	N1=NAME	Utuheŋal	PN	King of Unug	_	_	_	_	_	_	_
+
+# Q001456.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001456.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001456.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₅-ba-ka	limmu₅	limmu	NU	limmu₅-ba-ka	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ak	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=GEN	limmu.bi.ak.ak	NU	four	_	_	_	_	_	_	_
+
+# Q001456.5
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	mu-sar-ra-na	mu-sar-ra	musara	N	mu-sar-ra-na\l2	inscription	sux	N1=musara.N3=ni.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L2-NH	musara.ni.'a	N	inscription	_	_	_	_	_	_	_
+
+# Q001456.6
+1	šu-ni	šu	šu	N	šu-ni\abs	hand	sux	N1=šu.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	šu.ani.ø	N	hand	_	_	šu ur	erase	to drag the hand on something or to wipe out something with the hand	V/t	V/t
+2	bi₂-in-uru₁₂	uru₁₂	ur	V/t	bi₂-in-uru₁₂\v11sg3p	drag	sux	V5=b.V10=i.V11=n.V12=ur.V14=e.V15='a.N5=ø	V5=3-NH.V10=L2.V11=3-SG-H-P.V12=STEM.V14=3-SG-A.V15=SUB.N5=ABS	b.i.n.ur.e.'a.ø	V/t	to drag	1	mwe	_	_	_	_	_
+
+# Q001456.7
+1	mu-ni	mu	mu	N	mu-ni\abs	name	sux	N1=mu.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	mu.ani.ø	N	name	_	_	_	_	_	_	_
+2	bi₂-ib₂-sar-a	sar	sar	V/t	bi₂-ib₂-sar-a	write	sux	V5=b.V10=i.V11=b.V12=sar.V14=e.V15='a	V5=3-NH.V10=L2.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB	b.i.b.sar.e.'a	V/t	write	_	_	_	_	_	_	_
+
+# Q001456.8
+1	aš₂	aš₂	aš	N	aš₂\abs	curse	sux	N1=aš.N5=ø	N1=STEM.N5=ABS	aš.ø	N	curse	_	_	_	_	_	_	_
+2	ba-la₂-a-ke₄-eš₂	ba-la₂	bala	V/t	ba-la₂-a-ke₄-eš₂	turn	sux	NV2=bala.NV4='a.N5=ak.N5=eš	NV2=STEM.NV4=SUB.N5=GEN.N5=ADV	bala.'a.ak.eš	V/t	turn, rotate, to change, to revoke	_	_	_	_	_	_	_
+
+# Q001456.9
+1	lu₂-kur₂-ra	lu₂-kur₂	lukur	N	lu₂-kur₂-ra\n5ral3	stranger	sux	N1=lukur.N5=ra	N1=STEM.N5=L2-H	lukur.ra	N	stranger	_	_	_	_	_	_	_
+2	he₂-ni-in-dab₅	dab₅	dab	V/t	he₂-ni-in-dab₅	seize	sux	V1=ha.V2=i.V6=nn.V10=i.V11=n.V12=dab.V14=ø	V1=MOD1.V2=FIN.V6=3-SG-H.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ha.i.nn.i.n.dab.ø	V/t	to seize, to take, to hold	_	_	_	_	_	_	_
+
+# Q001456.10
+1	ib₂-zi-ra-a	zi	zir	V/t	ib₂-zi-ra-a\gen	break	sux	V2=i.V11=b.V12=zir.V14=e.V15='a.N5=ak	V2=FIN.V11=3-SG-NH-P.V12=STEM.V14=3-SG-P.V15=SUB.N5=GEN	i.b.zir.e.'a.ak	V/t	break	_	_	_	_	_	_	_
+
+# Q001456.11
+1	bala-a-ni	bala	bala	N	bala-a-ni\abs	turn	sux	NV2=bala.NV4='a.N3=ani.N5=ø	NV2=STEM.NV4=SUB.N3=3-SG-H-POSS.N5=ABS	bala.'a.ani.ø	V/t	reign, rotation, term of office	_	_	_	_	_	_	_
+
+# Q001456.12
+1	he₂-kud	kud	kud	V/t	he₂-kud\v14sg3s	cut	sux	V1=ha.V2=i.V12=kud.V14=ø	V1=MOD1.V2=FIN.V12=STEM.V14=3-SG-S	ha.i.kud.ø	V/t	cut	_	_	_	_	_	_	_
+
+# Q001456.13
+1	numun-a-ni	numun	numun	N	numun-a-ni\abs	seed	sux	N1=numun.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	numun.ani.ø	N	seed	_	_	_	_	_	_	_
+2	he₂-til	til	til	V/i	he₂-til\v14sg3s	complete	sux	V1=ha.V2=i.V12=til.V14=ø	V1=MOD1.V2=FIN.V12=STEM.V14=3-SG-S	ha.i.til.ø	V/i	complete	_	_	_	_	_	_	_
+
+# Q001456.14
+1	an	an	an	N	an	sky	sux	N1=an	N1=STEM	an	N	sky, heaven	_	_	_	_	_	_	_
+2	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+3	diŋir-re-ne	diŋir	diŋir	N	diŋir-re-ne\gen	deity	sux	N1=diŋir.N4=enee.N5=ak	N1=STEM.N4=PL.N5=GEN	diŋir.enee.ak	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001456.15
+1	{d}inana	{d}inana	Inanak	DN	{d}inana	1	sux	N1=Inanak	N1=NAME	Inanak	DN	1	_	_	_	_	_	_	_
+2	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+3	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001456.16
+1	in-x-x-x-na	_	_	_	in-x-x-x-na	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001456.17
+1	nam	nam	nam	N	nam\abs	fate	sux	N1=nam.N5=ø	N1=STEM.N5=ABS	nam.ø	N	fate	_	_	nam kud	curse	to curse	V/t	V/t
+2	ha-ba-da-kuru₅-ne	kuru₅	kud	V/t	ha-ba-da-kuru₅-ne	cut	sux	V1=ha.V5=ba.V6=nn.V8=da.V12=kud.V14=enee	V1=MOD1.V5=MID.V6=3-SG-H.V8=COM.V12=STEM.V14=3-PL-A	ha.ba.nn.da.kud.enee	V/t	cut	1	mwe	_	_	_	_	_
+

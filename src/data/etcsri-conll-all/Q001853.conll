@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q001853 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001853.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001853.1
+1	ma-me-tum	ma-me-tum	Mametum	PN	ma-me-tum	1	sux	N1=Mametum	N1=NAME	Mametum	PN	1
+
+# Q001853.2
+1	dumu-munus	dumu-munus	dumumunus	N	dumu-munus	daughter	sux	N1=dumumunus	N1=STEM	dumumunus	N	daughter
+2	lugal	lugal	lugal	N	lugal\gen\abs	king	sux	N1=lugal.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	lugal.ak.ø	N	king
+
+# Q001853.3
+1	a-ta₂-na-ah	a-ta₂-na-ah	Atanah	PN	a-ta₂-na-ah	1	sux	N1=Atanah	N1=NAME	Atanah	PN	1
+
+# Q001853.4
+1	šabra	šabra	šabra	N	šabra\abs	administrator	sux	N1=šabra.N5=ø	N1=STEM.N5=ABS	šabra.ø	N	chief administrator of a temple or other household
+2	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

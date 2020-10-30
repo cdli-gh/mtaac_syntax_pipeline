@@ -1,0 +1,28 @@
+# project: etcsri 
+# textid: Q001254 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001254.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001254.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+
+# Q001254.3
+1	amar-{d}iškur	amar-{d}iškur	Amariškur	PN	amar-{d}iškur\gen	1	sux	N1=Amariškur.N5=ak	N1=NAME.N5=GEN	Amariškur.ak	PN	1	_	_	_	_	_	_	_
+
+# Q001254.4
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+
+# Q001254.5
+1	abzu-ki-dug₃	abzu-ki-dug₃	Abzukidug	RN	abzu-ki-dug₃\gen\erg	1	sux	N1=Abzukidug.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Abzukidug.ak.e	RN	Ruler of Nibru	_	_	_	_	_	_	_
+
+# Q001254.6
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-ru	ru	ru	V/t	mu-ru\dat	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

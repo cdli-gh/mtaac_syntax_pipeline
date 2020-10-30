@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q001733 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001733.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001733.1
+1	ha-ba-lu₅-ge₂	ha-ba-lu₅-ge₂	Habaluge	PN	ha-ba-lu₅-ge₂	1	sux	N1=Habaluge	N1=NAME	Habaluge	PN	Governor of Adab
+
+# Q001733.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+2	adab{ki}	adab{ki}	Adab	SN	adab{ki}\gen\abs	1	sux	N1=Adab.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Adab.ak.ø	SN	1
+
+# Q001733.3
+1	amar-šuba₃	amar-šuba₃	Amaršuba	PN	amar-šuba₃	1	sux	N1=Amaršuba	N1=NAME	Amaršuba	PN	1
+
+# Q001733.4
+1	dub-sar	dub-sar	dubsar	N	dub-sar\abs	scribe	sux	N1=dubsar.N5=ø	N1=STEM.N5=ABS	dubsar.ø	N	scribe
+2	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

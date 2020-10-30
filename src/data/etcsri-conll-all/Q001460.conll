@@ -1,0 +1,63 @@
+# project: etcsri 
+# textid: Q001460 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001460.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001460.2
+1	mu-na-pad₃	pad₃	pad	V/t	mu-na-pad₃	find	sux	V4=mu.V6=nn.V7=a.V11=n.V12=pad.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.pad.ø	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q001460.3
+1	{d}lamma	{d}lamma	lammar	N	{d}lamma	deity	sux	N1=lammar	N1=STEM	lammar	N	deity	_	_	_	_	_	_	_
+2	sag₉-ga	sag₉	sag	V/i	sag₉-ga	good	sux	NV2=sag.NV4='a	NV2=STEM.NV4=SUB	sag.'a	V/i	(to be) good	_	_	_	_	_	_	_
+
+# Q001460.4
+1	{d}nin-sumun₂	{d}nin-sumun₂	Ninsumunak	DN	{d}nin-sumun₂	1	sux	N1=Ninsumunak	N1=NAME	Ninsumunak	DN	1	_	_	_	_	_	_	_
+
+# Q001460.5
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni\dat	deity	sux	N1=diŋir.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	diŋir.ani.ra	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001460.6
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	iri-kug-ga-ka-ni	iri-kug	Irikug	SN	iri-kug-ga-ka-ni\abs	1	sux	N1=Irikug.N5=ak.N3=ani.N5=ø	N1=NAME.N5=GEN.N3=3-SG-H-POSS.N5=ABS	Irikug.ak.ani.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001460.7
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001460.8
+1	{d}za-za-ru	{d}za-za-ru	Zazaru	DN	{d}za-za-ru	1	sux	N1=Zazaru	N1=NAME	Zazaru	DN	1	_	_	_	_	_	_	_
+
+# Q001460.11
+1	{d}ur₂-nun-ta-e₃-a	{d}ur₂-nun-ta-e₃-a	Urnuntaʾea	DN	{d}ur₂-nun-ta-e₃-a	1	sux	N1=Urnuntaʾea	N1=NAME	Urnuntaʾea	DN	1	_	_	_	_	_	_	_
+
+# Q001460.12
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	{d}nin-ŋir₂-su-ka-ra	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka-ra	1	sux	N1=Ninŋirsuk.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Ninŋirsuk.ak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001460.13
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	iri-kug-ga-ka-ni	iri-kug	Irikug	SN	iri-kug-ga-ka-ni\abs	1	sux	N1=Irikug.N5=ak.N3=ani.N5=ø	N1=NAME.N5=GEN.N3=3-SG-H-POSS.N5=ABS	Irikug.ak.ani.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001460.14
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001460.15
+1	{d}nin-mar-ki	{d}nin-mar-ki	Ninmarkik	DN	{d}nin-mar-ki	1	sux	N1=Ninmarkik	N1=NAME	Ninmarkik	DN	1	_	_	_	_	_	_	_
+
+# Q001460.16
+1	munus	munus	munus	N	munus	woman	sux	N1=munus	N1=STEM	munus	N	woman	_	_	_	_	_	_	_
+2	sag₉-ga	sag₉	sag	V/i	sag₉-ga\dat	good	sux	NV2=sag.NV4='a.N5=ra	NV2=STEM.NV4=SUB.N5=DAT-H	sag.'a.ra	V/i	(to be) good	_	_	_	_	_	_	_
+
+# Q001460.17
+1	šita-ab-ba	šita-ab-ba	šitaʾaba	N	šita-ab-ba\abs	priest	sux	N1=šita'aba.N5=ø	N1=STEM.N5=ABS	šita'aba.ø	N	a priest	_	_	_	_	_	_	_
+
+# Q001460.18
+1	maš-e	maš	maš	N	maš-e\n5el3	goat	sux	N1=maš.N5=e	N1=STEM.N5=L3-NH	maš.e	N	goat	_	_	maše pad	choose by extispicy	to choose by extispicy	V/t	V/t
+2	mu-na-pad₃	pad₃	pad	V/t	mu-na-pad₃	find	sux	V4=mu.V6=nn.V7=a.V11=n.V12=pad.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.pad.ø	V/t	to find, to discover	1	mwe	_	_	_	_	_
+

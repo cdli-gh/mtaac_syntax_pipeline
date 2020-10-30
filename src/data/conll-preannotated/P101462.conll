@@ -1,0 +1,27 @@
+#new_text=P101462
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(disz)	2(disz)[one]	NUM	NU	_	_	_	_	_
+2	udu	udu[sheep]	NOUN	N	Number=Sing	udu[sheep][-ø]	N.ABS	_	udu[sheep][-ak][-ø]
+3	niga	niga[fattened]	VERB	V	_	niga[fattened][-a][-ak]	V.SUB.GEN	_	niga[fattened][-a][-ø]
+4	an-nu-ni-tum	Annunitum[1]	PROPN	GN	Animacy=Hum|Number=Sing	_	_	_	_
+5	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+6	udu	udu[sheep]	NOUN	N	Number=Sing	udu[sheep]	N	_	udu[sheep][-ak][-ø]
+7	u2	u[grass]	NOUN	N	Number=Sing	u[grass][-ø]	N.ABS	_	_
+8	{d}ul-ma-szi-tum	Ulmaszitum[1]	PROPN	DN	Animacy=Hum|Number=Sing	_	_	_	_
+9	u4	ud[day]	NOUN	N	Number=Sing	_	_	_	_
+10	e3	e[leave]	VERB	V	_	_	_	_	_
+11	ru-ba-tum-ka	rubatum[princess]	NOUN	N	Case=Gen,Gen|Number=Sing	_	_	_	_
+12	sza3	szag[heart]	NOUN	N	Number=Sing	szag[heart]	_	_	_
+13	uri5{ki}-ma	Urim[1]	PROPN	SN	Case=Gen|Number=Sing	Urim[1][-ak]-'a	SN.GEN.L1	_	Urim[1]-ak[-'a]
+14	giri3	giri[foot]	NOUN	N	Number=Sing	giri[foot]	PRP	_	giri[foot]  N
+15	lu2-uru11{ki}	Lu'uru[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+16	sukkal	sukkal[secretary]	NOUN	N	Case=Gen|Number=Sing	sukkal[secretary][-ak]	N.GEN	_	_
+17	iti	iti[month]	NOUN	N	Number=Sing	iti[month]	N	_	iti[month][-ak]
+18	a2-ki-ti	Akiti[1]	PROPN	MN	Number=Sing	_	_	_	_
+19	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+20	us2-sa	us[follow]	VERB	V	_	us[follow]-'a	V.SUB	_	_
+21	e2	e[house]	NOUN	N	Number=Sing	_	_	_	_
+22	puzur4-isz-{d}da-gan	Puzuriszdagan[1]	PROPN	SN	Case=Gen,Abs|Number=Sing	Puzuriszdagan[1][-ø]	SN.ABS	_	_
+23	ba-du3-a	du[build]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_
+24	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+25	us2-sa-bi	us[follow]	VERB	V	Number=Sing|Person=3	_	_	_	_

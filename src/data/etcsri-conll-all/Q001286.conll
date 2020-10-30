@@ -1,0 +1,15 @@
+# project: etcsri 
+# textid: Q001286 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001286.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001286.1
+1	munus-ki-gal	munus-ki-gal	Munuskigal	PN	munus-ki-gal\abs	1	sux	N1=Munuskigal.N5=ø	N1=NAME.N5=ABS	Munuskigal.ø	PN	1
+

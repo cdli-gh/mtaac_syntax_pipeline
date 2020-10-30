@@ -1,0 +1,37 @@
+# project: etcsri 
+# textid: Q001570 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001570.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001570.1
+1	{d}nin-ŋeš-zid-da	{d}nin-ŋeš-zid-da	Ninŋešzidak	DN	{d}nin-ŋeš-zid-da	1	sux	N1=Ninŋešzidak	N1=NAME	Ninŋešzidak	DN	1
+
+# Q001570.2
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni\dat	deity	sux	N1=diŋir.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	diŋir.ani.ra	N	deity, personal god
+
+# Q001570.3
+1	ur-{d}nin-ŋir₂-su	ur-{d}nin-ŋir₂-su	Urninŋirsu	RN	ur-{d}nin-ŋir₂-su	2	sux	N1=Urninŋirsu	N1=NAME	Urninŋirsu	RN	Ur-Ninŋirsu II, ruler of Lagaš, son of Gudea, ruler of Lagaš
+
+# Q001570.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001570.5
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001570.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1
+
+# Q001570.7
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001570.8
+1	lagaš{ki}-ka	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka	1	sux	N1=Lagaš.N5=ak.N5=ak	N1=NAME.N5=GEN.N5=GEN	Lagaš.ak.ak	SN	1
+

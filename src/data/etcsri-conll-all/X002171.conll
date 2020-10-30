@@ -1,0 +1,32 @@
+# project: etcsri 
+# textid: X002171 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: X002171.U0 
+# bracketing_level: 0 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# X002171.1
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim
+
+# X002171.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# X002171.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# X002171.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba\abs	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ø	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	limmu.bi.ak.ø	NU	four
+
+# X002171.5
+1	wa-qar-tum	wa-qar-tum	Waqartum	PN	wa-qar-tum\abs	1	sux	N1=Waqartum.N5=ø	N1=NAME.N5=ABS	Waqartum.ø	PN	Sister of Šu-Suen, king of Ur
+
+# X002171.6
+1	nin₉-a-ni	nin₉	nin	N	nin₉-a-ni\abs	sister	sux	N1=nin.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	nin.ani.ø	N	sister, cousin
+

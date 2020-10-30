@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q001202 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001202.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001202.1
+1	diŋir-mah	diŋir-mah	Diŋirmah	DN	diŋir-mah\dat	1	sux	N1=Diŋirmah.N5=ra	N1=NAME.N5=DAT-H	Diŋirmah.ra	DN	1
+
+# Q001202.2
+1	e₂-igi-nim-pa-e₃	e₂-igi-nim-pa-e₃	Eiginimpae	RN	e₂-igi-nim-pa-e₃	1	sux	N1=Eiginimpae	N1=NAME	Eiginimpae	RN	Ruler of Adab
+
+# Q001202.3
+1	ensiₓ(|GAR.PA.TE.SI|)	ensiₓ(|GAR.PA.TE.SI|)	ensik	N	ensiₓ(|GAR.PA.TE.SI|)	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001202.4
+1	adab{ki}	adab{ki}	Adab	SN	adab{ki}\gen	1	sux	N1=Adab.N5=ak	N1=NAME.N5=GEN	Adab.ak	SN	1
+
+# Q001202.5
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001202.6
+1	e₂-mah	e₂-mah	Emah	TN	e₂-mah\abs	3	sux	N1=Emah.N5=ø	N1=NAME.N5=ABS	Emah.ø	TN	3
+2	du₃-a	du₃	du	V/t	du₃-a\abs	build	sux	NV2=du.NV4='a.N5=ø	NV2=STEM.NV4=SUB.N5=ABS	du.'a.ø	V/t	to build
+

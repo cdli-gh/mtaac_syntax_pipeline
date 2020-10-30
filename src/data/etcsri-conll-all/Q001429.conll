@@ -1,0 +1,38 @@
+# project: etcsri 
+# textid: Q001429 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001429.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001429.1
+1	{d}na-ra-am-{d}suen	{d}na-ra-am-{d}suen	Naramsuen	RN	{d}na-ra-am-{d}suen	1	sux	N1=Naramsuen	N1=NAME	Naramsuen	RN	King of Agade
+
+# Q001429.2
+1	diŋir	diŋir	diŋir	N	diŋir	deity	sux	N1=diŋir	N1=STEM	diŋir	N	deity, personal god
+2	a-ga-de₃{ki}	a-ga-de₃{ki}	Agade	SN	a-ga-de₃{ki}\gen	1	sux	N1=Agade.N5=ak	N1=NAME.N5=GEN	Agade.ak	SN	1
+
+# Q001429.3
+1	en-men-an-na	en-men-an-na	Enmenanak	PN	en-men-an-na	1	sux	N1=Enmenana	N1=NAME	Enmenana	PN	Daughter of Narām-Suen, king of Agade
+
+# Q001429.4
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen	1	sux	N1=Nanna.N5=ak	N1=NAME.N5=GEN	Nanna.ak	DN	1
+
+# Q001429.5
+1	dumu-ni	dumu	dumu	N	dumu-ni\abs	child	sux	N1=dumu.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	dumu.ani.ø	N	child
+
+# Q001429.6
+1	LU-x-x	LU-x-x	LU.X	PN	LU-x-x	1	sux	N1=LU.X	N1=NAME	LU.X	PN	1
+
+# Q001429.7
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+
+# Q001429.8
+1	arad₂-da-ni	arad₂	arad	N	arad₂-da-ni\abs	slave	sux	N1=arad.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	arad.ani.ø	N	slave, servant
+

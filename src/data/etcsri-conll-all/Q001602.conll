@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q001602 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001602.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001602.1
+1	{d}nin-sumun₂	{d}nin-sumun₂	Ninsumunak	DN	{d}nin-sumun₂	1	sux	N1=Ninsumunak	N1=NAME	Ninsumunak	DN	1
+
+# Q001602.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001602.4
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+

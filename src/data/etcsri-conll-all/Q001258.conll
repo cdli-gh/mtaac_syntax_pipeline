@@ -1,0 +1,25 @@
+# project: etcsri 
+# textid: Q001258 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001258.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001258.1
+1	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂\dat	1	sux	N1=Enlil.N5=ra	N1=NAME.N5=DAT-H	Enlil.ra	DN	1
+
+# Q001258.2
+1	ur-{d}en-lil₂	ur-{d}en-lil₂	Urenlil	RN	ur-{d}en-lil₂	2	sux	N1=Urenlil	N1=NAME	Urenlil	RN	Ruler of Nibru
+
+# Q001258.3
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+2	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen\erg	1	sux	N1=Nibru.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Nibru.ak.e	SN	1
+
+# Q001258.4
+1	ga-til₃-la-še₃	ga-til₃-la	gatil	N	ga-til₃-la-še₃	vow	sux	N1=gatil.N5=še	N1=STEM.N5=TERM	gatil.še	N	vow, a votive offering
+

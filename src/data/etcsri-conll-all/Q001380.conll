@@ -1,0 +1,372 @@
+# project: etcsri 
+# textid: Q001380 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001380.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001380.1
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	{d}šara₂	{d}šara₂	Šara	DN	{d}šara₂\erg	1	sux	N1=Šara.N5=e	N1=NAME.N5=ERG	Šara.e	DN	1	_	_	_	_	_	_	_
+
+# Q001380.2
+1	{d}en-lilₓ(E₂)-ra	{d}en-lilₓ(E₂)	Enlil	DN	{d}en-lilₓ(E₂)-ra	1	sux	N1=Enlil.N5=ra	N1=NAME.N5=DAT-H	Enlil.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001380.3
+1	ra₂-zu	ra₂-zu	arazu	N	ra₂-zu	supplication	sux	N1=arazu	N1=STEM	arazu	N	supplication	_	_	_	_	_	_	_
+2	ur₄	ur₄	ur	V/i	ur₄	convulsed	sux	NV2=ur	NV2=STEM	ur	V/i	to be convulsed	_	_	_	_	_	_	_
+3	šag₄-ga	šag₄	šag	N	šag₄-ga\gen\abs	heart	sux	N1=šag.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	šag.ak.ø	N	heart, inner body	_	_	_	_	_	_	_
+
+# Q001380.4
+1	e-na-dug₄-ga	dug₄	dug	V/t	e-na-dug₄-ga	speak	sux	V2=i.V6=nn.V7=a.V11=n.V12=dug.V14=ø.V15='a	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB	i.nn.a.n.dug.ø.'a	V/t	speak	_	_	_	_	_	_	_
+
+# Q001380.5
+1	e-na-ŋen-na	ŋen	ŋen	V/i	e-na-ŋen-na\l1	go	sux	V2=i.V6=nn.V7=a.V12=ŋen.V14=ø.V15='a.N5='a	V2=FIN.V6=nn.V7=a.V12=STEM.V14=3-SG-S.V15=SUB.N5=L1	i.nn.a.ŋen.ø.'a.'a	V/i	go, walk	_	_	_	_	_	_	_
+
+# Q001380.6
+1	ŋeš-ša₃-ki-dug₃	ŋeš-ša₃-ki-dug₃	Ŋišakidug	RN	ŋeš-ša₃-ki-dug₃	1	sux	N1=Ŋišakidug	N1=NAME	Ŋišakidug	RN	King of Umma	_	_	_	_	_	_	_
+2	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd	_	_	_	_	_	_	_
+3	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+4	aŋ₂-ŋa₂	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂	measure	sux	NV2=aŋ.NV4='a	NV2=STEM.NV4=SUB	aŋ.'a	V/t	measure	3	mwe	_	_	_	_	_
+
+# Q001380.7
+1	{d}šara₂-ke₄	{d}šara₂	Šara	DN	{d}šara₂-ke₄	1	sux	N1=Šara.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Šara.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001380.8
+1	a-x	_	_	_	a-x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x-še₃	_	_	_	x-še₃	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	tud-da	tud	utud	V/t	tud-da	bear	sux	NV2=utud.NV4='a	NV2=STEM.NV4=SUB	utud.'a	V/t	bear	_	_	_	_	_	_	_
+
+# Q001380.9
+1	nir-ŋal₂	nir-ŋal₂	nirŋal	V/i	nir-ŋal₂	authoritative	sux	NV2=nirŋal	NV2=STEM	nirŋal	V/i	(to be) authoritative	_	_	_	_	_	_	_
+2	saŋ	saŋ	saŋ	N	saŋ	head	sux	N1=saŋ	N1=STEM	saŋ	N	head	_	_	_	_	_	_	_
+3	huš	huš	huš	V/i	huš	reddish	sux	NV2=huš	NV2=STEM	huš	V/i	(to be) reddish, ruddy	_	_	_	_	_	_	_
+4	ki-en-gi-ke₄	ki-en-gi	Kiengir	GN	ki-en-gi-ke₄	1	sux	N1=Kiengir.N5=ak.N5=e	N1=NAME.N5=GEN.N5-ERG	Kiengir.ak.e	GN	1	_	_	_	_	_	_	_
+
+# Q001380.10
+1	gaba-ŋal₂	gaba-ŋal₂	gabaŋal	AJ	gaba-ŋal₂	forceful	sux	N1=gabaŋal	N1=STEM	gabaŋal	AJ	forceful	_	_	_	_	_	_	_
+2	nu-gi₄	gi₄	gi	V/i	nu-gi₄	turn	sux	NV1=nu.NV2=gi.NV3=ed	NV1=NEG.NV2=STEM.NV3=PF	nu.gi.ed	V/i	turn	_	_	_	_	_	_	_
+3	kur-kur-ra-ke₄	kur-kur	kur	N	kur-kur-ra-ke₄	mountain	sux	N1=kurkur.N5=ak.N5=e	N1=STEM-RDP.N5=GEN.N5=ERG	kurkur.ak.e	N	mountain	_	_	_	_	_	_	_
+
+# Q001380.11
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest	_	_	_	_	_	_	_
+2	zag	zag	zag	N	zag\abs	side	sux	N1=zag.N5=ø	N1=STEM.N5=ABS	zag.ø	N	side	_	_	_	_	_	_	_
+3	keše₂	keše₂	kešed	V/t	keše₂	bind	sux	NV2=kešed	NV2=STEM	kešed	V/t	to bind	_	_	_	_	_	_	_
+4	{d}nin-ur₄-ke₄	{d}nin-ur₄-ra	Ninura	DN	{d}nin-ur₄-ke₄	1	sux	N1=Ninura.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninura.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001380.12
+1	ama	ama	ama	N	ama	mother	sux	N1=ama	N1=STEM	ama	N	mother	_	_	_	_	_	_	_
+2	šag₄	šag₄	šag	N	šag₄\abs	heart	sux	N1=šag.N5=ø	N1=STEM.N5=ABS	šag.ø	N	heart, inner body	_	_	šag kušu	soothe	soothe, to take counsel with	V/t	V/t
+3	kuš₂	kuš₂	kušu	V/i	kuš₂	tired	sux	NV2=kušu	NV2=STEM	kušu	V/i	(to be) tired, troubled	2	mwe	_	_	_	_	_
+4	{d}en-ki-ka-ke₄	{d}en-ki	Enkik	DN	{d}en-ki-ka-ke₄	1	sux	N1=Enkik.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Enkik.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001380.13
+1	gu₅-li	gu₅-li	guli	N	gu₅-li	friend	sux	N1=guli	N1=STEM	guli	N	friend	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001380.14
+1	{d}ištaran-ke₄	{d}ištaran	Ištaran	DN	{d}ištaran-ke₄	1	sux	N1=Ištaran.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ištaran.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001380.15
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001380.16
+1	{d}en-lilₓ(E₂)-ke₄	{d}en-lilₓ(E₂)	Enlil	DN	{d}en-lilₓ(E₂)-ke₄	1	sux	N1=Enlil.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Enlil.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001380.17
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	_	_	_	_	_
+3	pad₃	pad₃	pad	V/t	pad₃\sub	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	_	_	_	_	_	_	_
+4	{d}inana-ke₄	{d}inana	Inanak	DN	{d}inana-ke₄	1	sux	N1=Inanak.N5=e	N1=NAME.N5=ERG	Inanak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001380.18
+1	eg₂-bi	eg₂	eg	N	eg₂-bi\abs	levee	sux	N1=eg.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	eg.bi.ø	N	levee	_	_	_	_	_	_	_
+2	mu-ak	ak	ak	V/t	mu-ak	do	sux	V4=mu.V11=n.V12=ak.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.ak.ø	V/t	do	_	_	_	_	_	_	_
+
+# Q001380.19
+1	na-bi	na	na	N	na-bi\abs	stone	sux	N1=na.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	na.bi.ø	N	stone	_	_	_	_	_	_	_
+2	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001380.20
+1	im-dub-ba-be₂	in-dub-ba	induba	N	im-dub-ba-be₂\n5el3	boundary	sux	N1=induba.N3=bi.N5=e	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	induba.bi.e	N	boundary	_	_	_	_	_	_	_
+
+# Q001380.21
+1	pa	pa	pa	N	pa\abs	branch	sux	N1=pa.N5=ø	N1=STEM.N5=ABS	pa.ø	N	branch	_	_	_	_	_	_	_
+2	e-mi-e₃	e₃	e	V/i	e-mi-e₃	leave	sux	V2=i.V4=m.V5=b.V10=i.V11=n.V12=e.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.m.b.i.n.e.ø	V/i	to leave, go out	_	_	_	_	_	_	_
+
+# Q001380.22
+1	na-ru₂-a-bi	na-ru₂-a	narua	N	na-ru₂-a-bi\abs	stele	sux	N1=narua.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	narua.bi.ø	N	stele	_	_	_	_	_	_	_
+
+# Q001380.23
+1	ki-be₂	ki	ki	N	ki-be₂\n5el3	place	sux	N1=ki.N3=bi.N5=e	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	ki.bi.e	N	place	_	_	_	_	_	_	_
+2	bi-gi₄	gi₄	gi	V/i	bi-gi₄	turn	sux	V5=b.V10=i.V11=n.V12=gi.V14=ø	V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.gi.ø	V/i	turn	_	_	_	_	_	_	_
+
+# Q001380.24
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001380.25
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	{d}šara₂	{d}šara₂	Šara	DN	{d}šara₂	1	sux	N1=Šara	N1=NAME	Šara	DN	1	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001380.26
+1	zag	zag	zag	N	zag	side	sux	N1=zag	N1=STEM	zag	N	side	_	_	_	_	_	_	_
+2	na	na	na	N	na\abs	stone	sux	N1=na.N5=ø	N1=STEM.N5=ABS	na.ø	N	stone	_	_	_	_	_	_	_
+3	du₃-a	du₃	du	V/t	du₃-a	build	sux	NV2=du.NV4='a	NV2=STEM.NV4=SUB	du.'a	V/t	to erect (a stela)	_	_	_	_	_	_	_
+4	{d}šara₂-kam	{d}šara₂	Šara	DN	{d}šara₂-kam	1	sux	N1=Šara.N5=ak.N5=ø.N6=am	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Šara.ak.ø.am	DN	1	_	_	_	_	_	_	_
+
+# Q001380.27
+1	id₂-mah₂-ta	id₂-mah₂	Idmah	WN	id₂-mah₂-ta	1	sux	N1=Idmah.N5=ta	N1=NAME.N5=ABL	Idmah.ta	WN	1	_	_	_	_	_	_	_
+
+# Q001380.28
+1	id₅-gaba-a-še₃	id₅-gaba-a	Idgabaa	WN	id₅-gaba-a-še₃	1	sux	N1=Idgabaa.N5=še	N1=NAME.TERM	Idgabaa.še	WN	1	_	_	_	_	_	_	_
+
+# Q001380.29
+1	4(u@c)	_	_	_	4(u@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	5(aš@c)	_	_	_	5(aš@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+3	{ninda}nindaₓ(DU)	{ninda}nindaₓ(DU)	nindan	N	{ninda}nindaₓ(DU)\abs	pole	sux	N1=nindan.N5=ø	N1=STEM.N5=ABS	nindan.ø	N	pole, a unit of length	_	_	_	_	_	_	_
+
+# Q001380.30
+1	zag	zag	zag	N	zag	side	sux	N1=zag	N1=STEM	zag	N	side	_	_	_	_	_	_	_
+2	na	na	na	N	na\abs	stone	sux	N1=na.N5=ø	N1=STEM.N5=ABS	na.ø	N	stone	_	_	_	_	_	_	_
+3	du₃-a	du₃	du	V/t	du₃-a	build	sux	NV2=du.NV4='a	NV2=STEM.NV4=SUB	du.'a	V/t	to erect (a stela)	_	_	_	_	_	_	_
+4	{d}šara₂-kam	{d}šara₂	Šara	DN	{d}šara₂-kam	1	sux	N1=Šara.N5=ak.N5=ø.N6=am	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Šara.ak.ø.am	DN	1	_	_	_	_	_	_	_
+
+# Q001380.31
+1	id₂-gaba-a-ta	id₂-gaba-a	Idgabaa	WN	id₂-gaba-a-ta	1	sux	N1=Idgabaa.N5=ta	N1=NAME.ABL	Idgabaa.ta	WN	1	_	_	_	_	_	_	_
+
+# Q001380.32
+1	KA-x	_	_	_	KA-x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001380.34
+1	zag	zag	zag	N	zag	side	sux	N1=zag	N1=STEM	zag	N	side	_	_	_	_	_	_	_
+2	na	na	na	N	na\abs	stone	sux	N1=na.N5=ø	N1=STEM.N5=ABS	na.ø	N	stone	_	_	_	_	_	_	_
+3	du₃-a	du₃	du	V/t	du₃-a	build	sux	NV2=du.NV4='a	NV2=STEM.NV4=SUB	du.'a	V/t	to erect (a stela)	_	_	_	_	_	_	_
+4	{d}šara₂-kam	{d}šara₂	Šara	DN	{d}šara₂-kam	1	sux	N1=Šara.N5=ak.N5=ø.N6=am	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Šara.ak.ø.am	DN	1	_	_	_	_	_	_	_
+
+# Q001380.36
+1	zag	zag	zag	N	zag	side	sux	N1=zag	N1=STEM	zag	N	side	_	_	_	_	_	_	_
+2	na	na	na	N	na\abs	stone	sux	N1=na.N5=ø	N1=STEM.N5=ABS	na.ø	N	stone	_	_	_	_	_	_	_
+3	du₃-a	du₃	du	V/t	du₃-a	build	sux	NV2=du.NV4='a	NV2=STEM.NV4=SUB	du.'a	V/t	to erect (a stela)	_	_	_	_	_	_	_
+4	{d}šara₂-kam	{d}šara₂	Šara	DN	{d}šara₂-kam	1	sux	N1=Šara.N5=ak.N5=ø.N6=am	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Šara.ak.ø.am	DN	1	_	_	_	_	_	_	_
+
+# Q001380.37
+1	HAR-mah₂-ta	HAR-mah₂	HAR-mah	GN	HAR-mah₂-ta	1	sux	N1=HAR-mah.N4=ta	N1=NAME.N5=ABL	HAR-mah.ta	GN	1	_	_	_	_	_	_	_
+
+# Q001380.38
+1	badₓ(|EZEN×U@c|)	badₓ(|EZEN×U@c|)	bad	N	badₓ(|EZEN×U@c|)	wall	sux	N1=bad	N1=STEM	bad	N	wall, fortification	_	_	_	_	_	_	_
+
+# Q001380.39
+1	{anše}du₂₄-ur₃-ŋa₂-ra-še₃	{anše}du₂₄-ur₃-ŋa₂-ra	Durŋara	GN	{anše}du₂₄-ur₃-ŋa₂-ra-še₃	1	sux	N1=Durŋara.N5=ak.N5=še	N1=NAME.N5=GEN.N5=TERM	Durŋara.ak.še	GN	1	_	_	_	_	_	_	_
+
+# Q001380.40
+1	6(geš₂@c)	_	_	_	6(geš₂@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	3(u@c)	_	_	_	3(u@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+3	{ninda}nindaₓ(DU)	{ninda}nindaₓ(DU)	nindan	N	{ninda}nindaₓ(DU)\abs	pole	sux	N1=nindan.N5=ø	N1=STEM.N5=ABS	nindan.ø	N	pole, a unit of length	_	_	_	_	_	_	_
+
+# Q001380.41
+1	zag	zag	zag	N	zag	side	sux	N1=zag	N1=STEM	zag	N	side	_	_	_	_	_	_	_
+2	na	na	na	N	na\abs	stone	sux	N1=na.N5=ø	N1=STEM.N5=ABS	na.ø	N	stone	_	_	_	_	_	_	_
+3	du₃-a	du₃	du	V/t	du₃-a	build	sux	NV2=du.NV4='a	NV2=STEM.NV4=SUB	du.'a	V/t	to erect (a stela)	_	_	_	_	_	_	_
+4	{d}šara₂-kam	{d}šara₂	Šara	DN	{d}šara₂-kam	1	sux	N1=Šara.N5=ak.N5=ø.N6=am	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Šara.ak.ø.am	DN	1	_	_	_	_	_	_	_
+
+# Q001380.42
+1	u@c	_	_	_	u@c	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	bad₃	bad₃	bad	N	bad₃	wall	sux	N1=bad	N1=STEM	bad	N	wall, fortification	_	_	_	_	_	_	_
+3	da	da	dag	N	da	line	sux	N1=da	N1=STEM	da	N	line, side, edge	_	_	_	_	_	_	_
+
+# Q001380.43
+1	{anše}du₂₄-ur₃-ŋa₂-ra-ta	{anše}du₂₄-ur₃-ŋa₂-ra	Durŋara	GN	{anše}du₂₄-ur₃-ŋa₂-ra-ta	1	sux	N1=Durŋara.N5=ak.N5=ta	N1=NAME.N5=GEN.N5=ABL	Durŋara.ak.ta	GN	1	_	_	_	_	_	_	_
+
+# Q001380.44
+1	naŋ-{d}nanše-še₃	naŋ-{d}nanše	Naŋnanšek	GN	naŋ-{d}nanše-še₃	1	sux	N1=Naŋnanšek.N5=še	N1=NAME.N5=TERM	Naŋnanšek.še	GN	1	_	_	_	_	_	_	_
+
+# Q001380.45
+1	1(gešʾu@c)	_	_	_	1(gešʾu@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	3(u@c)	_	_	_	3(u@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+3	6(aš@c)	_	_	_	6(aš@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+4	{ninda}nindaₓ(DU)	{ninda}nindaₓ(DU)	nindan	N	{ninda}nindaₓ(DU)\abs	pole	sux	N1=nindan.N5=ø	N1=STEM.N5=ABS	nindan.ø	N	pole, a unit of length	_	_	_	_	_	_	_
+
+# Q001380.46
+1	zag	zag	zag	N	zag	side	sux	N1=zag	N1=STEM	zag	N	side	_	_	_	_	_	_	_
+2	na	na	na	N	na\abs	stone	sux	N1=na.N5=ø	N1=STEM.N5=ABS	na.ø	N	stone	_	_	_	_	_	_	_
+3	du₃-a	du₃	du	V/t	du₃-a	build	sux	NV2=du.NV4='a	NV2=STEM.NV4=SUB	du.'a	V/t	to erect (a stela)	_	_	_	_	_	_	_
+4	{d}šara₂-kam	{d}šara₂	Šara	DN	{d}šara₂-kam	1	sux	N1=Šara.N5=ak.N5=ø.N6=am	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Šara.ak.ø.am	DN	1	_	_	_	_	_	_	_
+
+# Q001380.47
+1	naŋ-{d}nanše-ta	naŋ-{d}nanše	Naŋnanšek	GN	naŋ-{d}nanše-ta	1	sux	N1=Naŋnanšek.N5=ta	N1=NAME.N5=ABL	Naŋnanšek.ta	GN	1	_	_	_	_	_	_	_
+
+# Q001380.48
+1	id₂-gibil-še₃	id₂-gibil	Idgibil	WN	id₂-gibil-še₃	1	sux	N1=Idgibil.N5=še	N1=NAME.TERM	Idgibil.še	WN	1	_	_	_	_	_	_	_
+
+# Q001380.49
+1	2(gešʾu@c)	_	_	_	2(gešʾu@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	la₂	la₂	lal	V/i	la₂	small	sux	NV2=lal	NV2=STEM	lal	V/i	to be(come) small	_	_	_	_	_	_	_
+3	2(u@c)	_	_	_	2(u@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+4	{ninda}nindaₓ(DU)	{ninda}nindaₓ(DU)	nindan	N	{ninda}nindaₓ(DU)\abs	pole	sux	N1=nindan.N5=ø	N1=STEM.N5=ABS	nindan.ø	N	pole, a unit of length	_	_	_	_	_	_	_
+
+# Q001380.50
+1	zag	zag	zag	N	zag	side	sux	N1=zag	N1=STEM	zag	N	side	_	_	_	_	_	_	_
+2	na	na	na	N	na\abs	stone	sux	N1=na.N5=ø	N1=STEM.N5=ABS	na.ø	N	stone	_	_	_	_	_	_	_
+3	du₃-a	du₃	du	V/t	du₃-a	build	sux	NV2=du.NV4='a	NV2=STEM.NV4=SUB	du.'a	V/t	to erect (a stela)	_	_	_	_	_	_	_
+4	{d}šara₂-kam	{d}šara₂	Šara	DN	{d}šara₂-kam	1	sux	N1=Šara.N5=ak.N5=ø.N6=am	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Šara.ak.ø.am	DN	1	_	_	_	_	_	_	_
+
+# Q001380.51
+1	id₂-gibil-ta	id₂-gibil	Idgibil	WN	id₂-gibil-ta	1	sux	N1=Idgibil.N5=ta	N1=NAME.ABL	Idgibil.ta	WN	1	_	_	_	_	_	_	_
+
+# Q001380.52
+1	e₂-{d}dimgal-abzu-ka-še₃	e₂-{d}dimgal-abzu-ka	Edimgalabzukak	TN	e₂-{d}dimgal-abzu-ka-še₃	1	sux	N1=Edimgalabzukak.N5=še	N1=NAME.N5=TERM	Edimgalabzukak.še	TN	1	_	_	_	_	_	_	_
+
+# Q001380.53
+1	1(gešʾu@c)	_	_	_	1(gešʾu@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	6(geš₂@c)	_	_	_	6(geš₂@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+3	{ninda}nindaₓ(DU)	{ninda}nindaₓ(DU)	nindan	N	{ninda}nindaₓ(DU)\abs	pole	sux	N1=nindan.N5=ø	N1=STEM.N5=ABS	nindan.ø	N	pole, a unit of length	_	_	_	_	_	_	_
+
+# Q001380.54
+1	zag	zag	zag	N	zag	side	sux	N1=zag	N1=STEM	zag	N	side	_	_	_	_	_	_	_
+2	na	na	na	N	na\abs	stone	sux	N1=na.N5=ø	N1=STEM.N5=ABS	na.ø	N	stone	_	_	_	_	_	_	_
+3	du₃-a	du₃	du	V/t	du₃-a	build	sux	NV2=du.NV4='a	NV2=STEM.NV4=SUB	du.'a	V/t	to erect (a stela)	_	_	_	_	_	_	_
+4	{d}šara₂-kam	{d}šara₂	Šara	DN	{d}šara₂-kam	1	sux	N1=Šara.N5=ak.N5=ø.N6=am	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Šara.ak.ø.am	DN	1	_	_	_	_	_	_	_
+
+# Q001380.55
+1	e₂-{d}dimgal-abzu-ka-ta	e₂-{d}dimgal-abzu-ka	Edimgalabzukak	TN	e₂-{d}dimgal-abzu-ka-ta	1	sux	N1=Edimgalabzukak.N5=ta	N1=NAME.N5=ABL	Edimgalabzukak.ta	TN	1	_	_	_	_	_	_	_
+
+# Q001380.56
+1	mur-gu₄-{d}šara₂-še₃	mur-gu₄-{d}šara₂	Murgušarak	GN	mur-gu₄-{d}šara₂-še₃	1	sux	N1=Murgušarak.N5=še	N1=NAME.N5=TERM	Murgušarak.še	GN	1	_	_	_	_	_	_	_
+
+# Q001380.57
+1	1(gešʾu@c)	_	_	_	1(gešʾu@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	3(geš₂@c)	_	_	_	3(geš₂@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+3	1(u@c)	_	_	_	1(u@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+4	{ninda}nindaₓ(DU)	{ninda}nindaₓ(DU)	nindan	N	{ninda}nindaₓ(DU)\abs	pole	sux	N1=nindan.N5=ø	N1=STEM.N5=ABS	nindan.ø	N	pole, a unit of length	_	_	_	_	_	_	_
+
+# Q001380.58
+1	zag	zag	zag	N	zag	side	sux	N1=zag	N1=STEM	zag	N	side	_	_	_	_	_	_	_
+2	na	na	na	N	na\abs	stone	sux	N1=na.N5=ø	N1=STEM.N5=ABS	na.ø	N	stone	_	_	_	_	_	_	_
+3	du₃-a	du₃	du	V/t	du₃-a	build	sux	NV2=du.NV4='a	NV2=STEM.NV4=SUB	du.'a	V/t	to erect (a stela)	_	_	_	_	_	_	_
+4	{d}šara₂-kam	{d}šara₂	Šara	DN	{d}šara₂-kam	1	sux	N1=Šara.N5=ak.N5=ø.N6=am	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Šara.ak.ø.am	DN	1	_	_	_	_	_	_	_
+
+# Q001380.59
+1	mur-gu₄-{d}šara₂-ta	mur-gu₄-{d}šara₂	Murgušarak	GN	mur-gu₄-{d}šara₂-ta	1	sux	N1=Murgušarak.N5=ta	N1=NAME.N5=ABL	Murgušarak.ta	GN	1	_	_	_	_	_	_	_
+
+# Q001380.60
+1	x-x-{d}ištaran-še₃	x-{d}ištaran	X-Ištaran	GN	x-x-{d}ištaran-še₃	1	sux	N1=X-Ištaran.N5=še	N1=NAME.N5=TERM	X-Ištaran.še	GN	1	_	_	_	_	_	_	_
+
+# Q001380.61
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	{ninda}nindaₓ(DU)	{ninda}nindaₓ(DU)	nindan	N	{ninda}nindaₓ(DU)\abs	pole	sux	N1=nindan.N5=ø	N1=STEM.N5=ABS	nindan.ø	N	pole, a unit of length	_	_	_	_	_	_	_
+
+# Q001380.62
+1	zag	zag	zag	N	zag	side	sux	N1=zag	N1=STEM	zag	N	side	_	_	_	_	_	_	_
+2	na	na	na	N	na\abs	stone	sux	N1=na.N5=ø	N1=STEM.N5=ABS	na.ø	N	stone	_	_	_	_	_	_	_
+3	du₃-a	du₃	du	V/t	du₃-a	build	sux	NV2=du.NV4='a	NV2=STEM.NV4=SUB	du.'a	V/t	to erect (a stela)	_	_	_	_	_	_	_
+4	{d}šara₂-kam	{d}šara₂	Šara	DN	{d}šara₂-kam	1	sux	N1=Šara.N5=ak.N5=ø.N6=am	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Šara.ak.ø.am	DN	1	_	_	_	_	_	_	_
+
+# Q001380.63
+1	x-{d}ištaran-ta	x-{d}ištaran	X-Ištaran	GN	x-{d}ištaran-ta	1	sux	N1=X-Ištaran.N5=ta	N1=NAME.N5=ABL	X-Ištaran.ta	GN	1	_	_	_	_	_	_	_
+
+# Q001380.64
+1	an-za-gar₃-še₃	an-za-gar₃	Anzagar	GN	an-za-gar₃-še₃	1	sux	N1=Anzagar.N5=še	N1=NAME.N5=TERM	Anzagar.še	GN	1	_	_	_	_	_	_	_
+
+# Q001380.65
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	1(gešʾu)	_	_	_	1(gešʾu)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+3	1(geš₂)	_	_	_	1(geš₂)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+4	2(u)	_	_	_	2(u)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+5	{ninda}nindaₓ(DU)	{ninda}nindaₓ(DU)	nindan	N	{ninda}nindaₓ(DU)\abs	pole	sux	N1=nindan.N5=ø	N1=STEM.N5=ABS	nindan.ø	N	pole, a unit of length	_	_	_	_	_	_	_
+
+# Q001380.66
+1	zag	zag	zag	N	zag	side	sux	N1=zag	N1=STEM	zag	N	side	_	_	_	_	_	_	_
+2	na	na	na	N	na\abs	stone	sux	N1=na.N5=ø	N1=STEM.N5=ABS	na.ø	N	stone	_	_	_	_	_	_	_
+3	du₃-a	du₃	du	V/t	du₃-a	build	sux	NV2=du.NV4='a	NV2=STEM.NV4=SUB	du.'a	V/t	to erect (a stela)	_	_	_	_	_	_	_
+4	{d}šara₂-kam	{d}šara₂	Šara	DN	{d}šara₂-kam	1	sux	N1=Šara.N5=ak.N5=ø.N6=am	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Šara.ak.ø.am	DN	1	_	_	_	_	_	_	_
+
+# Q001380.67
+1	an-za-gar₃-ta	an-za-gar₃	Anzagar	GN	an-za-gar₃-ta	1	sux	N1=Anzagar.N5=ta	N1=NAME.N5=ABL	Anzagar.ta	GN	1	_	_	_	_	_	_	_
+
+# Q001380.68
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001380.69
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	{ninda}nindaₓ(DU)	{ninda}nindaₓ(DU)	nindan	N	{ninda}nindaₓ(DU)\abs	pole	sux	N1=nindan.N5=ø	N1=STEM.N5=ABS	nindan.ø	N	pole, a unit of length	_	_	_	_	_	_	_
+
+# Q001380.70
+1	zag	zag	zag	N	zag	side	sux	N1=zag	N1=STEM	zag	N	side	_	_	_	_	_	_	_
+2	na	na	na	N	na\abs	stone	sux	N1=na.N5=ø	N1=STEM.N5=ABS	na.ø	N	stone	_	_	_	_	_	_	_
+3	du₃-a	du₃	du	V/t	du₃-a	build	sux	NV2=du.NV4='a	NV2=STEM.NV4=SUB	du.'a	V/t	to erect (a stela)	_	_	_	_	_	_	_
+4	{d}šara₂-kam	{d}šara₂	Šara	DN	{d}šara₂-kam	1	sux	N1=Šara.N5=ak.N5=ø.N6=am	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Šara.ak.ø.am	DN	1	_	_	_	_	_	_	_
+
+# Q001380.72
+1	im-dub-ba-bi	in-dub-ba	induba	N	im-dub-ba-bi\abs	boundary	sux	N1=induba.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	induba.bi.ø	N	boundary	_	_	_	_	_	_	_
+
+# Q001380.73
+1	nu-ni-dib	dib	dib	V/i	nu-ni-dib	pass	sux	V1=nu.V2=i.V6=nn.V10=i.V11=n.V12=dib.V14=ø	V1=NEG.V2=FIN.V6=3-SG-H.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	nu.i.nn.i.n.dib.ø	V/i	to pass, to cross over	_	_	_	_	_	_	_
+
+# Q001380.74
+1	na-ru₂-a-bi	na-ru₂-a	narua	N	na-ru₂-a-bi\abs	stele	sux	N1=narua.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	narua.bi.ø	N	stele	_	_	_	_	_	_	_
+
+# Q001380.75
+1	ki-be₂	ki	ki	N	ki-be₂\n5el3	place	sux	N1=ki.N3=bi.N5=e	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	ki.bi.e	N	place	_	_	_	_	_	_	_
+2	bi-gi₄	gi₄	gi	V/i	bi-gi₄	turn	sux	V5=b.V10=i.V11=n.V12=gi.V14=ø	V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.gi.ø	V/i	turn	_	_	_	_	_	_	_
+
+# Q001380.76
+1	inim	inim	inim	N	inim	word	sux	N1=inim	N1=STEM	inim	N	word	_	_	_	_	_	_	_
+2	{d}ištaran-ta	{d}ištaran	Ištaran	DN	{d}ištaran-ta\gen\abl	1	sux	N1=Ištaran.N5=ak.N5=ta	N1=NAME.N5=GEN.N5=ABL	Ištaran.ak.ta	DN	1	_	_	_	_	_	_	_
+
+# Q001380.77
+1	ki-ba	ki	ki	N	ki-ba\n5al2	place	sux	N1=ki.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L2-NH	ki.bi.'a	N	place	_	_	_	_	_	_	_
+2	na	na	na	N	na\abs	stone	sux	N1=na.N5=ø	N1=STEM.N5=ABS	na.ø	N	stone	_	_	_	_	_	_	_
+3	bi-du₃	du₃	du	V/t	bi-du₃	build	sux	V5=b.V10=i.V11=n.V12=du.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.du.ø	V/t	to erect (a stela)	_	_	_	_	_	_	_
+
+# Q001380.78
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	leader	_	_	_	_	_	_	_
+2	kur-ra	kur	kur	N	kur-ra\gen	mountain	sux	N1=kur.N5=ak	N1=STEM.N5=GEN	kur.ak	N	mountain	_	_	_	_	_	_	_
+
+# Q001380.79
+1	ki-bi	ki	ki	N	ki-bi\abs	place	sux	N1=ki.N3=bi.N5=ø	N1=STEM.N3=DEM2.	ki.bi.ø	N	place	_	_	_	_	_	_	_
+2	al-gul-la	gul	gul	V/t	al-gul-la	destroy	sux	V2=al.V12=gul.V14=e.V15='a	V2=FIN.V12=STEM.V14=3-SG-A.V15=SUB	al.gul.e.'a	V/t	destroy	_	_	_	_	_	_	_
+
+# Q001380.80
+1	šu	šu	šu	N	šu\dat	hand	sux	N1=šu.N5=e	N1=STEM.N5=DAT-NH	šu.e	N	hand	_	_	šu te	accept	accept	V/t	V/t
+2	ba-ta-ti-a	ti-ti	te	V/i	ba-ta-ti-a	approach	sux	V5=b.V7=a.V12=tete.V14=e.V15='a	V5=3-NH.V7=DAT.V12=STEM-PF.V14=3-SG-A.V15=SUB	b.a.tete.e.'a	V/i	(to be) near to, to approach	1	mwe	_	_	_	_	_
+
+# Q001380.81
+1	ab-zah₂-a	zah₂	zah	V/i	ab-zah₂-a\gen	disappear	sux	V2=a.V11=b.V12=zah.V14=e.V15='a.N5=ak	V2=FIN.V11=3-NH-P.V12=STEM.V15=SUB.N5=GEN	a.b.zah.e.'a.ak	V/i	to disappear, to move away, withdraw, to stay away, (to be) lost, (to be) fugitive	_	_	_	_	_	_	_
+
+# Q001380.82
+1	iri-na	iri	iri	N	iri-na\l1	city	sux	N1=iri.N3=ani.N5='a	N1=STEM.N3=3-SG-HPOSS.N5=L1	iri.ani.'a	N	city	_	_	_	_	_	_	_
+
+# Q001380.83
+1	ki	ki	ki	N	ki	place	sux	N1=ki	N1=STEM	ki	N	place	_	_	_	_	_	_	_
+2	muš	muš	muš	N	muš	snake	sux	N1=muš	N1=STEM	muš	N	snake	_	_	_	_	_	_	_
+3	hul-a-gin₇	hul	hulu	V/i	hul-a-gin₇	bad	sux	NV2=hulu.N5=ak.N5=gin	NV2=STEM.N5=GEN.N5=EQU	hulu.ak.gin	V/t	(to be) bad, evil	_	_	_	_	_	_	_
+
+# Q001380.84
+1	saŋ	saŋ	saŋ	N	saŋ	head	sux	N1=saŋ	N1=STEM	saŋ	N	head	_	_	_	_	_	_	_
+2	il₂	il₂	il	V/t	il₂\abs	raise	sux	NV2=il.N5=ø	NV2=STEM.N5=ABS	il.ø	V/t	raise	_	_	_	_	_	_	_
+3	na-du₁₂-du₁₂	du₁₂-du₁₂	tuku	V/t	na-du₁₂-du₁₂	acquire	sux	V2=nan.V12=dudu.V14=e	V2=MOD3.V12=STEM-PF.V14=3-SG-A	nan.dudu.e	V/t	to acquire, to have	_	_	_	_	_	_	_
+
+# Q001380.85
+1	e₂-gal	e₂-gal	egal	N	e₂-gal	palace	sux	N1=egal	N1=STEM	egal	N	palace	_	_	_	_	_	_	_
+2	hul-a-na	hul	hulu	V/t	hul-a-na	bad	sux	NV2=hulu.NV4='a.N3=ani.N5='a	NV2=STEM.NV4=SUB.N3=3-SG-H-POSS.N5=L1	hulu.'a.ani.'a	V/t	to plunder, raid	_	_	_	_	_	_	_
+
+# Q001380.86
+1	ensi₂-bi	ensi₂	ensik	N	ensi₂-bi\l2	ruler	sux	N1=ensik.N3=bi.N5=ra	N1=STEM.N3=3-SG-NH-POSS.N5=L2-H	ensik.bi.ra	N	ruler	_	_	_	_	_	_	_
+
+# Q001380.87
+1	zu₂	zu₂	zu	N	zu₂	tooth	sux	N1=zu	N1=STEM	zu	N	tooth	_	_	_	_	_	_	_
+2	gig	gig	gig	V/i	gig\abs	sick	sux	NV2=gig.N5=ø	NV2=STEM.N5=ABS	gig.ø	V/i	(to be) sick, (to be) troublesome	_	_	_	_	_	_	_
+
+# Q001380.88
+1	ha-mu-du₃-e	du₃	du	V/t	ha-mu-du₃-e	build	sux	V1=ha.V4=mu.V6=nn.V10=ø.V12=du.V13=ed.V14=ø	V1=MOD1.V4=VEN.V6=3-SG-H.V10=L2-SYN.V12=STEM.V13=PF.V14=3-SG-S	ha.mu.nn.ø.du.ed.ø	V/t	to build	_	_	_	_	_	_	_
+

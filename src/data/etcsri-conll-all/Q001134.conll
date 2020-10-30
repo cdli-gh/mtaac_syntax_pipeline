@@ -1,0 +1,28 @@
+# project: etcsri 
+# textid: Q001134 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001134.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001134.1
+1	en-nu	en-nu	ennuŋ	N	en-nu	imprisonment	sux	N1=ennuŋ	N1=STEM	ennuŋ	N	guards
+2	bad₃	bad₃	bad	N	bad₃\gen\abs	wall	sux	N1=bad.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	bad.ak.ø	N	wall, fortification
+
+# Q001134.2
+1	e₂-babbar₂	e₂-babbar₂	Ebabbar	TN	e₂-babbar₂\abs	1	sux	N1=Ebabbar.N5=ø	N1=NAME.N5=ABS	Ebabbar.ø	TN	1
+
+# Q001134.3
+1	iri-ka-gen₆-na	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na	1	sux	N1=Irikaginak	N1=NAME	Irikaginak	RN	Ruler of Lagaš
+
+# Q001134.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001134.5
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen\abs	1	sux	N1=Lagaš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lagaš.ak.ø	SN	1
+

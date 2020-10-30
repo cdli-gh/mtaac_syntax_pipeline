@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q001335 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001335.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001335.1
+1	{d}x-x	{d}x-x	X	DN	{d}x-x\dat	2	sux	N1=X.N5=ra	N1=NAME.N5=DAT-H	X.ra	DN	2
+
+# Q001335.2
+1	aya₂-an-ne₂-pad₃-da	aya₂-an-ne₂-pad₃-da	Ayaanepada	RN	aya₂-an-ne₂-pad₃-da	1	sux	N1=Ayaanepada	N1=NAME	Ayaanepada	RN	King of Urim
+
+# Q001335.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}	urim₅{ki}	Urim	SN	urim₅{ki}\gen	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+

@@ -1,0 +1,62 @@
+# project: etcsri 
+# textid: Q001449 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001449.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001449.1
+1	ur-{ŋeš}gigir₂	ur-{ŋeš}gigir₂	Urgigirak	RN	ur-{ŋeš}gigir₂	1	sux	N1=Urgigirak	N1=NAME	Urgigirak	RN	King of Unug	_	_	_	_	_	_	_
+
+# Q001449.2
+1	šagina	šagina	šakkanak	N	šagina	general	sux	N1=šakkanak	N1=STEM	šakkanak	N	military governor	_	_	_	_	_	_	_
+
+# Q001449.3
+1	{d}dumu-zid-da	{d}dumu-zid	Dumuzid	DN	{d}dumu-zid-da	1	sux	N1=Dumuzid.N5=ak	N1=NAME.N5=GEN	Dumuzid.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001449.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	ur-niŋin₃	ur-niŋin₃	Urniŋin	RN	ur-niŋin₃	1	sux	N1=Urniŋin	N1=NAME	Urniŋin	RN	King of Unug	_	_	_	_	_	_	_
+
+# Q001449.5
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001449.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q001449.7
+1	unug{ki}-ga-ke₄	unug{ki}	Unug	SN	unug{ki}-ga-ke₄	1	sux	N1=Unug.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Unug.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001449.8
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+2	ama-lagarₓ(|SAL.ME.HUB₂|)	ama-lagarₓ(|SAL.ME.HUB₂|)	Amalagar	PN	ama-lagarₓ(|SAL.ME.HUB₂|)	1	sux	N1=Amalagar	N1=NAME	Amalagar	PN	1	_	_	_	_	_	_	_
+
+# Q001449.9
+1	ama-ne₂	ama	ama	N	ama-ne₂	mother	sux	N1=ama.N3=ani.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=ERG	ama.ani.e	N	mother	_	_	_	_	_	_	_
+
+# Q001449.10
+1	{d}nin-šeš-e-ŋar-ra	{d}nin-šeš-e-ŋar-ra	Ninšešeŋara	DN	{d}nin-šeš-e-ŋar-ra	1	sux	N1=Ninšešeŋara	N1=NAME	Ninšešeŋara	DN	1	_	_	_	_	_	_	_
+
+# Q001449.11
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q001449.12
+1	e₂-šeš-e-ŋar-ra	e₂-šeš-e-ŋar-ra	Ešešeŋara	TN	e₂-šeš-e-ŋar-ra	1	sux	N1=Ešešeŋara	N1=NAME	Ešešeŋara	TN	1	_	_	_	_	_	_	_
+
+# Q001449.13
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni\abs	measure	sux	NV2=aŋ.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	aŋ.ani.ø	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001449.14
+1	pa₅-ti-bi₂-ra{ki}-ka	pa₅-ti-bi₂-ra{ki}	Padtibirak	SN	pa₅-ti-bi₂-ra{ki}-ka	1	sux	N1=Padtibirak.N5='a	N1=NAME.N5=L1	Padtibirak.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001449.15
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

@@ -1,0 +1,28 @@
+# project: etcsri 
+# textid: Q001820 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001820.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001820.1
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim
+
+# Q001820.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001820.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q001820.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba\abs	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ø	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	limmu.bi.ak.ø	NU	four
+

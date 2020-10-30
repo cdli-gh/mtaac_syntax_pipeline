@@ -1,0 +1,17 @@
+# project: etcsri 
+# textid: Q001415 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001415.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001415.1
+1	mu-sar	mu-sar	musara	N	mu-sar\abs	inscription	sux	N1=musara.N5=ø	N1=STEM.N5=ABS	musara.ø	N	inscription
+2	gab₂-ni-še₃	gab₂	gab	N	gab₂-ni-še₃	left	sux	N1=gab.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	gab.ani.še	N	left (hand), left (side)
+3	a-ab-sar	sar	sar	V/t	a-ab-sar\v14sg3s	write	sux	V2=aa.V5=b.V10=ø.V12=sar.V14=ø	V2=FIN-L2.V5=3-NH.V10=L2-SYN.V12=STEM.V14=3-SG-S	aa.b.ø.sar.ø	V/t	write
+

@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q003660 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003660.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003660.1
+1	gan-kun-sig	gan-kun-sig	Gankunsig	PN	gan-kun-sig	1	sux	N1=Gankunsig	N1=NAME	Gankunsig	PN	1
+
+# Q003660.2
+1	ereš-diŋir	ereš-diŋir	erešdiŋir	N	ereš-diŋir	priestess	sux	N1=erešdiŋir	N1=STEM	erešdiŋir	N	a priestess
+
+# Q003660.3
+1	{d}pa-bil₃-saŋ	{d}pa-bil₃-saŋ	Pabilsaŋ	DN	{d}pa-bil₃-saŋ\gen\abs	1	sux	N1=Pabilsaŋ.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Pabilsaŋ.ak.ø	DN	1
+

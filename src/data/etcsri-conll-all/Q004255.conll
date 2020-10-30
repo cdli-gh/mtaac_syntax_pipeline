@@ -1,0 +1,29 @@
+# project: etcsri 
+# textid: Q004255 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004255.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004255.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q004255.3
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q004255.4
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1
+
+# Q004255.5
+1	e₂-{anše}du₂₄-ur₃-ka-ni	e₂-{anše}du₂₄-ur₃	Edurak	TN	e₂-{anše}du₂₄-ur₃-ka-ni\abs	1	sux	N1=Edurak.N3=ani.N5=ø	N1=NAME.N3=3-SG-H-POSS.N5=ABS	Edurak.ani.ø	TN	1
+
+# Q004255.6
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

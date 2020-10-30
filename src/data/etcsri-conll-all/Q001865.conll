@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q001865 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001865.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001865.1
+1	en-nam-{d}šul-gi	en-nam-{d}šul-gi	Ennamšulgi	PN	en-nam-{d}šul-gi	1	sux	N1=Ennamšulgi	N1=NAME	Ennamšulgi	PN	1
+
+# Q001865.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	lu₂-{d}nanna	lu₂-{d}nanna	Lunanna	PN	lu₂-{d}nanna	1	sux	N1=Lunanna	N1=NAME	Lunanna	PN	1
+
+# Q001865.3
+1	šagina	šagina	šakkanak	N	šagina\gen\abs	general	sux	N1=šakkanak.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=abs	šakkanak.ak.ø	N	military governor
+

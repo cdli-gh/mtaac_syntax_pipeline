@@ -1,0 +1,20 @@
+# project: etcsri 
+# textid: Q003666 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003666.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003666.1
+1	nin-tur	nin-tur	Nintur	RN	nin-tur	1	sux	N1=Nintur	N1=NAME	Nintur	RN	Spouse of Meš-Ane-pada, king of Urim
+2	ereš	ereš	ereš	N	ereš	lady	sux	N1=ereš	N1=STEM	ereš	N	lady, queen
+
+# Q003666.2
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	meš₃-an-ne₂-pad₃-da	meš₃-an-ne₂-pad₃-da	Mešanepada	RN	meš₃-an-ne₂-pad₃-da\gen\abs	1	sux	N1=Mešanepada.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Mešanepada.ak.ø	RN	King of Urim
+

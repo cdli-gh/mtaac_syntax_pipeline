@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001594 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001594.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001594.1
+1	{d}meš₃-lam-ta-e₃-a	{d}meš₃-lam-ta-e₃-a	Mešlamtaea	DN	{d}meš₃-lam-ta-e₃-a	1	sux	N1=Mešlamtaea	N1=NAME	Mešlamtaea	DN	1
+
+# Q001594.2
+1	lugal-a-ni	lugal	lugal	N	lugal-a-ni\dat	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king
+
+# Q001594.3
+1	x-x	_	_	_	x-x	_	sux	_	_	_	u	_
+

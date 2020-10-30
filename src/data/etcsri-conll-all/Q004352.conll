@@ -1,0 +1,40 @@
+# project: etcsri 
+# textid: Q004352 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004352.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004352.1
+1	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuenak	RN	{d}amar-{d}suen	1	sux	N1=Amarsuenak	N1=NAME	Amarsuenak	RN	3rd king of the 3rd dynasty of Urim
+
+# Q004352.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q004352.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q004352.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba\abs	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ø	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	limmu.bi.ak.ø	NU	four
+
+# Q004352.5
+1	na-wi-ir-DIŊIR	na-wi-ir-DIŊIR	Nawirilum	PN	na-wi-ir-DIŊIR	1	sux	N1=Nawirilum	N1=NAME	Nawirilum	PN	1
+
+# Q004352.6
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd
+
+# Q004352.7
+1	arad₂-da-ni-ir	arad₂	arad	N	arad₂-da-ni-ir	slave	sux	N1=arad.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT.H	arad.ani.ra	N	slave, servant
+
+# Q004352.8
+1	in-na-an-ba	ba	ba	V/t	in-na-an-ba	allot	sux	V2=i.V6=nn.V7=a.V11=n.V12=ba.V14=ø	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.a.n.ba.ø	V/t	allot
+

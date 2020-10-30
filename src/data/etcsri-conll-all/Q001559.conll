@@ -1,0 +1,76 @@
+# project: etcsri 
+# textid: Q001559 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001559.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001559.2
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001559.3
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	e₂-sirara₆	e₂-sirara₆	Esirara	TN	e₂-sirara₆	1	sux	N1=Esirara	N1=NAME	Esirara	TN	1	_	_	_	_	_	_	_
+
+# Q001559.4
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	{d}nanše	{d}nanše	Nanše	DN	{d}nanše\gen\abs	1	sux	N1=Nanše.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Nanše.ak.ø	DN	1	_	_	_	_	_	_	_
+
+# Q001559.5
+1	mu-du₃-a	du₃	du	V/t	mu-du₃-a\abs	build	sux	V4=mu.V11=n.V12=du.V14=ø.V15='a.N5=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ABS	mu.n.du.ø.'a.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001559.7
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q001559.8
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1	_	_	_	_	_	_	_
+
+# Q001559.9
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001559.10
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001559.11
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001559.12
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	MU	_	_	_	MU	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001559.13
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001559.16
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001559.17
+1	gi-gun₄	gi-gun₄	giguna	N	gi-gun₄	terrace	sux	N1=giguna	N1=STEM	giguna	N	terrace, high temple	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ni\abs	measure	sux	NV2=aŋ.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	aŋ.ani.ø	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001559.18
+1	{šim}eren-na	{šim}eren	eren	N	{šim}eren-na\l1	cedar	sux	N1=eren.N5='a	N1=STEM.N5=L1	eren.'a	N	cedar	_	_	_	_	_	_	_
+
+# Q001559.19
+1	mu-na-ni-du₃	du₃	du	V/t	mu-na-ni-du₃	build	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001559.22
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001559.23
+1	SAG	_	_	_	SAG	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	KA	_	_	_	KA	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+5	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+

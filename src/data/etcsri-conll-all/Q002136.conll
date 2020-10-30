@@ -1,0 +1,34 @@
+# project: etcsri 
+# textid: Q002136 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002136.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q002136.1
+1	en-an-e-du₇	en-an-e-du₇	Enanedu	PN	en-an-e-du₇	1	sux	N1=Enanedu	N1=NAME	Enanedu	PN	Sister of Warad-Sîn, king of Larsam
+
+# Q002136.2
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen	1	sux	N1=Nanna.N5=ak	N1=NAME.N5=GEN	Nanna.ak	DN	1
+
+# Q002136.3
+1	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\l1	1	sux	N1=Urim.N5='a	N1=NAME.N5=L1	Urim.'a	SN	1
+
+# Q002136.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ku-du-ur-ma-bu-uk	ku-du-ur-ma-bu-uk	Kudurmabuk	RN	ku-du-ur-ma-bu-uk\gen	1	sux	N1=Kudurmabuk.N5=ak	N1=NAME.N5=GEN	Kudurmabuk.ak	RN	King of Larsam
+
+# Q002136.5
+1	šeš	šeš	šeš	N	šeš	brother	sux	N1=šeš	N1=STEM	šeš	N	sibling
+2	IR₁₁-{d}suen	IR₁₁-{d}suen	Waradsin	RN	IR₁₁-{d}suen	1	sux	N1=Waradsin	N1=NAME	Waradsin	RN	King of Larsam
+
+# Q002136.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	larsam{ki}-ma	larsam{ki}	Larsam	SN	larsam{ki}-ma\gen\gen\abs	1	sux	N1=Larsam.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Larsam.ak.ak.ø	SN	1
+

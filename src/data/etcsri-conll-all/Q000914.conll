@@ -1,0 +1,53 @@
+# project: etcsri 
+# textid: Q000914 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000914.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q000914.1
+1	{d}nin-ŋir₂-su	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1	_	_	_	_	_	_	_
+
+# Q000914.2
+1	ur-saŋ	ur-saŋ	ursaŋ	N	ur-saŋ	hero	sux	N1=ursaŋ	N1=STEM	ursaŋ	N	hero, warrior	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q000914.3
+1	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1	_	_	_	_	_	_	_
+
+# Q000914.4
+1	lugal-a-ni	lugal	lugal	N	lugal-a-ni\dat	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king	_	_	_	_	_	_	_
+
+# Q000914.5
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1	_	_	_	_	_	_	_
+
+# Q000914.6
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q000914.7
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q000914.8
+1	e₂-ninnu-anzud₂{mušen}-babbar₂-ra-ni	e₂-ninnu-anzud₂{mušen}-babbar₂	Eninnu-anzubabbar	TN	e₂-ninnu-anzud₂{mušen}-babbar₂-ra-ni\abs	1	sux	N1=Eninnu-anzubabbar.N3=ani.N5=ø	N1=NAME.N3=3-SG-H-POSS.N5=ABS	Eninnu-anzubabbar.ani.ø	TN	1	_	_	_	_	_	_	_
+
+# Q000914.9
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q000914.10
+1	šag₄-ba	šag₄	šag	N	šag₄-ba	heart	sux	N1=šag.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L1	šag.bi.'a	N	middle	_	_	_	_	_	_	_
+2	a-ga	a-ga	aga	N	a-ga	rear	sux	N1=aga	N1=STEM	aga	N	rear	_	_	_	_	_	_	_
+3	eren	eren	eren	N	eren	cedar	sux	N1=eren	N1=STEM	eren	N	cedar	_	_	_	_	_	_	_
+
+# Q000914.11
+1	ki	ki	ki	N	ki	place	sux	N1=ki	N1=STEM	ki	N	place	_	_	_	_	_	_	_
+2	di	di	did	N	di\abs	lawsuit	sux	N1=di.N5=ø	N1=STEM.N5=ABS	di.ø	N	lawsuit	_	_	di kud	judge	judge	V/t	V/t
+3	kud-a-ni	kud	kud	V/t	kud-a-ni\abs	cut	sux	NV2=kud.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	kud.ani.ø	V/t	cut	2	mwe	_	_	_	_	_
+
+# Q000914.12
+1	mu-na-ni-du₃	du₃	du	V/t	mu-na-ni-du₃	build	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

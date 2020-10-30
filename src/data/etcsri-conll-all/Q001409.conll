@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q001409 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001409.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001409.1
+1	en-he₂-du₇-an-na	en-he₂-du₇-an-na	Enheduanak	PN	en-he₂-du₇-an-na	1	sux	N1=Enheduanak	N1=NAME	Enheduanak	PN	Daughter of Sargon, king of Agade
+
+# Q001409.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	šar-ru-GI	šar-ru-GI	Šarrukin	RN	šar-ru-GI\gen\abs	1	sux	N1=Šarrukin.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šarrukin.ak.ø	RN	1st king of the dynasty of Agade
+
+# Q001409.3
+1	DIŊIR-palil	DIŊIR-palil	Ilumpalil	PN	DIŊIR-palil\abs	1	sux	N1=Ilumpalil.N5=ø	N1=NAME.N5=ABS	Ilumpalil.ø	PN	1
+
+# Q001409.4
+1	kinda-ni	kinda	kinda	N	kinda-ni\abs	barber	sux	N1=kinda.N5=ø	N1=STEM.N5=ABS	kinda.ø	N	barber, hairdresser
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+

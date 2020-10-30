@@ -1,0 +1,18 @@
+# project: etcsri 
+# textid: Q001616 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001616.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001616.2
+1	ba-an-zig₃-ge	zig₃	zig	V/i	ba-an-zig₃-ge\v14sg3s	rise	sux	V5=ba.V10.n=V12=zig.V13=ed.V14=ø	V5=MID.V10=L1-SYN.V12=STEM.V13=PF.V14=3-SG-S	ba.V12=zig.ed.ø	V/i	rise
+
+# Q001616.3
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name
+

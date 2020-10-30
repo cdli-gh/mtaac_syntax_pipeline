@@ -1,0 +1,40 @@
+# project: etcsri 
+# textid: Q001426 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001426.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001426.1
+1	na-ra-am-{d}suen	na-ra-am-{d}suen	Naramsuen	RN	na-ra-am-{d}suen	1	sux	N1=Naramsuen	N1=NAME	Naramsuen	RN	King of Agade
+
+# Q001426.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001426.3
+1	a-ga-de₃{ki}	a-ga-de₃{ki}	Agade	SN	a-ga-de₃{ki}\gen	1	sux	N1=Agade.N5=ak	N1=NAME.N5=GEN	Agade.ak	SN	1
+
+# Q001426.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001426.5
+1	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+2	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba\abs	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ø	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	limmu.bi.ak.ø	NU	four
+
+# Q001426.6
+1	iri-na-bad₃-bi	iri-na-bad₃-bi	Irinabadbi	PN	iri-na-bad₃-bi	1	sux	N1=Irinabadbi	N1=NAME	Irinabadbi	PN	1
+
+# Q001426.7
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household
+
+# Q001426.8
+1	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂\gen\abs	1	sux	N1=Enlil.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Enlil.ak.ø	DN	1
+
+# Q001426.9
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

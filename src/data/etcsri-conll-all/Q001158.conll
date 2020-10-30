@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001158 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001158.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001158.1
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂\abs	1	sux	N1=Bau.N5=ø	N1=NAME.N5=ABS	Bau.ø	DN	1	_	_	_	_	_	_	_
+2	šag₄	šag₄	šag	N	šag₄\abs	heart	sux	N1=šag.N5=ø	N1=STEM.N5=ABS	šag.ø	N	heart, inner body	_	_	šag kušu	soothe	soothe, to take counsel with	V/t	V/t
+3	kuš₂	kuš₂	kušu	V/i	kuš₂	tired	sux	NV2=kušu	NV2=STEM	kušu	V/i	(to be) tired, troubled	2	mwe	_	_	_	_	_
+4	iri-ka-gen₆-na-ka	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na-ka\abs	1	sux	N1=Irikaginak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Irikaginak.ak.ø	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001158.2
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name	_	_	_	_	_	_	_
+

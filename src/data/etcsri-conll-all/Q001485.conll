@@ -1,0 +1,37 @@
+# project: etcsri 
+# textid: Q001485 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001485.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001485.1
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše	1	sux	N1=Nanše	N1=NAME	Nanše	DN	1
+
+# Q001485.2
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady
+2	uru₁₆	uru₁₆	urun	V/i	uru₁₆	exalted	sux	NV2=urun	NV2=STEM	urun	V/i	exalted, mighty
+
+# Q001485.3
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady
+
+# Q001485.4
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1
+
+# Q001485.5
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001485.6
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1
+
+# Q001485.7
+1	e₂-a-ni	e₂	e	N	e₂-a-ni\abs	house	sux	N1=e.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	e.ani.ø	N	house, temple
+
+# Q001485.8
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

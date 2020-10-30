@@ -1,0 +1,77 @@
+# project: etcsri 
+# textid: Q001986 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001986.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001986.1
+1	{d}nin-isin₂{si}-na	{d}nin-isin₂{si}-na	Ninisinak	DN	{d}nin-isin₂{si}-na	1	sux	N1=Ninisinak	N1=NAME	Ninisinak	DN	1	_	_	_	_	_	_	_
+
+# Q001986.2
+1	nin-a-ni-ir	nin	nin	N	nin-a-ni-ir	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q001986.3
+1	{d}en-lil₂-ba-ni	{d}en-lil₂-ba-ni	Enlilbani	RN	{d}en-lil₂-ba-ni	1	sux	N1=Enlilbani	N1=NAME	Enlilbani	RN	10th king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q001986.4
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd	_	_	_	_	_	_	_
+2	niŋ₂-nam	niŋ₂-nam	niŋnam	N	niŋ₂-nam\abs	anything	sux	N1=niŋnam.N5=ø	N1=STEM.N5=ABS	niŋnam.ø	N	gift	_	_	_	_	_	_	_
+3	šar₂-ra	šar₂	šar	NU	šar₂-ra	3600	sux	NV2=šar.NV4='a	NV2=STEM.NV4=SUB	šar.'a	NU	3600	_	_	_	_	_	_	_
+
+# Q001986.5
+1	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen	1	sux	N1=Nibru.N5=ak	N1=NAME.N5=GEN	Nibru.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001986.6
+1	engar	engar	engar	N	engar	farmer	sux	N1=engar	N1=STEM	engar	N	farmer	_	_	_	_	_	_	_
+2	še	še	še	N	še\abs	barley	sux	N1=še.N5=ø	N1=STEM.N5=ABS	še.ø	N	barley	_	_	_	_	_	_	_
+3	mah	mah	mah	V/i	mah	great	sux	NV2=mah	NV2=STEM	mah	V/i	great	_	_	_	_	_	_	_
+
+# Q001986.7
+1	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001986.8
+1	me	me	me	N	me	being	sux	N1=me	N1=STEM	me	N	being, divine properties enabling cosmic activity, divine powers, divine attributes	_	_	_	_	_	_	_
+2	eridug{ki}-ga	eridug{ki}	Eridug	SN	eridug{ki}-ga\abs	1	sux	N1=Eridug.N5=ak.N5=ø	N1=Eridug.N5=GEN.N5=ABS	Eridug.ak.ø	SN	1	_	_	_	_	_	_	_
+3	kug-kug-ge	kug-kug	kug	V/i	kug-kug-ge	pure	sux	NV2=kugkug.NV3=ed	NV2=STEM-RDP.NV3=PF	kugkug.ed	V/i	pure	_	_	_	_	_	_	_
+
+# Q001986.9
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001986.10
+1	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001986.11
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001986.12
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	i₃-si-in{ki}-na	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-na	1	sux	N1=Isin.N5=ak	N1=NAME.N5=GEN	Isin.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001986.13
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri	ki-uri	Akkad	GN	ki-uri\gen	1	sux	N1=Akkad.N5=ak	N1=NAME.N5=GEN	Akkad.ak	GN	1	_	_	_	_	_	_	_
+
+# Q001986.14
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+2	šag₄-ge	šag₄	šag	N	šag₄-ge\n5el3	heart	sux	N1=šag.N5=e	N1=STEM.N5=L3-NH	šag.e	N	heart, inner body	_	_	_	_	_	_	_
+3	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q001986.15
+1	{d}inana-ke₄	{d}inana	Inanak	DN	{d}inana-ke₄	1	sux	N1=Inanak.N5=e	N1=NAME.N5=ERG	Inanak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001986.16
+1	e₂-ur-ŋir₁₅-ra	e₂-ur-ŋir₁₅-ra	Eurŋira	TN	e₂-ur-ŋir₁₅-ra\abs	1	sux	N1=Eurŋira.N5=ø	N1=NAME.N5=ABS	Eurŋira.ø	TN	1	_	_	_	_	_	_	_
+
+# Q001986.17
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

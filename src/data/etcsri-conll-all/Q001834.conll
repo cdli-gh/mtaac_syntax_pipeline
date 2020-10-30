@@ -1,0 +1,55 @@
+# project: etcsri 
+# textid: Q001834 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001834.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001834.1
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q001834.2
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	1	mwe	_	_	_	_	_
+3	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001834.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001834.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001834.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba\abs	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ø	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	limmu.bi.ak.ø	NU	four	_	_	_	_	_	_	_
+
+# Q001834.6
+1	nam-zid-tar-ra	nam-zid-tar-ra	Namzidtara	PN	nam-zid-tar-ra	1	sux	N1=Namzidtara	N1=NAME	Namzidtara	PN	Governor of Nibru	_	_	_	_	_	_	_
+
+# Q001834.7
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor	_	_	_	_	_	_	_
+
+# Q001834.8
+1	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen	1	sux	N1=Nibru.N5=ak	N1=NAME.N5=GEN	Nibru.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001834.9
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	ur-{d}nanibgal	ur-{d}nanibgal	Urnanibgal	PN	ur-{d}nanibgal	1	sux	N1=Urnanibgal	N1=NAME	Urnanibgal	PN	Governor of Nibru	_	_	_	_	_	_	_
+
+# Q001834.10
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor	_	_	_	_	_	_	_
+
+# Q001834.11
+1	nibru{ki}-ka	nibru{ki}	Nibru	SN	nibru{ki}-ka\abs	1	sux	N1=Nibru.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Nibru.ak.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001834.12
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant	_	_	_	_	_	_	_
+

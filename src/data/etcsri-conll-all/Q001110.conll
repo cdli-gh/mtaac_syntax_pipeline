@@ -1,0 +1,109 @@
+# project: etcsri 
+# textid: Q001110 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001110.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001110.1
+1	{d}nin-ŋir₂-su₂	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1	_	_	_	_	_	_	_
+
+# Q001110.2
+1	ur-saŋ	ur-saŋ	ursaŋ	N	ur-saŋ	hero	sux	N1=ursaŋ	N1=STEM	ursaŋ	N	hero, warrior	_	_	_	_	_	_	_
+2	{d}en-lilₓ(E₂)-ra	{d}en-lilₓ(E₂)	Enlil	DN	{d}en-lilₓ(E₂)-ra\gen\dat	1	sux	N1=Enlil.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Enlil.ak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001110.3
+1	en-mete-na	en-mete-na	Enmetenak	RN	en-mete-na	1	sux	N1=Enmetenak	N1=NAME	Enmetenak	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001110.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001110.5
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001110.6
+1	šag₄	šag₄	šag	N	šag₄\l3	heart	sux	N1=šag.N5=e	N1=STEM.N5=L3-NH	šag.e	N	heart, inner body	_	_	_	_	_	_	_
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q001110.7
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše\gen	1	sux	N1=Nanše.N5=ak	N1=NAME.N5=GEN	Nanše.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001110.8
+1	ensi₂-gal	ensi₂-gal	ensikgal	N	ensi₂-gal	governor	sux	N1=ensikgal	N1=STEM	ensikgal	N	chief governor	_	_	_	_	_	_	_
+
+# Q001110.9
+1	{d}nin-ŋir₂-su₂-ka-ke₄	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka-ke₄	1	sux	N1=Ninŋirsuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninŋirsuk.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001110.10
+1	eg₂	eg₂	eg	N	eg₂	levee	sux	N1=eg	N1=STEM	eg	N	levee	_	_	_	_	_	_	_
+2	mah	mah	mah	V/i	mah\abs	great	sux	NV2=mah.N5=ø	NV2=mah.N5=ABS	mah.ø	V/i	great	_	_	_	_	_	_	_
+3	ki-sur-ra	ki-sur-ra	kisura	N	ki-sur-ra	border	sux	N1=kisura	N1=STEM	kisura	N	border	_	_	_	_	_	_	_
+
+# Q001110.11
+1	{d}en-lilₓ(E₂)-le	{d}en-lilₓ(E₂)	Enlil	DN	{d}en-lilₓ(E₂)-le	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+
+# Q001110.12
+1	{d}nin-ŋir₂-su₂-ra	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+2	sur-ra	sur	sur	V/t	sur-ra\n5al2	press	sux	NV2=sur.NV4='a.N5='a	NV2=STEM.NV4=SUB.N5=L2-NH	sur.'a.'a	V/t	to press	_	_	_	_	_	_	_
+
+# Q001110.13
+1	mu-na-ak	ak	ak	V/t	mu-na-ak	do	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ak.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ak.ø	V/t	do	_	_	_	_	_	_	_
+
+# Q001110.14
+1	en-mete-na-ke₄	en-mete-na	Enmetenak	RN	en-mete-na-ke₄	1	sux	N1=Enmetenak.N5=e	N1=NAME.N5=ERG	Enmetenak.e	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001110.15
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	an-na-aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	an-na-aŋ₂-ŋa₂-ni	measure	sux	V2=a.V6=nn.V7=a.V11=n.V12=aŋ.V14=ø.V15='a.N3=ani	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N3=3-SG-H-POSS	a.nn.a.n.aŋ.ø.'a.ani	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001110.16
+1	{d}nin-ŋir₂-su₂-ra	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001110.17
+1	id₂-nun-ta	id₂-nun	Idnun	WN	id₂-nun-ta	1	sux	N1=Idnun.N5=ta	N1=NAME.N5=ABL	Idnun.ta	WN	1	_	_	_	_	_	_	_
+
+# Q001110.18
+1	mu-bi-kur-ra	mu-bi-kur-ra	Mubikura	GN	mu-bi-kur-ra\term	1	sux	N1=Mubikura.N5=še	N1=NAME.N5=TERM	Mubikura.še	GN	1	_	_	_	_	_	_	_
+
+# Q001110.19
+1	e-na-ta-ni-e₃	e₃	e	V/i	e-na-ta-ni-e₃	leave	sux	V2=i.V6=nn.V7=a.V9=ta.V10=ni.V11=n.V12=e.V14=ø	V2=FIN.V6=3-SG-H.V7=DAT.V9=ABL.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.a.ta.ni.n.e.ø	V/i	to leave, go out	_	_	_	_	_	_	_
+
+# Q001110.20
+1	na-ru₂-a	na-ru₂-a	narua	N	na-ru₂-a\abs	stele	sux	N1=narua.N5=ø	N1=STEM.N5=ABS	narua.ø	N	stele	_	_	_	_	_	_	_
+
+# Q001110.21
+1	{a-šag₄}ašag	{a-šag₄}ašag	ašag	N	{a-šag₄}ašag	field	sux	N1=ašag	N1=STEM	ašag	N	field	_	_	_	_	_	_	_
+2	ki-sur-ra	ki-sur-ra	kisura	N	ki-sur-ra	border	sux	N1=kisura	N1=STEM	kisura	N	border	_	_	_	_	_	_	_
+
+# Q001110.22
+1	{d}nin-ŋir₂-su₂-ka	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka\gen\gen\n5al2	1	sux	N1=Ninŋirsuk.N5=ak.N5=ak.N5='a	N1=NAME.N5=GEN.N5=GEN.N5=L2-NH	Ninŋirsuk.ak.ak.'a	DN	1	_	_	_	_	_	_	_
+
+# Q001110.23
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to erect (a stela)	_	_	_	_	_	_	_
+
+# Q001110.24
+1	en-mete-na	en-mete-na	Enmetenak	RN	en-mete-na	1	sux	N1=Enmetenak	N1=NAME	Enmetenak	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001110.25
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	eg₂	eg₂	eg	N	eg₂	levee	sux	N1=eg	N1=STEM	eg	N	levee	_	_	_	_	_	_	_
+3	mah	mah	mah	V/i	mah	great	sux	NV2=mah	NV2=STEM	mah	V/i	great	_	_	_	_	_	_	_
+
+# Q001110.26
+1	{d}nin-ŋir₂-su₂-ka	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka\abs	1	sux	N1=Ninŋirsuk.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninŋirsuk.ak.ø	DN	1	_	_	_	_	_	_	_
+
+# Q001110.27
+1	ak-ka	ak	ak	V/t	ak-ka\gen	do	sux	NV2=ak.NV4='a.N5=ak	NV2=STEM.NV4=SUB.N5=GEN	ak.'a.ak	V/t	do	_	_	_	_	_	_	_
+
+# Q001110.28
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni\abs	deity	sux	N1=diŋir.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	diŋir.ani.ø	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001110.29
+1	{d}šul-|MUŠ×PA|-am₆	{d}šul-|MUŠ×PA|	Šul-MUŠ×PA	DN	{d}šul-|MUŠ×PA|-am₆	1	sux	N1=Šul-|MUŠ×PA|.N5=ø.N6=am	N1=NAME.N5=ABS.N6=COP-3-SG	Šul-|MUŠ×PA|.ø.am	DN	1	_	_	_	_	_	_	_
+

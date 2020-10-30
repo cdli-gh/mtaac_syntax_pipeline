@@ -1,0 +1,47 @@
+# project: etcsri 
+# textid: Q001868 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001868.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001868.1
+1	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	Ibbisuen	RN	{d}i-bi₂-{d}suen	1	sux	N1=Ibbisuen	N1=NAME	Ibbisuen	RN	5th king of the 3rd dynasty of Urim
+
+# Q001868.2
+1	diŋir	diŋir	diŋir	N	diŋir	deity	sux	N1=diŋir	N1=STEM	diŋir	N	deity, personal god
+2	kalam-ma-na	kalam	kalam	N	kalam-ma-na\gen	land	sux	N1=kalam.N3=ani.N5=ak	N1=STEM.N3=3-SG-H-POSS.N5=GEN	kalam.ani.ak	N	the Land (of Sumer)
+
+# Q001868.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001868.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q001868.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba-ke₄	limmu₂	limmu	NU	limmu₂-ba-ke₄	four	sux	NV2=limmu.N3=bi.N5=ak.N5=e	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	limmu.bi.ak.e	NU	four
+
+# Q001868.6
+1	{d}suen-a-bu-šu	{d}suen-a-bu-šu	Suenabušu	PN	{d}suen-a-bu-šu	1	sux	N1=Suenabušu	N1=NAME	Suenabušu	PN	1
+
+# Q001868.7
+1	sagi	sagi	šagia	N	sagi	cup-bearer	sux	N1=šagia	N1=STEM	šagia	N	cup-bearer
+
+# Q001868.8
+1	du₁₀-us₂-sa	du₁₀-us₂-sa	dusa	N	du₁₀-us₂-sa	friend	sux	N1=dusa	N1=STEM	dusa	N	friend, companion
+
+# Q001868.9
+1	nam-dumu-ka-ni-ir	nam-dumu	namdumu	N	nam-dumu-ka-ni-ir	status	sux	N1=namdumu.N5=ak.N3=ani.N5=ra	N1=STEM.N5=GEN.N3=3-SG-H-POSS.N5=DAT-H	namdumu.ak.ani.ra	N	status as crown prince
+
+# Q001868.10
+1	in-na-ba	ba	ba	V/t	in-na-ba	allot	sux	V2=i.V6=nn.V7=a.V11=n.V12=ba.V14=ø	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.a.n.ba.ø	V/t	allot
+

@@ -1,0 +1,48 @@
+# project: etcsri 
+# textid: Q001574 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001574.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001574.1
+1	{d}šul-šag₄-ga-na	{d}šul-šag₄-ga-na	Šulšaganak	DN	{d}šul-šag₄-ga-na	1	sux	N1=Šulšaganak	N1=NAME	Šulšaganak	DN	1	_	_	_	_	_	_	_
+
+# Q001574.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001574.3
+1	{d}nin-ŋir₂-su-ka	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka	1	sux	N1=Ninŋirsuk.N5=ak	N1=NAME.N5=GEN	Ninŋirsuk.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001574.4
+1	lugal-a-ni	lugal	lugal	N	lugal-a-ni\dat	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king	_	_	_	_	_	_	_
+
+# Q001574.5
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001574.6
+1	ur-GAR	ur-GAR	Ur-GAR	RN	ur-GAR	1	sux	N1=Ur-GAR	N1=Urgar	Ur-GAR	RN	1	_	_	_	_	_	_	_
+
+# Q001574.7
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001574.8
+1	lagaš{ki}-ka-še₃	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-še₃	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Lagaš.ak.ak.še	SN	1	_	_	_	_	_	_	_
+
+# Q001574.9
+1	nin-ka-gen₆-na	nin-ka-gen₆-na	Ninkagina	PN	nin-ka-gen₆-na	1	sux	N1=Ninkagina	N1=NAME	Ninkagina	PN	Daughter of Kakug	_	_	_	_	_	_	_
+
+# Q001574.10
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	ka-kug	ka-kug	Kakug	PN	ka-kug\gen	1	sux	N1=Kakug.N5=ak	N1=NAME.N5=GEN	Kakug.ak	PN	1	_	_	_	_	_	_	_
+
+# Q001574.11
+1	dam-ne₂	dam	dam	N	dam-ne₂	spouse	sux	N1=dam.N3=ani.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=ERG	dam.ani.e	N	spouse	_	_	_	_	_	_	_
+

@@ -1,0 +1,31 @@
+# project: etcsri 
+# textid: Q001726 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001726.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001726.1
+1	ur-{d}suen	ur-{d}suen	Ursuen	PN	ur-{d}suen	1	sux	N1=Ursuen	N1=NAME	Ursuen	PN	1
+
+# Q001726.2
+1	šagina	šagina	šakkanak	N	šagina	general	sux	N1=šakkanak	N1=STEM	šakkanak	N	military governor
+
+# Q001726.3
+1	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1
+
+# Q001726.4
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also
+2	|BAD₃.AN.KI|	|BAD₃.AN.KI|	Der	SN	|BAD₃.AN.KI|\gen\abs	1	sux	N1=Der.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Der.ak.ø	SN	1
+
+# Q001726.5
+1	ri-iṣ-DINGIR	ri-iṣ-DINGIR	Riṣilum	PN	ri-iṣ-DINGIR\abs	1	sux	N1=Riṣilum.N5=ø	N1=NAME.N5=ABS	Riṣilum.ø	PN	1
+
+# Q001726.6
+1	ra₂-gaba-ni	ra₂-gaba	ragaba	N	ra₂-gaba-ni\abs	rider	sux	N1=ragaba.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	ragaba.ani.ø	N	rider
+

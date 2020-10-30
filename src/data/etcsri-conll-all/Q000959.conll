@@ -1,0 +1,56 @@
+# project: etcsri 
+# textid: Q000959 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000959.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q000959.1
+1	{d}nin-gal	{d}nin-gal	Ningal	DN	{d}nin-gal	1	sux	N1=Ningal	N1=NAME	Ningal	DN	1	_	_	_	_	_	_	_
+
+# Q000959.2
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q000959.3
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q000959.4
+1	ur-{d}namma	ur-{d}namma	Urnammak	RN	ur-{d}namma	1	sux	N1=Urnammak	N1=NAME	Urnammak	RN	1st king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q000959.5
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q000959.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000959.7
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri	ki-uri	Akkad	GN	ki-uri\gen	1	sux	N1=Akkad.N5=ak	N1=NAME.N5=GEN	Akkad.ak	GN	1	_	_	_	_	_	_	_
+
+# Q000959.8
+1	ad-da-na-še₃	ad-da	adda	N	ad-da-na-še₃	father	sux	N1=adda.N3=ani.N5=ak.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=TERM	adda.ani.ak.še	N	father	_	_	_	_	_	_	_
+
+# Q000959.9
+1	en-nir-ŋal₂-an-na	en-nir-ŋal₂-an-na	Ennirŋalanak	PN	en-nir-ŋal₂-an-na	1	sux	N1=Ennirŋalanak	N1=NAME	Ennirŋalanak	PN	1	_	_	_	_	_	_	_
+
+# Q000959.10
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest	_	_	_	_	_	_	_
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen	1	sux	N1=Nanna.N5=ak	N1=NAME.N5=GEN	Nanna.ak	DN	1	_	_	_	_	_	_	_
+
+# Q000959.11
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ne₂	aŋ₂	aŋ	V/t	aŋ₂-ne₂	measure	sux	NV2=aŋ.N3=ani.N5=e	NV2=STEM.N3=3-SG-H-POSS.N5=ERG	aŋ.ani.e	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q000959.12
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

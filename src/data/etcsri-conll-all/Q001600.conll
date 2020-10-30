@@ -1,0 +1,25 @@
+# project: etcsri 
+# textid: Q001600 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001600.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001600.1
+1	{d}lal₃-bur-dug₃-ga	{d}lal₃-bur-dug₃-ga	Lalburdug	DN	{d}lal₃-bur-dug₃-ga	1	sux	N1=Lalburdug	N1=NAME	Lalburdug	DN	1
+
+# Q001600.2
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni\dat	deity	sux	N1=diŋir.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	diŋir.ani.ra	N	deity, personal god
+
+# Q001600.3
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q001600.4
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+

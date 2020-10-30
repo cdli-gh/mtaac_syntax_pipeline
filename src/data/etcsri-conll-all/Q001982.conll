@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q001982 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001982.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001982.1
+1	i₃-li₂-iš-ka-u₂-ṭul₃	i₃-li₂-iš-ka-u₂-ṭul₃	Iliškauṭul	PN	i₃-li₂-iš-ka-u₂-ṭul₃	1	sux	N1=Iliškauṭul	N1=NAME	Iliškauṭul	PN	1
+
+# Q001982.2
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+
+# Q001982.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	{d}suen-en-nam	{d}suen-en-nam	Suenennam	PN	{d}suen-en-nam\gen\abs	1	sux	N1=Suenennam.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Suenennam.ak.ø	PN	1
+
+# Q001982.4
+1	arad	arad	arad	N	arad	slave	sux	N1=arad	N1=STEM	arad	N	slave, servant
+2	{d}er₃-ra-i-mit-ti	{d}er₃-ra-i-mit-ti	Erraimitti	RN	{d}er₃-ra-i-mit-ti\gen\abs	1	sux	N1=Erraimitti.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Erraimitti.ak.ø	RN	9th king of the dynasty of Isin
+

@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q001448 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001448.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001448.1
+1	šar-ru-i₃-li	šar-ru-i₃-li	Šarru-ili	PN	šar-ru-i₃-li	1	sux	N1=Šarru-ili	N1=NAME	Šarru-ili	PN	1
+
+# Q001448.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	puzur-ma-ma	puzur-ma-ma	Puzurmama	RN	puzur-ma-ma	1	sux	N1=Puzurmama	N1=NAME	Puzurmama	RN	King of Lagaš
+
+# Q001448.3
+1	ensi₂	ensi₂	ensik	N	ensi₂\gen\abs	ruler	sux	N1=ensik.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	ensik.ak.ø	N	ruler
+

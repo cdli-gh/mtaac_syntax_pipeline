@@ -1,0 +1,36 @@
+# project: etcsri 
+# textid: Q001131 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001131.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001131.1
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1
+
+# Q001131.2
+1	munus	munus	munus	N	munus	woman	sux	N1=munus	N1=STEM	munus	N	woman
+2	sag₉-ga-ra	sag₉	sag	V/i	sag₉-ga-ra	good	sux	NV2=sag.NV4='a.N5=ra	NV2=STEM.NV4=SUB.N5=DAT-H	sag.'a.ra	V/i	(to be) good
+
+# Q001131.3
+1	{d}nin-ŋir₂-su₂-lu₂-ŋu₁₀	{d}nin-ŋir₂-su₂-lu₂-ŋu₁₀	Ninŋirsukluŋu	PN	{d}nin-ŋir₂-su₂-lu₂-ŋu₁₀	1	sux	N1=Ninŋirsukluŋu	N1=NAME	Ninŋirsukluŋu	PN	1
+2	sukkal	sukkal	sukkal	N	sukkal\erg	secretary	sux	N1=sukkal.N5=e	N1=STEM.N5=ERG	sukkal.e	N	secretary, envoy
+
+# Q001131.4
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+2	lugal-ni	lugal	lugal	N	lugal-ni	king	sux	N1=lugal.N3=ani	N1=STEM.N3=3-SG-H-POSS	lugal.ani	N	king
+
+# Q001131.5
+1	iri-ka-gen₆-na	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na	1	sux	N1=Irikaginak	N1=NAME	Irikaginak	RN	Ruler of Lagaš
+
+# Q001131.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001131.7
+1	lagaš{ki}-ka-še₃	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-še₃	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Lagaš.ak.ak.še	SN	1
+

@@ -1,0 +1,85 @@
+# project: etcsri 
+# textid: Q001534 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001534.U0 
+# bracketing_level: 0 
+# m/@k=genre : Literary 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001534.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	AN	_	_	_	AN	_	sux	_	_	_	u	_
+
+# Q001534.3
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001534.4
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	bi	_	_	_	bi	_	sux	_	_	_	X	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	GI	_	_	_	GI	_	sux	_	_	_	u	_
+5	ha-x-ra	_	_	_	ha-x-ra	_	sux	_	_	_	u	_
+
+# Q001534.5
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	DU	_	_	_	DU	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001534.6
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	DU	_	_	_	DU	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001534.9
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+5	NI	_	_	_	NI	_	sux	_	_	_	u	_
+6	URU	_	_	_	URU	_	sux	_	_	_	u	_
+7	x	_	_	_	x	_	sux	_	_	_	u	_
+8	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001534.10
+1	UŠUM	_	_	_	UŠUM	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	gu₂	_	_	_	gu₂	_	sux	_	_	_	u	_
+5	AN	_	_	_	AN	_	sux	_	_	_	u	_
+6	x	_	_	_	x	_	sux	_	_	_	u	_
+7	x	_	_	_	x	_	sux	_	_	_	u	_
+8	NE	_	_	_	NE	_	sux	_	_	_	u	_
+9	x	_	_	_	x	_	sux	_	_	_	u	_
+10	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001534.11
+1	{ŋeš}ma-nu	{ŋeš}ma-nu	manu	N	{ŋeš}ma-nu\abs	wood	sux	N1=manu.N5=ø	N1=STEM.N5=ABS	manu.ø	N	wood
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	GAR	_	_	_	GAR	_	sux	_	_	_	u	_
+5	AN	_	_	_	AN	_	sux	_	_	_	u	_
+6	x	_	_	_	x	_	sux	_	_	_	u	_
+7	x	_	_	_	x	_	sux	_	_	_	u	_
+8	GI	_	_	_	GI	_	sux	_	_	_	u	_
+9	ir	_	_	_	ir	_	sux	_	_	_	u	_
+10	x	_	_	_	x	_	sux	_	_	_	u	_
+11	x	_	_	_	x	_	sux	_	_	_	u	_
+12	ma	_	_	_	ma	_	sux	_	_	_	u	_
+13	ha	_	_	_	ha	_	sux	_	_	_	X	_
+14	x	_	_	_	x	_	sux	_	_	_	u	_
+15	x	_	_	_	x	_	sux	_	_	_	u	_
+16	NI	_	_	_	NI	_	sux	_	_	_	u	_
+17	x	_	_	_	x	_	sux	_	_	_	u	_
+18	x	_	_	_	x	_	sux	_	_	_	u	_
+19	x	_	_	_	x	_	sux	_	_	_	u	_
+

@@ -1,0 +1,20 @@
+# project: etcsri 
+# textid: Q001678 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001678.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001678.1
+1	gurun	gurun	gurun	N	gurun	fruit	sux	N1=gurun	N1=STEM	gurun	N	fruit, flower
+2	dug	dug	dug	N	dug	pot	sux	N1=dug	N1=STEM	dug	N	(clay) pot
+
+# Q001678.2
+1	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+2	lugal	lugal	lugal	N	lugal\gen\abs	king	sux	N1=lugal.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	lugal.ak.ø	N	king
+

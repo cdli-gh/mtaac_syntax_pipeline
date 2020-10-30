@@ -1,0 +1,55 @@
+# project: etcsri 
+# textid: Q001499 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001499.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001499.2
+1	x-x-ta	_	_	_	x-x-ta	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	im-ta-ed₃	ed₃	ed	V/i	im-ta-ed₃	ascend	sux	V2=i.V4=m.V5=b.V9=ta.V11=n=V12=ed.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V9=ABL.V11=3-SG-H-A=V12=STEM.V14=3-SG-P	i.m.b.ta.n=V12=ed.ø	V/i	ascend	_	_	_	_	_	_	_
+
+# Q001499.3
+1	šim	šim	šim	N	šim	basin	sux	N1=šim	N1=STEM	šim	N	basin	_	_	_	_	_	_	_
+2	mah-še₃	mah	mah	V/i	mah-še₃	great	sux	NV2=mah.N5=še	NV2=mah.N5=TERM	mah.še	V/i	great	_	_	_	_	_	_	_
+
+# Q001499.4
+1	mu-na-dim₂	dim₂	dim	V/t	mu-na-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create	_	_	_	_	_	_	_
+
+# Q001499.5
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	kur	kur	kur	N	kur	mountain	sux	N1=kur	N1=STEM	kur	N	land	_	_	_	_	_	_	_
+3	gu₂-na	gu₂	gu	N	gu₂-na	neck	sux	N1=gu.N3=ani.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L2-NH	gu.ani.'a	N	neck	_	_	_	_	_	_	_
+
+# Q001499.8
+1	{d}nin-ŋir₂-su	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1	_	_	_	_	_	_	_
+
+# Q001499.9
+1	ur-saŋ	ur-saŋ	ursaŋ	N	ur-saŋ	hero	sux	N1=ursaŋ	N1=STEM	ursaŋ	N	hero, warrior	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001499.10
+1	{d}en-lil₂-la₂-ra	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂-ra	1	sux	N1=Enlil.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Enlil.ak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001499.11
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1	_	_	_	_	_	_	_
+
+# Q001499.12
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001499.13
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001499.14
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q001499.15
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

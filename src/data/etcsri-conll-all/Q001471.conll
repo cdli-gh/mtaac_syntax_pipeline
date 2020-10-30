@@ -1,0 +1,30 @@
+# project: etcsri 
+# textid: Q001471 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001471.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001471.2
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q001471.3
+1	ur-{d}ba-u₂	ur-{d}ba-u₂	Urbauk	RN	ur-{d}ba-u₂	1	sux	N1=Urbauk	N1=NAME	Urbauk	RN	Ruler of Lagaš
+
+# Q001471.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001471.5
+1	lagaš{ki}-ka-še₃	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-še₃	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Lagaš.ak.ak.še	SN	1
+
+# Q001471.6
+1	lugal-ka-gen₆-na	lugal-ka-gen₆-na	Lugalkagina	PN	lugal-ka-gen₆-na	1	sux	N1=Lugalkagina	N1=NAME	Lugalkagina	PN	1
+
+# Q001471.7
+1	ra₂-gaba	ra₂-gaba	ragaba	N	ra₂-gaba\x	rider	sux	N1=ragaba.N5=x	N1=STEM.N5=X	ragaba.x	N	rider
+

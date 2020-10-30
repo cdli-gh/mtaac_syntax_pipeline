@@ -1,0 +1,532 @@
+# project: etcsri 
+# textid: Q001057 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001057.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001057.1
+1	{d}nin-ŋir₂-su₂-ra	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001057.2
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.3
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001057.4
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001057.5
+1	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	mu pad	nominate	to nominate, to proclaim one's name publicly	V/t	V/t
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	1	mwe	_	_	_	_	_
+
+# Q001057.6
+1	{d}en-lilₓ(E₂)-ke₄	{d}en-lilₓ(E₂)	Enlil	DN	{d}en-lilₓ(E₂)-ke₄	1	sux	N1=Enlil.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Enlil.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001057.7
+1	a₂	a₂	a	N	a₂\abs	arm	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	arm	_	_	a šum	give power	give power	V/t	V/t
+2	šum₂-ma	šum₂	šum	V/t	šum₂-ma	give	sux	NV2=šum.NV4='a	NV2=STEM.NV4=SUB	šum.'a	V/t	give	1	mwe	_	_	_	_	_
+
+# Q001057.8
+1	{d}nin-ŋir₂-su₂-ka-ke₄	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka-ke₄	1	sux	N1=Ninŋirsuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninŋirsuk.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001057.9
+1	šag₄	šag₄	šag	N	šag₄\l3	heart	sux	N1=šag.N5=e	N1=STEM.N5=L3-NH	šag.e	N	heart, inner body	_	_	_	_	_	_	_
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q001057.10
+1	{d}nanše-ke₄	{d}nanše	Nanše	DN	{d}nanše-ke₄	1	sux	N1=Nanše.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Nanše.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001057.11
+1	ga	ga	ga	N	ga	milk	sux	N1=ga	N1=STEM	ga	N	milk, suckling	_	_	_	_	_	_	_
+2	zid	zid	zid	V/i	zid\abs	right	sux	NV2=zid.N5=ø	NV2=STEM.N5=ABS	zid.ø	V/i	right	_	_	_	_	_	_	_
+3	gu₇-a	gu₇	gu	V/t	gu₇-a	eat	sux	NV2=gu.NV4='a	NV2=STEM.NV4=SUB	gu.'a	V/t	eat, consume	_	_	_	_	_	_	_
+
+# Q001057.12
+1	{d}nin-hur-saŋ-ka-ke₄	{d}nin-hur-saŋ	Ninhursaŋak	DN	{d}nin-hur-saŋ-ka-ke₄	1	sux	N1=Ninhursaŋak.N5=ak.N5=e	N1=NAME.N5=ak.N5=ERG	Ninhursaŋak.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001057.13
+1	mu	mu	mu	N	mu	name	sux	N1=mu	N1=STEM	mu	N	name	_	_	_	_	_	_	_
+2	dug₃	dug₃	dug	V/i	dug₃\abs	good	sux	NV2=dug.N5=ø	NV2=STEM.N5=ABS	dug.ø	V/i	good	_	_	_	_	_	_	_
+3	še₂₁-a	še₂₁	še	V/t	še₂₁-a	call	sux	NV2=še.NV4='a	NV2=STEM.NV4=SUB	še.'a	V/t	call	_	_	_	_	_	_	_
+
+# Q001057.14
+1	{d}inana-ka-ke₄	{d}inana	Inanak	DN	{d}inana-ka-ke₄	1	sux	N1=Inanak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Inanak.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001057.15
+1	ŋeštug₂	ŋeštug₂	ŋeštug	N	ŋeštug₂\abs	ear	sux	N1=ŋeštug.N5=ø	N1=ŋeštug.N5=ø	ŋeštug.ø	N	ear	_	_	_	_	_	_	_
+2	šum₂-ma	šum₂	šum	V/t	šum₂-ma	give	sux	NV2=šum.NV4='a	NV2=STEM.NV4=SUB	šum.'a	V/t	give	_	_	_	_	_	_	_
+
+# Q001057.16
+1	{d}en-ki-ka-ke₄	{d}en-ki	Enkik	DN	{d}en-ki-ka-ke₄	1	sux	N1=Enkik.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Enkik.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001057.17
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	1	mwe	_	_	_	_	_
+
+# Q001057.18
+1	{d}dumu-zid-abzu-ka-ke₄	{d}dumu-zid-abzu	Dumuzidabzuk	DN	{d}dumu-zid-abzu-ka-ke₄	1	sux	N1=Dumuzidabzuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Dumuzidabzuk.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001057.19
+1	ŋiškim-til₃	ŋiškim-til₃	ŋiškimti	N	ŋiškim-til₃	trust	sux	N1=ŋiškimti	N1=STEM	ŋiškimti	N	trust, aid	_	_	_	_	_	_	_
+
+# Q001057.20
+1	{d}hendur-saŋ-ka-ke₄	{d}hendur-saŋ	Hendursaŋak	DN	{d}hendur-saŋ-ka-ke₄	1	sux	N1=Hendursaŋak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Hendursaŋak.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001057.21
+1	gu₅-li	gu₅-li	guli	N	gu₅-li	friend	sux	N1=guli	N1=STEM	guli	N	friend	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001057.22
+1	{d}lugal-urub{ki}-ka-ke₄	{d}lugal-urub{ki}	Lugalurubak	DN	{d}lugal-urub{ki}-ka-ke₄	1	sux	N1=Lugalurubak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lugalurubak.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001057.23
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	aya₂-kur-gal	aya₂-kur-gal	Ayakurgal	RN	aya₂-kur-gal	1	sux	N1=Ayakurgal	N1=NAME	Ayakurgal	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.24
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001057.25
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄\gen\gen\erg	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001057.26
+1	{d}nin-ŋir₂-su₂-ra	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001057.27
+1	ŋir₂-su{ki}	ŋir₂-su{ki}	Ŋirsu	SN	ŋir₂-su{ki}\abs	1	sux	N1=Ŋirsu.N5=ø	N1=NAME.N5=ABS	Ŋirsu.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001057.28
+1	ki-be₂	ki	ki	N	ki-be₂\n5el3	place	sux	N1=ki.N3=bi.N5=e	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	ki.bi.e	N	place	_	_	_	_	_	_	_
+2	mu-na-gi	gi	gi	V/i	mu-na-gi	turn	sux	V4=mu.V6=nn.V7=a.V11=n.V12=gi.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.gi.ø	V/i	turn	_	_	_	_	_	_	_
+
+# Q001057.29
+1	bad₃	bad₃	bad	N	bad₃	wall	sux	N1=bad	N1=STEM	bad	N	wall, fortification	_	_	_	_	_	_	_
+2	iri-kug-ga	iri-kug	Irikug	SN	iri-kug-ga\abs	1	sux	N1=Irikug.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Irikug.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001057.30
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001057.31
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše\dat	1	sux	N1=Nanše.N5=ra	N1=NAME.N5=DAT-H	Nanše.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001057.32
+1	niŋin₆{ki}	niŋin₆{ki}	Niŋin	SN	niŋin₆{ki}\abs	1	sux	N1=Niŋin.N5=ø	N1=NAME.N5=ABS	Niŋin.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001057.33
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001057.34
+1	e₂-an-na-tum₂-e	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂-e	1	sux	N1=Eanatum.N5=e	N1=NAME.N5=ERG	Eanatum.e	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.35
+1	elam	elam	Elam	GN	elam	1	sux	N1=Elam	N1=NAME	Elam	GN	1	_	_	_	_	_	_	_
+2	hur-saŋ	hur-saŋ	hursaŋ	N	hur-saŋ	mountain	sux	N1=hursaŋ	N1=STEM	hursaŋ	N	mountain	_	_	_	_	_	_	_
+3	u₆-ga	u₆	u	N	u₆-ga\n5al2	admiration	sux	N1=u.N5='a	N1=STEM.N5=L2.NH	u.'a	N	admiration	_	_	_	_	_	_	_
+
+# Q001057.36
+1	aga₃-kar₂	aga₃-kar₂	agakar	N	aga₃-kar₂\abs	conqueror	sux	N1=agakar.N5=ø	N1=STEM.N5=ABS	agakar.ø	N	conqueror	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+2	be₂-seg₁₀	seg₁₀	sig	V/t	be₂-seg₁₀\v10l2	put	sux	V5=b.V10=i.V11=n.V12=sig.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.sig.ø	V/t	put	1	mwe	_	_	_	_	_
+
+# Q001057.37
+1	|SAHAR.DU₆.TAK₄|-bi	|SAHAR.DU₆.TAK₄|	SAHAR.DU₆.TAK₄	N	|SAHAR.DU₆.TAK₄|-bi\abs	burial mound	sux	N1=SAHAR.DU₆.TAK₄.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	SAHAR.bi.ø	N	burial mound	_	_	_	_	_	_	_
+
+# Q001057.38
+1	mu-dub	dub	dub	V/t	mu-dub	heap	sux	V4=mu.V11=n.V12=dub.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.dub.ø	V/t	to strew, to heap up, pile, pour, to whirl up (a duststorm)	_	_	_	_	_	_	_
+
+# Q001057.39
+1	šu-nir	šu-nir	šunir	N	šu-nir	emblem	sux	N1=šunir	N1=STEM	šunir	N	emblem	_	_	_	_	_	_	_
+2	|URU×A|{ki}-ka	|URU×A|{ki}	Arawa	SN	|URU×A|{ki}-ka\gen\l1	1	sux	N1=Arawa.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L1	Arawa.ak.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001057.40
+1	ensi₂-bi	ensi₂	ensik	N	ensi₂-bi\abs	ruler	sux	N1=ensik.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	ensik.bi.ø	N	ruler	_	_	_	_	_	_	_
+
+# Q001057.41
+1	saŋ-ba	saŋ	saŋ	N	saŋ-ba\l1	head	sux	N1=saŋ.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L1	saŋ.bi.'a	N	head	_	_	_	_	_	_	_
+2	mu-du	du	ŋen	V/i	mu-du\l2	go	sux	V4=mu.V10=n.V12=du.V14=ø.V15='a.N5='a	V4=VEN.V10=L1-SYN.V12=STEM-PF.V14=3-SG-S.V15=SUB.N5=L2-NH	mu.n.du.ø.'a.'a	V/i	go, walk	_	_	_	_	_	_	_
+
+# Q001057.42
+1	aga₃-kar₂	aga₃-kar₂	agakar	N	aga₃-kar₂\abs	conqueror	sux	N1=agakar.N5=ø	N1=STEM.N5=ABS	agakar.ø	N	conqueror	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+2	be₂-seg₁₀	seg₁₀	sig	V/t	be₂-seg₁₀\v10l2	put	sux	V5=b.V10=i.V11=n.V12=sig.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.sig.ø	V/t	put	1	mwe	_	_	_	_	_
+
+# Q001057.43
+1	|SAHAR.DU₆.TAK₄|-bi	|SAHAR.DU₆.TAK₄|	SAHAR.DU₆.TAK₄	N	|SAHAR.DU₆.TAK₄|-bi\abs	burial mound	sux	N1=SAHAR.DU₆.TAK₄.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	SAHAR.bi.ø	N	burial mound	_	_	_	_	_	_	_
+
+# Q001057.44
+1	mu-dub	dub	dub	V/t	mu-dub	heap	sux	V4=mu.V11=n.V12=dub.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.dub.ø	V/t	to strew, to heap up, pile, pour, to whirl up (a duststorm)	_	_	_	_	_	_	_
+
+# Q001057.45
+1	umma{ki}	umma{ki}	Umma	SN	umma{ki}\l2	1	sux	N1=Umma.N5='a	N1=NAME.N5=L2-NH	Umma.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001057.46
+1	aga₃-kar₂	aga₃-kar₂	agakar	N	aga₃-kar₂\abs	conqueror	sux	N1=agakar.N5=ø	N1=STEM.N5=ABS	agakar.ø	N	conqueror	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+2	be₂-seg₁₀	seg₁₀	sig	V/t	be₂-seg₁₀\v10l2	put	sux	V5=b.V10=i.V11=n.V12=sig.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.sig.ø	V/t	put	1	mwe	_	_	_	_	_
+
+# Q001057.47
+1	|SAHAR.DU₆.TAK₄|-bi	|SAHAR.DU₆.TAK₄|	SAHAR.DU₆.TAK₄	N	|SAHAR.DU₆.TAK₄|-bi\abs	burial mound	sux	N1=SAHAR.DU₆.TAK₄.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	SAHAR.bi.ø	N	burial mound	_	_	_	_	_	_	_
+2	niš	niš	niš	NU	niš\cop	twenty	sux	NV2=niš.N5=ø.N6=am	NV2=STEM.N5=ABS.N6=COP-3-SG	niš.ø.am	NU	twenty	_	_	_	_	_	_	_
+
+# Q001057.48
+1	mu-dub	dub	dub	V/t	mu-dub	heap	sux	V4=mu.V11=n.V12=dub.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.dub.ø	V/t	to strew, to heap up, pile, pour, to whirl up (a duststorm)	_	_	_	_	_	_	_
+
+# Q001057.49
+1	{d}nin-ŋir₂-su₂-ra	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001057.50
+1	a-šag₄	a-šag₄	ašag	N	a-šag₄	field	sux	N1=ašag	N1=STEM	ašag	N	field	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni	measure	sux	NV2=aŋ.N3=ani	NV2=STEM.N3=3-SG-H-POSS	aŋ.ani	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001057.51
+1	gu₂-eden-na	gu₂-eden-na	Guedenak	GN	gu₂-eden-na\abs	1	sux	N1=Guedenak.N5=ø	N1=NAME.N5=ABS	Guedenak.ø	GN	1	_	_	_	_	_	_	_
+
+# Q001057.52
+1	šu-na	šu	šu	N	šu-na\n5al2	hand	sux	N1=šu.N3=ani.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L2-NH	šu.ani.'a	N	hand	_	_	_	_	_	_	_
+2	mu-ni-gi₄	gi₄	gi	V/i	mu-ni-gi₄	turn	sux	V4=mu.V6=nn.V10=i.V11=n.V12=gi.V14=ø	V4=VEN.V6=3-SG-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.i.n.gi.ø	V/i	turn	_	_	_	_	_	_	_
+
+# Q001057.53
+1	unug{ki}	unug{ki}	Unug	SN	unug{ki}\l2	1	sux	N1=Unug.N5='a	N1=NAME.N5=L2-NH	Unug.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001057.54
+1	aga₃-kar₂	aga₃-kar₂	agakar	N	aga₃-kar₂\abs	conqueror	sux	N1=agakar.N5=ø	N1=STEM.N5=ABS	agakar.ø	N	conqueror	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+2	be₂-seg₁₀	seg₁₀	sig	V/t	be₂-seg₁₀\v10l2	put	sux	V5=b.V10=i.V11=n.V12=sig.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.sig.ø	V/t	put	1	mwe	_	_	_	_	_
+
+# Q001057.55
+1	urim₅{ki}	urim₅{ki}	Urim	SN	urim₅{ki}\l2	1	sux	N1=Urim.N5='a	N1=NAME.N5=L2-NH	Urim.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001057.56
+1	aga₃-kar₂	aga₃-kar₂	agakar	N	aga₃-kar₂\abs	conqueror	sux	N1=agakar.N5=ø	N1=STEM.N5=ABS	agakar.ø	N	conqueror	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+2	be₂-seg₁₀	seg₁₀	sig	V/t	be₂-seg₁₀\v10l2	put	sux	V5=b.V10=i.V11=n.V12=sig.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.sig.ø	V/t	put	1	mwe	_	_	_	_	_
+
+# Q001057.57
+1	ki-{d}utu	ki-{d}utu	Kiutuk	SN	ki-{d}utu\l2	1	sux	N1=Kiutuk.N5='a	N1=NAME.N5=L2-NH	Kiutuk.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001057.58
+1	aga₃-kar₂	aga₃-kar₂	agakar	N	aga₃-kar₂\abs	conqueror	sux	N1=agakar.N5=ø	N1=STEM.N5=ABS	agakar.ø	N	conqueror	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+2	be₂-seg₁₀	seg₁₀	sig	V/t	be₂-seg₁₀\v10l2	put	sux	V5=b.V10=i.V11=n.V12=sig.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.sig.ø	V/t	put	1	mwe	_	_	_	_	_
+
+# Q001057.59
+1	iri-az{ki}	iri-az{ki}	Iriaz	SN	iri-az{ki}\abs	1	sux	N1=Iriaz.N5=ø	N1=NAME.N5=ABS	Iriaz.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001057.60
+1	mu-hul	hul	hulu	V/t	mu-hul	bad	sux	V4=mu.V11=n.V12=hulu.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.hulu.ø	V/t	to plunder, raid	_	_	_	_	_	_	_
+
+# Q001057.61
+1	ensi₂-bi	ensi₂	ensik	N	ensi₂-bi\abs	ruler	sux	N1=ensik.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	ensik.bi.ø	N	ruler	_	_	_	_	_	_	_
+
+# Q001057.62
+1	mu-uš₂	uš₂	uš	V/t	mu-uš₂	die	sux	V4=mu.V11=n.V12=uš.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.uš.ø	V/i	kill	_	_	_	_	_	_	_
+
+# Q001057.63
+1	mi-ši-me{ki}	mi-ši-me{ki}	Mišime	GN	mi-ši-me{ki}\abs	1	sux	N1=Mišime.N5=ø	N1=NAME.N5=ABS	Mišime.ø	GN	1	_	_	_	_	_	_	_
+
+# Q001057.64
+1	mu-hul	hul	hulu	V/t	mu-hul	bad	sux	V4=mu.V11=n.V12=hulu.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.hulu.ø	V/t	to plunder, raid	_	_	_	_	_	_	_
+
+# Q001057.65
+1	a-ru₂-a{ki}	a-ru₂-a{ki}	Arua	SN	a-ru₂-a{ki}\abs	1	sux	N1=Arua.N5=ø	N1=NAME.N5=ABS	Arua.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001057.66
+1	mu-ha-lam	ha-lam	halam	V/t	mu-ha-lam	forsake	sux	V4=mu.V11=n.V12=halam.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.halam.ø	V/t	forsake, destroy, become forgotten	_	_	_	_	_	_	_
+
+# Q001057.67
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.68
+1	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	mu pad	nominate	to nominate, to proclaim one's name publicly	V/t	V/t
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	1	mwe	_	_	_	_	_
+
+# Q001057.69
+1	{d}nin-ŋir₂-su₂-ka-da	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka-da	1	sux	N1=Ninŋirsuk.N5=ak.N5=da	N1=NAME.N5=GEN.N5=COM	Ninŋirsuk.ak.da	DN	1	_	_	_	_	_	_	_
+
+# Q001057.70
+1	kur-kur-re₂	kur-kur	kur	N	kur-kur-re₂	mountain	sux	N1=kurkur.N5=e	N1=STEM-RDP.N5=ERG	kurkur.e	N	mountain	_	_	_	_	_	_	_
+
+# Q001057.71
+1	saŋ	saŋ	saŋ	N	saŋ\abs	head	sux	N1=saŋ.N5=ø	N1=STEM.N5=ABS	saŋ.ø	N	head	_	_	_	_	_	_	_
+2	e-dab₆-sag₃	sag₃	sag	V/t	e-dab₆-sag₃	beat	sux	V2=i.V6=nn.V8=da.V11=b.V12=sag.V14=ø	V2=FIN.V6=3-SG-H.V8=COM.V11=3-SG-NH-A.V12=STEM.V14=3-SG-P	i.nn.da.b.sag.ø	V/t	to strike, to beat	_	_	_	_	_	_	_
+
+# Q001057.72
+1	mu	mu	mu	N	mu	year	sux	N1=mu	N1=STEM	mu	N	year	_	_	_	_	_	_	_
+2	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+3	akšak{ki}-ka	akšak{ki}	Akšak	SN	akšak{ki}-ka\abs	1	sux	N1=Akšak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Akšak.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001057.73
+1	i₃-zig₃-ga-a	zig₃	zig	V/i	i₃-zig₃-ga-a\v14sg3s	rise	sux	V2=i.V12=zig.V14=ø.V15='a.N5='a	V2=FIN.V12=STEM.V14=3-SG-S.V15=SUB.N5=L1	i.zig.ø.'a.'a	V/i	rise	_	_	_	_	_	_	_
+
+# Q001057.74
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.75
+1	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	mu pad	nominate	to nominate, to proclaim one's name publicly	V/t	V/t
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	1	mwe	_	_	_	_	_
+
+# Q001057.76
+1	{d}nin-ŋir₂-su₂-ka-ke₄	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka-ke₄	1	sux	N1=Ninŋirsuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninŋirsuk.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001057.77
+1	an-ta-sur-ra	an-ta-sur-ra	Antasura	TN	an-ta-sur-ra	1	sux	N1=Antasura	N1=NAME	Antasura	TN	1	_	_	_	_	_	_	_
+
+# Q001057.78
+1	{d}nin-ŋir₂-su₂-ka-ta	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka-ta	1	sux	N1=Ninŋirsuk.N5=ak.N5=ta	N1=NAME.N5=GEN.N5=ABL	Ninŋirsuk.ak.ta	DN	1	_	_	_	_	_	_	_
+
+# Q001057.79
+1	zu-zu	zu-zu	Zuzu	RN	zu-zu	1	sux	N1=Zuzu	N1=NAME	Zuzu	RN	1 King of Akšak	_	_	_	_	_	_	_
+
+# Q001057.80
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	akšak{ki}	akšak{ki}	Akšak	SN	akšak{ki}\gen\abs	1	sux	N1=Akšak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Akšak.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001057.81
+1	akšak{ki}-še₃	akšak{ki}	Akšak	SN	akšak{ki}-še₃	1	sux	N1=Akšak.N5=še	N1=NAME.N5=TERM	Akšak.še	SN	1	_	_	_	_	_	_	_
+
+# Q001057.82
+1	mu-gaz	gaz	gaz	V/t	mu-gaz	kill	sux	V4=mu.V11=n.V12=gaz.V14=ø	V4=mu.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.gaz.ø	V/t	to repel	_	_	_	_	_	_	_
+
+# Q001057.83
+1	mu-ha-lam	ha-lam	halam	V/t	mu-ha-lam	forsake	sux	V4=mu.V11=n.V12=halam.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.halam.ø	V/t	forsake, destroy, become forgotten	_	_	_	_	_	_	_
+
+# Q001057.84
+1	ud-ba	ud	ud	N	ud-ba	sun	sux	N1=ud.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	ud.bi.'a	N	day, sun	_	_	_	_	_	_	_
+
+# Q001057.85
+1	e₂-an-na-tum₂-ma	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂-ma	1	sux	N1=Eanatum.N5=ak	N1=NAME.N5=GEN	Eanatum.ak	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.86
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.87
+1	mu	mu	mu	N	mu	name	sux	N1=mu	N1=STEM	mu	N	name	_	_	_	_	_	_	_
+2	u₂-rum-ma-ni	u₂-rum	urum	N	u₂-rum-ma-ni\cop	property	sux	N1=urum.N3=ani.N5=ø.N6=am	N1=STEM.N3=3-SG-H-POSS.N5=ABS.N6=COP-3-SG	urum.ani.ø.am	N	property	_	_	_	_	_	_	_
+
+# Q001057.88
+1	mu	mu	mu	N	mu	name	sux	N1=mu	N1=STEM	mu	N	name	_	_	_	_	_	_	_
+2	GIR₃-GIR₃-ni	_	_	_	GIR₃-GIR₃-ni	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001057.89
+1	lum-ma-a	lum-ma	Luma	RN	lum-ma-a\cop	1	sux	N1=Luma.N5=ø.N6=am	N1=NAME.N5=ABS.N6=COP-3-SG	Luma.ø.am	RN	1	_	_	_	_	_	_	_
+
+# Q001057.90
+1	{d}nin-ŋir₂-su₂-ra	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001057.91
+1	id₅	id₅	id	N	id₅	river	sux	N1=id	N1=STEM	id	N	river	_	_	_	_	_	_	_
+2	gibil	gibil	gibil	V/i	gibil\abs	new	sux	NV2=gibil.N5=ø	NV2=STEM.N5=ABS	gibil.ø	V/i	new	_	_	_	_	_	_	_
+
+# Q001057.92
+1	mu-na-dun	dun	dun	V/t	mu-na-dun	dig	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dun.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dun.ø	V/t	dig	_	_	_	_	_	_	_
+
+# Q001057.93
+1	lum-ma-gin₇-dug₃	lum-ma-gin₇-dug₃	Lumagindug	WN	lum-ma-gin₇-dug₃	1	sux	N1=Lumagindug	N1=NAME	Lumagindug	WN	1	_	_	_	_	_	_	_
+
+# Q001057.94
+1	mu	mu	mu	N	mu\term	name	sux	N1=mu.N5=še	N1=STEM.N5=TERM	mu.še	N	name	_	_	_	_	_	_	_
+2	mu-na-še₂₁	še₂₁	še	V/t	mu-na-še₂₁	call	sux	V4=mu.V6=nn.V7=a.V11=n.V12=še.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.še.ø	V/t	call	_	_	_	_	_	_	_
+
+# Q001057.95
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.96
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	inim-ma	inim	inim	N	inim-ma\n5al2	word	sux	N1=inim.N5='a	N1=STEM.N5=L2-NH	inim.'a	N	word	_	_	_	_	_	_	_
+3	sig₁₀-ga	sig₁₀	sig	V/t	sig₁₀-ga	put	sux	NV2=sig.NV4='a	NV2=STEM.NV4=SUB	sig.'a	V/t	put	_	_	_	_	_	_	_
+
+# Q001057.97
+1	{d}nin-ŋir₂-su₂-ka	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka	1	sux	N1=Ninŋirsuk.N5=ak	N1=NAME.N5=GEN	Ninŋirsuk.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001057.98
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.99
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001057.100
+1	lagaš{ki}-ra	lagaš{ki}	Lagaš	SN	lagaš{ki}-ra	1	sux	N1=Lagaš.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Lagaš.ak.ra	SN	1	_	_	_	_	_	_	_
+
+# Q001057.101
+1	{d}inana-ke₄	{d}inana	Inanak	DN	{d}inana-ke₄	1	sux	N1=Inanak.N5=e	N1=NAME.N5=ERG	Inanak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001057.102
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	an-na-aŋ₂-ŋa₂-da	aŋ₂	aŋ	V/t	an-na-aŋ₂-ŋa₂-da	measure	sux	V2=a.V6=nn.V7=a.V11=n.V12=aŋ.V14=ø.V15='a.N5=da	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=COM	a.nn.a.n.aŋ.ø.'a.da	V/t	measure	1	mwe	_	_	_	_	_
+
+# Q001057.103
+1	nam-ensi₂	nam-ensi₂	namensik	N	nam-ensi₂	office of ruler	sux	N1=namensik	N1=STEM	namensik	N	office of ruler	_	_	_	_	_	_	_
+
+# Q001057.104
+1	lagaš{ki}-ta	lagaš{ki}	Lagaš	SN	lagaš{ki}-ta\gen\abl	1	sux	N1=Lagaš.N5=ak.N5=ta	N1=NAME.N5=GEN.N5=ABL	Lagaš.ak.ta	SN	1	_	_	_	_	_	_	_
+
+# Q001057.105
+1	nam-lugal	nam-lugal	namlugal	N	nam-lugal	kingship	sux	N1=namlugal	N1=STEM	namlugal	N	kingship, royal	_	_	_	_	_	_	_
+2	kiš{ki}	kiš{ki}	Kiš	SN	kiš{ki}\gen\abs	1	sux	N1=Kiš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Kiš.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001057.106
+1	mu-na-ta-šum₂	šum₂	šum	V/t	mu-na-ta-šum₂	give	sux	V4=mu.V6=nn.V7=a.V9=ta.V11=n.V12=šum.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V9=ABL.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ta.n.šum.ø	V/t	give	_	_	_	_	_	_	_
+
+# Q001057.107
+1	e₂-an-na-tum₂-da	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂-da	1	sux	N1=Eanatum.N5=da	N1=NAME.N5=COM	Eanatum.da	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.108
+1	elam	elam	Elam	GN	elam\erg	1	sux	N1=Elam.N5=e	N1=NAME.N5=ERG	Elam.e	GN	1	_	_	_	_	_	_	_
+2	saŋ	saŋ	saŋ	N	saŋ\abs	head	sux	N1=saŋ.N5=ø	N1=STEM.N5=ABS	saŋ.ø	N	head	_	_	_	_	_	_	_
+3	e-dab₆-sag₃	sag₃	sag	V/t	e-dab₆-sag₃	beat	sux	V2=i.V6=nn.V8=da.V11=b.V12=sag.V14=ø	V2=FIN.V6=3-SG-H.V8=COM.V11=3-SG-NH-A.V12=STEM.V14=3-SG-P	i.nn.da.b.sag.ø	V/t	to strike, to beat	_	_	_	_	_	_	_
+
+# Q001057.109
+1	elam	elam	Elam	GN	elam\abs	1	sux	N1=Elam.N5=ø	N1=NAME.N5=ABS	Elam.ø	GN	1	_	_	_	_	_	_	_
+2	kur-ra-na	kur	kur	N	kur-ra-na\n5al2	mountain	sux	N1=kur.N3=ani.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L2-NH	kur.ani.'a	N	land	_	_	_	_	_	_	_
+3	bi-gi₄	gi₄	gi	V/i	bi-gi₄\v10l2	turn	sux	V5=b.V10=i.V11=n.V12=gi.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.gi.ø	V/i	turn	_	_	_	_	_	_	_
+
+# Q001057.110
+1	kiš{ki}	kiš{ki}	Kiš	SN	kiš{ki}\erg	1	sux	N1=Kiš.N5=e	N1=NAME.N5=ERG	Kiš.e	SN	1	_	_	_	_	_	_	_
+2	saŋ	saŋ	saŋ	N	saŋ\abs	head	sux	N1=saŋ.N5=ø	N1=STEM.N5=ABS	saŋ.ø	N	head	_	_	_	_	_	_	_
+3	e-dab₆-sag₃	sag₃	sag	V/t	e-dab₆-sag₃	beat	sux	V2=i.V6=nn.V8=da.V11=b.V12=sag.V14=ø	V2=FIN.V6=3-SG-H.V8=COM.V11=3-SG-NH-A.V12=STEM.V14=3-SG-P	i.nn.da.b.sag.ø	V/t	to strike, to beat	_	_	_	_	_	_	_
+
+# Q001057.111
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	akšak{ki}	akšak{ki}	Akšak	SN	akšak{ki}\gen\abs	1	sux	N1=Akšak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Akšak.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001057.112
+1	kur-ra-na	kur	kur	N	kur-ra-na\n5al2	mountain	sux	N1=kur.N3=ani.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L2-NH	kur.ani.'a	N	land	_	_	_	_	_	_	_
+2	bi-gi₄	gi₄	gi	V/i	bi-gi₄\v10l2	turn	sux	V5=b.V10=i.V11=n.V12=gi.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.gi.ø	V/i	turn	_	_	_	_	_	_	_
+
+# Q001057.113
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.114
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001057.115
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001057.116
+1	kur	kur	kur	N	kur\l3	mountain	sux	N1=kur.N5=e	N1=STEM.N5=L3-NH	kur.e	N	mountain	_	_	_	_	_	_	_
+2	gu₂	gu₂	gu	N	gu₂\abs	neck	sux	N1=gu.N5=ø	N1=STEM.N5=ABS	gu.ø	N	neck	_	_	_	_	_	_	_
+3	ŋar-ŋar	ŋar-ŋar	ŋar	V/t	ŋar-ŋar	place	sux	NV2=ŋarŋar	NV2=STEM-RDP	ŋarŋar	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q001057.117
+1	{d}nin-ŋir₂-su-ka-ke₄	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka-ke₄	1	sux	N1=Ninŋirsuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninŋirsuk.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001057.118
+1	elam	elam	Elam	GN	elam	1	sux	N1=Elam	N1=NAME	Elam	GN	1	_	_	_	_	_	_	_
+2	šubur{ki}	šubur{ki}	Šubur	GN	šubur{ki}	1	sux	N1=Šubur	N1=NAME	Šubur	GN	1	_	_	_	_	_	_	_
+
+# Q001057.119
+1	|URU×A|{ki}	|URU×A|{ki}	Arawa	SN	|URU×A|{ki}\l2	1	sux	N1=Arawa.N5='a	N1=NAME.N5=L2-NH	Arawa.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001057.120
+1	a-suhur-ta	a-suhur	Asuhur	WN	a-suhur-ta	1	sux	N1=Asuhur.N5=ta	N1=NAME.N5=ABL	Asuhur.ta	WN	1	_	_	_	_	_	_	_
+
+# Q001057.121
+1	aga₃-kar₂	aga₃-kar₂	agakar	N	aga₃-kar₂\abs	conqueror	sux	N1=agakar.N5=ø	N1=STEM.N5=ABS	agakar.ø	N	conqueror	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+2	be₂-seg₁₀	seg₁₀	sig	V/t	be₂-seg₁₀\v10l2	put	sux	V5=b.V10=i.V11=n.V12=sig.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.sig.ø	V/t	put	1	mwe	_	_	_	_	_
+
+# Q001057.122
+1	kiš{ki}	kiš{ki}	Kiš	SN	kiš{ki}	1	sux	N1=Kiš	N1=NAME	Kiš	SN	1	_	_	_	_	_	_	_
+2	akšak{ki}	akšak{ki}	Akšak	SN	akšak{ki}	1	sux	N1=Akšak	N1=NAME	Akšak	SN	1	_	_	_	_	_	_	_
+
+# Q001057.123
+1	ma-ri₂{ki}	ma-ri₂{ki}	Mari	SN	ma-ri₂{ki}\l2	1	sux	N1=Mari.N5='a	N1=NAME.N5=L2-NH	Mari.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001057.124
+1	an-ta-sur-ra	an-ta-sur-ra	Antasura	TN	an-ta-sur-ra	1	sux	N1=Antasura	N1=NAME	Antasura	TN	1	_	_	_	_	_	_	_
+
+# Q001057.125
+1	{d}nin-ŋir₂-su-ka-ta	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka-ta	1	sux	N1=Ninŋirsuk.N5=ak.N5=ta	N1=NAME.N5=GEN.N5=ABL	Ninŋirsuk.ak.ta	DN	1	_	_	_	_	_	_	_
+
+# Q001057.126
+1	aga₃-kar₂	aga₃-kar₂	agakar	N	aga₃-kar₂\abs	conqueror	sux	N1=agakar.N5=ø	N1=STEM.N5=ABS	agakar.ø	N	conqueror	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+2	be₂-seg₁₀	seg₁₀	sig	V/t	be₂-seg₁₀\v10l2	put	sux	V5=b.V10=i.V11=n.V12=sig.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.sig.ø	V/t	put	1	mwe	_	_	_	_	_
+
+# Q001057.127
+1	{d}nin-ŋir₂-su-ra	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001057.128
+1	lum-ma-gin₇-dug₃	lum-ma-gin₇-dug₃	Lumagindug	WN	lum-ma-gin₇-dug₃\abs	1	sux	N1=Lumagindug.N5=ø	N1=NAME.N5=ABS	Lumagindug.ø	WN	1	_	_	_	_	_	_	_
+
+# Q001057.129
+1	mu-na-us₂	us₂	us	V/i	mu-na-us₂	follow	sux	V4=mu.V6=nn.V7=a.V11=n.V12=us.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.us.ø	V/i	follow, to be next	_	_	_	_	_	_	_
+
+# Q001057.130
+1	saŋ-še₃	saŋ	saŋ	N	saŋ-še₃	head	sux	N1=saŋ.N5=še	N1=STEM.N5=TERM	saŋ.še	N	head	_	_	_	_	_	_	_
+2	mu-ni-rig₈	rig₈	rig	V/t	mu-ni-rig₈\v10l3	donate	sux	V4=mu.V6=nn.V10=i.V11=n.V12=rig.V14=ø	V4=VEN.V6=3-SG-H.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.i.n.rig.ø	V/t	donate	_	_	_	_	_	_	_
+
+# Q001057.131
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.132
+1	a₂	a₂	a	N	a₂\abs	arm	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	arm	_	_	a šum	give power	give power	V/t	V/t
+2	šum₂-ma	šum₂	šum	V/t	šum₂-ma	give	sux	NV2=šum.NV4='a	NV2=STEM.NV4=SUB	šum.'a	V/t	give	1	mwe	_	_	_	_	_
+
+# Q001057.133
+1	{d}nin-ŋir₂-su₂-ka-ke₄	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka-ke₄	1	sux	N1=Ninŋirsuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninŋirsuk.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001057.134
+1	ŋeš-keš₂-ra₂	ŋeš-keš₂-ra₂	ŋeškešda	N	ŋeš-keš₂-ra₂	dam	sux	N1=ŋeškešda	N1=STEM	ŋeškešda	N	dam	_	_	_	_	_	_	_
+
+# Q001057.135
+1	lum-ma-gin₇-dug₃	lum-ma-gin₇-dug₃	Lumagindug	WN	lum-ma-gin₇-dug₃\gen\abs	1	sux	N1=Lumagindug.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lumagindug.ak.ø	WN	1	_	_	_	_	_	_	_
+
+# Q001057.136
+1	esir₂	esir₂	esir	N	esir₂	bitumen	sux	N1=esir	N1=STEM	esir	N	bitumen, pitch	_	_	_	_	_	_	_
+2	1(šar₂)	_	_	_	1(šar₂)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+3	gur	gur	gur	N	gur	unit	sux	N1=gur	N1=STEM	gur	N	a unit of capacity, a measuring vessel	_	_	_	_	_	_	_
+4	2(diš)	_	_	_	2(diš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+5	ul	ul	ul	N	ul\l1	unit	sux	N1=ul.N5='a	N1=STEM.N5=L1	ul.'a	N	a pre-sargonic unit of capacity used in Lagaš	_	_	_	_	_	_	_
+
+# Q001057.137
+1	mu-ni-du₃	du₃	du	V/t	mu-ni-du₃	build	sux	V4=mu.V10=ni.V11=n.V12=du.V14=ø	V4=VEN.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.ni.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001057.138
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.139
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	inim-ma	inim	inim	N	inim-ma\n5al2	word	sux	N1=inim.N5='a	N1=STEM.N5=L2-NH	inim.'a	N	word	_	_	_	_	_	_	_
+3	sig₁₀-ga	sig₁₀	sig	V/t	sig₁₀-ga	put	sux	NV2=sig.NV4='a	NV2=STEM.NV4=SUB	sig.'a	V/t	put	_	_	_	_	_	_	_
+
+# Q001057.140
+1	{d}nin-ŋir₂-su-ka-ke₄	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka-ke₄	1	sux	N1=Ninŋirsuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninŋirsuk.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001057.141
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni\abs	deity	sux	N1=diŋir.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	diŋir.ani.ø	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001057.142
+1	{d}šul-|MUŠ×PA|	{d}šul-|MUŠ×PA|	Šul-MUŠ×PA	DN	{d}šul-|MUŠ×PA|\cop	1	sux	N1=Šul-|MUŠ×PA|.N5=ø.N6=am	N1=NAME.N5=ABS.N6=COP-3-SG	Šul-|MUŠ×PA|.ø.am	DN	1	_	_	_	_	_	_	_
+
+# Q001057.143
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great	_	_	_	_	_	_	_
+3	ti-ra-aš₂	ti-ra-aš₂	Tiraš	TN	ti-ra-aš₂\gen\abs	1	sux	N1=Tiraš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Tiraš.ak.ø	TN	1	_	_	_	_	_	_	_
+
+# Q001057.144
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001057.145
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	aya₂-kur-gal	aya₂-kur-gal	Ayakurgal	RN	aya₂-kur-gal	1	sux	N1=Ayakurgal	N1=NAME	Ayakurgal	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.146
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001057.147
+1	lagaš{ki}-ka	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka\abs	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Lagaš.ak.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001057.148
+1	pa-bil₃-ga-ni	pa-bil₃-ga	pabilga	N	pa-bil₃-ga-ni\abs	relation	sux	N1=pabilga.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS	pabilga.ani.ø	N	a kinship term	_	_	_	_	_	_	_
+
+# Q001057.149
+1	ur-{d}nanše	ur-{d}nanše	Urnanše	RN	ur-{d}nanše	1	sux	N1=Urnanše	N1=NAME	Urnanše	RN	King of Lagaš	_	_	_	_	_	_	_
+
+# Q001057.150
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001057.151
+1	lagaš{ki}-kam	lagaš{ki}	Lagaš	SN	lagaš{ki}-kam	1	sux	N1=Lagaš.N5=ak.N5=ø.N6=COP	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Lagaš.ak.ø.COP	SN	1	_	_	_	_	_	_	_
+

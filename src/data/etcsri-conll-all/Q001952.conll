@@ -1,0 +1,41 @@
+# project: etcsri 
+# textid: Q001952 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001952.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001952.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001952.3
+1	x-zu-ta	_	_	_	x-zu-ta	_	sux	_	_	_	u	_
+
+# Q001952.4
+1	x-ta	_	_	_	x-ta	_	sux	_	_	_	u	_
+
+# Q001952.7
+1	{d}iš-me-{d}da-gan-e	{d}iš-me-{d}da-gan	Išmedagan	RN	{d}iš-me-{d}da-gan-e	1	sux	N1=Išmedagan.N5=e	N1=NAME.N5=ERG	Išmedagan.e	RN	4th king of the dynasty of Isin
+
+# Q001952.8
+1	kiŋ₂	kiŋ₂	kiŋ	V/t	kiŋ₂	work	sux	NV2=kiŋ	NV2=STEM	kiŋ	V/t	to work
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+5	x	_	_	_	x	_	sux	_	_	_	u	_
+6	ma-x	_	_	_	ma-x	_	sux	_	_	_	u	_
+
+# Q001952.11
+1	BI	_	_	_	BI	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001952.12
+1	kiŋ₂	kiŋ₂	kiŋ	V/t	kiŋ₂	work	sux	NV2=kiŋ	NV2=STEM	kiŋ	V/t	to work
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+

@@ -1,0 +1,56 @@
+# project: etcsri 
+# textid: Q002016 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002016.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q002016.1
+1	gu-un-gu-nu-um	gu-un-gu-nu-um	Gungunum	RN	gu-un-gu-nu-um	1	sux	N1=Gungunum	N1=NAME	Gungunum	RN	King of Larsa	_	_	_	_	_	_	_
+
+# Q002016.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	larsam{ki}-ma	larsam{ki}	Larsam	SN	larsam{ki}-ma\gen	1	sux	N1=Larsam.N5=ak	N1=NAME.N5=GEN	Larsam.ak	SN	1	_	_	_	_	_	_	_
+
+# Q002016.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri	ki-uri	Akkad	GN	ki-uri\gen	1	sux	N1=Akkad.N5=ak	N1=NAME.N5=GEN	Akkad.ak	GN	1	_	_	_	_	_	_	_
+
+# Q002016.4
+1	ibila	ibila	ibila	N	ibila	heir	sux	N1=ibila	N1=STEM	ibila	N	heir	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q002016.5
+1	sa-mi-um	sa-mi-um	Samium	RN	sa-mi-um\gen	1	sux	N1=Samium.N5=ak	N1=NAME.N5=GEN	Samium.ak	RN	King of Larsa	_	_	_	_	_	_	_
+
+# Q002016.6
+1	bad₃	bad₃	bad	N	bad₃	wall	sux	N1=bad	N1=STEM	bad	N	wall, fortification	_	_	_	_	_	_	_
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great	_	_	_	_	_	_	_
+3	larsam{ki}-ma	larsam{ki}	Larsam	SN	larsam{ki}-ma\gen	1	sux	N1=Larsam.N5=ak	N1=NAME.N5=GEN	Larsam.ak	SN	1	_	_	_	_	_	_	_
+
+# Q002016.7
+1	{d}utu	{d}utu	Utu	DN	{d}utu	1	sux	N1=Utu	N1=NAME	Utu	DN	1	_	_	_	_	_	_	_
+2	ki-bala-e	ki-bala	kibala	N	ki-bala-e	rebel land	sux	N1=kibala.N5=e	N1=STEM.N5=L3-NH	kibala.e	N	rebel land	_	_	_	_	_	_	_
+3	sa₂	sa₂	sa	N	sa₂\abs	equal	sux	NV2=sa.N5=ø	NV2=STEM.N5=ABS	sa.ø	V/t	equal	_	_	sa dug	arrive	to arrive, to cause to arrive (regularly)	V/t	V/t
+4	di	di	dug	V/t	di	speak	sux	NV2=did	NV2=STEM-PF	did	V/t	speak	3	mwe	_	_	_	_	_
+
+# Q002016.8
+1	mu-bi-im	mu	mu	N	mu-bi-im	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name	_	_	_	_	_	_	_
+
+# Q002016.9
+1	šag₄	šag₄	šag	N	šag₄	heart	sux	N1=šag	N1=STEM	šag	N	heart, inner body	_	_	_	_	_	_	_
+2	mu	mu	mu	N	mu	year	sux	N1=mu	N1=STEM	mu	N	year	_	_	_	_	_	_	_
+3	aš-ka	aš	aš	NU	aš-ka	one	sux	NV2=aš.N5=ak.N5='a	NV2=STEM.N5=GEN.N5=L1	aš.ak.'a	NU	one	_	_	_	_	_	_	_
+4	šeg₁₂-bi	šeg₁₂	šeg	N	šeg₁₂-bi	brick	sux	N1=šeg.N3=bi	N1=STEM.N3=3-SG-NH-POSS	šeg.bi	N	brick	_	_	_	_	_	_	_
+
+# Q002016.10
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+2	bad₃-bi	bad₃	bad	N	bad₃-bi\abs	wall	sux	N1=bad.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	bad.bi.ø	N	wall, fortification	_	_	_	_	_	_	_
+3	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

@@ -1,0 +1,57 @@
+# project: etcsri 
+# textid: Q002009 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002009.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q002009.1
+1	{d}ne₃-eri₁₁-gal	{d}ne₃-eri₁₁-gal	Nergal	DN	{d}ne₃-eri₁₁-gal	1	sux	N1=Nergal	N1=NAME	Nergal	DN	1	_	_	_	_	_	_	_
+
+# Q002009.2
+1	a-pi₅-ak{ki}	a-pi₅-ak{ki}	Apiak	SN	a-pi₅-ak{ki}\gen	1	sux	N1=Apiak.N5=ak	N1=NAME.N5=GEN	Apiak.ak	SN	1	_	_	_	_	_	_	_
+
+# Q002009.3
+1	nir	nir	nir	N	nir	lordly	sux	NV2=nir	NV2=STEM	nir	AJ	lord	_	_	_	_	_	_	_
+2	alim	alim	alim	N	alim	bull	sux	N1=alim	N1=STEM	alim	N	bison, heavy, important	_	_	_	_	_	_	_
+3	piriŋ	piriŋ	piriŋ	N	piriŋ	lion	sux	N1=piriŋ	N1=STEM	piriŋ	N	lion	_	_	_	_	_	_	_
+4	ne₃	ne₃	ne	N	ne₃\abs	strength	sux	N1=ne.N5=ø	N1=STEM.N5=ABS	ne.ø	N	strength	_	_	_	_	_	_	_
+5	tuku	tuku	tuku	V/t	tuku	acquire	sux	NV2=tuku	NV2=STEM	tuku	V/t	to acquire, to have	_	_	_	_	_	_	_
+
+# Q002009.4
+1	diŋir-ra-a-ni-ir	diŋir	diŋir	N	diŋir-ra-a-ni-ir	deity	sux	N1=diŋir.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	diŋir.ani.ra	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q002009.5
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q002009.6
+1	{d}da-mi-iq-i₃-li₂-šu	{d}da-mi-iq-i₃-li₂-šu	Damiqilišu	RN	{d}da-mi-iq-i₃-li₂-šu	1	sux	N1=Damiqilišu	N1=NAME	Damiqilišu	RN	15th king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q002009.7
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri-ka-še₃	ki-uri	Akkad	GN	ki-uri-ka-še₃	1	sux	N1=Akkad.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Akkad.ak.ak.še	GN	1	_	_	_	_	_	_	_
+
+# Q002009.8
+1	IR₃-{d}nanna	IR₃-{d}nanna	Waradnanna	PN	IR₃-{d}nanna	1	sux	N1=Waradnanna	N1=NAME	Waradnanna	PN	1	_	_	_	_	_	_	_
+
+# Q002009.9
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe	_	_	_	_	_	_	_
+2	lugal	lugal	lugal	N	lugal\gen	king	sux	N1=lugal.N5=ak	N1=STEM.N5=GEN	lugal.ak	N	king	_	_	_	_	_	_	_
+
+# Q002009.10
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	pi₂-iq-qum-ke₄	pi₂-iq-qum	Piqqum	PN	pi₂-iq-qum-ke₄	1	sux	N1=Piqqum.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Piqqum.ak.e	PN	1	_	_	_	_	_	_	_
+
+# Q002009.11
+1	arad-da-ne₂	arad	arad	N	arad-da-ne₂	slave	sux	N1=arad.N3=ani.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=ERG	arad.ani.e	N	slave, servant	_	_	_	_	_	_	_
+
+# Q002009.12
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

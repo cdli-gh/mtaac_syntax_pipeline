@@ -1,0 +1,110 @@
+# project: etcsri 
+# textid: Q001547 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001547.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001547.1
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1	_	_	_	_	_	_	_
+
+# Q001547.2
+1	munus	munus	munus	N	munus	woman	sux	N1=munus	N1=STEM	munus	N	woman	_	_	_	_	_	_	_
+2	sag₉-ga	sag₉	sag	V/i	sag₉-ga	good	sux	NV2=sag.NV4='a	NV2=STEM.NV4=SUB	sag.'a	V/i	(to be) good	_	_	_	_	_	_	_
+
+# Q001547.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	an-na	an	An	DN	an-na	1	sux	N1=An.N5=ak	N1=NAME.N5=GEN	An.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001547.4
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+2	iri-kug-ga	iri-kug	Irikug	SN	iri-kug-ga	1	sux	N1=Irikug.N5=ak	N1=NAME.N5=GEN	Irikug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001547.5
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+2	he₂-ŋal₂	he₂-ŋal₂	heŋal	N	he₂-ŋal₂\gen	plenty	sux	N1=heŋal.N5=ak	N1=STEM.N5=GEN	heŋal.ak	N	plenty	_	_	_	_	_	_	_
+3	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+4	an	an	An	DN	an	1	sux	N1=AN	N1=NAME	AN	DN	1	_	_	_	_	_	_	_
+5	kug-ga	kug	kug	V/i	kug-ga\gen	pure	sux	NV2=kug.N5=ak	NV2=STEM.N5=GEN	kug.ak	V/i	pure	_	_	_	_	_	_	_
+
+# Q001547.6
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q001547.7
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1	_	_	_	_	_	_	_
+
+# Q001547.8
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001547.9
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001547.10
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	e₂-tar-sir₂-sir₂	e₂-tar-sir₂-sir₂	Etarsirsir	TN	e₂-tar-sir₂-sir₂	1	sux	N1=Etarsirsir	N1=NAME	Etarsirsir	TN	1	_	_	_	_	_	_	_
+
+# Q001547.11
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ni	measure	sux	NV2=aŋ.N3=ani	NV2=STEM.N3=3-SG-H-POSS	aŋ.ani	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001547.12
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	he₂-du₇	he₂-du₇	hedu	N	he₂-du₇	ornament	sux	N1=hedu	N1=STEM	hedu	N	ornament	_	_	_	_	_	_	_
+3	iri-kug-ga	iri-kug	Irikug	SN	iri-kug-ga\abs	1	sux	N1=Irikug.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Irikug.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001547.13
+1	mu-na-du₃-a	du₃	du	V/t	mu-na-du₃-a\l1	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.du.ø.'a.'a	V/t	to build	_	_	_	_	_	_	_
+
+# Q001547.14
+1	kur	kur	kur	N	kur	mountain	sux	N1=kur	N1=STEM	kur	N	land	_	_	_	_	_	_	_
+2	ma₂-gan{ki}-ta	ma₂-gan{ki}	Magan	GN	ma₂-gan{ki}-ta	1	sux	N1=Magan.N5=ta	N1=NAME.N5=ABL	Magan.ta	GN	1	_	_	_	_	_	_	_
+
+# Q001547.15
+1	{na₄}esi	{na₄}esi	esi	N	{na₄}esi\abs	diorite	sux	N1=esi.N5=ø	N1=STEM.N5=ABS	esi.ø	N	diorite	_	_	_	_	_	_	_
+2	im-ta-ed₃	ed₃	ed	V/i	im-ta-ed₃	ascend	sux	V2=i.V4=m.V5=b.V9=ta.V11=n=V12=ed.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V9=ABL.V11=3-SG-H-A=V12=STEM.V14=3-SG-P	i.m.b.ta.n=V12=ed.ø	V/i	ascend	_	_	_	_	_	_	_
+
+# Q001547.16
+1	alan-na-ni-še₃	alan	alan	N	alan-na-ni-še₃	statue	sux	N1=alan.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	alan.ani.še	N	statue	_	_	_	_	_	_	_
+
+# Q001547.17
+1	mu-tud	tud	utud	V/t	mu-tud	bear	sux	V4=mu.V11=n.V12=utud.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.utud.ø	V/t	fashion a statue, to bring a statue into being	_	_	_	_	_	_	_
+
+# Q001547.18
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+2	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+3	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+4	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	3	mwe	_	_	_	_	_
+5	an	an	An	DN	an	1	sux	N1=AN	N1=NAME	AN	DN	1	_	_	_	_	_	_	_
+6	kug-ga-ke₄	kug	kug	V/i	kug-ga-ke₄	pure	sux	NV2=kug.N5=ak.N5=e	NV2=STEM.N5=GEN.N5=ERG	kug.ak.e	V/i	pure	_	_	_	_	_	_	_
+
+# Q001547.19
+1	ama	ama	ama	N	ama	mother	sux	N1=ama	N1=STEM	ama	N	mother	_	_	_	_	_	_	_
+2	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1	_	_	_	_	_	_	_
+
+# Q001547.20
+1	e₂-tar-sir₂-sir₂-ta	e₂-tar-sir₂-sir₂	Etarsirsir	TN	e₂-tar-sir₂-sir₂-ta	1	sux	N1=Etarsirsir.N5=ta.N5=e	N1=NAME.N5=ABL.N5=ERG	Etarsirsir.ta.e	TN	1	_	_	_	_	_	_	_
+
+# Q001547.21
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a\dat	1	sux	N1=Gudea.N5=ra	N1=NAME.N5=DAT-H	Gudea.ra	RN	1	_	_	_	_	_	_	_
+
+# Q001547.22
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃\abs	life	sux	N1=namtil.N5=ø	N1=STEM.N5=ABS	namtil.ø	N	life	_	_	_	_	_	_	_
+2	mu-na-šum₂	šum₂	šum	V/t	mu-na-šum₂	give	sux	V4=mu.V6=nn.V7=a.V11=n.V12=šum.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.šum.ø	V/t	give	_	_	_	_	_	_	_
+
+# Q001547.23
+1	mu-še₃	mu	mu	N	mu-še₃	name	sux	N1=mu.N5=še	N1=STEM.N5=TERM	mu.še	N	name	_	_	_	_	_	_	_
+2	mu-na-še₂₁	še₂₁	še	V/t	mu-na-še₂₁	call	sux	V4=mu.V6=nn.V7=a.V11=n.V12=še.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.še.ø	V/t	call	_	_	_	_	_	_	_
+
+# Q001547.24
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	iri-kug-ga-ka	iri-kug	Irikug	SN	iri-kug-ga-ka	1	sux	N1=Irikug.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L1	Irikug.ak.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001547.25
+1	mu-na-ni-kur₉(REC145)	kur₉(REC145)	kur	V/i	mu-na-ni-kur₉(REC145)	enter	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=kur.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.kur.ø	V/i	enter	_	_	_	_	_	_	_
+

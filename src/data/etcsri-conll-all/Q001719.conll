@@ -1,0 +1,32 @@
+# project: etcsri 
+# textid: Q001719 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001719.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001719.1
+1	en-nir-zid-an-na	en-nir-zid-an-na	Ennirzidanak	PN	en-nir-zid-an-na	1	sux	N1=Ennirzidanak	N1=NAME	Ennirzidanak	PN	1
+
+# Q001719.2
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen\abs	1	sux	N1=Nanna.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Nanna.ak.ø	DN	1
+
+# Q001719.3
+1	ŋiri₃-ni-i₃-sag₉	ŋiri₃-ni-i₃-sag₉	Ŋiriniisag	PN	ŋiri₃-ni-i₃-sag₉	1	sux	N1=Ŋiriniisag	N1=NAME	Ŋiriniisag	PN	Son of Hesage
+
+# Q001719.4
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+
+# Q001719.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	he₂-sag₉-ge	he₂-sag₉-ge	Hesage	PN	he₂-sag₉-ge\gen\abs	1	sux	N1=Hesage.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Hesage.ak.ø	PN	1
+
+# Q001719.6
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001175 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001175.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001175.2
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001175.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	aya₂-kur-gal	aya₂-kur-gal	Ayakurgal	RN	aya₂-kur-gal	1	sux	N1=Ayakurgal	N1=NAME	Ayakurgal	RN	Ruler of Lagaš
+

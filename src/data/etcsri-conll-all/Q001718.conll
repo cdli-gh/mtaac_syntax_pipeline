@@ -1,0 +1,25 @@
+# project: etcsri 
+# textid: Q001718 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001718.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001718.1
+1	ba-qar₃-tum	ba-qar₃-tum	Baqartum	PN	ba-qar₃-tum	1	sux	N1=Baqartum	N1=NAME	Baqartum	PN	1
+
+# Q001718.2
+1	dumu-munus	dumu-munus	dumumunus	N	dumu-munus	daughter	sux	N1=dumumunus	N1=STEM	dumumunus	N	daughter
+2	lugal	lugal	lugal	N	lugal\gen\abs	king	sux	N1=lugal.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	lugal.ak.ø	N	king
+
+# Q001718.3
+1	{d}šul-gi-i₃-li₂	{d}šul-gi-i₃-li₂	Šulgirili	PN	{d}šul-gi-i₃-li₂\abs	1	sux	N1=Šulgirili.N5=ø	N1=NAME.N5=ABS	Šulgirili.ø	PN	1
+
+# Q001718.4
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

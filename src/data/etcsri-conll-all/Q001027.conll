@@ -1,0 +1,112 @@
+# project: etcsri 
+# textid: Q001027 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001027.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001027.1
+1	ur-{d}nanše	ur-{d}nanše	Urnanše	RN	ur-{d}nanše	1	sux	N1=Urnanše	N1=NAME	Urnanše	RN	King of Lagaš
+
+# Q001027.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001027.3
+1	lagaš	lagaš	Lagaš	SN	lagaš\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001027.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	gu-|NI.DU|	gu-|NI.DU|	Gu-NI.DU	PN	gu-|NI.DU|	1	sux	N1=GU-NI.DU	N1=NAME	GU-NI.DU	PN	1
+
+# Q001027.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	citizen
+2	gur-sar	gur-sar	Gursar	GN	gur-sar\gen\gen\erg	1	sux	N1=Gursar.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Gursar.ak.ak.e	GN	1
+
+# Q001027.6
+1	eš₃	eš₃	eš	N	eš₃	shrine	sux	N1=eš	N1=STEM	eš	N	shrine
+2	ŋir₂-su	ŋir₂-su	Ŋirsu	SN	ŋir₂-su\gen\abs	1	sux	N1=Ŋirsu.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ŋirsu.ak.ø	SN	1
+
+# Q001027.7
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001027.8
+1	{d}šul-šag₄-ga	{d}šul-šag₄-ga	Šulšaganak	DN	{d}šul-šag₄-ga\abs	1	sux	N1=Šulšaganak.N5=ø	N1=NAME.N5=ABS	Šulšaganak.ø	DN	1
+
+# Q001027.9
+1	mu-tud	tud	utud	V/t	mu-tud	bear	sux	V4=mu.V11=n.V12=utud.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.utud.ø	V/t	fashion a statue, to bring a statue into being
+
+# Q001027.10
+1	gu₂-šu-du₈	gu₂-šu-du₈	Gušudu	DN	gu₂-šu-du₈\abs	1	sux	N1=Gušudu.N5=ø	N1=NAME.N5=ABS	Gušudu.ø	DN	1
+
+# Q001027.11
+1	mu-tud	tud	utud	V/t	mu-tud	bear	sux	V4=mu.V11=n.V12=utud.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.utud.ø	V/t	fashion a statue, to bring a statue into being
+
+# Q001027.12
+1	{d}kinda₂-zid	{d}kinda₂-zid	Kindazid	DN	{d}kinda₂-zid\abs	1	sux	N1=Kindazid.N5=ø	N1=NAME.N5=ABS	Kindazid.ø	DN	1
+
+# Q001027.13
+1	mu-tud	tud	utud	V/t	mu-tud	bear	sux	V4=mu.V11=n.V12=utud.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.utud.ø	V/t	fashion a statue, to bring a statue into being
+
+# Q001027.14
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}nin-mar-ki	{d}nin-mar-ki	Ninmarkik	DN	{d}nin-mar-ki\gen\abs	1	sux	N1=Ninmarkik.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninmarkik.ak.ø	DN	1
+
+# Q001027.15
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001027.16
+1	{d}lama-u₆-e₃	{d}lama-u₆-e₃	Lamaue	DN	{d}lama-u₆-e₃\abs	1	sux	N1=Lamaue.N5=ø	N1=NAME.N5=ABS	Lamaue.ø	DN	1
+
+# Q001027.17
+1	mu-tud	tud	utud	V/t	mu-tud	bear	sux	V4=mu.V11=n.V12=utud.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.utud.ø	V/t	fashion a statue, to bring a statue into being
+
+# Q001027.18
+1	{id₅}a-suhur	{id₅}a-suhur	Asuhur	WN	{id₅}a-suhur\abs	1	sux	N1=Asuhur.N5=ø	N1=NAME.N5=ABS	Asuhur.ø	WN	1
+
+# Q001027.19
+1	mu-dun	dun	dun	V/t	mu-dun	dig	sux	V4=mu.V11=n.V12=dun.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.dun.ø	V/t	dig
+
+# Q001027.20
+1	eg₂-tir-sig	eg₂-tir-sig	Egtirsigak	WN	eg₂-tir-sig\abs	1	sux	N1=Egtirsigak.N5=ø	N1=NAME.N5=ABS	Egtirsigak.ø	WN	1
+
+# Q001027.21
+1	mu-dun	dun	dun	V/t	mu-dun	dig	sux	V4=mu.V11=n.V12=dun.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.dun.ø	V/t	dig
+
+# Q001027.22
+1	{d}en-lilₓ(E₂)-pad₃-da	{d}en-lilₓ(E₂)-pad₃-da	Enlilepada	WN	{d}en-lilₓ(E₂)-pad₃-da\gen	1	sux	N1=Enlilepada.N5=ak	N1=NAME.N5=GEN	Enlilepada.ak	WN	1
+
+# Q001027.23
+1	uš	uš	uš	N	uš	foundation	sux	N1=uš	N1=STEM	uš	N	foundation
+2	gal	gal	gal	V/i	gal\poss\abs	big	sux	NV2=gal.N3=bi.N5=ø	NV2=STEM.N3=3-SG-NH-POSS.N5=ABS	gal.bi.ø	V/i	(to be) big, great
+
+# Q001027.24
+1	mu-dun	dun	dun	V/t	mu-dun	dig	sux	V4=mu.V11=n.V12=dun.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.dun.ø	V/t	dig
+
+# Q001027.25
+1	sur₂-du₇-gin₇-du	sur₂-du₇-gin₇-du	Surdugindu	WN	sur₂-du₇-gin₇-du\gen	1	sux	N1=Surdugindu.N5=ak	N1=NAME.N5=GEN	Surdugindu.ak	WN	1
+
+# Q001027.26
+1	x-x	_	_	_	x-x	_	sux	_	_	_	u	_
+
+# Q001027.27
+1	mu-dun	dun	dun	V/t	mu-dun	dig	sux	V4=mu.V11=n.V12=dun.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.dun.ø	V/t	dig
+
+# Q001027.28
+1	nin-REC107-ba-du	nin-REC107-ba-du	Nin-REC107-badu	WN	nin-REC107-ba-du\abs	1	sux	N1=Nin-REC107-badu.N5=ø	N1=NAME.N5=ABS	Nin-REC107-badu.ø	WN	1
+
+# Q001027.29
+1	mu-dun	dun	dun	V/t	mu-dun	dig	sux	V4=mu.V11=n.V12=dun.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.dun.ø	V/t	dig
+
+# Q001027.30
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+2	inim	inim	inim	N	inim\n5al2	word	sux	N1=inim.N5='a	N1=STEM.N5=L2-NH	inim.'a	N	word
+3	sig₁₀	sig₁₀	sig	V/t	sig₁₀	put	sux	NV2=sig.NV4='a	NV2=STEM.NV4=SUB	sig.'a	V/t	put
+
+# Q001027.31
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše\gen\cop	1	sux	N1=Nanše.N5=ak.N6=am	N1=NAME.N5=GEN.N6=COP-3-SG	Nanše.ak.am	DN	1
+

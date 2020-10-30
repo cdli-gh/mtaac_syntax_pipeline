@@ -1,0 +1,57 @@
+# project: etcsri 
+# textid: Q004276 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004276.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004276.1
+1	{d}i-da-du	{d}i-da-du	Idattu	RN	{d}i-da-du	1	sux	N1=Idattu	N1=NAME	Idattu	RN	1	_	_	_	_	_	_	_
+
+# Q004276.2
+1	dumu-dumu	dumu-dumu	dumu	N	dumu-dumu	child	sux	N1=dumudumu	N1=STEM-RDP	dumudumu	N	grandchild	_	_	_	_	_	_	_
+2	{d}e-ba-ra-at	{d}e-ba-ra-at	Ebarat	RN	{d}e-ba-ra-at\gen	1	sux	N1=Ebarat.N5=ak	N1=NAME.N5=GEN	Ebarat.ak	RN	1	_	_	_	_	_	_	_
+
+# Q004276.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	{d}ki-in-da-du	{d}ki-in-da-du	Kindattu	RN	{d}ki-in-da-du\gen	1	sux	N1=Kindattu.N5=ak	N1=NAME.N5=GEN	Kindattu.ak	RN	1	_	_	_	_	_	_	_
+
+# Q004276.4
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd	_	_	_	_	_	_	_
+2	{d}utu	{d}utu	Utu	DN	{d}utu\gen	1	sux	N1=Utu.N5=ak	N1=NAME.N5=GEN	Utu.ak	DN	1	_	_	_	_	_	_	_
+
+# Q004276.5
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	1	mwe	_	_	_	_	_
+3	{d}inana	{d}inana	Inanak	DN	{d}inana\gen	1	sux	N1=Inanak.N5=ak	N1=NAME.N5=GEN	Inanak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q004276.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ša-an{ki}	an-ša-an{ki}	Anšan	SN	an-ša-an{ki}\gen	1	sux	N1=Anšan.N5=ak	N1=NAME.N5=GEN	Anšan.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004276.7
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	si-ma-aš-ki	si-ma-aš-ki	Šimaški	EN	si-ma-aš-ki	1	sux	N1=Šimaški	N1=NAME	Šimaški	EN	1	_	_	_	_	_	_	_
+3	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+4	elam-ma	elam	Elam	GN	elam-ma\gen\dat	1	sux	N1=Elam.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Elam.ak.ra	GN	1	_	_	_	_	_	_	_
+
+# Q004276.8
+1	ki-te-en-ra-ki-id-da-bi	ki-te-en-ra-ki-id-da-bi	Kitenrakittapi	PN	ki-te-en-ra-ki-id-da-bi	1	sux	N1=Kitenrakittapi	N1=NAME	Kitenrakittapi	PN	1	_	_	_	_	_	_	_
+
+# Q004276.9
+1	sukkal-mah	sukkal-mah	sukkalmah	N	sukkal-mah	official	sux	N1=sukkalmah	N1=STEM	sukkalmah	N	official	_	_	_	_	_	_	_
+2	elam-ma	elam	Elam	GN	elam-ma\gen	1	sux	N1=Elam.N5=ak	N1=NAME.N5=GEN	Elam.ak	GN	1	_	_	_	_	_	_	_
+3	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+4	te-eb-bi-ir	te-eb-bi-ir	teppir	N	te-eb-bi-ir	scribe	sux	N1=teppir	N1=STEM	teppir	N	scribe, chancellor (title of a juridical or administrative official in Elam)	_	_	_	_	_	_	_
+
+# Q004276.10
+1	arad₂-da-a-ne₂	arad₂	arad	N	arad₂-da-a-ne₂	slave	sux	N1=arad.N3=ani.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=ERG	arad.ani.e	N	slave, servant	_	_	_	_	_	_	_
+
+# Q004276.11
+1	mu-na-dim₂	dim₂	dim	V/t	mu-na-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create	_	_	_	_	_	_	_
+

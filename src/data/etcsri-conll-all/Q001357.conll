@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001357 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001357.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001357.1
+1	{d}li₉-si₄	{d}li₉-si₄	Lisi	DN	{d}li₉-si₄\dat	1	sux	N1=Lisi.N5=ra	N1=NAME.N5=DAT-H	Lisi.ra	DN	1
+
+# Q001357.2
+1	X	_	_	_	X	_	sux	_	_	_	u	_
+2	NI	_	_	_	NI	_	sux	_	_	_	u	_
+3	HI	_	_	_	HI	_	sux	_	_	_	u	_
+4	X	_	_	_	X	_	sux	_	_	_	u	_
+

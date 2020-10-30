@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q002004 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002004.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q002004.1
+1	a-na-{d}da-mu-tak₂-la-ku	a-na-{d}da-mu-tak₂-la-ku	Anadamutaklaku	PN	a-na-{d}da-mu-tak₂-la-ku	1	sux	N1=Anadamutaklaku	N1=NAME	Anadamutaklaku	PN	1
+
+# Q002004.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	a-da-ta	a-da-ta	Adata	PN	a-da-ta\gen\abs	1	sux	N1=Adata.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Adata.ak.ø	PN	1
+
+# Q002004.4
+1	arad	arad	arad	N	arad	slave	sux	N1=arad	N1=STEM	arad	N	slave, servant
+2	{d}suen-ma-gir	{d}suen-ma-gir	Sinmagir	RN	{d}suen-ma-gir\gen\abs	1	sux	N1=Sinmagir.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Sinmagir.ak.ø	RN	King of Isin
+

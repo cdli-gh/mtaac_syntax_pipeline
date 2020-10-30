@@ -1,0 +1,17 @@
+#new_text=P100960
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	0	_	_	_
+2	dub	dub[tablet]	NOUN	N	Number=Sing	0	_	_	_
+3	gid2-da	gid[long]	VERB	V	_	2	amod	_	_
+4	sze	sze[barley]	NOUN	N	Number=Sing	0	_	_	_
+5	erin2	erin[people]	NOUN	N	Number=Sing	4	GEN	_	_
+6	gi-zi	gizi[reed]	NOUN	N	Case=Gen,Gen|Number=Sing	5	GEN	_	_
+7	ba-zi	Bazi[1]	PROPN	PN	Animacy=Hum|Number=Sing	10	ABS	_	_
+8	dumu	dumu[child]	NOUN	N	Number=Sing	7	appos	_	_
+9	na-silim	Nasilim[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abs|Number=Sing	8	GEN	_	_
+10	i3-gal2	ni]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	0	_	_	_
+11	mu	mu[year]	NOUN	N	Number=Sing	15	ABS	_	_
+12	en	en[priest]	NOUN	N	Number=Sing	11	appos	_	_
+13	{d}nanna	Nanna[1]	PROPN	DN	Animacy=Hum|Number=Sing	12	GEN	_	_
+14	kar-zi-da	Karzida[1]	PROPN	SN	Case=Gen,Gen,Abs|Number=Sing	13	GEN	_	_
+15	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_

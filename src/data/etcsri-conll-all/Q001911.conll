@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q001911 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001911.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001911.1
+1	ma-ma-ni-ša	ma-ma-ni-ša	Mamaniša	PN	ma-ma-ni-ša	1	sux	N1=Mamaniša	N1=NAME	Mamaniša	PN	1
+
+# Q001911.2
+1	dumu-munus	dumu-munus	dumumunus	N	dumu-munus	daughter	sux	N1=dumumunus	N1=STEM	dumumunus	N	daughter
+2	lugal	lugal	lugal	N	lugal\gen\abs	king	sux	N1=lugal.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	lugal.ak.ø	N	king
+
+# Q001911.3
+1	puzur₄-{d}aš₃-ki	puzur₄-{d}aš₃-ki	Puzuraški	PN	puzur₄-{d}aš₃-ki	1	sux	N1=Puzuraški	N1=NAME	Puzuraški	PN	1
+
+# Q001911.4
+1	dub-sar	dub-sar	dubsar	N	dub-sar\abs	scribe	sux	N1=dubsar.N5=ø	N1=STEM.N5=ABS	dubsar.ø	N	scribe
+2	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

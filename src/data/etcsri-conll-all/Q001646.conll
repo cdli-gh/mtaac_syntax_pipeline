@@ -1,0 +1,32 @@
+# project: etcsri 
+# textid: Q001646 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001646.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001646.1
+1	|SI.A|-tum	|SI.A|-tum	Watartum	PN	|SI.A|-tum	1	sux	N1=Warartum	N1=NAME	Warartum	PN	Spouse of Ur-Namma, king of Urim
+
+# Q001646.2
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	ur-{d}namma	ur-{d}namma	Urnammak	RN	ur-{d}namma	1	sux	N1=Urnammak	N1=NAME	Urnammak	RN	1st king of the 3rd dynasty of Urim
+
+# Q001646.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\abs	1	sux	N1=Urim.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urim.ak.ø	SN	1
+
+# Q001646.4
+1	lugal-kug-zu	lugal-kug-zu	Lugalkugzu	PN	lugal-kug-zu	1	sux	N1=Lugalkugzu	N1=NAME	Lugalkugzu	PN	1
+
+# Q001646.5
+1	nu-banda₃	nu-banda₃	nubanda	N	nu-banda₃\abs	overseer	sux	N1=nubanda.N5=ø	N1=STEM.N5=ABS	nubanda.ø	N	overseer
+
+# Q001646.6
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

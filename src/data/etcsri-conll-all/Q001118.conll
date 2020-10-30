@@ -1,0 +1,53 @@
+# project: etcsri 
+# textid: Q001118 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001118.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001118.1
+1	{d}nin-ŋir₂-su₂	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1
+
+# Q001118.2
+1	e₂-ninnu-ra	e₂-ninnu	Eninnu	TN	e₂-ninnu-ra	1	sux	N1=Eninnu.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Eninnu.ak.ra	TN	1
+
+# Q001118.3
+1	en-mete-na	en-mete-na	Enmetenak	RN	en-mete-na	1	sux	N1=Enmetenak	N1=NAME	Enmetenak	RN	Ruler of Lagaš
+
+# Q001118.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001118.5
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001118.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	en-an-na-tum₂	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂	1	sux	N1=Enanatum	N1=NAME	Enanatum	RN	En-ana-tum I, ruler of Lagaš
+
+# Q001118.7
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001118.8
+1	lagaš{ki}-ka-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-ke₄	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1
+
+# Q001118.9
+1	e₂-ni	e₂	e	N	e₂-ni\abs	house	sux	N1=e.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	e.ani.ø	N	house, temple
+2	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+
+# Q001118.10
+1	kug-sig₁₇	kug-sig₁₇	kugsig	N	kug-sig₁₇	gold	sux	N1=kugsig	N1=STEM	kugsig	N	gold
+2	kug-babbar₂-ra	kug-babbar₂	kugbabbar	N	kug-babbar₂-ra\l1	silver	sux	N1=kugbabbar.N5='a	N1=STEM.N5=L1	kugbabbar.'a	N	silver
+
+# Q001118.11
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	mu-na-ni-tag	tag	tag	V/t	mu-na-ni-tag	touch	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=tag.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.tag.ø	V/t	touch
+
+# Q001118.12
+1	KIB@g	KIB@g	kib	N	KIB@g\abs	object	sux	N1=kib.N5=ø	N1=STEM.N5=ABS	kib.ø	N	an object, inscribed clay nail?
+2	mu-na-dug₄	dug₄	dug	V/t	mu-na-dug₄	speak	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dug.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dug.ø	V/t	speak
+

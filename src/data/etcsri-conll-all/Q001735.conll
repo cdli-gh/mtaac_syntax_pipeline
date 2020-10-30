@@ -1,0 +1,30 @@
+# project: etcsri 
+# textid: Q001735 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001735.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001735.1
+1	i-tur₂-DIŊIR	i-tur₂-DIŊIR	Iturilum	PN	i-tur₂-DIŊIR	1	sux	N1=Iturilum	N1=NAME	Iturilum	PN	Governor of Babylon
+
+# Q001735.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+
+# Q001735.3
+1	|KAN₄.DIŊIR|{ki}	|KAN₄.DIŊIR|{ki}	Babylon	SN	|KAN₄.DIŊIR|{ki}\gen\abs	1	sux	N1=Babylon.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Babylon.ak.ø	SN	1
+
+# Q001735.4
+1	i-ṣur-DIŊIR	i-ṣur-DIŊIR	Iṣurilum	PN	i-ṣur-DIŊIR	1	sux	N1=Iṣurilum	N1=NAME	Iṣurilum	PN	1
+
+# Q001735.5
+1	dub-sar	dub-sar	dubsar	N	dub-sar\abs	scribe	sux	N1=dubsar.N5=ø	N1=STEM.N5=ABS	dubsar.ø	N	scribe
+
+# Q001735.6
+1	dumu-ni	dumu	dumu	N	dumu-ni\abs	child	sux	N1=dumu.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	dumu.ani.ø	N	child
+

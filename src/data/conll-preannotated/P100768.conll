@@ -1,0 +1,14 @@
+#new_text=P100768
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	3	nummod	_	_
+2	2/3(disz)	2/3(disz)[one]	NUM	NU	_	1	nummod	_	_
+3	ma-na	mana[unit]	NOUN	N	Number=Sing	12	ABS	_	_
+4	8(disz)	8(disz)[one]	NUM	NU	_	5	nummod	_	_
+5	gin2	gig[unit]	NOUN	N	Number=Sing	3	appos	_	_
+6	igi-4(disz)-gal2	igi[eye]	NUM	NU	_	7	nummod	_	_
+7	ku3	kug[metal]	NOUN	N	Case=Abs|Number=Sing	3	appos	_	_
+8	ki	ki[place]	NOUN	N	Number=Sing	12	ABL	_	_
+9	da-da-ga-ta	Dadaga[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	8	GEN	_	_
+10	ur-{d}dumu-zi-da	Urdumuzida[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	12	ERG	_	_
+11	szu	szu[hand]	NOUN	N	Animacy=Nhum|Number=Sing	12	L3-NH	_	_
+12	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_

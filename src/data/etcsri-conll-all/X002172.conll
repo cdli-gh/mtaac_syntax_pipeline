@@ -1,0 +1,41 @@
+# project: etcsri 
+# textid: X002172 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: X002172.U0 
+# bracketing_level: 0 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# X002172.1
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim
+
+# X002172.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# X002172.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# X002172.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba\abs	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ø	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	limmu.bi.ak.ø	NU	four
+
+# X002172.5
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	PN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	PN	1
+2	sukkal	sukkal	sukkal	N	sukkal	secretary	sux	N1=sukkal	N1=STEM	sukkal	N	secretary, envoy
+
+# X002172.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	gu-du-du	gu-du-du	Gududu	PN	gu-du-du	2	sux	N1=Gududu	N1=NAME	Gududu	PN	2
+
+# X002172.7
+1	sukkal	sukkal	sukkal	N	sukkal	secretary	sux	N1=sukkal	N1=STEM	sukkal	N	secretary, envoy
+2	lugal-ka	lugal	lugal	N	lugal-ka\gen\gen\abs	king	sux	N1=lugal.N5=ak.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=GEN.N5=ABS	lugal.ak.ak.ø	N	king
+
+# X002172.8
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

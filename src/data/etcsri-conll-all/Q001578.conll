@@ -1,0 +1,50 @@
+# project: etcsri 
+# textid: Q001578 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001578.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001578.1
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1
+
+# Q001578.2
+1	munus	munus	munus	N	munus	woman	sux	N1=munus	N1=STEM	munus	N	woman
+2	sag₉-ga	sag₉	sag	V/i	sag₉-ga	good	sux	NV2=sag.NV4='a	NV2=STEM.NV4=SUB	sag.'a	V/i	(to be) good
+
+# Q001578.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	an-na	an	An	DN	an-na	1	sux	N1=An.N5=ak	N1=NAME.N5=GEN	An.ak	DN	1
+
+# Q001578.4
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady
+2	iri-kug-ga	iri-kug	Irikug	SN	iri-kug-ga	1	sux	N1=Irikug.N5=ak	N1=NAME.N5=GEN	Irikug.ak	SN	1
+
+# Q001578.5
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady
+
+# Q001578.6
+1	nam-mah-ni	nam-mah-ni	Nammahni	RN	nam-mah-ni	1	sux	N1=Nammahni	N1=NAME	Nammahni	RN	Ruler of Lagaš
+
+# Q001578.7
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001578.8
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001578.9
+1	agrig	agrig	agrig	N	agrig	steward	sux	N1=agrig	N1=STEM	agrig	N	steward
+2	kalag-ga-ne₂	kalag	kalag	V/i	kalag-ga-ne₂\erg	strong	sux	NV2=kalag.NV4='a.N3=ani.N5=e	NV2=STEM.NV4=SUB.N3=3-SG-H-POSS.N5=ERG	kalag.'a.ani.e	V/i	strong
+
+# Q001578.10
+1	{na₄}KU	_	_	_	{na₄}KU	_	sux	_	_	_	X	_
+2	ig-še₃	ig	ig	N	ig-še₃	door	sux	N1=ig.N5=še	N1=STEM.N5=TERM	ig.še	N	door
+
+# Q001578.11
+1	mu-na-dim₂	dim₂	dim	V/t	mu-na-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create
+

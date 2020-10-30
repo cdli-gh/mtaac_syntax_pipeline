@@ -1,0 +1,99 @@
+# project: etcsri 
+# textid: Q001005 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001005.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001005.1
+1	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	Ibbisuen	RN	{d}i-bi₂-{d}suen	1	sux	N1=Ibbisuen	N1=NAME	Ibbisuen	RN	5th king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q001005.2
+1	diŋir	diŋir	diŋir	N	diŋir	deity	sux	N1=diŋir	N1=STEM	diŋir	N	deity, personal god	_	_	_	_	_	_	_
+2	kalam-ma-na	kalam	kalam	N	kalam-ma-na\gen	land	sux	N1=kalam.N3=ani.N5=ak	N1=STEM.N3=3-SG-H-POSS.N5=GEN	kalam.ani.ak	N	the Land (of Sumer)	_	_	_	_	_	_	_
+
+# Q001005.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001005.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001005.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₂-ba-ke₄	limmu₂	limmu	NU	limmu₂-ba-ke₄	four	sux	NV2=limmu.N3=bi.N5=ak.N5=e	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	limmu.bi.ak.e	NU	four	_	_	_	_	_	_	_
+
+# Q001005.6
+1	nam	nam	nam	N	nam	fate	sux	N1=nam	N1=STEM	nam	N	fate	_	_	_	_	_	_	_
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great	_	_	_	_	_	_	_
+3	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+4	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	3	mwe	_	_	_	_	_
+
+# Q001005.7
+1	{d}suen-na-da	{d}suen	Suen	DN	{d}suen-na-da	1	sux	N1=Suen.N5=ak.N5=da	N1=NAME.N5=GEN.N5=COM	Suen.ak.da	DN	1	_	_	_	_	_	_	_
+
+# Q001005.8
+1	urim₅{ki}	urim₅{ki}	Urim	SN	urim₅{ki}\abs	1	sux	N1=Urim.N5=ø	N1=NAME.N5=ABS	Urim.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001005.9
+1	daŋal-e-de₃	daŋal	daŋal	V/t	daŋal-e-de₃	wide	sux	NV2=daŋal.NV3=ed.N5=e	NV2=STEM.NV3=PF.N5=DAT-NH	daŋal.ed.e	V/i	extend	_	_	_	_	_	_	_
+
+# Q001005.10
+1	sa	sa₂	sa	N	sa\abs	advice	sux	N1=sa.N5=ø	N1=STEM.N5=ABS	sa.ø	N	advice, counsel	_	_	_	_	_	_	_
+2	im-ma-ši-ŋar	ŋar	ŋar	V/t	im-ma-ši-ŋar\v5nh3	place	sux	V2=i.V4=m.V5=ba.V9=ši.V11=n.V12=ŋar.V14=ø	V2=FIN.V4=VEN.V5=MID.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.m.ba.ši.n.ŋar.ø	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q001005.11
+1	ur₅-ta	ur₅	ur	IP	ur₅-ta	he	sux	N1=ur.N5=ta	N1=STEM.N5=ABL	ur.ta	IP	he, it	_	_	_	_	_	_	_
+
+# Q001005.12
+1	kalam	kalam	kalam	N	kalam\abs	land	sux	N1=kalam.N5=ø	N1=STEM.N5=ABS	kalam.ø	N	the Land (of Sumer)	_	_	_	_	_	_	_
+2	gen₆-ne₂	gen₆	gin	V/t	gen₆-ne₂	establish	sux	NV2=gin.NV3=ed	NV2=STEM.NV3=PF	gin.ed	V/i	establish, confirm, make firm	_	_	_	_	_	_	_
+
+# Q001005.13
+1	sig	sig	sig	N	sig	weak	sux	NV2=sig	NV2=STEM	sig	V/i	lower lands	_	_	_	_	_	_	_
+2	nim	nim	nim	N	nim\abs	high	sux	NV2=nim.N5=ø	NV2=STEM.N5=ABS	nim.ø	V/i	upper lands	_	_	_	_	_	_	_
+3	gurum-e-de₃	gurum	gurum	V/t	gurum-e-de₃\n5edat	bend	sux	NV2=gurum.NV3=ed.N5=e	NV2=STEM.NV3=PF.N5=DAT-NH	gurum.ed.e	V/t	bend, curve, wrap around	_	_	_	_	_	_	_
+
+# Q001005.14
+1	bad₃	bad₃	bad	N	bad₃	wall	sux	N1=bad	N1=STEM	bad	N	wall, fortification	_	_	_	_	_	_	_
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great	_	_	_	_	_	_	_
+
+# Q001005.15
+1	za-pa-aŋ₂-ba	za-pa-aŋ₂	zipaŋ	N	za-pa-aŋ₂-ba\l1	breath	sux	N1=zipaŋ.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L1	zipaŋ.bi.'a	N	breath	_	_	_	_	_	_	_
+2	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand	_	_	_	_	_	_	_
+3	nu-ku₄-ku₄	ku₄-ku₄	kur	V/i	nu-ku₄-ku₄\abs	enter	sux	NV1=nu.NV2=kuku.NV3=ed.N5=ø	NV1=NEG.NV2=STEM-PF.NV3=PF.N5=ABS	nu.kuku.ed.ø	V/i	enter	_	_	_	_	_	_	_
+
+# Q001005.16
+1	hur-saŋ	hur-saŋ	hursaŋ	N	hur-saŋ	mountain	sux	N1=hursaŋ	N1=STEM	hursaŋ	N	mountain	_	_	_	_	_	_	_
+2	sig₇-ga-gin₇	sig₇	sissi	V/i	sig₇-ga-gin₇	green	sux	NV2=sissi.NV4='a.N5=gin	NV2=STEM.NV4=SUB.N5=EQU	sissi.'a.gin	V/i	(to be) green-yellow, pale	_	_	_	_	_	_	_
+
+# Q001005.17
+1	iri{ki}-ne₂	iri{ki}	iri	N	iri{ki}-ne₂\n5el3	city	sux	N1=iri.N3=ani.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=L3-NH	iri.ani.e	N	city	_	_	_	_	_	_	_
+2	im-mi-dab₆	dab₆	dub	V/t	im-mi-dab₆\v10l3	go around	sux	V2=i.V4=m.V5=b.V10=i.V11=n.V12=dub.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.m.b.i.n.dub.ø	V/t	go around, encircle, turn	_	_	_	_	_	_	_
+
+# Q001005.18
+1	uru₁₈	uru₁₈	ur	N	uru₁₈\l1	root	sux	N1=ur.N5='a	N1=STEM.N5=L1	ur.'a	N	root	_	_	_	_	_	_	_
+2	temen-be₂	temen	temen	N	temen-be₂\n5edat	foundation	sux	N1=temen.N3=bi.N5=e	N1=STEM.N3=3-SG-NH-POSS.N5=DAT-NH	temen.bi.e	N	foundation, foundation peg	_	_	_	_	_	_	_
+
+# Q001005.19
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	_	_	_	_	_
+2	in-ma-ni-pad₃	pad₃	pad	V/t	in-ma-ni-pad₃	find	sux	V2=i.V4=m.V5=b.V7=a.V11=n.V12=pad.V14=ø	V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=pad.V14=3-SG-P	i.m.b.a.n.pad.ø	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q001005.20
+1	bad₃-ba	bad₃	bad	N	bad₃-ba\dem2\gen	wall	sux	N1=bad.N3=bi.N5=ak	N1=STEM.N3=DEM2.N5=GEN	bad.bi.ak	N	wall, fortification	_	_	_	_	_	_	_
+
+# Q001005.21
+1	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	Ibbisuen	RN	{d}i-bi₂-{d}suen\abs	1	sux	N1=Ibbisuen.N5=ø	N1=NAME.N5=ABS	Ibbisuen.ø	RN	5th king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+2	gu₂-gal	gu₂-gal	gugal	N	gu₂-gal	inspector	sux	N1=gugal	N1=STEM	gugal	N	canal inspector	_	_	_	_	_	_	_
+3	nam-nun-na	nam-nun	namnun	N	nam-nun-na\gen\abs	magnificence	sux	N1=namnun.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	namnun.ak.ø	N	magnificence	_	_	_	_	_	_	_
+
+# Q001005.22
+1	mu-bi-im	mu	mu	N	mu-bi-im	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name	_	_	_	_	_	_	_
+

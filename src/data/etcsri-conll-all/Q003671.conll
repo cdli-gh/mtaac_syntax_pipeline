@@ -1,0 +1,52 @@
+# project: etcsri 
+# textid: Q003671 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003671.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003671.1
+1	{d}nin-ŋir₂-su₂	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1
+
+# Q003671.2
+1	ur-saŋ	ur-saŋ	ursaŋ	N	ur-saŋ	hero	sux	N1=ursaŋ	N1=STEM	ursaŋ	N	hero, warrior
+2	{d}en-lilₓ(E₂)-ra	{d}en-lilₓ(E₂)	Enlil	DN	{d}en-lilₓ(E₂)-ra\gen\dat	1	sux	N1=Enlil.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Enlil.ak.ra	DN	1
+
+# Q003671.3
+1	en-mete-na	en-mete-na	Enmetenak	RN	en-mete-na	1	sux	N1=Enmetenak	N1=NAME	Enmetenak	RN	Ruler of Lagaš
+
+# Q003671.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q003671.5
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q003671.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	en-an-na-tum₂	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂	1	sux	N1=Enanatum	N1=NAME	Enanatum	RN	En-ana-tum I, ruler of Lagaš
+
+# Q003671.7
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q003671.8
+1	lagaš{ki}-ka	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka	1	sux	N1=Lagaš.N5=ak.N5=ak	N1=NAME.N5=GEN.N5=GEN	Lagaš.ak.ak	SN	1
+
+# Q003671.9
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+2	e₂-lungaₓ(|BI×GAR|)	e₂-lungaₓ(|BI×GAR|)	elungak	N	e₂-lungaₓ(|BI×GAR|)	brewery	sux	N1=elungak	N1=STEM	elungak	N	brewery
+
+# Q003671.10
+1	{d}nin-ŋir₂-su₂-ka	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka\abs	1	sux	N1=Ninŋirsuk.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninŋirsuk.ak.ø	DN	1
+2	du₃-a	du₃	du	V/t	du₃-a\gen	build	sux	NV2=du.NV4='a.N5=ak	NV2=STEM.NV4=SUB.N5=GEN	du.'a.ak	V/t	to build
+
+# Q003671.11
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni\abs	deity	sux	N1=diŋir.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	diŋir.ani.ø	N	deity, personal god
+
+# Q003671.12
+1	{d}šul-|MUŠ×PA|-am₆	{d}šul-|MUŠ×PA|	Šul-MUŠ×PA	DN	{d}šul-|MUŠ×PA|-am₆	1	sux	N1=Šul-|MUŠ×PA|.N5=ø.N6=am	N1=NAME.N5=ABS.N6=COP-3-SG	Šul-|MUŠ×PA|.ø.am	DN	1
+

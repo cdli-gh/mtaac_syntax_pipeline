@@ -1,0 +1,44 @@
+# project: etcsri 
+# textid: X000112 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: X000112.U0 
+# bracketing_level: 0 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# X000112.1
+1	{d}nin-isin₂{si}-na	{d}nin-isin₂{si}-na	Ninisinak	DN	{d}nin-isin₂{si}-na	1	sux	N1=Ninisinak	N1=NAME	Ninisinak	DN	1
+
+# X000112.2
+1	nin-a-ni-ir	nin	nin	N	nin-a-ni-ir	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady
+
+# X000112.3
+1	{d}za-am-bi-ia	{d}za-am-bi-ia	Zambiya	RN	{d}za-am-bi-ia	1	sux	N1=Zambiya	N1=NAME	Zambiya	RN	11th king of the dynasty of Isin
+
+# X000112.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# X000112.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	i₃-si-in{ki}-na	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-na	1	sux	N1=Isin.N5=ak	N1=NAME.N5=GEN	Isin.ak	SN	1
+
+# X000112.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1
+3	ki-uri{ki}-ke₄	ki-uri{ki}	Akkad	GN	ki-uri{ki}-ke₄	1	sux	N1=Akkad.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Akkad.ak.e	GN	1
+
+# X000112.7
+1	e₂-niŋar{ŋar}	e₂-niŋar{ŋar}	Eniŋar	TN	e₂-niŋar{ŋar}	1	sux	N1=Eniŋar	N1=NAME	Eniŋar	TN	1
+2	kug	kug	kug	V/i	kug\abs	pure	sux	NV2=kug.N5=ø	NV2=STEM.N5=ABS	kug.ø	V/i	pure
+
+# X000112.8
+1	ezen	ezen	ezem	N	ezen	festival	sux	N1=ezem	N1=STEM	ezem	N	festival
+2	šag₄	šag₄	šag	N	šag₄	heart	sux	N1=šag	N1=STEM	šag	N	heart, inner body
+3	hul₂-la-ka-ni-še₃	hul₂	hul	V/i	hul₂-la-ka-ni-še₃	rejoice	sux	NV2=hul.NV4='a.N5=ak.N3=ani.N5=še	NV2=STEM.NV4=SUB.N5=GEN.N3=3-SG-H-POSS.N5=TERM	hul.'a.ak.ani.še	V/i	to rejoice at something (= COM)
+
+# X000112.9
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001289 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001289.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001289.1
+1	{d}inana	{d}inana	Inanak	DN	{d}inana	1	sux	N1=Inanak	N1=NAME	Inanak	DN	1
+
+# Q001289.2
+1	munus	munus	munus	N	munus	woman	sux	N1=munus	N1=STEM	munus	N	woman
+2	dili	dili	dili	V/i	dili\dat	single	sux	NV2=dili.N5=ra	NV2=STEM.N5=DAT-H	dili.ra	V/i	(to be) single, unique, sole
+

@@ -1,0 +1,44 @@
+# project: etcsri 
+# textid: Q004125 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004125.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004125.1
+1	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuenak	RN	{d}amar-{d}suen	1	sux	N1=Amarsuenak	N1=NAME	Amarsuenak	RN	3rd king of the 3rd dynasty of Urim
+
+# Q004125.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q004125.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q004125.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba\abs	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ø	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	limmu.bi.ak.ø	NU	four
+
+# Q004125.5
+1	ba-ad-da-ri₂	ba-ad-da-ri₂	Baddari	PN	ba-ad-da-ri₂	1	sux	N1=Baddari	N1=NAME	Baddari	PN	1
+
+# Q004125.6
+1	nu-banda₃	nu-banda₃	nubanda	N	nu-banda₃	overseer	sux	N1=nubanda	N1=STEM	nubanda	N	overseer
+
+# Q004125.7
+1	dumu-dab₅-ba	dumu-dab₅-ba	dumudaba	N	dumu-dab₅-ba\gen	worker	sux	N1=dumudaba.N5=ak	N1=STEM.N5=GEN	dumudaba.ak	N	an agricultural worker
+
+# Q004125.8
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	gu-lum	gu-lum	Gulum	PN	gu-lum\gen\abs	1	sux	N1=Gulum.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Gulum.ak.ø	PN	1
+
+# Q004125.9
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

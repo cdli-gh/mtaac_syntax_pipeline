@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q001165 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001165.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001165.1
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1	_	_	_	_	_	_	_
+2	barag	barag	barag	N	barag	dais	sux	N1=barag	N1=STEM	barag	N	dais	_	_	_	_	_	_	_
+3	iri-kug-ga-ka	iri-kug	Irikug	SN	iri-kug-ga-ka\n5al2	1	sux	N1=Irikug.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L2-NH	Irikug.ak.'a	SN	1	_	_	_	_	_	_	_
+4	tum₂-ma	tum₂	tum	V/i	tum₂-ma\erg	suitable	sux	NV2=tum.NV4='a.N5=e	NV2=STEM.NV4=SUB.N5=ERG	tum.'a.e	V/i	(to be) suitable, worthy	_	_	_	_	_	_	_
+
+# Q001165.2
+1	iri-ka-gen₆-na-ra	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na-ra	1	sux	N1=Irikaginak.N5=ra	N1=NAME.N5=DAT-H	Irikaginak.ra	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	mu-na-aŋ₂	aŋ₂	aŋ	V/t	mu-na-aŋ₂	measure	sux	V4=mu.V6=nn.V7=a.V11=n.V12=aŋ.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.aŋ.ø	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001165.3
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name	_	_	_	_	_	_	_
+

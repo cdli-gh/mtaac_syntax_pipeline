@@ -1,0 +1,32 @@
+# project: etcsri 
+# textid: Q001438 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001438.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001438.1
+1	nam-mah-abzu	nam-mah-abzu	Nammahabzu	PN	nam-mah-abzu	1	sux	N1=Nammahabzu	N1=NAME	Nammahabzu	PN	1
+
+# Q001438.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+2	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen\abs	1	sux	N1=Nibru.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Nibru.ak.ø	SN	1
+
+# Q001438.3
+1	un-il₂	un-il₂	Unil	PN	un-il₂	1	sux	N1=Unil	N1=NAME	Unil	PN	1
+
+# Q001438.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	nita-zid	nita-zid	Nitazid	PN	nita-zid	1	sux	N1=Nitazid	N1=NAME	Nitazid	PN	1
+
+# Q001438.5
+1	ugula-e₂	ugula-e₂	ugulaʾek	N	ugula-e₂\gen\abs	overseer	sux	N1=ugula'ek.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	ugula'ek.ak.ø	N	overseer, estate-overseer, steward
+
+# Q001438.6
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

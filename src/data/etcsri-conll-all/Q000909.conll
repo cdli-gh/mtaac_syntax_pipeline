@@ -1,0 +1,37 @@
+# project: etcsri 
+# textid: Q000909 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000909.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q000909.1
+1	{d}nin-ŋir₂-su	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1
+
+# Q000909.2
+1	ur-saŋ	ur-saŋ	ursaŋ	N	ur-saŋ	hero	sux	N1=ursaŋ	N1=STEM	ursaŋ	N	hero, warrior
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q000909.3
+1	{d}en-lil₂-la₂-ra	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂-ra	1	sux	N1=Enlil.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Enlil.ak.ra	DN	1
+
+# Q000909.4
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1
+
+# Q000909.5
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q000909.6
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1
+
+# Q000909.7
+1	e₂-ninnu-anzud₂{mušen}-babbar₂-ra-ni	e₂-ninnu-anzud₂{mušen}-babbar₂	Eninnu-anzubabbar	TN	e₂-ninnu-anzud₂{mušen}-babbar₂-ra-ni\abs	1	sux	N1=Eninnu-anzubabbar.N3=ani.N5=ø	N1=NAME.N3=3-SG-H-POSS.N5=ABS	Eninnu-anzubabbar.ani.ø	TN	1
+
+# Q000909.8
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

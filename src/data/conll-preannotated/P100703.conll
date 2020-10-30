@@ -1,0 +1,20 @@
+#new_text=P100703
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	u8	u[ewe]	NOUN	N	Case=Abs|Number=Sing	3	ABS	_	_
+3	ba-usz2	usz[die]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+4	ki	ki[place]	NOUN	N	Number=Sing	8	ABL	_	_
+5	ur-{d}isztaran-ta	Urisztaran[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	4	GEN	_	_
+6	a-kal-la	Akalla[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	8	ERG	_	_
+7	szu	szu[hand]	NOUN	N	Animacy=Nhum|Number=Sing	8	L3-NH	_	_
+8	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+9	iti	iti[month]	NOUN	N	Number=Sing	13	L1	_	_
+10	e2-iti-6(disz)	6[1]	PROPN	MN	Number=Sing	9	appos	_	_
+11	mu	mu[year]	NOUN	N	Number=Sing	13	ABS	_	_
+12	bad3	bad[wall]	NOUN	N	Case=Abs|Number=Sing	11	appos	_	_
+13	ba-du3	du[build]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+14	a-kal-la	Akalla[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+15	dub-sar3	dubsar[scribe]	NOUN	N	Number=Sing	0	_	_	_
+16	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+17	ur-nigar{gar}	Urnigar[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+18	szusz3	kusz[cattle_manager]	NOUN	N	Case=Gen|Number=Sing	17	GEN	_	_

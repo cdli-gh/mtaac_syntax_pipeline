@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001322 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001322.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001322.1
+1	AK-{d}INANA	AK-{d}INANA	AK-Aštar	RN	AK-{d}INANA	1	sux	N1=AK-Aštar	N1=NAME	AK-Aštar	RN	King of Umma
+
+# Q001322.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	umma{ki}	umma{ki}	Umma	SN	umma{ki}\gen\abs	1	sux	N1=Umma.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Umma.ak.ø	SN	1
+

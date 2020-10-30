@@ -1,0 +1,29 @@
+# project: etcsri 
+# textid: Q001089 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001089.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001089.1
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001089.2
+1	aya₂-šurmen	aya₂-šurmen	Ayašurmen	PN	aya₂-šurmen	1	sux	N1=Ayašurmen	N1=NAME	Ayašurmen	PN	Spouse of En-ana-tum I, ruler of Lagaš
+
+# Q001089.3
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	en-an-na-tum₂	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂	1	sux	N1=Enanatum	N1=NAME	Enanatum	RN	En-ana-tum I, ruler of Lagaš
+
+# Q001089.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001089.5
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen\gen\x	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=x	N1=NAME.N5=GEN.N5=GEN.N5=X	Lagaš.ak.ak.x	SN	1
+

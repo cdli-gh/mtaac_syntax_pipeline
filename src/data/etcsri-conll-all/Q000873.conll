@@ -1,0 +1,58 @@
+# project: etcsri 
+# textid: Q000873 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000873.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q000873.1
+1	{d}ereš-ki-gal	{d}ereš-ki-gal	Ereškigala	DN	{d}ereš-ki-gal	1	sux	N1=Ereškigala	N1=NAME	Ereškigala	DN	1	_	_	_	_	_	_	_
+
+# Q000873.2
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki	place	sux	N1=ki	N1=STEM	ki	N	place	_	_	_	_	_	_	_
+3	utu-šuš-ra	utu-šuš	utušuš	N	utu-šuš-ra	sunset	sux	N1=utušuš.N5=ak.N5=ra	N1=STEM.N5=GEN.N5=DAT-H	utušuš.ak.ra	N	sunset, the West	_	_	_	_	_	_	_
+
+# Q000873.3
+1	lu₂-{d}utu	lu₂-{d}utu	Luutu	PN	lu₂-{d}utu	4	sux	N1=Luutu	N1=NAME	Luutu	PN	Governor of Umma	_	_	_	_	_	_	_
+
+# Q000873.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor	_	_	_	_	_	_	_
+2	umma{ki}-ke₄	umma{ki}	Umma	SN	umma{ki}-ke₄	1	sux	N1=Umma.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Umma.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q000873.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	{d}nin-isin₂{sin₂}-ka-ke₄	{d}nin-isin₂{sin₂}	Ninisinak	DN	{d}nin-isin₂{sin₂}-ka-ke₄	1	sux	N1=Ninisinak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninisinak.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q000873.6
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q000873.7
+1	ki	ki	ki	N	ki	place	sux	N1=ki	N1=STEM	ki	N	place	_	_	_	_	_	_	_
+2	{d}utu	{d}utu	Utu	DN	{d}utu\abs	1	sux	N1=Utu.N5=ø	N1=NAME.N5=ABS	Utu.ø	DN	1	_	_	_	_	_	_	_
+3	e₃	e₃	e	V/i	e₃	leave	sux	NV2=e	NV2=STEM	e	V/i	to leave, go out	_	_	_	_	_	_	_
+
+# Q000873.8
+1	ki	ki	ki	N	ki	place	sux	N1=ki	N1=STEM	ki	N	place	_	_	_	_	_	_	_
+2	nam	nam	nam	N	nam\abs	fate	sux	N1=nam.N5=ø	N1=STEM.N5=ABS	nam.ø	N	fate	_	_	nam tar	decree fate	to decree fate for someone/something (= L2)	V/t	V/t
+3	tar-re-da	tar	tar	V/t	tar-re-da	cut	sux	NV2=tar.NV3=ed.N5='a	NV2=STEM.NV3=PF.N5=L2-NH	tar.ed.'a	V/t	cut	2	mwe	_	_	_	_	_
+
+# Q000873.9
+1	e₂	e₂	e	N	e₂\abs	house	sux	N1=e.N5=ø	N=STEM.N5=ABS	e.ø	N	house, temple	_	_	_	_	_	_	_
+2	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q000873.10
+1	gaba-ba	gaba	gaba	N	gaba-ba	chest	sux	N1=gaba.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L2-NH	gaba.bi.'a	N	breast, chest, frontier	_	_	_	_	_	_	_
+2	id₅	id₅	id	N	id₅\abs	river	sux	N1=id.N5=ø	N1=STEM.N5=ABS	id.ø	N	river	_	_	_	_	_	_	_
+3	bi₂-in-gen₆	gen₆	gin	V/t	bi₂-in-gen₆	establish	sux	V5=b.V10=i.V11=n.V12=gin.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.gin.ø	V/i	establish, confirm, make firm	_	_	_	_	_	_	_
+
+# Q000873.11
+1	mu-be₂	mu	mu	N	mu-be₂\n5el3	name	sux	N1=mu.N3=bi.N5=e	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	mu.bi.e	N	name	_	_	_	_	_	_	_
+2	pa	pa	pa	N	pa\abs	branch	sux	N1=pa.N5=ø	N1=STEM.N5=ABS	pa.ø	N	branch	_	_	pa e	appear	appear	V/t	V/t
+3	bi₂-in-e₃	e₃	e	V/i	bi₂-in-e₃\v10l3	leave	sux	V5=b.V10=i.V11=n.V12=e.V14=ø	V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.e.ø	V/i	to leave, go out	2	mwe	_	_	_	_	_
+

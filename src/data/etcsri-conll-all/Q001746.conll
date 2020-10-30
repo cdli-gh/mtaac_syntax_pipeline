@@ -1,0 +1,34 @@
+# project: etcsri 
+# textid: Q001746 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001746.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001746.1
+1	ur-{d}lamma	ur-{d}lamma	Urlamma	PN	ur-{d}lamma	3	sux	N1=Urlamma	N1=NAME	Urlamma	PN	Governor of Lagaš
+
+# Q001746.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+
+# Q001746.3
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen\abs	1	sux	N1=Lagaš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lagaš.ak.ø	SN	1
+
+# Q001746.4
+1	ur-niŋar{ŋar}	ur-niŋar{ŋar}	Urniŋar	PN	ur-niŋar{ŋar}	1	sux	N1=Urniŋar	N1=NAME	Urniŋar	PN	1
+
+# Q001746.5
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+
+# Q001746.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	lu₂-an-ne₂	lu₂-an-ne₂	Luane	PN	lu₂-an-ne₂\gen\abs	1	sux	N1=Luane.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Luane.ak.ø	PN	1
+
+# Q001746.7
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

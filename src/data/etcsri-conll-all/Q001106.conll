@@ -1,0 +1,49 @@
+# project: etcsri 
+# textid: Q001106 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001106.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001106.2
+1	{d}nanše-ra	{d}nanše	Nanše	DN	{d}nanše-ra	1	sux	N1=Nanše.N5=ra	N1=NAME.N5=DAT-H	Nanše.ra	DN	1
+
+# Q001106.3
+1	e₂-engur-ra	e₂-engur-ra	Eʾengur	TN	e₂-engur-ra	1	sux	N1=E'engur	N1=NAME	E'engur	TN	1
+2	zu₂-lum-ma	zu₂-lum	Zulum	SN	zu₂-lum-ma\gen\abs	1	sux	N1=Zulum.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Zulum.ak.ø	SN	1
+
+# Q001106.4
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+
+# Q001106.5
+1	{d}en-ki	{d}en-ki	Enkik	DN	{d}en-ki	1	sux	N1=Enkik	N1=NAME	Enkik	DN	1
+
+# Q001106.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	eridug{ki}-ra	eridug{ki}	Eridug	SN	eridug{ki}-ra	1	sux	N1=Eridug.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Eridug.ak.ra	SN	1
+
+# Q001106.7
+1	abzu-pa₅-sir₂-ra	abzu-pa₅-sir₂-ra	Abzupasira	TN	abzu-pa₅-sir₂-ra\abs	1	sux	N1=Abzupasira.N5=ø	N1=NAME.N5=ABS	Abzupasira.ø	TN	1
+
+# Q001106.8
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+
+# Q001106.9
+1	{d}nin-hur-saŋ	{d}nin-hur-saŋ	Ninhursaŋak	DN	{d}nin-hur-saŋ	1	sux	N1=Ninhursaŋak	N1=NAME	Ninhursaŋak	DN	1
+
+# Q001106.12
+1	mu-na-šum₂-ma-a	šum₂	šum	V/t	mu-na-šum₂-ma-a	give	sux	V4=mu.V6=nn.V7=a.V11=n.V12=šum.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.šum.ø.'a.'a	V/t	give
+
+# Q001106.13
+1	bur-saŋ	bur-saŋ	bursaŋ	N	bur-saŋ\abs	bowl	sux	N1=bursaŋ.N5=ø	N1=STEM.N5=ABS	bursaŋ.ø	N	a vessel
+2	mu-na-gub	gub	gub	V/i	mu-na-gub	stand	sux	V4=mu.V6=nn.V7=a.V11=n.V12=gub.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=gub.V14=3-SG-P	mu.nn.a.n.gub.ø	V/i	stand
+
+# Q001106.14
+1	he₂-x	_	_	_	he₂-x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+

@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q004323 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004323.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004323.1
+1	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+
+# Q004323.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q004323.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\abs	1	sux	N1=Urim.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urim.ak.ø	SN	1
+
+# Q004323.4
+1	na-ra-am-i₃-li₂	na-ra-am-i₃-li₂	Naramili	PN	na-ra-am-i₃-li₂	2	sux	N1=Naramili	N1=NAME	Naramili	PN	2
+
+# Q004323.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	na-sag₉	na-sag₉	Nasag	PN	na-sag₉\gen\abs	3	sux	N1=Nasag.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Nasag.ak.ø	PN	3
+
+# Q004323.6
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

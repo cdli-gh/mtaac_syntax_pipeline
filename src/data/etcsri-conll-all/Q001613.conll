@@ -1,0 +1,15 @@
+# project: etcsri 
+# textid: Q001613 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001613.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001613.2
+1	ur-{d}x	ur-{d}x	Ur.X	PN	ur-{d}x	3	sux	N1=Ur.X	N1=NAME	Ur.X	PN	3
+

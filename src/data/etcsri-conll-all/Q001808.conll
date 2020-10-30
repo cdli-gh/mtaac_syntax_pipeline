@@ -1,0 +1,74 @@
+# project: etcsri 
+# textid: Q001808 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001808.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001808.1
+1	{d}nun-gal	{d}nun-gal	Nungal	DN	{d}nun-gal	1	sux	N1=Nungal	N1=NAME	Nungal	DN	1	_	_	_	_	_	_	_
+
+# Q001808.2
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+2	e₂-kur-ra	e₂-kur	ekur	N	e₂-kur-ra	prison	sux	N1=ekur.N5=ak	N1=STEM.N5=GEN	ekur.ak	N	prison	_	_	_	_	_	_	_
+
+# Q001808.3
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+2	lu₂	lu₂	lu	N	lu₂\abs	person	sux	N1=lu.N5=ø	N1=STEM.N5=ABS	lu.ø	N	person	_	_	_	_	_	_	_
+3	til₃-til₃	til₃-til₃	til	V/i	til₃-til₃	live	sux	NV2=tiltil	NV2=STEM-RDP	tiltil	V/i	live	_	_	_	_	_	_	_
+
+# Q001808.4
+1	nin-a-ni-ir	nin	nin	N	nin-a-ni-ir	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q001808.5
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001808.6
+1	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuenak	RN	{d}amar-{d}suen	1	sux	N1=Amarsuenak	N1=NAME	Amarsuenak	RN	3rd king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q001808.7
+1	nibru{ki}-a	nibru{ki}	Nibru	SN	nibru{ki}-a	1	sux	N1=Nibru.N5='a	N1=NAME.N5=L1	Nibru.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001808.8
+1	{d}en-lil₂-le	{d}en-lil₂	Enlil	DN	{d}en-lil₂-le	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+
+# Q001808.9
+1	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	mu pad	nominate	to nominate, to proclaim one's name publicly	V/t	V/t
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	1	mwe	_	_	_	_	_
+
+# Q001808.10
+1	saŋ-us₂	saŋ-us₂	saŋus	V/i	saŋ-us₂	constant	sux	NV2=saŋus	NV2=STEM	saŋus	V/i	(to be) constant, regular	_	_	_	_	_	_	_
+
+# Q001808.11
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	{d}en-lil₂-ka	{d}en-lil₂	Enlil	DN	{d}en-lil₂-ka	1	sux	N1=Enlil.N5=ak.N5=ak	N1=NAME.N5=GEN.N5=GEN	Enlil.ak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001808.12
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001808.13
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001808.14
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₂-ba-ka-še₃	limmu₂	limmu	NU	limmu₂-ba-ka-še₃	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ak.N5=še	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=GEN.N5=TERM	limmu.bi.ak.ak.še	NU	four	_	_	_	_	_	_	_
+
+# Q001808.15
+1	puzur₄-i₃-li₂	puzur₄-i₃-li₂	Puzurili	PN	puzur₄-i₃-li₂	1	sux	N1=Puzurili	N1=NAME	Puzurili	PN	1	_	_	_	_	_	_	_
+
+# Q001808.16
+1	šabra	šabra	šabra	N	šabra	administrator	sux	N1=šabra	N1=STEM	šabra	N	chief administrator of a temple or other household	_	_	_	_	_	_	_
+2	e₂-UG-ti-ke₄	e₂-UG-ti	Eugti	TN	e₂-UG-ti-ke₄	1	sux	N1=Eugti.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Eugti.ak.e	TN	1	_	_	_	_	_	_	_
+
+# Q001808.17
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

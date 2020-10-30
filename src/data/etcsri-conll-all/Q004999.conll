@@ -1,0 +1,46 @@
+# project: etcsri 
+# textid: Q004999 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004999.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004999.1
+1	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	Ibbisuen	RN	{d}i-bi₂-{d}suen	1	sux	N1=Ibbisuen	N1=NAME	Ibbisuen	RN	5th king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q004999.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q004999.3
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	1	mwe	_	_	_	_	_
+3	{d}inana	{d}inana	Inanak	DN	{d}inana\gen\abs	1	sux	N1=Inanak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Inanak.ak.ø	DN	1	_	_	_	_	_	_	_
+
+# Q004999.4
+1	saŋ-{d}en-lil₂-la₂	saŋ-{d}en-lil₂-la₂	Saŋenlilak	PN	saŋ-{d}en-lil₂-la₂	1	sux	N1=Saŋenlilak	N1=NAME	Saŋenlilak	PN	1	_	_	_	_	_	_	_
+
+# Q004999.5
+1	ugula-e₂	ugula-e₂	ugulaʾek	N	ugula-e₂	overseer	sux	N1=ugula'ek	N1=STEM	ugula'ek	N	overseer, estate-overseer, steward	_	_	_	_	_	_	_
+2	{d}inana	{d}inana	Inanak	DN	{d}inana\gen	1	sux	N1=Inanak.N5=ak	N1=NAME.N5=GEN	Inanak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q004999.6
+1	nu-eš₃	nu-eš₃	nu’ešak	N	nu-eš₃	priest	sux	N1=nueš	N1=STEM	nueš	N	a priest	_	_	_	_	_	_	_
+2	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂\gen	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1	_	_	_	_	_	_	_
+
+# Q004999.7
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	lugal-engar-dug₃	lugal-engar-dug₃	Lugalengardug	PN	lugal-engar-dug₃	2	sux	N1=Lugalengardug	N1=NAME	Lugalengardug	PN	2	_	_	_	_	_	_	_
+
+# Q004999.8
+1	ugula-e₂	ugula-e₂	ugulaʾek	N	ugula-e₂	overseer	sux	N1=ugula'ek	N1=STEM	ugula'ek	N	overseer, estate-overseer, steward	_	_	_	_	_	_	_
+2	{d}inana-ka	{d}inana	Inanak	DN	{d}inana-ka\gen\gen\abs	1	sux	N1=Inanak.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Inanak.ak.ak.ø	DN	1	_	_	_	_	_	_	_
+
+# Q004999.9
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant	_	_	_	_	_	_	_
+

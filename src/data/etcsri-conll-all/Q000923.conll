@@ -1,0 +1,48 @@
+# project: etcsri 
+# textid: Q000923 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000923.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q000923.1
+1	{d}nin-hur-saŋ	{d}nin-hur-saŋ	Ninhursaŋak	DN	{d}nin-hur-saŋ	1	sux	N1=Ninhursaŋak	N1=NAME	Ninhursaŋak	DN	1	_	_	_	_	_	_	_
+
+# Q000923.2
+1	ama	ama	ama	N	ama	mother	sux	N1=ama	N1=STEM	ama	N	mother	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q000923.3
+1	{d}nin-ŋir₂-su-ka	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka	1	sux	N1=Ninŋirsuk.N5=ak	N1=NAME.N5=GEN	Ninŋirsuk.ak	DN	1	_	_	_	_	_	_	_
+
+# Q000923.4
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+2	iri-da	iri	iri	N	iri-da	city	sux	N1=iri.N5=da	N1=STEM.N5=COM	iri.da	N	city	_	_	_	_	_	_	_
+3	mu₂-a	mu₂	mu	V/i	mu₂-a	grow	sux	NV2=mu.NV4='a	NV2=STEM.NV4=SUB	mu.'a	V/t	to grow	_	_	_	_	_	_	_
+
+# Q000923.5
+1	ama	ama	ama	N	ama	mother	sux	N1=ama	N1=STEM	ama	N	mother	_	_	_	_	_	_	_
+2	dumu-dumu-ne-ra	dumu-dumu	dumu	N	dumu-dumu-ne-ra	child	sux	N1=dumudumu.N4=enee.N5=ak.N5=ra	N1=STEM-RDP.N4=PL.N5=GEN.N5=DAT-H	dumudumu.enee.ak.ra	N	child	_	_	_	_	_	_	_
+
+# Q000923.6
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1	_	_	_	_	_	_	_
+
+# Q000923.7
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q000923.8
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q000923.9
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	ŋir₂-su{ki}-ka-ni	ŋir₂-su{ki}	Ŋirsu	SN	ŋir₂-su{ki}-ka-ni\abs	1	sux	N1=Ŋirsu.N5=ak.N3=ani.N5=ø	N1=STEM.N5=GEN.N3=3-SG-H-POSS.N5=ABS	Ŋirsu.ak.ani.ø	SN	1	_	_	_	_	_	_	_
+
+# Q000923.10
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

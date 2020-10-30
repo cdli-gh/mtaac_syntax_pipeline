@@ -1,0 +1,83 @@
+# project: etcsri 
+# textid: Q004104 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004104.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004104.1
+1	{d}li-pi₂-it-eš₁₈-tar₂	{d}li-pi₂-it-eš₁₈-tar₂	Lipiteštar	RN	{d}li-pi₂-it-eš₁₈-tar₂	1	sux	N1=Lipiteštar	N2=NAME	Lipiteštar	RN	5th king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q004104.2
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd	_	_	_	_	_	_	_
+2	sun₅-na	sun₅	sun	V/i	sun₅-na	humble	sux	NV2=sun.NV4='a	NV2=STEM.NV4=SUB	sun.'a	V/i	to be(come) humble	_	_	_	_	_	_	_
+
+# Q004104.3
+1	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen	1	sux	N1=Nibru.N5=ak	N1=NAME.N5=GEN	Nibru.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004104.4
+1	engar	engar	engar	N	engar	farmer	sux	N1=engar	N1=STEM	engar	N	farmer	_	_	_	_	_	_	_
+2	zid	zid	zid	V/i	zid	right	sux	NV2=zid	NV2=STEM	zid	V/i	right	_	_	_	_	_	_	_
+
+# Q004104.5
+1	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004104.6
+1	muš₃	muš₃	muš	N	muš₃\abs	face	sux	N1=muš.N5=ø	N1=STEM.N5=ABS	muš.ø	N	face	_	_	muš tum	stop working	stop working	V/i	V/t
+2	nu-tum₂-mu	tum₂	tum	V/t	nu-tum₂-mu	lead	sux	NV1=nu.NV2=tum.NV3=ed	NV1=NEG.NV2=STEM.NV3=PF	nu.tum.ed	V/t	to lead	1	mwe	_	_	_	_	_
+
+# Q004104.7
+1	eridug{ki}-ga	eridug{ki}	Eridug	SN	eridug{ki}-ga	1	sux	N1=Eridug.N5=ak	N1=Eridug.N5=GEN	Eridug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004104.8
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest	_	_	_	_	_	_	_
+2	me-te	me-te	mete	N	me-te	appropriate thing	sux	N1=mete	N1=STEM	mete	N	appropriate thing, ornament	_	_	_	_	_	_	_
+
+# Q004104.9
+1	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004104.10
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	i₃-si-in{ki}-na	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-na	1	sux	N1=Isin.N5=ak	N1=NAME.N5=GEN	Isin.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004104.11
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri	ki-uri	Akkad	GN	ki-uri\gen	1	sux	N1=Akkad.N5=ak	N1=NAME.N5=GEN	Akkad.ak	GN	1	_	_	_	_	_	_	_
+
+# Q004104.12
+1	šag₄-ge	šag₄	šag	N	šag₄-ge\n5el3	heart	sux	N1=šag.N5=e	N1=STEM.N5=L3-NH	šag.e	N	heart, inner body	_	_	_	_	_	_	_
+2	de₆-a	de₆	de	V/t	de₆-a	bring	sux	NV2=de.NV4='a	NV2=STEM.NV4=SUB	de.'a	V/t	to bring	_	_	_	_	_	_	_
+
+# Q004104.13
+1	{d}inana-me-en	{d}inana	Inanak	DN	{d}inana-me-en\gen\cop	1	sux	N1=Inanak.N5=ak.N5=ø.N6=men	N1=NAME.N5=GEN.N5=ABS.N6=COP-1-SG	Inanak.ak.ø.men	DN	1	_	_	_	_	_	_	_
+
+# Q004104.14
+1	hi-ri-tum	hi-ri-tum	hiritum	N	hi-ri-tum	ditch	sux	N1=hiritum	N1=STEM	hiritum	N	city ditch, (dry) moat	_	_	_	_	_	_	_
+
+# Q004104.15
+1	i₃-si-in{ki}-na	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-na	1	sux	N1=Isin.N5=ak	N1=NAME.N5=GEN	Isin.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004104.16
+1	iri{ki}	iri{ki}	iri	N	iri{ki}	city	sux	N1=iri	N1=STEM	iri	N	city	_	_	_	_	_	_	_
+2	nam-lugal-ŋa₂-ka	nam-lugal	namlugal	N	nam-lugal-ŋa₂-ka\abs	kingship	sux	N1=namlugal.N3=ŋu.N5=ak.N5=ak.N5=ø	N1=STEM.N3=1-SG-POSS.N5=GEN.N5=GEN.N5=ABS	namlugal.ŋu.ak.ak.ø	N	kingship, royal	_	_	_	_	_	_	_
+
+# Q004104.17
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	niŋ₂-si-sa₂	niŋ₂-si-sa₂	niŋsisa	N	niŋ₂-si-sa₂\abs	justice	sux	N1=niŋsisa.N5=ø	N1=STEM.N5=ABS	niŋsisa.ø	N	justice	_	_	_	_	_	_	_
+
+# Q004104.18
+1	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+2	ki-uri-a	ki-uri	Akkad	GN	ki-uri-a	1	sux	N1=Akkad.N5='a	N1=NAME.N5=L1	Akkad.'a	GN	1	_	_	_	_	_	_	_
+
+# Q004104.19
+1	i-ni-in-ŋar-ra-a	ŋar	ŋar	V/t	i-ni-in-ŋar-ra-a\v11sg1a\l1	place	sux	V2=i.V10=ni.V11=1.V12=ŋar.V14=ø.V15='a.N5='a	V2=FIN.V10=L1.V11=1-SG-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	i.ni.1.ŋar.ø.'a.'a	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q004104.20
+1	mu-ba-al	ba-al	bal	V/t	mu-ba-al\v11sg1a	dig	sux	V4=mu.V11=1.V12=bal.V14=ø	V4=VEN.V11=1-SG-A.V12=STEM.V14=3-SG-P	mu.1.bal.ø	V/t	dig	_	_	_	_	_	_	_
+

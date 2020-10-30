@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001016 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001016.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001016.1
+1	ur-{d}nanše	ur-{d}nanše	Urnanše	RN	ur-{d}nanše	1	sux	N1=Urnanše	N1=NAME	Urnanše	RN	King of Lagaš
+
+# Q001016.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001016.3
+1	lagaš	lagaš	Lagaš	SN	lagaš\gen\abs	1	sux	N1=Lagaš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lagaš.ak.ø	SN	1
+

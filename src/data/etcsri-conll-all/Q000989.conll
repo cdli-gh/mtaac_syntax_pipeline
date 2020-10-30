@@ -1,0 +1,116 @@
+# project: etcsri 
+# textid: Q000989 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000989.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q000989.1
+1	{d}nanna	{d}nanna	Nanna	DN	{d}nanna	1	sux	N1=Nanna	N1=NAME	Nanna	DN	1	_	_	_	_	_	_	_
+
+# Q000989.2
+1	kar-zid-da	kar-zid-da	Karzida	SN	kar-zid-da\gen	1	sux	N1=Karzida.N5=ak	N1=NAME.N5=GEN	Karzida.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000989.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ŋa₂-ni-ir	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni-ir	measure	sux	NV2=aŋ.N3=ani.N5=ra	NV2=STEM.N3=3-SG-H-POSS.N5=DAT-H	aŋ.ani.ra	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q000989.4
+1	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuenak	RN	{d}amar-{d}suen	1	sux	N1=Amarsuenak	N1=NAME	Amarsuenak	RN	3rd king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q000989.5
+1	{d}en-lil₂-le	{d}en-lil₂	Enlil	DN	{d}en-lil₂-le	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+
+# Q000989.6
+1	nibru{ki}-a	nibru{ki}	Nibru	SN	nibru{ki}-a	1	sux	N1=Nibru.N5='a	N1=NAME.N5=L1	Nibru.'a	SN	1	_	_	_	_	_	_	_
+
+# Q000989.7
+1	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	mu pad	nominate	to nominate, to proclaim one's name publicly	V/t	V/t
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	1	mwe	_	_	_	_	_
+
+# Q000989.8
+1	saŋ-us₂	saŋ-us₂	saŋus	V/i	saŋ-us₂	constant	sux	NV2=saŋus	NV2=STEM	saŋus	V/i	(to be) constant, regular	_	_	_	_	_	_	_
+
+# Q000989.9
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	{d}en-lil₂-ka	{d}en-lil₂	Enlil	DN	{d}en-lil₂-ka	1	sux	N1=Enlil.N5=ak.N5=ak	N1=NAME.N5=GEN.N5=GEN	Enlil.ak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q000989.10
+1	diŋir	diŋir	diŋir	N	diŋir	deity	sux	N1=diŋir	N1=STEM	diŋir	N	deity, personal god	_	_	_	_	_	_	_
+2	zid	zid	zid	V/i	zid	right	sux	NV2=zid	NV2=STEM	zid	V/i	right	_	_	_	_	_	_	_
+
+# Q000989.11
+1	{d}utu	{d}utu	Utu	DN	{d}utu	1	sux	N1=Utu	N1=NAME	Utu	DN	1	_	_	_	_	_	_	_
+2	kalam-ma-na	kalam	kalam	N	kalam-ma-na\gen	land	sux	N1=kalam.N3=ani.N5=ak	N1=STEM.N3=3-SG-H-POSS.N5=GEN	kalam.ani.ak	N	the Land (of Sumer)	_	_	_	_	_	_	_
+
+# Q000989.12
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q000989.13
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000989.14
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₂-ba-ke₄	limmu₂	limmu	NU	limmu₂-ba-ke₄	four	sux	NV2=limmu.N3=bi.N5=ak.N5=e	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	limmu.bi.ak.e	NU	four	_	_	_	_	_	_	_
+
+# Q000989.15
+1	kar-zid-da-a	kar-zid-da	Karzida	SN	kar-zid-da-a	1	sux	N1=Karzida.N5='a	N1=NAME.N5=L1	Karzida.'a	SN	1	_	_	_	_	_	_	_
+
+# Q000989.16
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	ul-li₂-a-ta	ul-li₂	ul	N	ul-li₂-a-ta	distant	sux	NV2=ul.NV4='a.N5=ta	NV2=STEM.NV4=SUB.N5=ABL	ul.'a.ta	V/i	distant time	_	_	_	_	_	_	_
+
+# Q000989.17
+1	ŋi₆-par₄-bi	ŋi₆-par₄	ŋipar	N	ŋi₆-par₄-bi\abs	cloister	sux	N1=ŋipar.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	ŋipar.bi.ø	N	cloister	_	_	_	_	_	_	_
+2	nu-du₃-am₃	du₃	du	V/t	nu-du₃-am₃\v14sg3s	build	sux	V1=nu.V12=du.V14=ø.V15='a.N6=am	V1=NEG.V12=STEM.V14=3-SG-S.V15=SUB.N6=COP-3-SG	nu.du.ø.'a.am	V/t	to build	_	_	_	_	_	_	_
+
+# Q000989.18
+1	en	en	en	N	en\abs	priest	sux	N1=en.N5=ø	N1=STEM.N5=ABS	en.ø	N	priest	_	_	_	_	_	_	_
+2	nu-un-til₃-la-am₃	til₃	til	V/i	nu-un-til₃-la-am₃\v14sg3s	live	sux	V1=nu.V10=n.V12=til.V14=ø.V15='a.N6=am	V1=NEG.V10=L1-SYN.V12=STEM.V14=3-SG-S.V15=SUB.N6=COP-3-SG	nu.n.til.ø.'a.am	V/i	live	_	_	_	_	_	_	_
+
+# Q000989.19
+1	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuenak	RN	{d}amar-{d}suen	1	sux	N1=Amarsuenak	N1=NAME	Amarsuenak	RN	3rd king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q000989.20
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	1	mwe	_	_	_	_	_
+3	{d}nanna-ke₄	{d}nanna	Nanna	DN	{d}nanna-ke₄	1	sux	N1=Nanna.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Nanna.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q000989.21
+1	ŋi₆-par₄	ŋi₆-par₄	ŋipar	N	ŋi₆-par₄	cloister	sux	N1=ŋipar	N1=STEM	ŋipar	N	cloister	_	_	_	_	_	_	_
+2	kug-ga-ni	kug	kug	V/i	kug-ga-ni\abs	pure	sux	NV2=kug.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	kug.ani.ø	V/i	pure	_	_	_	_	_	_	_
+
+# Q000989.22
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q000989.23
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni\abs	measure	sux	NV2=aŋ.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	aŋ.ani.ø	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q000989.24
+1	mu-na-ni-kur₉	kur₉	kur	V/i	mu-na-ni-kur₉	enter	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=kur.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.kur.ø	V/i	enter	_	_	_	_	_	_	_
+
+# Q000989.25
+1	{d}amar-{d}suen-ke₄	{d}amar-{d}suen	Amarsuenak	RN	{d}amar-{d}suen-ke₄	1	sux	N1=Amarsuenak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Amarsuenak.ak.e	RN	3rd king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q000989.26
+1	ud	ud	ud	N	ud\abs	sun	sux	N1=ud.N5=ø	N1=STEM.N5=ABS	ud.ø	N	day, sun	_	_	_	_	_	_	_
+2	im-da-ab-su₃-re₆	su₃	sud	V/i	im-da-ab-su₃-re₆	distant	sux	V2=i.V4=m.V5=b.V8=da.V11=b.V12=sud.V14=e	V2=FIN.V4=VEN.V5=3-NH.V8=COM.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A	i.m.b.da.b.sud.e	V/i	(to be) distant	_	_	_	_	_	_	_
+
+# Q000989.27
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q000989.28
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

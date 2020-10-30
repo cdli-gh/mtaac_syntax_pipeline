@@ -1,0 +1,29 @@
+# project: etcsri 
+# textid: Q004960 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004960.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004960.1
+1	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	Ibbisuen	RN	{d}i-bi₂-{d}suen	1	sux	N1=Ibbisuen	N1=NAME	Ibbisuen	RN	5th king of the 3rd dynasty of Urim
+
+# Q004960.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}	urim₅{ki}	Urim	SN	urim₅{ki}\gen\abs	1	sux	N1=Urim.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urim.ak.ø	SN	1
+
+# Q004960.3
+1	hu-ma-an-zi	hu-ma-an-zi	Humanzi	PN	hu-ma-an-zi	1	sux	N1=Humanzi	N1=NAME	Humanzi	PN	1
+
+# Q004960.4
+1	nu-banda₃	nu-banda₃	nubanda	N	nu-banda₃	overseer	sux	N1=nubanda	N1=STEM	nubanda	N	overseer
+2	e₂-x	_	_	_	e₂-x	_	sux	_	_	_	u	_
+
+# Q004960.5
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

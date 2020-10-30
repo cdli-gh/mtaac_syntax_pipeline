@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q001874 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001874.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001874.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q001874.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba	four	sux	NV2=limmu.N3=bi.N5=ak	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN	limmu.bi.ak	NU	four
+
+# Q001874.4
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+2	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+3	{d}ul-ma-ši-tum-ma	{d}ul-ma-ši-tum	Ulmašitum	DN	{d}ul-ma-ši-tum-ma\abs	1	sux	N1=Ulmašitum.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ulmašitum.ak.ø	DN	1
+

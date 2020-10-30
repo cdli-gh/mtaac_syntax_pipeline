@@ -1,0 +1,34 @@
+# project: etcsri 
+# textid: Q001366 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001366.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001366.1
+1	{d}|REC290.KU|-ra	{d}|REC290.KU|	REC290.KU	DN	{d}|REC290.KU|-ra	1	sux	N1=REC290.KU.N5=ra	N1=NAME.N5=DAT-H	REC290.ra	DN	1
+
+# Q001366.2
+1	en-ša₃-kuš₂-an-na	en-ša₃-kuš₂-an-na	Enšakušanak	RN	en-ša₃-kuš₂-an-na	1	sux	N1=Enšakušanak	N1=NAME	Enšakušanak	RN	King of Unug
+
+# Q001366.3
+1	en	en	en	N	en	lord	sux	N1=en	N1=STEM	en	N	lord
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi\gen	1	sux	N1=Kiengir.N5=ak	N1=NAME.N5=GEN	Kiengir.ak	GN	1
+
+# Q001366.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalam-ma	kalam	kalam	N	kalam-ma\gen	land	sux	N1=kalam.N5=ak	N1=STEM.N5=GEN	kalam.ak	N	the Land (of Sumer)
+
+# Q001366.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	e₂-li-li-na	e₂-li-li	Elilin	RN	e₂-li-li-na\erg	1	sux	N1=Elilin.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Elilin.ak.e	RN	King of Urim
+
+# Q001366.6
+1	e₂-ni	e₂	e	N	e₂-ni\abs	house	sux	N1=e.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	e.ani.ø	N	house, temple
+2	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

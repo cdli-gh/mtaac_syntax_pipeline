@@ -1,0 +1,38 @@
+# project: etcsri 
+# textid: Q004934 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004934.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004934.1
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q004934.2
+1	{d}en-lil₂-le	{d}en-lil₂	Enlil	DN	{d}en-lil₂-le	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+
+# Q004934.3
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	1	mwe	_	_	_	_	_
+
+# Q004934.4
+1	šag₄-ga-na	šag₄	šag	N	šag₄-ga-na	heart	sux	N1=šag.N3=ani.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L1	šag.ani.'a	N	heart, inner body	_	_	_	_	_	_	_
+
+# Q004934.5
+1	in-pad₃	pad₃	pad	V/t	in-pad₃	find	sux	V2=i.V11=n.V12=pad.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.pad.ø	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q004934.6
+1	ur-ŋu₁₀	ur-ŋu₁₀	Urŋu	PN	ur-ŋu₁₀	1	sux	N1=Urŋu	N1=NAME	Urŋu	PN	1	_	_	_	_	_	_	_
+
+# Q004934.7
+1	aga₃-us₂	aga₃-us₂	agaʾus	N	aga₃-us₂	soldier	sux	N1=aga'us	N1=STEM	aga'us	N	a soldier	_	_	_	_	_	_	_
+2	gal	gal	gal	V/i	gal\abs	big	sux	NV2=gal.N5=ø	NV2=STEM.N5=ABS	gal.ø	V/i	(to be) big, great	_	_	_	_	_	_	_
+
+# Q004934.8
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant	_	_	_	_	_	_	_
+

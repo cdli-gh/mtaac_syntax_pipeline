@@ -1,0 +1,38 @@
+# project: etcsri 
+# textid: Q001774 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001774.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001774.2
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q001774.3
+1	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+
+# Q001774.4
+1	diŋir	diŋir	diŋir	N	diŋir	deity	sux	N1=diŋir	N1=STEM	diŋir	N	deity, personal god
+2	kalam-ma-na-ka-še₃	kalam	kalam	N	kalam-ma-na-ka-še₃	land	sux	N1=kalam.N3=ani.N5=ak.N5=ak.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=GEN.N5=TERM	kalam.ani.ak.ak.še	N	the Land (of Sumer)
+
+# Q001774.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q001774.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba-ka-še₃	limmu₂	limmu	NU	limmu₂-ba-ka-še₃	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ak.N5=še	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=GEN.N5=TERM	limmu.bi.ak.ak.še	NU	four
+
+# Q001774.7
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+5	x	_	_	_	x	_	sux	_	_	_	u	_
+

@@ -1,0 +1,17 @@
+#new_text=P100159
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	gu4	gud[ox]	NOUN	N	Number=Sing	7	ABS.ABS	_	_
+3	niga	niga[fattened]	VERB	V	_	2	amod	_	_
+4	ki	ki[place]	NOUN	N	Number=Sing	7	ABL	_	_
+5	ur-{d}ba-ba6-ta	Urbaba[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	4	GEN	_	_
+6	gu-za-ni	Guzani[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	7	ERG	_	_
+7	i3-dab5	n]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	0	_	_	_
+8	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	0	_	_	_
+9	ur-{d}ba-ba6	Urbaba[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+10	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+11	x-...	_	_	_	_	0	_	_	_
+12	...	_	_	_	_	0	_	_	_
+13	mu	mu[year]	NOUN	N	Number=Sing	15	ABS	_	_
+14	puzur4-isz-{d}da-gan	Puzuriszdagan[1]	PROPN	SN	Case=Abs|Number=Sing	13	appos	_	_
+15	ba-du3	du[build]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_

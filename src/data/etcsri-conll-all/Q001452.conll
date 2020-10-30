@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q001452 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001452.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001452.1
+1	nin-eš₃-sa₂	nin-eš₃-sa₂	Ninešak	PN	nin-eš₃-sa₂	1	sux	N1=Ninešak.N5=e	N1=NAME.N5=ERG	Ninešak.e	PN	1
+
+# Q001452.2
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest
+2	{d}meš₃-saŋŋa-unug{ki}	{d}meš₃-saŋŋa-unug{ki}	Mešsaŋŋaunugak	DN	{d}meš₃-saŋŋa-unug{ki}\gen	1	sux	N1=Mešsaŋŋaunugak.N5=ak	N1=NAME.N5=GEN	Mešsaŋŋaunugak.ak	DN	1
+
+# Q001452.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	lugal-SILA	lugal-SILA	Lugalsila	PN	lugal-SILA\gen\abs	1	sux	N1=Lugalsila.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lugalsila.ak.ø	PN	1
+

@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q004952 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004952.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004952.1
+1	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	Ibbisuen	RN	{d}i-bi₂-{d}suen	1	sux	N1=Ibbisuen	N1=NAME	Ibbisuen	RN	5th king of the 3rd dynasty of Urim
+
+# Q004952.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q004952.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\abs	1	sux	N1=Urim.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urim.ak.ø	SN	1
+
+# Q004952.4
+1	ab-ba-gu-la	ab-ba-gu-la	Abbagula	PN	ab-ba-gu-la	1	sux	N1=Abbagula	N1=NAME	Abbagula	PN	1
+
+# Q004952.5
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+
+# Q004952.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+

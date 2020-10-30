@@ -1,0 +1,76 @@
+# project: etcsri 
+# textid: Q001581 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001581.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001581.1
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1	_	_	_	_	_	_	_
+
+# Q001581.2
+1	munus	munus	munus	N	munus	woman	sux	N1=munus	N1=STEM	munus	N	woman	_	_	_	_	_	_	_
+2	sag₉-ga	sag₉	sag	V/i	sag₉-ga	good	sux	NV2=sag.NV4='a	NV2=STEM.NV4=SUB	sag.'a	V/i	(to be) good	_	_	_	_	_	_	_
+
+# Q001581.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	an-na	an	An	DN	an-na	1	sux	N1=An.N5=ak	N1=NAME.N5=GEN	An.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001581.4
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+2	iri-kug-ga	iri-kug	Irikug	SN	iri-kug-ga	1	sux	N1=Irikug.N5=ak	N1=NAME.N5=GEN	Irikug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001581.5
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q001581.6
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001581.7
+1	nam-mah-ni	nam-mah-ni	Nammahni	RN	nam-mah-ni	1	sux	N1=Nammahni	N1=NAME	Nammahni	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001581.8
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001581.9
+1	lagaš{ki}-ka-še₃	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-še₃	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Lagaš.ak.ak.še	SN	1	_	_	_	_	_	_	_
+
+# Q001581.10
+1	nin-ka-gen₆-na	nin-ka-gen₆-na	Ninkagina	PN	nin-ka-gen₆-na	1	sux	N1=Ninkagina	N1=NAME	Ninkagina	PN	Daughter of Kakug	_	_	_	_	_	_	_
+
+# Q001581.11
+1	ama-tud-da-ne₂	ama-tud	amaʾatud	N	ama-tud-da-ne₂	slave	sux	N1=ama'atud.N3=ani.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=ERG	ama'atud.ani.e	N	slave	_	_	_	_	_	_	_
+
+# Q001581.12
+1	{d}lamma	{d}lamma	lammar	N	{d}lamma	deity	sux	N1=lammar	N1=STEM	lammar	N	deity	_	_	_	_	_	_	_
+2	tar-sir₂-sir₂-ra	tar-sir₂-sir₂	Tarsirsir	SN	tar-sir₂-sir₂-ra\abs	1	sux	N1=Tarsirsir.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Tarsirsir.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001581.13
+1	kisal	kisal	kisal	N	kisal	courtyard	sux	N1=kisal	N1=STEM	kisal	N	courtyard	_	_	_	_	_	_	_
+2	{d}ba-u₂-ka	{d}ba-u₂	Bau	DN	{d}ba-u₂-ka\l1	1	sux	N1=Bau.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L1	Bau.ak.'a	DN	1	_	_	_	_	_	_	_
+3	ku₄(REC56)-ku₄(REC56)-da-ne₂	ku₄(REC56)-ku₄(REC56)	kur	V/i	ku₄(REC56)-ku₄(REC56)-da-ne₂	enter	sux	NV2=kuku.NV3=ed.NV4='a.N5=ne	NV2=STEM-PF.NV3=PF.NV4=SUB.N5=L4	kuku.ed.'a.ne	V/i	enter	_	_	_	_	_	_	_
+
+# Q001581.14
+1	alan-e	alan	alan	N	alan-e\dem1\erg	statue	sux	N1=alan.N2=e.N5=e	N1=STEM.N2=DEM1.N5=ERG	alan.e.e	N	statue	_	_	_	_	_	_	_
+2	nin-ŋu₁₀	nin	nin	N	nin-ŋu₁₀\abs	lady	sux	N1=nin.N3=ŋu.N5=ø	N1=STEM.N3=1-SG-POSS.N5=ABS	nin.ŋu.ø	N	lady	_	_	_	_	_	_	_
+
+# Q001581.15
+1	ŋeštug₂-ga-ni-a	ŋeštug₂	ŋeštug	N	ŋeštug₂-ga-ni-a\l1	ear	sux	N1=ŋeštug.N3=ani.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L1	ŋeštug.ani.'a	N	ear	_	_	ŋeštuga rugu	bring attention	bring attention	V/i	V/i
+2	mu-na-ni-ru-gu₂	ru-gu₂	rugu	V/t	mu-na-ni-ru-gu₂\v11sg3p	withstand	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=rugu.V14=e	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-P.V12=STEM.V14=3-SG-A	mu.nn.a.ni.n.rugu.e	V/t	withstand	1	mwe	_	_	_	_	_
+
+# Q001581.16
+1	sizkur-ŋu₁₀	sizkur	siškur	N	sizkur-ŋu₁₀\abs	prayer	sux	N1=siškur.N3=ŋu.N5=ø	N1=STEM.N3=1-SG-POSS.N5=ABS	siškur.ŋu.ø	N	prayer	_	_	_	_	_	_	_
+2	he₂-na-be₂	b°e₂	dug	V/t	he₂-na-be₂	speak	sux	V1=ha.V2=i.V6=nn.V7=a.V11=b.V12=e.V14=e	V1=MOD1.V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-NH-P.V12=STEM-PF.V14=3-SG-A	ha.i.nn.a.b.e.e	V/t	speak	_	_	_	_	_	_	_
+
+# Q001581.17
+1	ne-saŋ	ne-saŋ	nesaŋ	N	ne-saŋ\abs	offering	sux	N1=nesaŋ.N5=ø	N1=STEM.N5=ABS	nesaŋ.ø	N	offering	_	_	_	_	_	_	_
+
+# Q001581.18
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

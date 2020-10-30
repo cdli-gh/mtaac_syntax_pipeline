@@ -1,0 +1,143 @@
+# project: etcsri 
+# textid: Q004253 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004253.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004253.1
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	lugal-aya₂-ŋu₁₀	lugal-aya₂-ŋu₁₀	Lugalayaŋu	RN	lugal-aya₂-ŋu₁₀	1	sux	N1=Lugalayaŋu	N1=NAME	Lugalayaŋu	PN	Ruler of Adab	_	_	_	_	_	_	_
+
+# Q004253.2
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household	_	_	_	_	_	_	_
+2	{d}iškur-ke₄	{d}iškur	Iškur	DN	{d}iškur-ke₄	1	sux	N1=Iškur.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Iškur.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q004253.3
+1	nam-ensi₂	nam-ensi₂	namensik	N	nam-ensi₂	office of ruler	sux	N1=namensik	N1=STEM	namensik	N	office of ruler	_	_	_	_	_	_	_
+
+# Q004253.4
+1	adab{ki}	adab{ki}	Adab	SN	adab{ki}\gen\abs	1	sux	N1=Adab.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Adab.ak.ø	SN	1	_	_	_	_	_	_	_
+2	in-ak-a	ak	ak	V/t	in-ak-a\l1	do	sux	V2=i.V11=n.V12=ak.V14=ø.V15='a.N5='a	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	i.n.ak.ø.'a.'a	V/t	do	_	_	_	_	_	_	_
+
+# Q004253.5
+1	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)	Urimmak	PN	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)	1	sux	N1=Urimmak	N1=NAME	Urimmak	PN	1	_	_	_	_	_	_	_
+2	ama-tud	ama-tud	amaʾatud	N	ama-tud	slave	sux	N1=ama'atud	N1=STEM	ama'atud	N	slave	_	_	_	_	_	_	_
+3	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q004253.6
+1	{d}dam-gal-nun-na-ka-ke₄	{d}dam-gal-nun-na	Damgalnunak	DN	{d}dam-gal-nun-na-ka-ke₄	1	sux	N1=Damgalnunak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Damgalnunak.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q004253.7
+1	arad₂	arad₂	arad	N	arad₂	slave	sux	N1=arad	N1=STEM	arad	N	slave, servant	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+3	{d}immaₓ(|LAGAB×SIG₇.ME|)-ke₄	{d}immaₓ(|LAGAB×SIG₇.ME|)	Imma	DN	{d}immaₓ(|LAGAB×SIG₇.ME|)-ke₄	1	sux	N1=Imma.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Imma.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q004253.8
+1	šabalbal-la	šabalbal-la	šabalbal	N	šabalbal-la	descendent	sux	N1=šabalbal	N1=STEM	šabalbal	N	descendent	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q004253.9
+1	lugal-niŋ₂-baragₓ(BAD)-dug₃	lugal-niŋ₂-baragₓ(BAD)-dug₃	Lugalniŋbaragdug	PN	lugal-niŋ₂-baragₓ(BAD)-dug₃	1	sux	N1=Lugalniŋbaragdug	N1=NAME	Lugalniŋbaragdug	PN	1	_	_	_	_	_	_	_
+2	ilduₓ(|IGI.NAGAR|)-ke₄	ilduₓ(|IGI.NAGAR|)	ildum	N	ilduₓ(|IGI.NAGAR|)-ke₄	band	sux	N1=ildum.N5=ak.N5=e	N1=STEM.N5=GEN.N5=ERG	ildum.ak.e	N	clan	_	_	_	_	_	_	_
+
+# Q004253.10
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)	Urimmak	PN	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)\abs	1	sux	N1=Urimmak.N5=ø	N1=NAME.N5=ABS	Urimmak.ø	PN	1	_	_	_	_	_	_	_
+3	{d}dam-gal-nun-na-ke₄	{d}dam-gal-nun-na	Damgalnunak	DN	{d}dam-gal-nun-na-ke₄	1	sux	N1=Damgalnunak.N5=e	N1=NAME.N5=ERG	Damgalnunak.e	DN	1	_	_	_	_	_	_	_
+
+# Q004253.11
+1	šag₄-ga-ne₂	šag₄	šag	N	šag₄-ga-ne₂\n5edat	heart	sux	N1=šag.N3=ani.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=DAT-NH	šag.ani.e	N	heart, inner body	_	_	_	_	_	_	_
+2	ba-an-pad₃-da	pad₃	pad	V/t	ba-an-pad₃-da	find	sux	V5=b.V7=a.V11=n.V12=pad.V14=ø.V15='a	V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=pad.V14=3-SG-P.V15=SUB	b.a.n.pad.ø.'a	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q004253.12
+1	e₂-ŋu₁₀	e₂	e	N	e₂-ŋu₁₀\abs	house	sux	N1=e.N3=ŋu.N5=ø	N1=STEM.N3=1-SG-POSS.N5=ABS	e.ŋu.ø	N	house, temple	_	_	_	_	_	_	_
+2	du₃-ma	du₃	du	V/t	du₃-ma	build	sux	V1=du.V4=m.V7=a.V11=b	V1=STEM.V4=VEN.V7=DAT.V11=3-SG-NH-P	du.m.a.b	V/t	to build	_	_	_	_	_	_	_
+
+# Q004253.13
+1	in-na-dug₄-ga	dug₄	dug	V/t	in-na-dug₄-ga	speak	sux	V2=i.V6=nn.V7=a.V11=n.V12=dug.V14=ø.V15='a	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB	i.nn.a.n.dug.ø.'a	V/t	speak	_	_	_	_	_	_	_
+
+# Q004253.14
+1	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)-ke₄	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)	Urimmak	PN	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)-ke₄	1	sux	N1=Urimmak.N5=e	N1=NAME.N5=ERG	Urimmak.e	PN	1	_	_	_	_	_	_	_
+2	{d}dam-gal-nun-na-ra	{d}dam-gal-nun-na	Damgalnunak	DN	{d}dam-gal-nun-na-ra	1	sux	N1=Damgalnunak.N5=ra	N1=NAME.N5=DAT-H	Damgalnunak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q004253.15
+1	inim	inim	inim	N	inim	word	sux	N1=inim	N1=STEM	inim	N	word	_	_	_	_	_	_	_
+2	šag₄-ga-na	šag₄	šag	N	šag₄-ga-na\gen\abs	heart	sux	N1=šag.N3=ani.N5=ak.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=ABS	šag.ani.ak.ø	N	heart, inner body	_	_	_	_	_	_	_
+3	in-na-dug₄-ga	dug₄	dug	V/t	in-na-dug₄-ga	speak	sux	V2=i.V6=nn.V7=a.V11=n.V12=dug.V14=ø.V15='a	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB	i.nn.a.n.dug.ø.'a	V/t	speak	_	_	_	_	_	_	_
+
+# Q004253.16
+1	in-na-ŋen-na	ŋen	ŋen	V/i	in-na-ŋen-na\v14sg3\l1	go	sux	V2=i.V6=nn.V7=a.V12=ŋen.V14=ø.V15='a.N5='a	V2=FIN.V6=3-SG-H.V7=DAT.V12=STEM.V14=3-SG-S.V15=SUB.V15=L1	i.nn.a.ŋen.ø.'a.'a	V/i	go, walk	_	_	_	_	_	_	_
+
+# Q004253.17
+1	ud-ba	ud	ud	N	ud-ba	sun	sux	N1=ud.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	ud.bi.'a	N	day, sun	_	_	_	_	_	_	_
+2	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)-ke₄	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)	Urimmak	PN	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)-ke₄	1	sux	N1=Urimmak.N5=e	N1=NAME.N5=ERG	Urimmak.e	PN	1	_	_	_	_	_	_	_
+
+# Q004253.18
+1	uš-bi	uš	uš	N	uš-bi	foundation	sux	N1=uš.N3=bi	N1=STEM.N3=3-SG-NH-POSS	uš.bi	N	foundation	_	_	_	_	_	_	_
+2	6(diš)	_	_	_	6(diš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+3	kuš₃	kuš₃	kuš	N	kuš₃	unit	sux	N1=kuš	N1=STEM	kuš	N	unit	_	_	_	_	_	_	_
+4	1(diš)	_	_	_	1(diš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+5	zapah	zapah	zapah	N	zapah\abs	span	sux	N1=zapah.N5=ø	N1=STEM.N5=ABS	zapah.ø	N	span, half-cubit	_	_	_	_	_	_	_
+
+# Q004253.19
+1	ki-ta	ki	ki	N	ki-ta	place	sux	N1=ki.N5=ta	N1=STEM.N5=ABL	ki.ta	N	place	_	_	_	_	_	_	_
+2	im-ta-e₃	e₃	e	V/i	im-ta-e₃	leave	sux	V2=i.V4=m.V5=b.V9=ta.V11=n.V12=e.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V9=ABL.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.m.b.ta.n.e.ø	V/i	to leave, go out	_	_	_	_	_	_	_
+
+# Q004253.20
+1	nu-eš₃	nu-eš₃	nu’ešak	N	nu-eš₃	priest	sux	N1=nueš	N1=STEM	nueš	N	a priest	_	_	_	_	_	_	_
+
+# Q004253.21
+1	sagi	sagi	šagia	N	sagi	cup-bearer	sux	N1=šagia	N1=STEM	šagia	N	cup-bearer	_	_	_	_	_	_	_
+
+# Q004253.22
+1	arad₂	arad₂	arad	N	arad₂	slave	sux	N1=arad	N1=STEM	arad	N	slave, servant	_	_	_	_	_	_	_
+2	geme₂	geme₂	geme	N	geme₂\abs	worker	sux	N1=geme.N5=ø	N1=STEM.N5=ABS	geme.ø	N	female worker	_	_	_	_	_	_	_
+3	e₂-e	e₂	e	N	e₂-e\n5edat	house	sux	N1=e.N5=e	N1=STEM.N5=DAT-NH	e.e	N	house, temple	_	_	_	_	_	_	_
+4	ba-šum₂	šum₂	šum	V/t	ba-šum₂	give	sux	V5=b.V7=a.V11=n.V12=šum.V14=ø	V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.a.n.šum.ø	V/t	give	_	_	_	_	_	_	_
+
+# Q004253.23
+1	{d}dam-gal-nun-na-ke₄	{d}dam-gal-nun-na	Damgalnunak	DN	{d}dam-gal-nun-na-ke₄	1	sux	N1=Damgalnunak.N5=e	N1=NAME.N5=ERG	Damgalnunak.e	DN	1	_	_	_	_	_	_	_
+
+# Q004253.24
+1	bar-bi-a	bar	bar	PRP	bar-bi-a	outside	sux	N1=bar.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L1	bar.bi.'a	N	because (bar NP=GEN=L1/TERM)	_	_	_	_	_	_	_
+
+# Q004253.25
+1	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)-ra	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)	Urimmak	PN	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)-ra\n5ral2	1	sux	N1=Urimmak.N5=ra	N1=NAME.N5=L2-H	Urimmak.ra	PN	1	_	_	_	_	_	_	_
+
+# Q004253.26
+1	nam	nam	nam	N	nam	fate	sux	N1=nam	N1=STEM	nam	N	fate	_	_	_	_	_	_	_
+2	dug₃	dug₃	dug	V/i	dug₃\abs	good	sux	NV2=dug.N5=ø	NV2=STEM.N5=ABS	dug.ø	V/i	good	_	_	_	_	_	_	_
+3	mu-ni-in-tar	tar	tar	V/t	mu-ni-in-tar	cut	sux	V4=mu.V6=nn.V10=i.V11=n.V12=tar.V14=ø	V4=VEN.V6=3-SG-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.i.n.tar.ø	V/t	cut	_	_	_	_	_	_	_
+
+# Q004253.27
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+2	ama-na	ama	ama	N	ama-na	mother	sux	N1=ama.N3=ani.N5=ak	N1=STEM.N3=3-SG-H-POSS.N5=GEN	ama.ani.ak	N	mother	_	_	_	_	_	_	_
+
+# Q004253.28
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+2	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+3	dumu-na	dumu	dumu	N	dumu-na	child	sux	N1=dumu.N3=ani.N5=ak	N1=STEM.N3=3-SG-H-POSS.N5=GEN	dumu.ani.ak	N	child	_	_	_	_	_	_	_
+
+# Q004253.29
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+2	šeš-a-ne-ne	šeš	šeš	N	šeš-a-ne-ne\abs	brother	sux	N1=šeš.N3=ani.N4=enee.N5=ø	N1=STEM.N3=3-SG-H-POSS.N4=PL.N5=ABS	šeš.ani.enee.ø	N	brother	_	_	_	_	_	_	_
+
+# Q004253.30
+1	al	al	al	N	al\abs	cvne	sux	N1=al.N5=ø	N1=STEM.N5=ABS	al.ø	N	(compound verb nominal element)	_	_	al dug	desire	desire	V/t	V/t
+2	im-ma-na-dug₄	dug₄	dug	V/t	im-ma-na-dug₄	speak	sux	V2=i.V4=m.V5=ba.V6=nn.V7=a.V11=n.V12=dug.V14=ø	V2=FIN.V4=VEN.V5=MID.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.m.ba.nn.a.n.dug.ø	V/t	speak	1	mwe	_	_	_	_	_
+
+# Q004253.31
+1	{d}dam-gal-nun-na	{d}dam-gal-nun-na	Damgalnunak	DN	{d}dam-gal-nun-na\abs	1	sux	N1=Damgalnunak.N5=ø	N1=NAME.N5=ABS	Damgalnunak.ø	DN	1	_	_	_	_	_	_	_
+
+# Q004253.32
+1	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)-ra	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)	Urimmak	PN	ur-{d}immaₓ(|LAGAB×SIG₇.ME|)-ra	1	sux	N1=Urimmak.N5=ra	N1=NAME.N5=DAT-H	Urimmak.ra	PN	1	_	_	_	_	_	_	_
+
+# Q004253.33
+1	mu-na-gub	gub	gub	V/i	mu-na-gub\v14sg3s	stand	sux	V4=mu.V6=nn.V7=a.V12=gub.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V12=gub.V14=3-SG-S	mu.nn.a.gub.ø	V/i	stand	_	_	_	_	_	_	_
+

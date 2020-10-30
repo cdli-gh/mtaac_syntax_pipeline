@@ -1,0 +1,27 @@
+# project: etcsri 
+# textid: Q004881 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004881.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004881.2
+1	{na₄}x	_	_	_	{na₄}x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q004881.3
+1	mu-ba-al	ba-al	bal	V/t	mu-ba-al	dig	sux	V4=mu.V11=n.V12=bal.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.bal.ø	V/t	dig	_	_	_	_	_	_	_
+
+# Q004881.4
+1	šita₂	šita₂	šita	N	šita₂	weapon	sux	N1=šita	N1=STEM	šita	N	weapon	_	_	_	_	_	_	_
+2	saŋ	saŋ	saŋ	N	saŋ	head	sux	N1=saŋ	N1=STEM	saŋ	N	head	_	_	_	_	_	_	_
+3	eš₅	eš₅	eš	NU	eš₅\abs	three	sux	NV2=eš.N5=ø	NV2=STEM.N5=ABS	eš.ø	NU	three	_	_	_	_	_	_	_
+
+# Q004881.5
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

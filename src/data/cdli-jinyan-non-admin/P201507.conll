@@ -1,0 +1,21 @@
+#new_text=P201507
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+a.1.1	{d}erisz-ki-gal	Eriszkigal[1]	DN	_	_	_
+a.2.1	nin	nin[lady]	N	_	_	_
+a.2.2	ki	ki[place]	N	_	_	_
+a.2.3	u4-szu4-ra	utuszusz[sunset][-ak][-ak]-ra	N.GEN.GEN.DAT	_	_	_
+a.3.1	lu2-{d}utu	Lu'utu[1]	PN	_	_	_
+a.4.1	ensi2	ensik[ruler]	N	_	_	_
+a.5.1	umma{ki}-ke4	Umma[1]-ak-e	SN.GEN.ERG	_	_	_
+a.6.1	nam-ti-la-ni-sze3	namtil[life]-ani-sze	N.3-SG-H-POSS.TERM	_	_	_
+a.7.1	ki	ki[place]	N	_	_	_
+a.7.2	{d}utu-e3	utu'e[sunrise][-ak]	N.GEN	_	_	_
+a.8.1	ki	ki[place]	N	_	_	_
+a.8.2	nam-tar-re-da	namtar[decree_fate]-ed-'a	NF.V.PF.L1	_	_	_
+a.9.1	e2	e[house]	N	_	_	_
+a.9.2	mu-na-du3	mu-nn-a[-n]-du[build][-ø]	VEN.3-SG-H.DAT.3-SG-H-A.V.3-SG-P	_	_	_
+a.10.1	gaba-ba-a	gaba[chest]-bi-'a	N.3-SG-NH-POSS.L1	_	_	_
+a.10.2	bi2-in-zi	b-i-n-zi[raise][-ø]	3-SG-NH.L3.3-SG-H-A.V.3-SG-P	_	_	_
+a.11.1	mu-bi	mu[name]-bi[-ø]	N.3-SG-NH-POSS.ABS	_	_	_
+a.11.2	pa	pa[branch]	N	_	_	_
+a.11.3	bi2-in-e3	b-i-n-e[cause_to_appear][-ø]	3-SG-NH.L3.3-SG-H-A.V.3-SG-P	_	_	_

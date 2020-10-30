@@ -1,0 +1,44 @@
+# project: etcsri 
+# textid: Q004868 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004868.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004868.2
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	1	mwe	_	_	_	_	_
+
+# Q004868.3
+1	{d}šul-šag₄-ga-na-ka	{d}šul-šag₄-ga-na	Šulšaganak	DN	{d}šul-šag₄-ga-na-ka	1	sux	N1=Šulšaganak.N5=ak	N1=NAME.N5=GEN	Šulšaganak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q004868.4
+1	ŋiškim-til₃	ŋiškim-til₃	ŋiškimti	N	ŋiškim-til₃	trust	sux	N1=ŋiškimti	N1=STEM	ŋiškimti	N	trust, aid	_	_	_	_	_	_	_
+
+# Q004868.5
+1	{d}ig-alim-ma	{d}ig-alim	Igalimak	DN	{d}ig-alim-ma\gen	1	sux	N1=Igalimak.N5=ak	N1=NAME.N5=GEN	Igalimak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q004868.6
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	inim-ma	inim	inim	N	inim-ma\n5al2	word	sux	N1=inim.N5='a	N1=STEM.N5=L2-NH	inim.'a	N	word	_	_	_	_	_	_	_
+3	sig₁₀-ga	sig₁₀	sig	V/t	sig₁₀-ga	put	sux	NV2=sig.NV4='a	NV2=STEM.NV4=SUB	sig.'a	V/t	put	_	_	_	_	_	_	_
+
+# Q004868.7
+1	{d}nin-dar	{d}nin-dar	Nindara	DN	{d}nin-dar\gen	1	sux	N1=Nindara.N5=ak	N1=NAME.N5=GEN	Nindara.ak	DN	1	_	_	_	_	_	_	_
+
+# Q004868.8
+1	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	mu pad	nominate	to nominate, to proclaim one's name publicly	V/t	V/t
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	1	mwe	_	_	_	_	_
+
+# Q004868.9
+1	{d}hendur-saŋ-ka	{d}hendur-saŋ	Hendursaŋak	DN	{d}hendur-saŋ-ka	1	sux	N1=Hendursaŋak.N5=ak	N1=NAME.N5=GEN	Hendursaŋak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q004868.10
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	tud-da	tud	utud	V/t	tud-da	bear	sux	NV2=utud.NV4='a	NV2=STEM.NV4=SUB	utud.'a	V/t	bear	_	_	_	_	_	_	_
+

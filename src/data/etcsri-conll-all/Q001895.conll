@@ -1,0 +1,35 @@
+# project: etcsri 
+# textid: Q001895 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001895.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001895.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001895.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q001895.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba-ke₄	limmu₂	limmu	NU	limmu₂-ba-ke₄	four	sux	NV2=limmu.N3=bi.N5=ak.N5=e	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	limmu.bi.ak.e	NU	four
+
+# Q001895.5
+1	x	_	_	_	x	_	sux	_	_	_	X	_
+2	ma-na	ma-na	mana	N	ma-na\abs	unit	sux	N1=mana.N5=ø	N1=STEM.N5=ABS	mana.ø	N	a unit of weight
+
+# Q001895.6
+1	e₂-kišib-ba-{d}nanna-a-ŋar-ra	e₂-kišib-ba-{d}nanna-a-ŋar-ra	Ekišibanannaaŋara	TN	e₂-kišib-ba-{d}nanna-a-ŋar-ra\l1	1	sux	N1=Ekišibanannaaŋara.N5='a	N1=NAME.N5=L1	Ekišibanannaaŋara.'a	TN	1
+
+# Q001895.7
+1	mu-na-ge-en₆	ge-en₆	gin	V/t	mu-na-ge-en₆	establish	sux	V4=mu.V6=nn.V7=a.V11=n.V12=gin.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=gin.V14=3-SG-P	mu.nn.a.n.gin.ø	V/i	establish, confirm, make firm
+

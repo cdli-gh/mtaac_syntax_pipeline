@@ -1,0 +1,31 @@
+# project: etcsri 
+# textid: Q001270 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001270.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001270.1
+1	{d}inana	{d}inana	Inanak	DN	{d}inana\dat	1	sux	N1=Inanak.N5=ra	N1=NAME.N5=DAT-H	Inanak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001270.2
+1	gan-{d}utu	gan-{d}utu	Ganutuk	PN	gan-{d}utu	2	sux	N1=Ganutuk	N1=NAME	Ganutuk	PN	2	_	_	_	_	_	_	_
+
+# Q001270.3
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+
+# Q001270.4
+1	pa₄-a₂-nu-kuš₂	pa₄-a₂-nu-kuš₂	Paanukuš	PN	pa₄-a₂-nu-kuš₂	1	sux	N1=Paanukuš	N1=NAME	Paanukuš	PN	1	_	_	_	_	_	_	_
+
+# Q001270.5
+1	x-IL	_	_	_	x-IL	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001270.6
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-ru	ru	ru	V/t	mu-ru\dat	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

@@ -1,0 +1,27 @@
+# project: etcsri 
+# textid: Q001167 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001167.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001167.1
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1
+2	e₂-gi₄-a	e₂-gi₄-a	egia	N	e₂-gi₄-a	bride	sux	N1=egia	N1=STEM	egia	N	bride
+3	eridug{ki}-ga	eridug{ki}	Eridug	SN	eridug{ki}-ga\abs	1	sux	N1=Eridug.N5=ak.N5=ø	N1=Eridug.N5=GEN.N5=ABS	Eridug.ak.ø	SN	1
+
+# Q001167.2
+1	iri-ka-gen₆-na-ra	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na-ra	1	sux	N1=Irikaginak.N5=ra	N1=NAME.N5=DAT-H	Irikaginak.ra	RN	Ruler of Lagaš
+
+# Q001167.3
+1	igi-še₃	igi	igi	N	igi-še₃	face	sux	N1=igi.N5=še	N1=STEM.N5=TERM	igi.še	N	face
+2	mu-na-ŋen	ŋen	ŋen	V/i	mu-na-ŋen\v14sg3s	go	sux	V4=mu.V6=nn.V7=a.V12=ŋen.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V12=STEM.V14=3-SG-S	mu.nn.a.ŋen.ø	V/i	go, walk
+
+# Q001167.4
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name
+

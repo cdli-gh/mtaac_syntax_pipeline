@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001593 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001593.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001593.1
+1	{d}lama-tar-sir₂-sir₂-ra	{d}lama-tar-sir₂-sir₂-ra	Lamatarsirsirak	DN	{d}lama-tar-sir₂-sir₂-ra	1	sux	N1=Lamatarsirsirak	N1=NAME	Lamatarsirsirak	DN	1
+
+# Q001593.2
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1
+2	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady
+

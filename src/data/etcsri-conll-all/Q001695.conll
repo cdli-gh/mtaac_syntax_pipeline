@@ -1,0 +1,40 @@
+# project: etcsri 
+# textid: Q001695 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001695.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001695.2
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+3	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+4	aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni\abs	measure	sux	NV2=aŋ.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	aŋ.ani.ø	V/t	measure	3	mwe	_	_	_	_	_
+
+# Q001695.3
+1	mu-na-du₃-a	du₃	du	V/t	mu-na-du₃-a\l1	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.du.ø.'a.'a	V/t	to build	_	_	_	_	_	_	_
+
+# Q001695.4
+1	|BAD₃.AN.KI|	|BAD₃.AN.KI|	Der	SN	|BAD₃.AN.KI|	1	sux	N1=Der	N1=NAME	Der	SN	1	_	_	_	_	_	_	_
+
+# Q001695.5
+1	iri	iri	iri	N	iri	city	sux	N1=iri	N1=STEM	iri	N	city	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni\abs	measure	sux	NV2=aŋ.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	aŋ.ani.ø	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001695.6
+1	ki-be₂	ki	ki	N	ki-be₂\n5el3	place	sux	N1=ki.N3=bi.N5=e	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	ki.bi.e	N	place	_	_	_	_	_	_	_
+2	mu-na-gi₄-a	gi₄	gi	V/i	mu-na-gi₄-a\l1	turn	sux	V4=mu.V6=nn.V7=a.V11=n.V12=gi.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.gi.ø.'a.'a	V/i	turn	_	_	_	_	_	_	_
+
+# Q001695.7
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q001695.8
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

@@ -1,0 +1,29 @@
+# project: etcsri 
+# textid: Q000886 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000886.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q000886.1
+1	en-an-ne₂-pad₃-da	en-an-ne₂-pad₃-da	Enanepada	PN	en-an-ne₂-pad₃-da	1	sux	N1=Enanepada	N1=NAME	Enanepada	PN	1
+
+# Q000886.2
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen	1	sux	N1=Nanna.N5=ak	N1=NAME.N5=GEN	Nanna.ak	DN	1
+
+# Q000886.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ur-{d}ba-u₂	ur-{d}ba-u₂	Urbauk	RN	ur-{d}ba-u₂	1	sux	N1=Urbauk	N1=NAME	Urbauk	RN	Ruler of Lagaš
+
+# Q000886.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q000886.5
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+

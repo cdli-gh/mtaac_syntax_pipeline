@@ -1,0 +1,42 @@
+# project: etcsri 
+# textid: Q001903 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001903.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001903.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001903.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma-ka-še₃	urim₅{ki}	Urim	SN	urim₅{ki}-ma-ka-še₃	1	sux	N1=Urim.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Urim.ak.ak.še	SN	1	_	_	_	_	_	_	_
+
+# Q001903.4
+1	me-nam-nin-a	me-nam-nin-a	Menamnina	PN	me-nam-nin-a	1	sux	N1=Menamnina	N1=NAME	Menamnina	PN	1	_	_	_	_	_	_	_
+
+# Q001903.5
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+2	|GA.NI|-ke₄	|GA.NI|	GA.NI	PN	|GA.NI|-ke₄	1	sux	N1=GA.NI.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	GA.ak.e	PN	1	_	_	_	_	_	_	_
+
+# Q001903.6
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+
+# Q001903.7
+1	bur-ba	bur	bur	N	bur-ba\dem2	bowl	sux	N1=bur.N3=bi.N5=ak	N1=STEM.N3=DEM2.N5=GEN	bur.bi.ak	N	bowl	_	_	_	_	_	_	_
+2	nin-ŋu₁₀	nin	nin	N	nin-ŋu₁₀\erg	lady	sux	N1=nin.N3=ŋu.N5=e	N1=STEM.N3=1-SG-POSS.N5=ERG	nin.ŋu.e	N	lady	_	_	_	_	_	_	_
+
+# Q001903.8
+1	en₃-ŋu₁₀	en₃	en	N	en₃-ŋu₁₀\abs	cvne	sux	N1=en.N3=ŋu.N5=ø	N1=STEM.N3=1-SG-POSS.N5=ABS	en.ŋu.ø	N	(compound verb nominal element)	_	_	en tar	ask	ask	V/t	V/t
+2	he₂-tar	tar	tar	V/t	he₂-tar	cut	sux	V1=ha.V2=i.V11=n.V12=tar.V14=ø	V1=MOD1.V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ha.i.n.tar.ø	V/t	cut	1	mwe	_	_	_	_	_
+
+# Q001903.9
+1	mu-bi-im	mu	mu	N	mu-bi-im	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name	_	_	_	_	_	_	_
+

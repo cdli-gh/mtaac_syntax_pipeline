@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q000992 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000992.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q000992.1
+1	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂	1	sux	N1=Enlil	N1=NAME	Enlil	DN	1
+
+# Q000992.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kur-kur-ra	kur-kur	kur	N	kur-kur-ra	mountain	sux	N1=kurkur.N5=ak	N1=STEM-RDP.N5=GEN	kurkur.ak	N	land
+
+# Q000992.3
+1	lugal-a-ni-ir	lugal	lugal	N	lugal-a-ni-ir	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king
+

@@ -1,0 +1,34 @@
+# project: etcsri 
+# textid: Q004346 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004346.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004346.1
+1	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+
+# Q004346.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q004346.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\gen\abs	1	sux	N1=Urim.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Urim.ak.ak.ø	SN	1
+
+# Q004346.4
+1	ur-niŋar{ŋar}	ur-niŋar{ŋar}	Urniŋar	PN	ur-niŋar{ŋar}	4	sux	N1=Urniŋar	N1=NAME	Urniŋar	PN	4
+
+# Q004346.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ti-ru	ti-ru	Tiru	PN	ti-ru	1	sux	N1=Tiru	N1=NAME	Tiru	PN	1
+
+# Q004346.6
+1	muhaldim	muhaldim	muhaldim	N	muhaldim\gen\abs	cook	sux	N1=muhaldim.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	muhaldim.ak.ø	N	cook
+2	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

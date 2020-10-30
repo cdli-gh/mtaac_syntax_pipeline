@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q004331 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004331.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004331.1
+1	šu-{d}iškur	šu-{d}iškur	Šuiškur	PN	šu-{d}iškur	2	sux	N1=Šuiškur	N1=NAME	Šuiškur	PN	2
+
+# Q004331.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ha-la-aš-ka	ha-la-aš-ka	Halaška	PN	ha-la-aš-ka\gen	1	sux	N1=Halaška.N5=ak	N1=NAME.N5=GEN	Halaška.ak	PN	1
+
+# Q004331.3
+1	gudu₄	gudu₄	gudug	N	gudu₄	priest	sux	N1=gudug	N1=STEM	gudug	N	a priest
+2	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi\gen\abs	1	sux	N1=Šulgir.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šulgir.ak.ø	RN	2nd king of the 3rd dynasty of Urim
+

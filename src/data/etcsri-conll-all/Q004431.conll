@@ -1,0 +1,35 @@
+# project: etcsri 
+# textid: Q004431 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004431.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004431.1
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim
+
+# Q004431.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q004431.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma-ke₄	urim₅{ki}	Urim	SN	urim₅{ki}-ma-ke₄	1	sux	N1=Urim.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Urim.ak.e	SN	1
+
+# Q004431.4
+1	{d}nin-lil₂-zi-ŋu₁₀	{d}nin-lil₂-zi-ŋu₁₀	Ninlilziŋu	PN	{d}nin-lil₂-zi-ŋu₁₀	1	sux	N1=Ninlilziŋu	N1=NAME	Ninlilziŋu	PN	1
+
+# Q004431.5
+1	zabar-dab₅	zabar-dab₅	zabardab	N	zabar-dab₅	official	sux	N1=zabardab	N1=STEM	zabardab	N	an official
+
+# Q004431.6
+1	arad₂-da-ni-ir	arad₂	arad	N	arad₂-da-ni-ir	slave	sux	N1=arad.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT.H	arad.ani.ra	N	slave, servant
+
+# Q004431.7
+1	in-na-ba	ba	ba	V/t	in-na-ba	allot	sux	V2=i.V6=nn.V7=a.V11=n.V12=ba.V14=ø	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.a.n.ba.ø	V/t	allot
+

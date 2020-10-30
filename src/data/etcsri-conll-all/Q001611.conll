@@ -1,0 +1,42 @@
+# project: etcsri 
+# textid: Q001611 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001611.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001611.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001611.3
+1	lagaš{ki}-ka-še₃	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-še₃	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Lagaš.ak.ak.še	SN	1	_	_	_	_	_	_	_
+
+# Q001611.4
+1	ur-{d}ba-u₂	ur-{d}ba-u₂	Urbauk	PN	ur-{d}ba-u₂	3	sux	N1=Urbauk	N1=NAME	Urbauk	PN	Son of Šeššeš	_	_	_	_	_	_	_
+
+# Q001611.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	šeš-šeš	šeš-šeš	Šeššeš	PN	šeš-šeš	1	sux	N1=Šeššeš	N1=NAME	Šeššeš	PN	1	_	_	_	_	_	_	_
+3	dam-gar₃-ke₄	dam-gar₃	damgar	N	dam-gar₃-ke₄	merchant	sux	N1=damgar.N5=ak.N5=e	N1=STEM.N5=GEN.N5=ERG	damgar.ak.e	N	merchant	_	_	_	_	_	_	_
+
+# Q001611.6
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+
+# Q001611.7
+1	na₄	na₄	na	N	na₄\gen	stone	sux	N1=na.N5=ak	N1=STEM.N5=GEN	na.ak	N	stone	_	_	_	_	_	_	_
+2	diŋir-ŋu₁₀	diŋir	diŋir	N	diŋir-ŋu₁₀\abs	deity	sux	N1=diŋir.N3=ŋu.N5=ø	N1=STEM.N3=1-SG-POSS.N5=ABS	diŋir.ŋu.ø	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001611.8
+1	til₃	til₃	til	V/i	til₃\n5edat	live	sux	NV2=til.N5=e	NV2=STEM.N5=DAT-NH	til.e	V/i	live	_	_	_	_	_	_	_
+2	al	al	al	N	al\abs	hoe	sux	N1=al.N5=ø	N1=STEM.N5=ABS	al.ø	N	hoe	_	_	_	_	_	_	_
+3	ba-ni-dug₄	dug₄	dug	V/t	ba-ni-dug₄	speak	sux	V5=b.V7=a.V10=ni.V11=n.V12=dug.V14=ø	V5=3-NH.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.a.ni.n.dug.ø	V/t	speak	_	_	_	_	_	_	_
+
+# Q001611.9
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name	_	_	_	_	_	_	_
+

@@ -1,0 +1,30 @@
+# project: etcsri 
+# textid: Q004874 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004874.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004874.2
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+
+# Q004874.3
+1	bur-ba	bur	bur	N	bur-ba\dem2	bowl	sux	N1=bur.N3=bi.N5=ak	N1=STEM.N3=DEM2.N5=GEN	bur.bi.ak	N	bowl	_	_	_	_	_	_	_
+
+# Q004874.4
+1	lugal-ŋu₁₀	lugal	lugal	N	lugal-ŋu₁₀\erg	king	sux	N1=lugal.N3=ŋu.N5=e	N1=STEM.N3=1-SG-POSS.N5=ERG	lugal.ŋu.e	N	king	_	_	_	_	_	_	_
+
+# Q004874.5
+1	igi	igi	igi	N	igi	eye	sux	N1=igi	N1=STEM	igi	N	eye	_	_	_	_	_	_	_
+2	dug₃	dug₃	dug	V/i	dug₃\abs	good	sux	NV2=dug.N5=ø	NV2=STEM.N5=ABS	dug.ø	V/i	good	_	_	_	_	_	_	_
+3	ha-mu-du₈	du₈	duh	V/t	ha-mu-du₈	loosen	sux	V1=ha.V4=mu.V10=e.V11=n.V12=du.V14=ø	V1=MOD1.V4=VEN.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ha.mu.e.n.du.ø	V/t	loosen, release	_	_	_	_	_	_	_
+
+# Q004874.6
+1	mu-bi-im	mu	mu	N	mu-bi-im	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name	_	_	_	_	_	_	_
+

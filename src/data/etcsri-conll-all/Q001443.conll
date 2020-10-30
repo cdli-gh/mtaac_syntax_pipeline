@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001443 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001443.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001443.1
+1	ur-{d}TUR	ur-{d}TUR	Ur-TUR	PN	ur-{d}TUR	1	sux	N1=Ur-TUR	N1=NAME	Ur-TUR	PN	1
+
+# Q001443.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+
+# Q001443.3
+1	adab{ki}	adab{ki}	Adab	SN	adab{ki}\gen\abs	1	sux	N1=Adab.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Adab.ak.ø	SN	1
+

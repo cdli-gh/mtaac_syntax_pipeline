@@ -1,0 +1,37 @@
+# project: etcsri 
+# textid: Q001331 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001331.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001331.1
+1	{d}nin-hur-saŋ	{d}nin-hur-saŋ	Ninhursaŋak	DN	{d}nin-hur-saŋ\dat	1	sux	N1=Ninhursaŋak.N5=ra	N1=NAME.N5=DAT-H	Ninhursaŋak.ra	DN	1
+
+# Q001331.2
+1	aya₂-an-ne₂-pad₃-da	aya₂-an-ne₂-pad₃-da	Ayaanepada	RN	aya₂-an-ne₂-pad₃-da	1	sux	N1=Ayaanepada	N1=NAME	Ayaanepada	RN	King of Urim
+
+# Q001331.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}	urim₅{ki}	Urim	SN	urim₅{ki}\gen	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q001331.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	meš₃-an-ne₂-pad₃-da	meš₃-an-ne₂-pad₃-da	Mešanepada	RN	meš₃-an-ne₂-pad₃-da	1	sux	N1=Mešanepada	N1=NAME	Mešanepada	RN	King of Urim
+
+# Q001331.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}	urim₅{ki}	Urim	SN	urim₅{ki}\gen\gen\erg	1	sux	N1=Urim.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Urim.ak.ak.e	SN	1
+
+# Q001331.6
+1	{d}nin-hur-saŋ-ra	{d}nin-hur-saŋ	Ninhursaŋak	DN	{d}nin-hur-saŋ-ra	1	sux	N1=Ninhursaŋak.N5=ra	N1=NAME.N5=DAT-H	Ninhursaŋak.ra	DN	1
+
+# Q001331.7
+1	e₂	e₂	e	N	e₂\abs	house	sux	N1=e.N5=ø	N=STEM.N5=ABS	e.ø	N	house, temple
+2	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q004330 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004330.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004330.1
+1	šeš-a-ni	šeš-a-ni	Šešani	PN	šeš-a-ni	1	sux	N1=Šešani	N1=NAME	Šešani	PN	1
+
+# Q004330.2
+1	gudu₄	gudu₄	gudug	N	gudu₄	priest	sux	N1=gudug	N1=STEM	gudug	N	a priest
+2	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi\gen	1	sux	N1=Šulgir.N5=ak	N1=NAME.N5=GEN	Šulgir.ak	RN	2nd king of the 3rd dynasty of Urim
+
+# Q004330.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ka-kug	ka-kug	Kakug	PN	ka-kug\gen\abs	2	sux	N1=Kakug.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Kakug.ak.ø	PN	2
+

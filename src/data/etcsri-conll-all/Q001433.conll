@@ -1,0 +1,29 @@
+# project: etcsri 
+# textid: Q001433 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001433.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001433.1
+1	mu-sar-ra	mu-sar-ra	musara	N	mu-sar-ra	inscription	sux	N1=musara	N1=STEM	musara	N	inscription
+2	ki-gal-ba	ki-gal	kigal	N	ki-gal-ba\gen\abs	platform	sux	N1=kigal.N3=bi.N5=ak.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	kigal.bi.ak.ø	N	platform, pedestal
+
+# Q001433.2
+1	mu-sar-ra	mu-sar-ra	musara	N	mu-sar-ra	inscription	sux	N1=musara	N1=STEM	musara	N	inscription
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001433.3
+1	alan-bi	alan	alan	N	alan-bi\abs	statue	sux	N1=alan.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	alan.bi.ø	N	statue
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+5	im-x-x	_	_	_	im-x-x	_	sux	_	_	_	u	_
+

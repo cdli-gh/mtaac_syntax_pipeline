@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q001716 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001716.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001716.2
+1	nin₉-kal-la	nin₉-kal-la	Ninkala	PN	nin₉-kal-la	1	sux	N1=Ninkala	N1=NAME	Ninkala	PN	1	_	_	_	_	_	_	_
+
+# Q001716.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	citizen	_	_	_	_	_	_	_
+2	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen	1	sux	N1=Nibru.N5=ak	N1=NAME.N5=GEN	Nibru.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001716.4
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂-ŋa₂-ne₂	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ne₂	measure	sux	NV2=aŋ.N3=ani.N5=e	NV2=STEM.N3=3-SG-H-POSS.N5=ERG	aŋ.ani.e	V/t	measure	1	mwe	_	_	_	_	_
+
+# Q001716.5
+1	alan-na-ni	alan	alan	N	alan-na-ni\abs	statue	sux	N1=alan.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	alan.ani.ø	N	statue	_	_	_	_	_	_	_
+
+# Q001716.6
+1	mu-dim₂	dim₂	dim	V/t	mu-dim₂	create	sux	V4=mu.V11=n.V12=dim.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.dim.ø	V/t	create	_	_	_	_	_	_	_
+
+# Q001716.7
+1	murgu	murgu	murgu	N	murgu	shoulder	sux	N1=murgu	N1=STEM	murgu	N	shoulder	_	_	_	_	_	_	_
+2	šul-gi	šul-gi	Šulgir	RN	šul-gi\gen\abs	1	sux	N1=Šulgir.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šulgir.ak.ø	RN	2nd king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+

@@ -1,0 +1,41 @@
+# project: etcsri 
+# textid: Q001458 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001458.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001458.1
+1	{d}nanna	{d}nanna	Nanna	DN	{d}nanna	1	sux	N1=Nanna	N1=NAME	Nanna	DN	1
+
+# Q001458.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	a-nun-na-ke₄-ne	a-nun-na	Anunak	DN	a-nun-na-ke₄-ne	1	sux	N1=Anunak.N4=enee.N5=ak	N1=NAME.N4=PL.N5=GEN	Anunak.enee.ak	DN	1
+
+# Q001458.3
+1	lugal-a-ni	lugal	lugal	N	lugal-a-ni\dat	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king
+
+# Q001458.4
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q001458.5
+1	{d}utu-he₂-ŋal₂	{d}utu-he₂-ŋal₂	Utuheŋal	RN	{d}utu-he₂-ŋal₂	1	sux	N1=Utuheŋal	N1=NAME	Utuheŋal	PN	King of Unug
+
+# Q001458.6
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001458.7
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1
+
+# Q001458.8
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₅-ba-ka-še₃	limmu₅	limmu	NU	limmu₅-ba-ka-še₃	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ak.N5=še	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=GEN.N5=TERM	limmu.bi.ak.ak.še	NU	four
+

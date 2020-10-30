@@ -1,0 +1,148 @@
+# project: etcsri 
+# textid: Q002192 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002192.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q002192.1
+1	{d}inana	{d}inana	Inanak	DN	{d}inana	1	sux	N1=Inanak	N1=NAME	Inanak	DN	1	_	_	_	_	_	_	_
+2	zabala₂{ki}	zabala₂{ki}	Zabala	SN	zabala₂{ki}\gen	1	sux	N1=Zabala.N5=ak	N1=NAME.N5=GEN	Zabala.ak	SN	1	_	_	_	_	_	_	_
+
+# Q002192.2
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+2	me-lem₄-ma-ni	me-lem₄	melim	N	me-lem₄-ma-ni\abs	splendor	sux	N1=melim.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	melim.ani.ø	N	frightening splendor, fearsome radiance	_	_	_	_	_	_	_
+
+# Q002192.3
+1	an	an	an	N	an	sky	sux	N1=an	N1=STEM	an	N	sky, heaven	_	_	_	_	_	_	_
+2	ki-a	ki	ki	N	ki-a\n5al2	place	sux	N1=ki.N5='a	N1=STEM.N5=L2-NH	ki.'a	N	place	_	_	_	_	_	_	_
+3	dul-la₂	dul	dul	V/i	dul-la₂	cover	sux	NV2=dul.NV4='a	NV2=STEM.NV4=SUB	dul.'a	V/i	cover	_	_	_	_	_	_	_
+
+# Q002192.4
+1	nin-a-ni-ir	nin	nin	N	nin-a-ni-ir	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q002192.5
+1	ha-am-mu-ra-pi₂	ha-am-mu-ra-pi₂	Hammurapi	RN	ha-am-mu-ra-pi₂	1	sux	N1=Hammurapi	N1=NAME	Hammurapi	RN	6th king of the 1st dynasty of Babylon	_	_	_	_	_	_	_
+
+# Q002192.6
+1	gu₃	gu₃	gu	N	gu₃\abs	voice	sux	N1=gu.N5=ø	N1=STEM.N5=ABS	gu.ø	N	voice	_	_	_	_	_	_	_
+2	de₂-a	de₂	de	V/t	de₂-a	pour	sux	NV2=de.NV4='a	NV2=STEM.NV4=SUB	de.'a	V/t	pour	_	_	_	_	_	_	_
+3	an-na	an	An	DN	an-na	1	sux	N1=An.N5=ak	N1=NAME.N5=GEN	An.ak	DN	1	_	_	_	_	_	_	_
+
+# Q002192.7
+1	{d}en-lil₂-da	{d}en-lil₂	Enlil	DN	{d}en-lil₂-da	1	sux	N1=Enlil.N5=da	N1=NAME.N5=COM	Enlil.da	DN	1	_	_	_	_	_	_	_
+2	ŋeš	ŋeš	ŋeš	N	ŋeš\abs	tree	sux	N1=ŋeš.N5=ø	N1=STEM.N5=ABS	ŋeš.ø	N	tree	_	_	_	_	_	_	_
+3	tuku	tuku	tuku	V/t	tuku	acquire	sux	NV2=tuku	NV2=STEM	tuku	V/t	to acquire, to have	_	_	_	_	_	_	_
+
+# Q002192.8
+1	še-ga	še	šeg	V/t	še-ga	agree	sux	NV2=šeg.NV4='a	NV2=STEM.NV4=SUB	šeg.'a	V/t	to agree, be in agreement, to obey	_	_	_	_	_	_	_
+2	{d}utu	{d}utu	Utu	DN	{d}utu\gen	1	sux	N1=Utu.N5=ak	N1=NAME.N5=GEN	Utu.ak	DN	1	_	_	_	_	_	_	_
+
+# Q002192.9
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd	_	_	_	_	_	_	_
+2	šag₄	šag₄	šag	N	šag₄	heart	sux	N1=šag	N1=STEM	šag	N	heart, inner body	_	_	_	_	_	_	_
+3	dug₃-dug₃	dug₃-dug₃	dug	V/i	dug₃-dug₃	good	sux	NV2=dugdug	NV2=STEM-RDP	dugdug	V/i	good	_	_	_	_	_	_	_
+
+# Q002192.10
+1	{d}marduk-ke₄	{d}marduk	Marduk	DN	{d}marduk-ke₄	1	sux	N1=Marduk.N5=e	N1=NAME.N5=ERG	Marduk.e	DN	1	_	_	_	_	_	_	_
+
+# Q002192.11
+1	nun	nun	nun	N	nun	prince	sux	N1=nun	N1=STEM	nun	N	prince, (as attribute) foremost, best	_	_	_	_	_	_	_
+2	šag₄	šag₄	šag	N	šag₄	heart	sux	N1=šag	N1=STEM	šag	N	heart, inner body	_	_	_	_	_	_	_
+3	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+4	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	3	mwe	_	_	_	_	_
+
+# Q002192.12
+1	{d}inana-ke₄	{d}inana	Inanak	DN	{d}inana-ke₄	1	sux	N1=Inanak.N5=e	N1=NAME.N5=ERG	Inanak.e	DN	1	_	_	_	_	_	_	_
+
+# Q002192.13
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q002192.14
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	|KAN₄.DIŊIR.RA|{ki}	|KAN₄.DIŊIR.RA|{ki}	Babylon	SN	|KAN₄.DIŊIR.RA|{ki}\gen	1	sux	N1=Babylon.N5=ak	N1=NAME.N5=GEN	Babylon.ak	SN	1	_	_	_	_	_	_	_
+
+# Q002192.15
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri	ki-uri	Akkad	GN	ki-uri\gen	1	sux	N1=Akkad.N5=ak	N1=NAME.N5=GEN	Akkad.ak	GN	1	_	_	_	_	_	_	_
+
+# Q002192.16
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₂-ba-ke₄	limmu₂	limmu	NU	limmu₂-ba-ke₄	four	sux	NV2=limmu.N3=bi.N5=ak.N5=e	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	limmu.bi.ak.e	NU	four	_	_	_	_	_	_	_
+
+# Q002192.17
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	barag-barag	barag	barag	N	barag-barag	dais	sux	N1=baragbarag	N1=STEM-RDP	baragbarag	N	dais	_	_	_	_	_	_	_
+
+# Q002192.18
+1	diŋir	diŋir	diŋir	N	diŋir	deity	sux	N1=diŋir	N1=STEM	diŋir	N	deity, personal god	_	_	_	_	_	_	_
+2	gal-gal-e-ne	gal-gal	gal	V/i	gal-gal-e-ne\abs	big	sux	NV2=galgal.N4=enee.N5=ak.N5=ø	NV2=STEM-RDP.N4=PL.N5=GEN.N5=ABS-OB	galgal.enee.ak.ø	V/i	(to be) big, great	_	_	_	_	_	_	_
+
+# Q002192.19
+1	šu	šu	šu	N	šu	hand	sux	N1=šu	N1=STEM	šu	N	hand	_	_	_	_	_	_	_
+2	gibil	gibil	gibil	V/i	gibil\abs	new	sux	NV2=gibil.N5=ø	NV2=STEM.N5=ABS	gibil.ø	V/i	new	_	_	_	_	_	_	_
+
+# Q002192.20
+1	bi₂-in-ak-a	ak	ak	V/t	bi₂-in-ak-a\v10l3	do	sux	V5=b.V10=i.V11=n.V12=ak.V14=ø.V15='a.N5=e	V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ERG	b.i.n.ak.ø.'a.e	V/t	do	_	_	_	_	_	_	_
+
+# Q002192.21
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	{d}inana	{d}inana	Inanak	DN	{d}inana	1	sux	N1=Inanak	N1=NAME	Inanak	DN	1	_	_	_	_	_	_	_
+
+# Q002192.22
+1	ŋiškim	ŋiškim	ŋiškim	N	ŋiškim\abs	sign	sux	N1=ŋiškim.N5=ø	N1=STEM.N5=ABS	ŋiškim.ø	N	sign, omen, trust, aid	_	_	_	_	_	_	_
+2	sag₉-ga-ne₂	sag₉	sag	V/i	sag₉-ga-ne₂	good	sux	NV2=sag.N3=ani.N5=e	NV2=STEM.N3=3-SG-H-POSS.N5=ERG	sag.ani.e	V/i	(to be) good	_	_	_	_	_	_	_
+
+# Q002192.23
+1	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+2	ki-uri	ki-uri	Akkad	GN	ki-uri\gen	1	sux	N1=Akkad.N5=ak	N1=NAME.N5=GEN	Akkad.ak	GN	1	_	_	_	_	_	_	_
+
+# Q002192.24
+1	nam-en-bi	nam-en	namen	N	nam-en-bi\abs	lordship	sux	N1=namen.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	namen.bi.ø	N	lordship, the status of being lord	_	_	_	_	_	_	_
+2	ak-de₃	ak	ak	V/t	ak-de₃	do	sux	NV2=ak.NV3=ed.N5=e	NV2=STEM.NV3=PF.N5=DAT-NH	ak.ed.e	V/t	do	_	_	_	_	_	_	_
+
+# Q002192.25
+1	mu-na-an-šum₂-ma-ta	šum₂	šum	V/t	mu-na-an-šum₂-ma-ta	give	sux	V4=mu.V6=nn.V7=a.V11=n.V12=šum.V14=ø.V15='a.N5=ta	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ABL	mu.nn.a.n.šum.ø.'a.ta	V/t	give	_	_	_	_	_	_	_
+
+# Q002192.26
+1	eš₂-giri₁₇-bi	eš₂-giri₁₇	eškiri	N	eš₂-giri₁₇-bi\abs	rope	sux	N1=eškiri.N3=bi.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	eškiri.bi.ø	N	nose-rope, tether	_	_	_	_	_	_	_
+
+# Q002192.27
+1	šu-ni-še₃	šu	šu	N	šu-ni-še₃	hand	sux	N1=šu.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	šu.ani.še	N	hand	_	_	_	_	_	_	_
+
+# Q002192.28
+1	bi₂-in-si-a	si	si	V/t	bi₂-in-si-a\v10l3\l1	fill	sux	V5=b.V10=i.V11=n.V12=si.V14=ø.V15='a.N5='a	V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	b.i.n.si.ø.'a.'a	V/t	fill	_	_	_	_	_	_	_
+
+# Q002192.29
+1	{d}inana	{d}inana	Inanak	DN	{d}inana	1	sux	N1=Inanak	N1=NAME	Inanak	DN	1	_	_	_	_	_	_	_
+
+# Q002192.30
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂-ŋa₂-ni-ir	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni-ir	measure	sux	NV2=aŋ.N3=ani.N5=ra	NV2=STEM.N3=3-SG-H-POSS.N5=DAT-H	aŋ.ani.ra	V/t	measure	1	mwe	_	_	_	_	_
+
+# Q002192.31
+1	zabala₂{ki}	zabala₂{ki}	Zabala	SN	zabala₂{ki}\l1	1	sux	N1=Zabala.N5='a	N1=NAME.N5=L1	Zabala.'a	SN	1	_	_	_	_	_	_	_
+
+# Q002192.32
+1	iri	iri	iri	N	iri	city	sux	N1=iri	N1=STEM	iri	N	city	_	_	_	_	_	_	_
+2	nam-nin-a-ka-na	nam-nin	namnin	N	nam-nin-a-ka-na	ladyship	sux	N1=namnin.N5=ak.N3=ani.N5='a	N1=STEM.N5=ak.N3=3-SG-H-POSS.N5=L1	namnin.ak.ani.'a	N	ladyship	_	_	_	_	_	_	_
+
+# Q002192.33
+1	e₂-zi-kalam-ma	e₂-zi-kalam-ma	Ezikalama	TN	e₂-zi-kalam-ma	1	sux	N1=Ezikalama	N1=NAME	Ezikalama	TN	1	_	_	_	_	_	_	_
+
+# Q002192.34
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni\abs	measure	sux	NV2=aŋ.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	aŋ.ani.ø	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q002192.35
+1	mu-na-ni-in-du₃	du₃	du	V/t	mu-na-ni-in-du₃	build	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

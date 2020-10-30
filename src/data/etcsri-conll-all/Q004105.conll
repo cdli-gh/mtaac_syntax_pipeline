@@ -1,0 +1,57 @@
+# project: etcsri 
+# textid: Q004105 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004105.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004105.1
+1	barag-{d}en-lil₂-ŋar	barag-{d}en-lil₂-ŋar	Baragenlileŋara	DN	barag-{d}en-lil₂-ŋar	1	sux	N1=Baragenlileŋara	N1=NAME	Baragenlileŋara	DN	1	_	_	_	_	_	_	_
+
+# Q004105.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	adab{ki}	adab{ki}	Adab	SN	adab{ki}\gen\dat	1	sux	N1=Adab.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Adab.ak.ra	SN	1	_	_	_	_	_	_	_
+
+# Q004105.3
+1	e₂-zi-šag₄-ŋal₂	e₂-zi-šag₄-ŋal₂	Ezišagŋal	PN	e₂-zi-šag₄-ŋal₂	1	sux	N1=Ezišagŋal	N1=NAME	Ezišagŋal	PN	1	_	_	_	_	_	_	_
+
+# Q004105.4
+1	ugula	ugula	ugula	N	ugula	overseer	sux	N1=ugula	N1=STEM	ugula	N	overseer	_	_	_	_	_	_	_
+2	aga₃-us₂-sa-ke₄	aga₃-us₂	agaʾus	N	aga₃-us₂-sa-ke₄\gen\erg	soldier	sux	N1=aga'us.N5=ak.N5=e	N1=STEM.N5=GEN.N5=ERG	aga'us.ak.e	N	a soldier	_	_	_	_	_	_	_
+
+# Q004105.5
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q004105.6
+1	meš₃-ki-gal-la	meš₃-ki-gal-la	Meškigalak	RN	meš₃-ki-gal-la	1	sux	N1=Meškigala	N1=NAME	Meškigala	RN	Ruler of Adab	_	_	_	_	_	_	_
+
+# Q004105.7
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q004105.8
+1	adab{ki}-še₃	adab{ki}	Adab	SN	adab{ki}-še₃	1	sux	N1=Adab.N5=ak.N5=še	N1=NAME.N5=GEN.N5=TERM	Adab.ak.še	SN	1	_	_	_	_	_	_	_
+
+# Q004105.9
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+
+# Q004105.10
+1	meš₃-ki-gal-la	meš₃-ki-gal-la	Meškigalak	RN	meš₃-ki-gal-la	1	sux	N1=Meškigala	N1=NAME	Meškigala	RN	Ruler of Adab	_	_	_	_	_	_	_
+
+# Q004105.11
+1	ensiₓ(|GAR.PA.TE.SI|)	ensiₓ(|GAR.PA.TE.SI|)	ensik	N	ensiₓ(|GAR.PA.TE.SI|)	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q004105.12
+1	adab{ki}	adab{ki}	Adab	SN	adab{ki}\gen	1	sux	N1=Adab.N5=ak	N1=NAME.N5=GEN	Adab.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004105.13
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+3	{d}iškur	{d}iškur	Iškur	DN	{d}iškur\gen\abs	1	sux	N1=Iškur.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Iškur.ak.ø	DN	1	_	_	_	_	_	_	_
+4	du₃-a	du₃	du	V/t	du₃-a	build	sux	NV2=du.NV4='a	NV2=STEM.NV4=SUB	du.'a	V/t	to build	_	_	_	_	_	_	_
+

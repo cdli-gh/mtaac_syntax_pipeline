@@ -1,0 +1,40 @@
+# project: etcsri 
+# textid: Q001099 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001099.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001099.1
+1	{d}ŋa₂-tum₃-dug₃	{d}ŋa₂-tum₃-dug₃	Ŋatumdug	DN	{d}ŋa₂-tum₃-dug₃	1	sux	N1=Ŋatumdug	N1=NAME	Ŋatumdug	DN	1
+
+# Q001099.2
+1	ama	ama	ama	N	ama	mother	sux	N1=ama	N1=STEM	ama	N	mother
+2	lagaš{ki}-ra	lagaš{ki}	Lagaš	SN	lagaš{ki}-ra	1	sux	N1=Lagaš.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Lagaš.ak.ra	SN	1
+
+# Q001099.3
+1	en-mete-na	en-mete-na	Enmetenak	RN	en-mete-na	1	sux	N1=Enmetenak	N1=NAME	Enmetenak	RN	Ruler of Lagaš
+
+# Q001099.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001099.5
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001099.6
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+2	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+3	{d}ŋa₂-tum₃-dug₃	{d}ŋa₂-tum₃-dug₃	Ŋatumdug	DN	{d}ŋa₂-tum₃-dug₃\gen\abs	1	sux	N1=Ŋatumdug.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ŋatumdug.ak.ø	DN	1
+4	du₃-a	du₃	du	V/t	du₃-a\gen	build	sux	NV2=du.NV4='a.N5=ak	NV2=STEM.NV4=SUB.N5=GEN	du.'a.ak	V/t	to build
+
+# Q001099.7
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni\abs	deity	sux	N1=diŋir.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	diŋir.ani.ø	N	deity, personal god
+
+# Q001099.8
+1	{d}šul-|MUŠ×PA|-am₆	{d}šul-|MUŠ×PA|	Šul-MUŠ×PA	DN	{d}šul-|MUŠ×PA|-am₆	1	sux	N1=Šul-|MUŠ×PA|.N5=ø.N6=am	N1=NAME.N5=ABS.N6=COP-3-SG	Šul-|MUŠ×PA|.ø.am	DN	1
+

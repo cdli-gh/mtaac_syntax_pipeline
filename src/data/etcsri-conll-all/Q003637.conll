@@ -1,0 +1,28 @@
+# project: etcsri 
+# textid: Q003637 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003637.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003637.1
+1	{d}nin-šubur	{d}nin-šubur	Ninšubur	DN	{d}nin-šubur	1	sux	N1=Ninšubur	N1=NAME	Ninšubur	DN	1
+
+# Q003637.2
+1	sukkal	sukkal	sukkal	N	sukkal	secretary	sux	N1=sukkal	N1=STEM	sukkal	N	secretary, envoy
+2	an-ra	an	An	DN	an-ra\gen\dat	1	sux	N1=An.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	An.ak.ra	DN	1
+
+# Q003637.3
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q003637.4
+1	meš₃-ki-gal	meš₃-ki-gal	Meškigalak	RN	meš₃-ki-gal	1	sux	N1=Meškigalak	N1=NAME	Meškigalak	RN	Ruler of Adab
+
+# Q003637.5
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+

@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q001408 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001408.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001408.2
+1	šabra-e₂	šabra-e₂	šabraʾek	N	šabra-e₂	administrator	sux	N1=šabraek	N1=STEM	šabraek	N	administrator, estate administrator
+
+# Q001408.3
+1	taš₃-LUL-tum	taš₃-LUL-tum	Tašlultum	PN	taš₃-LUL-tum	1	sux	N1=Tašlultum	N1=NAME	Tašlultum	PN	Spouse of Šarrukin, king of Agade
+
+# Q001408.4
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	šar-ru-GI-ka-ke₄	šar-ru-GI	Šarrukin	RN	šar-ru-GI-ka-ke₄	1	sux	N1=Šarrukin.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Šarrukin.ak.ak.e	RN	1st king of the dynasty of Agade
+
+# Q001408.5
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+

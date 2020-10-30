@@ -1,0 +1,65 @@
+# project: etcsri 
+# textid: Q001130 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001130.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001130.2
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great
+3	ti-ra-aš₂-ka-ni	ti-ra-aš₂	Tiraš	TN	ti-ra-aš₂-ka-ni\abs	1	sux	N1=Tiraš.N5=ak.N3=ani.N5=ø	N1=NAME.N5=GEN.N3=3-SG-H-POSS.N5=ABS	Tiraš.ak.ani.ø	TN	1
+
+# Q001130.3
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+
+# Q001130.4
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	lugal-ka-ni	lugal	lugal	N	lugal-ka-ni\abs	king	sux	N1=lugal.N5=ak.N3=ani.N5=ø	N1=STEM.N5=GEN.N3=3-SG-H-POSS.N5=ABS	lugal.ak.ani.ø	N	king
+
+# Q001130.5
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+
+# Q001130.6
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂\dat	1	sux	N1=Bau.N5=ra	N1=NAME.N5=DAT-H	Bau.ra	DN	1
+
+# Q001130.8
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+
+# Q001130.9
+1	iri-ka-gen₆-na	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na	1	sux	N1=Irikaginak	N1=NAME	Irikaginak	RN	Ruler of Lagaš
+
+# Q001130.10
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+2	e₂-ŋidru	e₂-ŋidru	Eŋidruk	TN	e₂-ŋidru	1	sux	N1=Eŋidruk	N1=NAME	Eŋidruk	TN	E-ĝidru of Lagaš
+
+# Q001130.11
+1	{d}nin-ŋir₂-su-ka	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka\abs	1	sux	N1=Ninŋirsuk.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninŋirsuk.ak.ø	DN	1
+2	du₃-a	du₃	du	V/t	du₃-a\gen	build	sux	NV2=du.NV4='a.N5=ak	NV2=STEM.NV4=SUB.N5=GEN	du.'a.ak	V/t	to build
+
+# Q001130.12
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni	deity	sux	N1=diŋir.N3=ani	N1=STEM.N3=3-SG-H-POSS	diŋir.ani	N	deity, personal god
+
+# Q001130.13
+1	{d}šul-|MUŠ×PA|	{d}šul-|MUŠ×PA|	Šul-MUŠ×PA	DN	{d}šul-|MUŠ×PA|\erg	1	sux	N1=Šul-|MUŠ×PA|.N5=e	N1=NAME.N5=ERG	Šul-|MUŠ×PA|.e	DN	1
+
+# Q001130.14
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun
+2	ul-la-še₃	ul	ul	N	ul-la-še₃	distant	sux	NV2=ul.NV4='a.N5=še	NV2=STEM.NV4=SUB.N5=TERM	ul.'a.še	V/i	distant time
+
+# Q001130.15
+1	{d}nin-ŋir₂-su₂-ra	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1
+
+# Q001130.16
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life
+
+# Q001130.17
+1	giri₁₇	giri₁₇	giri	N	giri₁₇\l3	nose	sux	N1=giri.N5=e	N1=STEM.N5=L3-NH	giri.e	N	nose
+2	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+3	he₂-na-še₃-ŋal₂	ŋal₂	ŋal	V/i	he₂-na-še₃-ŋal₂	be	sux	V1=ha.V2=i.V6=nn.V7=a.V9=ši.V11=n.V12=ŋal.V14=ø	V1=MOD1.V2=FIN.V6=3-SG-H.V7=DAT.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ha.i.nn.a.ši.n.ŋal.ø	V/i	be
+

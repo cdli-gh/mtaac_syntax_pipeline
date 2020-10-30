@@ -1,0 +1,53 @@
+# project: etcsri 
+# textid: Q001799 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001799.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001799.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001799.3
+1	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuenak	RN	{d}amar-{d}suen	1	sux	N1=Amarsuenak	N1=NAME	Amarsuenak	RN	3rd king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q001799.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001799.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₂-ba-ke₄	limmu₂	limmu	NU	limmu₂-ba-ke₄	four	sux	NV2=limmu.N3=bi.N5=ak.N5=e	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	limmu.bi.ak.e	NU	four	_	_	_	_	_	_	_
+
+# Q001799.6
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001799.7
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	|EN.DIM₂.KI|	_	_	_	|EN.DIM₂.KI|	_	sux	_	_	_	X	_	_	_	_	_	_	_	_
+
+# Q001799.8
+1	ki	ki	ki	N	ki	place	sux	N1=ki	N1=STEM	ki	N	place	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	GIŠ	_	_	_	GIŠ	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+5	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001799.9
+1	ta₂-di₃-in-{d}INANA	ta₂-di₃-in-{d}INANA	Tadineštar	PN	ta₂-di₃-in-{d}INANA	1	sux	N1=Tadineštar	N1=NAME	Tadineštar	PN	Daughter of Amar-Suena	_	_	_	_	_	_	_
+
+# Q001799.10
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ŋa₂-ni-ir	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni-ir	measure	sux	NV2=aŋ.N3=ani.N5=ra	NV2=STEM.N3=3-SG-H-POSS.N5=DAT-H	aŋ.ani.ra	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001799.11
+1	in-na-ba	ba	ba	V/t	in-na-ba	allot	sux	V2=i.V6=nn.V7=a.V11=n.V12=ba.V14=ø	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.a.n.ba.ø	V/t	allot	_	_	_	_	_	_	_
+

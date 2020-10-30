@@ -1,0 +1,45 @@
+# project: etcsri 
+# textid: Q001526 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001526.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001526.1
+1	{d}nin-e₂-gal	{d}nin-e₂-gal	Ninegalak	DN	{d}nin-e₂-gal	1	sux	N1=Ninegalak	N1=NAME	Ninegalak	DN	1
+
+# Q001526.2
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady
+
+# Q001526.3
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q001526.4
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1
+
+# Q001526.5
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001526.6
+1	lagaš{ki}-ka-še₃	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-še₃	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Lagaš.ak.ak.še	SN	1
+
+# Q001526.8
+1	mu-tud	tud	utud	V/t	mu-tud	bear	sux	V4=mu.V11=n.V12=utud.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.utud.ø	V/t	fashion a statue, to bring a statue into being
+2	e₂-a	e₂	e	N	e₂-a\l1	house	sux	N1=e.N5='a	N1=STEM.N5=L1	e.'a	N	house, temple
+3	mu-na-ni-kur₉(REC56)	kur₉(REC56)	kur	V/i	mu-na-ni-kur₉(REC56)	enter	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=kur.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.kur.ø	V/i	enter
+
+# Q001526.9
+1	alan-ba	alan	alan	N	alan-ba\dem2	statue	sux	N1=alan.N3=bi.N5=ak	N1=STEM.N3=DEM2.N5=GEN	alan.bi.ak	N	statue
+2	nin-ŋu₁₀	nin	nin	N	nin-ŋu₁₀\abs	lady	sux	N1=nin.N3=ŋu.N5=ø	N1=STEM.N3=1-SG-POSS.N5=ABS	nin.ŋu.ø	N	lady
+
+# Q001526.10
+1	{d}nin-e₂-gal	{d}nin-e₂-gal	Ninegalak	DN	{d}nin-e₂-gal\abs	1	sux	N1=Ninegalak.N5=ø	N1=NAME.N5=ABS	Ninegalak.ø	DN	1
+
+# Q001526.11
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name
+

@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q004301 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004301.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004301.1
+1	lu₂-diŋir-ra	lu₂-diŋir-ra	Ludiŋirak	PN	lu₂-diŋir-ra	4	sux	N1=Ludiŋirak	N1=NAME	Ludiŋirak	PN	4
+
+# Q004301.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	lu₂-{d}nin-dar-a	lu₂-{d}nin-dar-a	Lunindara	PN	lu₂-{d}nin-dar-a\gen	1	sux	N1=Lunindara.N5=ak	N1=NAME.N5=GEN	Lunindara.ak	PN	1
+
+# Q004301.3
+1	gudu₄	gudu₄	gudug	N	gudu₄	priest	sux	N1=gudug	N1=STEM	gudug	N	a priest
+2	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi\gen\abs	1	sux	N1=Šulgir.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šulgir.ak.ø	RN	2nd king of the 3rd dynasty of Urim
+

@@ -1,0 +1,28 @@
+# project: etcsri 
+# textid: Q001068 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001068.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001068.2
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001068.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q001068.4
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001068.5
+1	a₂	a₂	a	N	a₂\abs	arm	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	arm	_	_	a šum	give power	give power	V/t	V/t
+2	šum₂-ma	šum₂	šum	V/t	šum₂-ma	give	sux	NV2=šum.NV4='a	NV2=STEM.NV4=SUB	šum.'a	V/t	give	1	mwe	_	_	_	_	_
+
+# Q001068.6
+1	{d}en-lil₂-la₂-ke₄	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂-ke₄	1	sux	N1=Enlil.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Enlil.ak.e	DN	1	_	_	_	_	_	_	_
+

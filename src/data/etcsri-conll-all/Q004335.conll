@@ -1,0 +1,25 @@
+# project: etcsri 
+# textid: Q004335 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004335.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004335.1
+1	ur-an-ne₂	ur-an-ne₂	Urane	PN	ur-an-ne₂	1	sux	N1=Urane	N1=NAME	Urane	PN	1
+
+# Q004335.2
+1	gudu₄	gudu₄	gudug	N	gudu₄	priest	sux	N1=gudug	N1=STEM	gudug	N	a priest
+2	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi\gen	1	sux	N1=Šulgir.N5=ak	N1=NAME.N5=GEN	Šulgir.ak	RN	2nd king of the 3rd dynasty of Urim
+
+# Q004335.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	la-lu₅	la-lu₅	Lalu	PN	la-lu₅\gen	1	sux	N1=Lalu.N5=ak	N1=NAME.N5=GEN	Lalu.ak	PN	1
+3	išib	išib	išib	N	išib	priest	sux	N1=išib	N1=STEM	išib	N	incantation priest, exorcist
+4	{d}šara₂	{d}šara₂	Šara	DN	{d}šara₂\gen\abs	1	sux	N1=Šara.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šara.ak.ø	DN	1
+

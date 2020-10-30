@@ -1,0 +1,32 @@
+# project: etcsri 
+# textid: Q001294 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001294.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001294.2
+1	AN	_	_	_	AN	_	sux	_	_	_	u	_
+2	UB	_	_	_	UB	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001294.3
+1	HAR	_	_	_	HAR	_	sux	_	_	_	u	_
+2	GABA	_	_	_	GABA	_	sux	_	_	_	u	_
+3	KU	_	_	_	KU	_	sux	_	_	_	u	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001294.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	NI	_	_	_	NI	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001294.5
+1	nin-men-x	_	_	_	nin-men-x	_	sux	_	_	_	u	_
+

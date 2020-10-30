@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001280 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001280.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001280.1
+1	lugal-hur-saŋ	lugal-hur-saŋ	Lugalhursaŋ	PN	lugal-hur-saŋ	1	sux	N1=Lugalhursaŋ	N1=NAME	Lugalhursaŋ	PN	1
+
+# Q001280.2
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household
+2	{d}en-lilₓ(E₂)	{d}en-lilₓ(E₂)	Enlil	DN	{d}en-lilₓ(E₂)\gen\abs	1	sux	N1=Enlil.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Enlil.ak.ø	DN	1
+

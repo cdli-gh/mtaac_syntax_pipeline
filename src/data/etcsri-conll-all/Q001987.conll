@@ -1,0 +1,96 @@
+# project: etcsri 
+# textid: Q001987 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001987.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001987.1
+1	{d}nin-ib-gal	{d}nin-ib-gal	Ninibgal	DN	{d}nin-ib-gal	1	sux	N1=Ninibgal	N1=NAME	Ninibgal	DN	1	_	_	_	_	_	_	_
+
+# Q001987.2
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+2	šag₄-la₂	šag₄-la₂	šala	N	šag₄-la₂\abs	pity	sux	N1=šala.N5=ø	N1=STEM.N5=ABS	šala.ø	N	pity	_	_	_	_	_	_	_
+3	sug₄	sug₄	sug	V/i	sug₄	full	sux	NV2=sug	NV2=STEM	sug	V/i	(to be) full	_	_	_	_	_	_	_
+
+# Q001987.3
+1	ga-til₃-e	ga-til₃	gatil	N	ga-til₃-e	vow	sux	N1=gatil.N5=e	N1=STEM.N5=DAT-NH	gatil.e	N	vow, a votive offering	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001987.4
+1	šud₃	šud₃	šud	N	šud₃	prayer	sux	N1=šud	N1=STEM	šud	N	prayer, dedication, blessing	_	_	_	_	_	_	_
+2	a-ra-zu-e	a-ra-zu	arazu	N	a-ra-zu-e	supplication	sux	N1=arazu.N5=e	N1=STEM.N5=DAT-NH	arazu.e	N	supplication	_	_	_	_	_	_	_
+3	ŋeš	ŋeš	ŋeš	N	ŋeš\abs	tree	sux	N1=ŋeš.N5=ø	N1=STEM.N5=ABS	ŋeš.ø	N	tree	_	_	ŋeš tuku	listen	listen, to hear	V/t	V/t
+4	tuku	tuku	tuku	V/t	tuku	acquire	sux	NV2=tuku	NV2=STEM	tuku	V/t	to acquire, to have	3	mwe	_	_	_	_	_
+
+# Q001987.5
+1	ama	ama	ama	N	ama	mother	sux	N1=ama	N1=STEM	ama	N	mother	_	_	_	_	_	_	_
+2	zalag-a-ni-ir	zalag	zalag	V/i	zalag-a-ni-ir	shine	sux	NV2=zalag.N3=ani.N5=ra	NV2=STEM.N3=3-SG-H-POSS.N5=DAT-H	zalag.ani.ra	V/i	(to be) pure, (fire) light, (to be) bright, to shine	_	_	_	_	_	_	_
+
+# Q001987.6
+1	{d}en-lil₂-ba-ni	{d}en-lil₂-ba-ni	Enlilbani	RN	{d}en-lil₂-ba-ni	1	sux	N1=Enlilbani	N1=NAME	Enlilbani	RN	10th king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q001987.7
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd	_	_	_	_	_	_	_
+2	niŋ₂-nam	niŋ₂-nam	niŋnam	N	niŋ₂-nam\abs	anything	sux	N1=niŋnam.N5=ø	N1=STEM.N5=ABS	niŋnam.ø	N	gift	_	_	_	_	_	_	_
+3	šar₂-ra	šar₂	šar	NU	šar₂-ra	3600	sux	NV2=šar.NV4='a	NV2=STEM.NV4=SUB	šar.'a	NU	3600	_	_	_	_	_	_	_
+
+# Q001987.8
+1	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen	1	sux	N1=Nibru.N5=ak	N1=NAME.N5=GEN	Nibru.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001987.9
+1	engar	engar	engar	N	engar	farmer	sux	N1=engar	N1=STEM	engar	N	farmer	_	_	_	_	_	_	_
+2	še	še	še	N	še\abs	barley	sux	N1=še.N5=ø	N1=STEM.N5=ABS	še.ø	N	barley	_	_	_	_	_	_	_
+3	mah	mah	mah	V/i	mah	great	sux	NV2=mah	NV2=STEM	mah	V/i	great	_	_	_	_	_	_	_
+
+# Q001987.10
+1	urim₂{ki}-ma	urim₂{ki}	Urim	SN	urim₂{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001987.11
+1	me	me	me	N	me	being	sux	N1=me	N1=STEM	me	N	being, divine properties enabling cosmic activity, divine powers, divine attributes	_	_	_	_	_	_	_
+2	eridug{ki}-ga	eridug{ki}	Eridug	SN	eridug{ki}-ga\abs	1	sux	N1=Eridug.N5=ak.N5=ø	N1=Eridug.N5=GEN.N5=ABS	Eridug.ak.ø	SN	1	_	_	_	_	_	_	_
+3	kug-kug-ge	kug-kug	kug	V/i	kug-kug-ge	pure	sux	NV2=kugkug.NV3=ed	NV2=STEM-RDP.NV3=PF	kugkug.ed	V/i	pure	_	_	_	_	_	_	_
+
+# Q001987.12
+1	en	en	en	N	en	lord	sux	N1=en	N1=STEM	en	N	lord	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001987.13
+1	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001987.14
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001987.15
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	i₃-si-in{ki}-na	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-na	1	sux	N1=Isin.N5=ak	N1=NAME.N5=GEN	Isin.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001987.16
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri	ki-uri	Akkad	GN	ki-uri\gen	1	sux	N1=Akkad.N5=ak	N1=NAME.N5=GEN	Akkad.ak	GN	1	_	_	_	_	_	_	_
+
+# Q001987.17
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+2	šag₄-ge	šag₄	šag	N	šag₄-ge\n5el3	heart	sux	N1=šag.N5=e	N1=STEM.N5=L3-NH	šag.e	N	heart, inner body	_	_	_	_	_	_	_
+3	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q001987.18
+1	{d}inana-ke₄	{d}inana	Inanak	DN	{d}inana-ke₄	1	sux	N1=Inanak.N5=e	N1=NAME.N5=ERG	Inanak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001987.19
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni\abs	measure	sux	NV2=aŋ.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	aŋ.ani.ø	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001987.20
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

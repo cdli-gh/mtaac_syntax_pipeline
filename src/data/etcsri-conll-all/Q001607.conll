@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q001607 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001607.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001607.2
+1	lagaš{ki}-ka-še₃	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-še₃	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Lagaš.ak.ak.še	SN	1
+
+# Q001607.3
+1	DU	_	_	_	DU	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001607.4
+1	sukkal	sukkal	sukkal	N	sukkal	secretary	sux	N1=sukkal	N1=STEM	sukkal	N	secretary, envoy
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+

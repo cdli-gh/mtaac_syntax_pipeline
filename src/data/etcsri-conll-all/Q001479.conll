@@ -1,0 +1,34 @@
+# project: etcsri 
+# textid: Q001479 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001479.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001479.1
+1	{d}ŋa₂-tum₃-dug₃	{d}ŋa₂-tum₃-dug₃	Ŋatumdug	DN	{d}ŋa₂-tum₃-dug₃	1	sux	N1=Ŋatumdug	N1=NAME	Ŋatumdug	DN	1
+
+# Q001479.2
+1	ama	ama	ama	N	ama	mother	sux	N1=ama	N1=STEM	ama	N	mother
+2	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001479.3
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001479.4
+1	ama	ama	ama	N	ama	mother	sux	N1=ama	N1=STEM	ama	N	mother
+2	tud-da-ni	tud	utud	V/t	tud-da-ni\dat	bear	sux	NV2=utud.NV4='a.N5=ra	NV2=STEM.NV4=SUB.N5=DAT-H	utud.'a.ra	V/t	bear
+
+# Q001479.5
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	ŋir₂-su{ki}-ka-ni	ŋir₂-su{ki}	Ŋirsu	SN	ŋir₂-su{ki}-ka-ni\abs	1	sux	N1=Ŋirsu.N5=ak.N3=ani.N5=ø	N1=STEM.N5=GEN.N3=3-SG-H-POSS.N5=ABS	Ŋirsu.ak.ani.ø	SN	1
+
+# Q001479.6
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

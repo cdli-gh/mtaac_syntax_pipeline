@@ -1,0 +1,38 @@
+# project: etcsri 
+# textid: Q001459 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001459.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001459.1
+1	{d}nin-mar-ki	{d}nin-mar-ki	Ninmarkik	DN	{d}nin-mar-ki	1	sux	N1=Ninmarkik	N1=NAME	Ninmarkik	DN	1
+
+# Q001459.2
+1	munus	munus	munus	N	munus	woman	sux	N1=munus	N1=STEM	munus	N	woman
+2	sag₉-ga	sag₉	sag	V/i	sag₉-ga	good	sux	NV2=sag.NV4='a	NV2=STEM.NV4=SUB	sag.'a	V/i	(to be) good
+
+# Q001459.3
+1	dumu-saŋ	dumu-saŋ	dumusaŋ	N	dumu-saŋ	first-born	sux	N1=dumusaŋ	N1=STEM	dumusaŋ	N	first-born
+2	{d}nanše-ra	{d}nanše	Nanše	DN	{d}nanše-ra\gen\dat	1	sux	N1=Nanše.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Nanše.ak.ra	DN	1
+
+# Q001459.4
+1	ur-{d}nin-ŋir₂-su	ur-{d}nin-ŋir₂-su	Urninŋirsu	RN	ur-{d}nin-ŋir₂-su	1	sux	N1=Urninŋirsu	N1=NAME	Urninŋirsu	RN	Ur-Ninŋirsu I, ruler of Lagaš
+
+# Q001459.5
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001459.6
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1
+
+# Q001459.7
+1	e₂-munus-gil-sa-ka-ni	e₂-munus-gil-sa	Emunusgilsak	TN	e₂-munus-gil-sa-ka-ni\abs	1	sux	N1=Emunusgilsak.N3=ani.N5=ø	N1=NAME.N3=3-SG-H-POSS.N5=ABS	Emunusgilsak.ani.ø	TN	1
+
+# Q001459.8
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

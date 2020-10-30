@@ -1,0 +1,113 @@
+# project: etcsri 
+# textid: Q000842 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000842.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q000842.1
+1	ri₂-mu-uš	ri₂-mu-uš	Rimuš	RN	ri₂-mu-uš	1	sux	N1=Rimuš	N1=NAME	Rimuš	RN	2nd king of dynasty of Agade
+
+# Q000842.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q000842.3
+1	kiš	kiš	kiš	N	kiš\gen\abs	totality	sux	N1=kiš.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	kiš.ak.ø	N	totality, world
+
+# Q000842.4
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun
+2	ul-li₂-a-ta	ul-li₂	ul	N	ul-li₂-a-ta	distant	sux	NV2=ul.NV4='a.N5=ta	NV2=STEM.NV4=SUB.N5=ABL	ul.'a.ta	V/i	distant time
+
+# Q000842.5
+1	{d}en-lil₂-ra	{d}en-lil₂	Enlil	DN	{d}en-lil₂-ra	1	sux	N1=Enlil.N5=ra	N1=NAME.N5=DAT-H	Enlil.ra	DN	1
+
+# Q000842.6
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+2	na-me	na-me	name	XP	na-me\erg	somebody	sux	N1=name.N5=e	N1=STEM.N5=ERG	name.e	XP	some, any
+
+# Q000842.7
+1	alan	alan	alan	N	alan	statue	sux	N1=alan	N1=STEM	alan	N	statue
+2	an-na	an-na	annak	N	an-na\abs	metal	sux	N1=annak.N5=ø	N1=STEM.N5=ABS	annak.ø	N	tin or lead
+
+# Q000842.8
+1	nu-ta-dim₂	dim₂	dim	V/t	nu-ta-dim₂	create	sux	V1=nu.V5=b.V9=ta.V11=n.V12=dim.V14=ø	V1=NEG.V5=3-NH.V9=ABL.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	nu.b.ta.n.dim.ø	V/t	create
+
+# Q000842.9
+1	ri₂-mu-uš	ri₂-mu-uš	Rimuš	RN	ri₂-mu-uš	1	sux	N1=Rimuš	N1=NAME	Rimuš	RN	2nd king of dynasty of Agade
+
+# Q000842.10
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q000842.11
+1	kiš	kiš	kiš	N	kiš\gen\erg	totality	sux	N1=kiš.N5=ak.N5=e	N1=STEM.N5=GEN.N5=ERG	kiš.ak.e	N	totality, world
+
+# Q000842.12
+1	alan-na-ni	alan	alan	N	alan-na-ni\abs	statue	sux	N1=alan.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	alan.ani.ø	N	statue
+2	an-na-kam	an-na	annak	N	an-na-kam	metal	sux	N1=annak.N5=ø.N6=am	N1=STEM.N5=ABS.N6=COP-3-SG	annak.ø.am	N	tin or lead
+
+# Q000842.13
+1	i₃-dim₂	dim₂	dim	V/t	i₃-dim₂	create	sux	V2=i.V11=n.V12=dim.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.dim.ø	V/t	create
+
+# Q000842.14
+1	igi	igi	igi	N	igi	face	sux	N1=igi	N1=STEM	igi	N	face
+2	{d}en-lil₂-la₂-še₃	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂-še₃	1	sux	N1=Enlil.N5=ak.N5=še	N1=NAME.N5=GEN.N5=TERM	Enlil.ak.še	DN	1
+
+# Q000842.15
+1	i₃-gub	gub	gub	V/i	i₃-gub	stand	sux	V2=i.V11=n.V12=gub.V14=ø	V2=FIN.V11=3-SG-H-A.V12=gub.V14=3-SG-P	i.n.gub.ø	V/i	stand
+
+# Q000842.16
+1	mu₅-ru₅	mu₅-ru₅	murub	N	mu₅-ru₅	middle	sux	N1=murub	N1=STEM	murub	N	middle
+
+# Q000842.17
+1	diŋir-re-ne-ka	diŋir	diŋir	N	diŋir-re-ne-ka\l1	deity	sux	N1=diŋir.N4=enee.N5=ak.N5='a	N1=STEM.N4=PL.N5=GEN.N5=L1	diŋir.enee.ak.'a	N	deity, personal god
+
+# Q000842.18
+1	me-te-ni	me-te	ni	N	me-te-ni\abs	self	sux	N1=nite.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	nite.ani.ø	N	self
+
+# Q000842.19
+1	ni-šid	šid	šid	V/t	ni-šid	count	sux	V10=ni.V11=n.V12=šid.V14=ø	V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG.P	ni.n.šid.ø	V/t	to count
+
+# Q000842.20
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+
+# Q000842.21
+1	im-sar-ra-e	im-sar-ra	imsara	N	im-sar-ra-e\abs	inscription	sux	N1=imsara.N2=e.N5=ø	N1=STEM.N2=DEM1.N5=ABS	imsara.e.ø	N	inscription
+
+# Q000842.22
+1	ab-ha-lam-me-a	ha-lam	halam	V/t	ab-ha-lam-me-a\gen	forsake	sux	V2=a.V11=b.V12=halam.V14=e.V15='a.N5=ak	V2=FIN.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB.N5=GEN	a.b.halam.e.'a.ak	V/t	forsake, destroy, become forgotten
+
+# Q000842.23
+1	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂	1	sux	N1=Enlil	N1=NAME	Enlil	DN	1
+2	{d}utu-be₂	{d}utu	Utu	DN	{d}utu-be₂	1	sux	N1=Utu.N3=bi.N5=e	N1=NAME.N3=DEM2.N5=ERG	Utu.bi.e	DN	1
+
+# Q000842.24
+1	suhuš-a-ni	suhuš	suhuš	N	suhuš-a-ni\abs	foundation	sux	N1=suhuš.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	suhuš.ani.ø	N	foundation
+
+# Q000842.25
+1	he₂-burₓ(PAD)-re₆-ne	burₓ(PAD)	bur	V/t	he₂-burₓ(PAD)-re₆-ne	tear	sux	V1=ha.V2=i.V12=bur.V14=enee	V1=MOD1.V2=FIN.V12=STEM.V14=3-PL-A	ha.i.bur.enee	V/t	tear
+
+# Q000842.26
+1	numun-na-ni	numun	numun	N	numun-na-ni\abs	seed	sux	N1=numun.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	numun.ani.ø	N	seed
+
+# Q000842.27
+1	he₂-degₓ(RI)-degₓ(RI)-ge-ne	degₓ(RI)-degₓ(RI)	deg	V/t	he₂-degₓ(RI)-degₓ(RI)-ge-ne	collect	sux	V1=ha.V2=i.V12=degdeg.V14=enee	V1=MOD1.V2=FIN.V12=STEM-RDP.V14=3-PL-A	ha.i.degdeg.enee	V/t	to take, to gather up, glean, to tear out, to collect, pick up
+
+# Q000842.28
+1	mu-sar-ra	mu-sar-ra	musara	N	mu-sar-ra	inscription	sux	N1=musara	N1=STEM	musara	N	inscription
+2	{urud}šen	{urud}šen	šen	N	{urud}šen	cauldron	sux	N1=šen	N1=STEM	šen	N	cauldron
+3	za-hum	za-hum	zahum	N	za-hum\gen\abs	basin	sux	N1=zahum.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	zahum.ak.ø	N	a metal basin
+
+# Q000842.29
+1	mu-sar-ra	mu-sar-ra	musara	N	mu-sar-ra\abs	inscription	sux	N1=musara.N5=ø	N1=STEM.N5=ABS	musara.ø	N	inscription
+
+# Q000842.30
+1	ti-x-bi-ni	_	_	_	ti-x-bi-ni	_	sux	_	_	_	u	_
+
+# Q000842.31
+1	ri₂-mu-uš-kam	ri₂-mu-uš	Rimuš	RN	ri₂-mu-uš-kam	1	sux	N1=Rimuš	N1=NAME	Rimuš	RN	2nd king of dynasty of Agade
+

@@ -1,0 +1,31 @@
+# project: etcsri 
+# textid: Q001174 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001174.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001174.1
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1
+
+# Q001174.2
+1	munus	munus	munus	N	munus	woman	sux	N1=munus	N1=STEM	munus	N	woman
+2	sag₉-ga	sag₉	sag	V/i	sag₉-ga\dat	good	sux	NV2=sag.NV4='a.N5=ra	NV2=STEM.NV4=SUB.N5=DAT-H	sag.'a.ra	V/i	(to be) good
+
+# Q001174.3
+1	lum-ma-meš₃-ni	lum-ma-meš₃-ni	Lumamešni	PN	lum-ma-meš₃-ni	1	sux	N1=Lumamešni	N1=NAME	Lumamešni	PN	1
+
+# Q001174.4
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+
+# Q001174.5
+1	ka-guru₇-ka-ke₄	ka-guru₇	kaguruk	N	ka-guru₇-ka-ke₄	supervisor	sux	N1=kaguruk.N5=ak.N5=e	N1=STEM.N5=GEN.N5=ERG	kaguruk.ak.e	N	granary supervisor
+
+# Q001174.6
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life
+

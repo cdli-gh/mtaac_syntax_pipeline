@@ -1,0 +1,64 @@
+# project: etcsri 
+# textid: Q001717 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001717.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001717.1
+1	šul-gi	šul-gi	Šulgir	RN	šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q001717.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001717.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001717.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri-x	ki-uri	Akkad	GN	ki-uri-x\gen\abs	1	sux	N1=Akkad.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Akkad.ak.ø	GN	1	_	_	_	_	_	_	_
+
+# Q001717.5
+1	šu-qur-tum	šu-qur-tum	Šuqurtum	PN	šu-qur-tum\abs	1	sux	N1=Šuqurtum	N1=NAME	Šuqurtum	PN	Consort of Šulgi, king of Urim	_	_	_	_	_	_	_
+
+# Q001717.6
+1	lukur	lukur	lukur	N	lukur	priestess	sux	N1=lukur	N1=STEM	lukur	N	a priestess, consort	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni\abs	measure	sux	NV2=aŋ.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	aŋ.ani.ø	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001717.7
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	mu-sar-ra-ba	mu-sar-ra	musara	N	mu-sar-ra-ba\l2	inscription	sux	N1=musara.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L2-NH	musara.bi.'a	N	inscription	_	_	_	_	_	_	_
+
+# Q001717.8
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand	_	_	šu ur	erase	to drag the hand on something or to wipe out something with the hand	V/t	V/t
+2	bi₂-ib₂-uru₁₂-a	uru₁₂	ur	V/t	bi₂-ib₂-uru₁₂-a	drag	sux	V5=b.V10=i.V11=b.V12=ur.V14=e.V15='a	V5=3-NH.V10=L2.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB	b.i.b.ur.e.'a	V/t	to drag	1	mwe	_	_	_	_	_
+
+# Q001717.9
+1	mu-ni	mu	mu	N	mu-ni\abs	name	sux	N1=mu.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	mu.ani.ø	N	name	_	_	_	_	_	_	_
+2	bi₂-ib₂-sar-a	sar	sar	V/t	bi₂-ib₂-sar-a\abs	write	sux	V5=b.V10=i.V11=b.V12=sar.V14=e.V15='a.N5=ø	V5=3-NH.V10=L2.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB.N5=ABS	b.i.b.sar.e.'a.ø	V/t	write	_	_	_	_	_	_	_
+
+# Q001717.10
+1	{d}nin-sumun₂	{d}nin-sumun₂	Ninsumunak	DN	{d}nin-sumun₂	1	sux	N1=Ninsumunak	N1=NAME	Ninsumunak	DN	1	_	_	_	_	_	_	_
+
+# Q001717.11
+1	diŋir-ŋu₁₀	diŋir	diŋir	N	diŋir-ŋu₁₀	deity	sux	N1=diŋir.N3=ŋu	N1=STEM.N3=1-SG-POSS	diŋir.ŋu	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001717.12
+1	{d}lugal-ban₃-da	{d}lugal-ban₃-da	Lugalbanda	DN	{d}lugal-ban₃-da	1	sux	N1=Lugalbanda	N1=NAME	Lugalbanda	DN	1	_	_	_	_	_	_	_
+
+# Q001717.13
+1	lugal-ŋu₁₀	lugal	lugal	N	lugal-ŋu₁₀\erg	king	sux	N1=lugal.N3=ŋu.N5=e	N1=STEM.N3=1-SG-POSS.N5=ERG	lugal.ŋu.e	N	king	_	_	_	_	_	_	_
+
+# Q001717.14
+1	nam	nam	nam	N	nam\abs	fate	sux	N1=nam.N5=ø	N1=STEM.N5=ABS	nam.ø	N	fate	_	_	nam kud	curse	to curse	V/t	V/t
+2	ha-ba-da-kuru₅-ne	kuru₅	kud	V/t	ha-ba-da-kuru₅-ne	cut	sux	V1=ha.V5=ba.V6=nn.V8=da.V12=kud.V14=enee	V1=MOD1.V5=MID.V6=3-SG-H.V8=COM.V12=STEM.V14=3-PL-A	ha.ba.nn.da.kud.enee	V/t	cut	1	mwe	_	_	_	_	_
+

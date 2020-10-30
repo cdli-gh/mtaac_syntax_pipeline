@@ -1,0 +1,27 @@
+# project: etcsri 
+# textid: X002001 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: X002001.U0 
+# bracketing_level: 0 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# X002001.1
+1	{d}gu₃-de₂-a	{d}gu₃-de₂-a	Gudea	RN	{d}gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1
+
+# X002001.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# X002001.3
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen\abs	1	sux	N1=Lagaš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lagaš.ak.ø	SN	1
+
+# X002001.4
+1	ur-{d}šar₂-ur₃-ra	ur-{d}šar₂-ur₃-ra	Uršarura	PN	ur-{d}šar₂-ur₃-ra	1	sux	N1=Uršarura	N1=NAME	Uršarura	PN	1
+
+# X002001.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ur-{d}suen	ur-{d}suen	Ursuen	PN	ur-{d}suen\gen\abs	2	sux	N1=Ursuen.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ursuen.ak.ø	PN	2
+3	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

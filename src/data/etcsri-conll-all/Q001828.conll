@@ -1,0 +1,25 @@
+# project: etcsri 
+# textid: Q001828 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001828.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001828.1
+1	ša-at-er₃-ra	ša-at-er₃-ra	Šaterra	PN	ša-at-er₃-ra	1	sux	N1=Šaterra	N1=NAME	Šaterra	PN	Daughter of Šu-Suen, king of Urim
+
+# Q001828.2
+1	dumu-munus	dumu-munus	dumumunus	N	dumu-munus	daughter	sux	N1=dumumunus	N1=STEM	dumumunus	N	daughter
+2	lugal	lugal	lugal	N	lugal\gen\abs	king	sux	N1=lugal.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	lugal.ak.ø	N	king
+
+# Q001828.3
+1	um-mi-DUG₃	um-mi-DUG₃	Ummiṭabat	PN	um-mi-DUG₃\abs	1	sux	N1=Ummiṭabat.N5=ø	N1=NAME.N5=ABS	Ummiṭabat.ø	PN	1
+
+# Q001828.4
+1	geme₂-ni	geme₂	geme	N	geme₂-ni\abs	worker	sux	N1=geme.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	geme.ani.ø	N	female worker
+

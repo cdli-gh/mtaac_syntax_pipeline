@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q001271 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001271.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001271.1
+1	{d}inana	{d}inana	Inanak	DN	{d}inana\dat	1	sux	N1=Inanak.N5=ra	N1=NAME.N5=DAT-H	Inanak.ra	DN	1
+
+# Q001271.2
+1	munus-tur	munus-tur	Munustur	PN	munus-tur	1	sux	N1=Munustur	N1=NAME	Munustur	PN	1
+
+# Q001271.3
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001271.4
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+

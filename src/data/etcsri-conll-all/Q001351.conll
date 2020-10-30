@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q001351 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001351.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001351.1
+1	{d}utu	{d}utu	Utu	DN	{d}utu\dat	1	sux	N1=Utu.N5=ra	N1=NAME.N5=DAT-H	Utu.ra	DN	1
+
+# Q001351.2
+1	an-bu	an-bu	Anbu	RN	an-bu	1	sux	N1=Anbu	N1=NAME	Anbu	RN	King of Mari
+
+# Q001351.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+

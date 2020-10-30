@@ -1,0 +1,18 @@
+# project: etcsri 
+# textid: Q003663 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003663.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003663.1
+1	pu₃-AD	pu₃-AD	Puabum	RN	pu₃-AD	1	sux	N1=Puabum	N1=NAME	Puabum	RN	1
+
+# Q003663.2
+1	ereš	ereš	ereš	N	ereš\abs	lady	sux	N1=ereš.N5=ø	N1=STEM.N5=ABS	ereš.ø	N	lady, queen
+

@@ -1,0 +1,78 @@
+# project: etcsri 
+# textid: Q001113 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001113.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001113.1
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše	1	sux	N1=Nanše	N1=NAME	Nanše	DN	1
+
+# Q001113.2
+1	e₂-engur-ra	e₂-engur-ra	Eʾengur	TN	e₂-engur-ra\gen\dat	1	sux	N1=E'engur.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	E'engur.ak.ra	TN	1
+
+# Q001113.3
+1	en-mete-na	en-mete-na	Enmetenak	RN	en-mete-na	1	sux	N1=Enmetenak	N1=NAME	Enmetenak	RN	Ruler of Lagaš
+
+# Q001113.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001113.5
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001113.6
+1	šag₄	šag₄	šag	N	šag₄\l3	heart	sux	N1=šag.N5=e	N1=STEM.N5=L3-NH	šag.e	N	heart, inner body
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover
+
+# Q001113.7
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše\gen	1	sux	N1=Nanše.N5=ak	N1=NAME.N5=GEN	Nanše.ak	DN	1
+
+# Q001113.8
+1	ensi₂-gal	ensi₂-gal	ensikgal	N	ensi₂-gal	governor	sux	N1=ensikgal	N1=STEM	ensikgal	N	chief governor
+
+# Q001113.9
+1	{d}nin-ŋir₂-su-ka	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka	1	sux	N1=Ninŋirsuk.N5=ak	N1=NAME.N5=GEN	Ninŋirsuk.ak	DN	1
+
+# Q001113.10
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	en-an-na-tum₂	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂	1	sux	N1=Enanatum	N1=NAME	Enanatum	RN	En-ana-tum I, ruler of Lagaš
+
+# Q001113.11
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001113.12
+1	lagaš{ki}-ka-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-ke₄	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1
+
+# Q001113.13
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše\dat	1	sux	N1=Nanše.N5=ra	N1=NAME.N5=DAT-H	Nanše.ra	DN	1
+
+# Q001113.14
+1	e₂-engur-ra	e₂-engur-ra	Eʾengur	TN	e₂-engur-ra	1	sux	N1=E'engur	N1=NAME	E'engur	TN	1
+
+# Q001113.15
+1	gana₂	gana₂	gana	N	gana₂	field	sux	N1=gana	N1=STEM	gana	N	field
+2	zu₂-lum-ma	zu₂-lum	Zulum	SN	zu₂-lum-ma\gen\abs	1	sux	N1=Zulum.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Zulum.ak.ø	SN	1
+
+# Q001113.16
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+
+# Q001113.17
+1	kug-sig₁₇	kug-sig₁₇	kugsig	N	kug-sig₁₇	gold	sux	N1=kugsig	N1=STEM	kugsig	N	gold
+2	kug-babbar₂-ra	kug-babbar₂	kugbabbar	N	kug-babbar₂-ra\l1	silver	sux	N1=kugbabbar.N5='a	N1=STEM.N5=L1	kugbabbar.'a	N	silver
+
+# Q001113.18
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	mu-na-ni-tag	tag	tag	V/t	mu-na-ni-tag	touch	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=tag.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.tag.ø	V/t	touch
+
+# Q001113.19
+1	mu-ni-tum₂	tum₂	tum	V/i	mu-ni-tum₂	suitable	sux	V4=mu.V6=nn.V10=i.V11=n.V12=tum.V14=ø	V4=VEN.V6=3-SG-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.i.n.tum.ø	V/i	(to be) suitable, worthy
+
+# Q001113.20
+1	KIB@g	KIB@g	kib	N	KIB@g\abs	object	sux	N1=kib.N5=ø	N1=STEM.N5=ABS	kib.ø	N	an object, inscribed clay nail?
+2	mu-na-dug₄	dug₄	dug	V/t	mu-na-dug₄	speak	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dug.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dug.ø	V/t	speak
+

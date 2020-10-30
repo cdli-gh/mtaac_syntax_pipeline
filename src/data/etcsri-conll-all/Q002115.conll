@@ -1,0 +1,76 @@
+# project: etcsri 
+# textid: Q002115 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002115.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q002115.1
+1	{d}inana	{d}inana	Inanak	DN	{d}inana	1	sux	N1=Inanak	N1=NAME	Inanak	DN	1
+2	zabala₂{ki}	zabala₂{ki}	Zabala	SN	zabala₂{ki}\gen	1	sux	N1=Zabala.N5=ak	N1=NAME.N5=GEN	Zabala.ak	SN	1
+
+# Q002115.2
+1	nin-ŋu₁₀-ra	nin	nin	N	nin-ŋu₁₀-ra	lady	sux	N1=nin.N3=ŋu.N5=ra	N1=STEM.N3=1-SG-POSS.N5=DAT-H	nin.ŋu.ra	N	lady
+
+# Q002115.3
+1	IR₁₁-{d}suen	IR₁₁-{d}suen	Waradsin	RN	IR₁₁-{d}suen	1	sux	N1=Waradsin	N1=NAME	Waradsin	RN	King of Larsam
+
+# Q002115.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	larsam{ki}-ma	larsam{ki}	Larsam	SN	larsam{ki}-ma\gen	1	sux	N1=Larsam.N5=ak	N1=NAME.N5=GEN	Larsam.ak	SN	1
+
+# Q002115.5
+1	nam-til₃-ŋu₁₀-še₃	nam-til₃	namtil	N	nam-til₃-ŋu₁₀-še₃	life	sux	N1=namtil.N3=ŋu.N5=še	N1=STEM.N3=1-SG-POSS.N5=TERM	namtil.ŋu.še	N	life
+
+# Q002115.6
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also
+2	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q002115.7
+1	ku-du-ur-ma-bu-uk	ku-du-ur-ma-bu-uk	Kudurmabuk	RN	ku-du-ur-ma-bu-uk	1	sux	N1=Kudurmabuk	N1=NAME	Kudurmabuk	RN	King of Larsam
+
+# Q002115.8
+1	a-a	a-a	aya	N	a-a	father	sux	N1=aya	N1=STEM	aya	N	father
+2	ugu-ŋa₂-ka	ugu	ugu	V/t	ugu-ŋa₂-ka	bear	sux	NV2=ugu.NV4='a.N3=ŋu.N5=ak.N5='a	NV2=STEM.NV4=SUB.N5=GEN.N5=L1-OB	ugu.'a.ŋu.ak.'a	V/t	bear
+
+# Q002115.9
+1	gi-gun₄-na	gi-gun₄-na	giguna	N	gi-gun₄-na	terrace	sux	N1=giguna	N1=STEM	giguna	N	terrace, high temple
+2	kug	kug	kug	V/i	kug	pure	sux	NV2=kug	NV2=STEM	kug	V/i	pure
+
+# Q002115.10
+1	ki-tuš	ki-tuš	kituš	N	ki-tuš	dwelling	sux	N1=kituš	N1=STEM	kituš	N	dwelling place
+2	nam-ur-saŋ-ŋa₂-ka-ni	nam-ur-saŋ	namursaŋ	N	nam-ur-saŋ-ŋa₂-ka-ni\abs	heroism	sux	N1=namursaŋ.N5=ak.N3=ani.N5=ø	N1=STEM.N5=GEN.N3=3-SG-H-POSS.N5=ABS	namursaŋ.ak.ani.ø	N	heroism
+
+# Q002115.11
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃\v11sg1a	build	sux	V4=mu.V6=nn.V7=a.V11=1.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=1-SG-A.V12=STEM.V14=3-SG-P	mu.nn.a.1.du.ø	V/t	to build
+
+# Q002115.12
+1	kur	kur	kur	N	kur	mountain	sux	N1=kur	N1=STEM	kur	N	mountain
+2	sukud-ra₂-gin₇	sukud	sukud	V/i	sukud-ra₂-gin₇	height	sux	NV2=sukud.NV4='a.N5=gin	NV2=STEM.NV4=SUB.N5=EQU	sukud.'a.gin	V/i	be(come) high
+
+# Q002115.13
+1	saŋ-bi	saŋ	saŋ	N	saŋ-bi\abs	head	sux	N1=saŋ.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	saŋ.bi.ø	N	head
+2	hu-mu-ni-in-il₂	il₂	il	V/t	hu-mu-ni-in-il₂	raise	sux	V1=ha.V4=mu.V10=ni.V11=n.V12=il.V14=ø	V1=MOD1.V4=VEN.V10=LOC-OB.V11=1-SG-A-OB.V12=STEM.V14=3-SG-P	ha.mu.ni.n.il.ø	V/t	raise
+
+# Q002115.14
+1	niŋ₂-ak-ŋu₁₀-še₃	niŋ₂-ak	niŋak	N	niŋ₂-ak-ŋu₁₀-še₃	deed	sux	N1=niŋak.N3=ŋu.N5=še	N1=STEM.N3=1-SG-POSS.N5=TERM	niŋak.ŋu.še	N	deed
+
+# Q002115.15
+1	ha-ma-hul₂-e	hul₂	hul	V/i	ha-ma-hul₂-e	rejoice	sux	V1=ha.V4=m.V7=a.V12=hul.V14=e	V1=MOD1.V4=VEN.V7=DAT.V12=STEM.V14=3-SG-S-OB	ha.m.a.hul.e	V/i	to rejoice at something (= COM)
+
+# Q002115.16
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+2	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun
+3	sud-ra₂	sud	sud	V/i	sud-ra₂\abs	distant	sux	NV2=sud.NV4='a.N5=ø	NV2=STEM.NV4=SUB.N5=ABS	sud.'a.ø	V/i	(to be) distant
+
+# Q002115.17
+1	niŋ₂-ba-aš	niŋ₂-ba	niŋba	N	niŋ₂-ba-aš	gift	sux	N1=niŋba.N5=še	N1=STEM.N5=TERM	niŋba.še	N	gift
+
+# Q002115.18
+1	ha-ma-an-ba-e	ba	ba	V/t	ha-ma-an-ba-e	allot	sux	V1=ha.V4=m.V7=a.V11=n.V12=ba.V14=e	V1=MOD1.V4=VEN.V7=DAT.V11=3-SG-NH-P-OB.V12=STEM.V14=3-SG-A	ha.m.a.n.ba.e	V/t	allot
+

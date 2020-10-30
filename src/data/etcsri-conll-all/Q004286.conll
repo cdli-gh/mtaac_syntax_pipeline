@@ -1,0 +1,27 @@
+# project: etcsri 
+# textid: Q004286 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004286.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004286.1
+1	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+
+# Q004286.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q004286.3
+1	dug₃-ga	dug₃-ga	Duga	PN	dug₃-ga	2	sux	N1=Duga	N1=NAME	Duga	PN	2
+2	šabra	šabra	šabra	N	šabra	administrator	sux	N1=šabra	N1=STEM	šabra	N	chief administrator of a temple or other household
+
+# Q004286.4
+1	{d}šara₂	{d}šara₂	Šara	DN	{d}šara₂\gen\abs	1	sux	N1=Šara.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šara.ak.ø	DN	1
+2	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

@@ -1,0 +1,30 @@
+# project: etcsri 
+# textid: Q001869 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001869.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001869.1
+1	{d}meš₃-lam-ta-e₃-a	{d}meš₃-lam-ta-e₃-a	Mešlamtaea	DN	{d}meš₃-lam-ta-e₃-a	1	sux	N1=Mešlamtaea	N1=NAME	Mešlamtaea	DN	1
+
+# Q001869.2
+1	diŋir-ra-a-ni-ir	diŋir	diŋir	N	diŋir-ra-a-ni-ir	deity	sux	N1=diŋir.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	diŋir.ani.ra	N	deity, personal god
+
+# Q001869.3
+1	x-ku-bu-um	x-ku-bu-um	X-kubum	PN	x-ku-bu-um	1	sux	N1=X-kubum	N1=NAME	X-kubum	PN	1
+
+# Q001869.4
+1	x-x-TI-a-ke₄	_	_	_	x-x-TI-a-ke₄	_	sux	_	_	_	u	_
+
+# Q001869.5
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q001869.6
+1	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	Ibbisuen	RN	{d}i-bi₂-{d}suen	1	sux	N1=Ibbisuen	N1=NAME	Ibbisuen	RN	5th king of the 3rd dynasty of Urim
+

@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001970 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001970.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001970.1
+1	{d}li-pi₂-it-eš₄-tar₂	{d}li-pi₂-it-eš₄-tar₂	Lipiteštar	RN	{d}li-pi₂-it-eš₄-tar₂	1	sux	N1=Lipiteštar	N2=NAME	Lipiteštar	RN	5th king of the dynasty of Isin
+
+# Q001970.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+

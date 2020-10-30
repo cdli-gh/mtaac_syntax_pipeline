@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q004834 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004834.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004834.1
+1	1(diš)	_	_	_	1(diš)	_	sux	_	_	_	n	_
+2	ma-na	ma-na	mana	N	ma-na\abs	unit	sux	N1=mana.N5=ø	N1=STEM.N5=ABS	mana.ø	N	a unit of weight
+
+# Q004834.2
+1	du-du	du-du	Dudu	PN	du-du	1	sux	N1=Dudu	N1=NAME	Dudu	PN	1
+
+# Q004834.3
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household
+2	urub{ki}	urub{ki}	Urub	SN	urub{ki}\gen\abs	1	sux	N1=Urub.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urub.ak.ø	SN	1
+

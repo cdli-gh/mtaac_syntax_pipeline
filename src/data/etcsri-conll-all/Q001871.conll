@@ -1,0 +1,28 @@
+# project: etcsri 
+# textid: Q001871 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001871.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001871.1
+1	{d}nin-šubur	{d}nin-šubur	Ninšubur	DN	{d}nin-šubur	1	sux	N1=Ninšubur	N1=NAME	Ninšubur	DN	1
+
+# Q001871.2
+1	diŋir-a-ni-ir	diŋir	diŋir	N	diŋir-a-ni-ir	deity	sux	N1=diŋir.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	diŋir.ani.ra	N	deity, personal god
+
+# Q001871.3
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q001871.4
+1	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	Ibbisuen	RN	{d}i-bi₂-{d}suen	1	sux	N1=Ibbisuen	N1=NAME	Ibbisuen	RN	5th king of the 3rd dynasty of Urim
+
+# Q001871.5
+1	diŋir	diŋir	diŋir	N	diŋir	deity	sux	N1=diŋir	N1=STEM	diŋir	N	deity, personal god
+2	kalam-ma-na-ka-še₃	kalam	kalam	N	kalam-ma-na-ka-še₃	land	sux	N1=kalam.N3=ani.N5=ak.N5=ak.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=GEN.N5=TERM	kalam.ani.ak.ak.še	N	the Land (of Sumer)
+

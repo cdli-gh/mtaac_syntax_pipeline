@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001410 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001410.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001410.1
+1	ad-da	ad-da	Adda	PN	ad-da	1	sux	N1=Adda	N1=NAME	Adda	PN	1
+
+# Q001410.2
+1	ugula-e₂	ugula-e₂	ugulaʾek	N	ugula-e₂	overseer	sux	N1=ugula'ek	N1=STEM	ugula'ek	N	overseer, estate-overseer, steward
+
+# Q001410.3
+1	en-he₂-du₇-an-na	en-he₂-du₇-an-na	Enheduanak	PN	en-he₂-du₇-an-na\gen\abs	1	sux	N1=Enheduanak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Enheduanak.ak.ø	PN	Daughter of Sargon, king of Agade
+

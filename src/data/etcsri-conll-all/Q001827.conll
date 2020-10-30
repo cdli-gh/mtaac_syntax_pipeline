@@ -1,0 +1,31 @@
+# project: etcsri 
+# textid: Q001827 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001827.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001827.1
+1	šag₄-bi-x-x	šag₄-bi-x-x	Šagbi-X	PN	šag₄-bi-x-x	1	sux	N1=Šagbi-X	N1=NAME	Šagbi-X	PN	Consort of Šu-Suen
+
+# Q001827.2
+1	dumu-munus	dumu-munus	dumumunus	N	dumu-munus	daughter	sux	N1=dumumunus	N1=STEM	dumumunus	N	daughter
+2	lugal	lugal	lugal	N	lugal\gen	king	sux	N1=lugal.N5=ak	N1=STEM.N5=GEN	lugal.ak	N	king
+
+# Q001827.3
+1	lukur	lukur	lukur	N	lukur	priestess	sux	N1=lukur	N1=STEM	lukur	N	a priestess, consort
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great
+3	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen\gen\abs	1	sux	N1=Šusuen.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šusuen.ak.ø	RN	4th king of the 3rd dynasty of Urim
+
+# Q001827.4
+1	kur₂-ra-a₂-ŋal₂	kur₂-ra-a₂-ŋal₂	Kuraaŋal	PN	kur₂-ra-a₂-ŋal₂	1	sux	N1=Kuraaŋal	N1=NAME	Kuraaŋal	PN	1
+
+# Q001827.5
+1	ra₂-gaba	ra₂-gaba	ragaba	N	ra₂-gaba\abs	rider	sux	N1=ragaba.N5=ø	N1=STEM.N5=ABS	ragaba.ø	N	rider
+2	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

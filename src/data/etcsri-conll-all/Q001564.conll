@@ -1,0 +1,32 @@
+# project: etcsri 
+# textid: Q001564 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001564.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001564.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x-x-a{ki}-ta	_	_	_	x-x-a{ki}-ta	_	sux	_	_	_	u	_
+
+# Q001564.3
+1	{na₄}esi	{na₄}esi	esi	N	{na₄}esi\abs	diorite	sux	N1=esi.N5=ø	N1=STEM.N5=ABS	esi.ø	N	diorite
+
+# Q001564.4
+1	im-ta-ed₃	ed₃	ed	V/i	im-ta-ed₃	ascend	sux	V2=i.V4=m.V5=b.V9=ta.V11=n=V12=ed.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V9=ABL.V11=3-SG-H-A=V12=STEM.V14=3-SG-P	i.m.b.ta.n=V12=ed.ø	V/i	ascend
+
+# Q001564.5
+1	alan-na-še₃	alan	alan	N	alan-na-še₃	statue	sux	N1=alan.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	alan.ani.še	N	statue
+
+# Q001564.6
+1	mu-tud	tud	utud	V/t	mu-tud	bear	sux	V4=mu.V11=n.V12=utud.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.utud.ø	V/t	fashion a statue, to bring a statue into being
+
+# Q001564.9
+1	mu	mu	mu	N	mu	name	sux	N1=mu	N1=STEM	mu	N	name
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+

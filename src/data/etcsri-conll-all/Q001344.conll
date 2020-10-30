@@ -1,0 +1,27 @@
+# project: etcsri 
+# textid: Q001344 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001344.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	FORM	LANG	POS
+
+# Q001344.1
+1	AN	AN	sux	u
+2	AN	AN	sux	u
+3	x	x	sux	u
+
+# Q001344.2
+1	KI	KI	sux	u
+2	x	x	sux	u
+3	x	x	sux	u
+4	x	x	sux	u
+
+# Q001344.3
+1	x	x	sux	u
+2	x	x	sux	u
+

@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001876 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001876.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001876.1
+1	{d}nin-urta	{d}nin-urta	Ninurta	DN	{d}nin-urta	1	sux	N1=Ninurta	N1=NAME	Ninurta	DN	1
+
+# Q001876.2
+1	ensi₂-gal	ensi₂-gal	ensikgal	N	ensi₂-gal	governor	sux	N1=ensikgal	N1=STEM	ensikgal	N	chief governor
+
+# Q001876.3
+1	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂\abs	1	sux	N1=Enlil.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Enlil.ak.ø	DN	1
+

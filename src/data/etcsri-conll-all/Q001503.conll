@@ -1,0 +1,40 @@
+# project: etcsri 
+# textid: Q001503 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001503.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001503.1
+1	{d}nin-ŋeš-zid-da	{d}nin-ŋeš-zid-da	Ninŋešzidak	DN	{d}nin-ŋeš-zid-da	1	sux	N1=Ninŋešzidak	N1=NAME	Ninŋešzidak	DN	1
+
+# Q001503.2
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni\dat	deity	sux	N1=diŋir.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	diŋir.ani.ra	N	deity, personal god
+
+# Q001503.3
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1
+
+# Q001503.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001503.5
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001503.6
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+2	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001503.7
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x-ni	_	_	_	x-ni	_	sux	_	_	_	u	_
+
+# Q001503.8
+1	mu-du₃-a	du₃	du	V/t	mu-du₃-a\abs	build	sux	V4=mu.V11=n.V12=du.V14=ø.V15='a.N5=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ABS	mu.n.du.ø.'a.ø	V/t	to build
+

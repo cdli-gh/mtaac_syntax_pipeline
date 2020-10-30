@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q001743 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001743.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001743.1
+1	lu₂-giri₁₇-zal	lu₂-giri₁₇-zal	Lugirizal	PN	lu₂-giri₁₇-zal	1	sux	N1=Lugirizal	N1=NAME	Lugirizal	PN	Governor of Lagaš
+
+# Q001743.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+
+# Q001743.3
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen\abs	1	sux	N1=Lagaš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lagaš.ak.ø	SN	1
+
+# Q001743.4
+1	ur-{d}lamma	ur-{d}lamma	Urlamma	PN	ur-{d}lamma	2	sux	N1=Urlamma	N1=NAME	Urlamma	PN	2
+
+# Q001743.5
+1	ka-guru₇	ka-guru₇	kaguruk	N	ka-guru₇	supervisor	sux	N1=kaguruk	N1=STEM	kaguruk	N	granary supervisor
+
+# Q001743.6
+1	{d}nin-mar-ki-ka	{d}nin-mar-ki	Ninmarkik	DN	{d}nin-mar-ki-ka\abs	1	sux	N1=Ninmarkik.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninmarkik.ak.ø	DN	1
+
+# Q001743.7
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

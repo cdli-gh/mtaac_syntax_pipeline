@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q004898 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004898.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004898.1
+1	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+
+# Q004898.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q004898.3
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+2	karkara{ki}	karkara{ki}	Karkarak	SN	karkara{ki}\abs	1	sux	N1=Karkarak.N5=ø	N1=NAME.N5=ABS	Karkarak.ø	SN	1
+
+# Q004898.4
+1	in-du₃-a	du₃	du	V/t	in-du₃-a\abs	build	sux	V2=i.V11=n.V12=du.V14=ø.V15='a.N5=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ABS	i.n.du.ø.'a.ø	V/t	to build
+

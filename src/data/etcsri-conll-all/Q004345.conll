@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q004345 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004345.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004345.1
+1	ur-meš₃	ur-meš₃	Urmeš	PN	ur-meš₃	3	sux	N1=Urmeš	N1=NAME	Urmeš	PN	3
+
+# Q004345.2
+1	muhaldim	muhaldim	muhaldim	N	muhaldim	cook	sux	N1=muhaldim	N1=STEM	muhaldim	N	cook
+2	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi\gen\abs	1	sux	N1=Šulgir.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šulgir.ak.ø	RN	2nd king of the 3rd dynasty of Urim
+

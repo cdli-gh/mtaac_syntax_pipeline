@@ -1,0 +1,24 @@
+# project: etcsri 
+# textid: Q001046 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001046.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001046.2
+1	ma₂	ma₂	ma	N	ma₂	ship	sux	N1=ma	N1=STEM	ma	N	ship
+2	dilmun	dilmun	Dilmun	GN	dilmun	1	sux	N1=Dilmun	N1=NAME	Dilmun	GN	1
+
+# Q001046.3
+1	kur-ta	kur	kur	N	kur-ta\abs	mountain	sux	N1=kur.N5=ta.N5=ø	N1=STEM.N5=ABL.N5=ABS	kur.ta.ø	N	mountain
+
+# Q001046.4
+1	gu₂	gu₂	gu	N	gu₂\l2	neck	sux	N1=gu.N5='a	N1=STEM.N5=L2-NH	gu.'a	N	neck
+2	ŋeš	ŋeš	ŋeš	N	ŋeš\abs	tree	sux	N1=ŋeš.N5=ø	N1=STEM.N5=ABS	ŋeš.ø	N	tree
+3	mu-ŋal₂	ŋal₂	ŋal	V/i	mu-ŋal₂\dat	be	sux	V4=mu.V6=nn.V7=a.V10=e.V12=ŋal.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L2.V12=STEM.V14=3-SG-S	mu.nn.a.e.ŋal.ø	V/i	be
+

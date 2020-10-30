@@ -1,0 +1,77 @@
+# project: etcsri 
+# textid: Q002014 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002014.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q002014.1
+1	{d}da-gan	{d}da-gan	Dagan	DN	{d}da-gan	1	sux	N1=Dagan	N1=NAME	Dagan	DN	1	_	_	_	_	_	_	_
+
+# Q002014.2
+1	en	en	en	N	en	lord	sux	N1=en	N1=STEM	en	N	lord	_	_	_	_	_	_	_
+2	diŋir	diŋir	diŋir	N	diŋir	deity	sux	N1=diŋir	N1=STEM	diŋir	N	deity, personal god	_	_	_	_	_	_	_
+3	gal-gal-e-ne	gal-gal	gal	V/i	gal-gal-e-ne	big	sux	NV2=galgal.N4=enee.N5=ak	NV2=STEM-RDP.N4=PL.N5=GEN	galgal.enee.ak	V/i	(to be) big, great	_	_	_	_	_	_	_
+
+# Q002014.3
+1	diŋir-ra-a-ni-ir	diŋir	diŋir	N	diŋir-ra-a-ni-ir	deity	sux	N1=diŋir.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	diŋir.ani.ra	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q002014.4
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q002014.5
+1	gu-un-gu-nu-um	gu-un-gu-nu-um	Gungunum	RN	gu-un-gu-nu-um	1	sux	N1=Gungunum	N1=NAME	Gungunum	RN	King of Larsa	_	_	_	_	_	_	_
+
+# Q002014.6
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q002014.7
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma-ka-še₃	urim₅{ki}	Urim	SN	urim₅{ki}-ma-ka-še₃	1	sux	N1=Urim.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Urim.ak.ak.še	SN	1	_	_	_	_	_	_	_
+
+# Q002014.8
+1	en-an-na-tum₂-ma	en-an-na-tum₂-ma	Enanatuma	PN	en-an-na-tum₂-ma	1	sux	N1=Enanatuma	N1=NAME	Enanatuma	PN	En-ana-tuma, daughter of Išme-Dagan, king of Isin	_	_	_	_	_	_	_
+
+# Q002014.9
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+4	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen	1	sux	N1=Nanna.N5=ak	N1=NAME.N5=GEN	Nanna.ak	DN	1	_	_	_	_	_	_	_
+
+# Q002014.10
+1	šag₄	šag₄	šag	N	šag₄	heart	sux	N1=šag	N1=STEM	šag	N	middle	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\gen\l1	1	sux	N1=Urim.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L1	Urim.ak.'a	SN	1	_	_	_	_	_	_	_
+
+# Q002014.11
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	{d}iš-me-{d}da-gan	{d}iš-me-{d}da-gan	Išmedagan	RN	{d}iš-me-{d}da-gan	1	sux	N1=Išmedagan	N1=NAME	Išmedagan	RN	4th king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q002014.12
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri-ke₄	ki-uri	Akkad	GN	ki-uri-ke₄	1	sux	N1=Akkad.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Akkad.ak.e	GN	1	_	_	_	_	_	_	_
+
+# Q002014.13
+1	e₂-eš₃-me-daŋal-la	e₂-eš₃-me-daŋal-la	Eešmedaŋalak	TN	e₂-eš₃-me-daŋal-la	1	sux	N1=Eešmedaŋalak	N1=NAME	Eešmedaŋalak	TN	1	_	_	_	_	_	_	_
+
+# Q002014.14
+1	šutumₓ(|E₂.GI.NA.AB.TUM|)	šutumₓ(|E₂.GI.NA.AB.TUM|)	šutum	N	šutumₓ(|E₂.GI.NA.AB.TUM|)	storehouse	sux	N1=šutum	N1=STEM	šutum	N	storehouse	_	_	_	_	_	_	_
+2	kug-ga-ni	kug	kug	V/i	kug-ga-ni\abs	pure	sux	NV2=kug.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	kug.ani.ø	V/i	pure	_	_	_	_	_	_	_
+
+# Q002014.15
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q002014.16
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+2	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q002014.17
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

@@ -1,0 +1,20 @@
+#new_text=P101562
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	(x)	_	_	_	_	_	_	_	_
+2	2(u)	2(u)[ten]	NUM	NU	_	_	_	_	_
+3	geme2	geme[female_worker]	NOUN	N	Number=Sing	_	_	_	_
+4	iti	iti[month]	NOUN	N	Number=Sing	iti[month]	N	_	iti[month][-ak]
+5	1(u)	1(u)[ten]	NUM	NU	_	1(u)[ten]	NU	_	_
+6	3(disz)-sze3	3(disz)[one]	NUM	NU	_	_	_	_	_
+7	geme2	geme[female_worker]	NOUN	N	Number=Sing	_	_	_	_
+8	e2-lunga	elungak[brewery]	NOUN	N	Case=Gen,Abs|Number=Sing	_	_	_	_
+9	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+10	lugal-ezem-ta	Lugalezem[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	_	_	_	_
+11	da-da-a	Dada'a[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+12	i3-dab5	n]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	i[-n]-dab[seize][-ø]	FIN.3-SG-H-A.V.ABS	_	_
+13	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+14	{d}nanna	Nanna[1]	PROPN	DN	Animacy=Hum|Number=Sing	Nanna[1][-ak][-ø]	DN.GEN.ABS	_	Nanna[1][-ak]
+15	kar-zi-da	Karzida[1]	PROPN	SN	Case=Gen|Number=Sing	Karzida[-ak]	SN.GEN	_	Karzida[-ak][-ak][-ø]
+16	da-da-a	Dada'a[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+17	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	dubsar[scribe][-e]	N.ERG	_	dubsar[scribe][-ak]
+18	dug	dug[pot]	NOUN	N	Number=Sing	_	_	_	_

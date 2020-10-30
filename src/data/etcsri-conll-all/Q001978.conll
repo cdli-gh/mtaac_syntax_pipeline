@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q001978 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001978.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001978.1
+1	IR₃-{d}utu	IR₃-{d}utu	Waradšamaš	PN	IR₃-{d}utu	1	sux	N1=Waradšamaš	N1=NAME	Waradšamaš	PN	1
+
+# Q001978.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	zi-ya-tum	zi-ya-tum	Ziyatum	PN	zi-ya-tum\gen\abs	1	sux	N1=Ziyatum.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ziyatum.ak.ø	PN	1
+
+# Q001978.3
+1	arad	arad	arad	N	arad	slave	sux	N1=arad	N1=STEM	arad	N	slave, servant
+2	bur-{d}suen	bur-{d}suen	Bursuen	RN	bur-{d}suen\gen\abs	1	sux	N1=Bursuen.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Bursuen.ak.ø	RN	7th king of the dynasty of Isin
+

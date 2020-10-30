@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q004883 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004883.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004883.2
+1	ama	ama	ama	N	ama	mother	sux	N1=ama	N1=STEM	ama	N	mother
+2	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q004883.3
+1	kug	kug	kug	V/i	kug	pure	sux	NV2=kug	NV2=STEM	kug	V/i	pure
+2	{d}ŋa₂-tum₃-dug₃-ge	{d}ŋa₂-tum₃-dug₃	Ŋatumdug	DN	{d}ŋa₂-tum₃-dug₃-ge	1	sux	N1=Ŋatumdug.N5=e	N1=NAME.N5=ERG	Ŋatumdug.e	DN	1
+
+# Q004883.4
+1	zid-de₃-eš₂	zid	zid	V/i	zid-de₃-eš₂	right	sux	NV2=zid.N5=eš	NV2=STEM.N5=ADV	zid.eš	V/i	right
+2	mu-i-i	i-i	iʾi	V/t	mu-i-i	praise	sux	V4=mu.V11=n.V12=iʾi.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.iʾi.ø	V/t	to praise
+
+# Q004883.5
+1	lagaš{ki}-še₃	lagaš{ki}	Lagaš	SN	lagaš{ki}-še₃	1	sux	N1=Lagaš.N5=še	N1=NAME.N5=TERM	Lagaš.še	SN	1
+
+# Q004883.6
+1	x-si	_	_	_	x-si	_	sux	_	_	_	u	_
+
+# Q004883.7
+1	x-a	_	_	_	x-a	_	sux	_	_	_	u	_
+

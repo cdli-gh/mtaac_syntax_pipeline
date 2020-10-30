@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q002003 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002003.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q002003.1
+1	im-gur-{d}suen	im-gur-{d}suen	Imgursin	PN	im-gur-{d}suen	1	sux	N1=Imgursin	N1=NAME	Imgursin	PN	1
+
+# Q002003.2
+1	šabra	šabra	šabra	N	šabra	administrator	sux	N1=šabra	N1=STEM	šabra	N	chief administrator of a temple or other household
+
+# Q002003.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	{d}suen-i-di₂-na-am	{d}suen-i-di₂-na-am	Siniddinam	PN	{d}suen-i-di₂-na-am\gen\abs	1	sux	N1=Siniddinam.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Siniddinam.ak.ø	PN	1
+
+# Q002003.4
+1	arad	arad	arad	N	arad	slave	sux	N1=arad	N1=STEM	arad	N	slave, servant
+2	{d}suen-ma-gir	{d}suen-ma-gir	Sinmagir	RN	{d}suen-ma-gir\gen\abs	1	sux	N1=Sinmagir.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Sinmagir.ak.ø	RN	King of Isin
+

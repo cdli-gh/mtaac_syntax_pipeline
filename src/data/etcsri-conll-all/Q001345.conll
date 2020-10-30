@@ -1,0 +1,29 @@
+# project: etcsri 
+# textid: Q001345 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001345.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001345.1
+1	e₂-kur	e₂-kur	Ekur	PN	e₂-kur	1	sux	N1=Ekur	N1=NAME	Ekur	PN	1
+
+# Q001345.2
+1	ka-guru₇	ka-guru₇	kaguruk	N	ka-guru₇	supervisor	sux	N1=kaguruk	N1=STEM	kaguruk	N	granary supervisor
+2	unug{ki}	unug{ki}	Unug	SN	unug{ki}\gen\erg	1	sux	N1=Unug.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Unug.ak.e	SN	1
+
+# Q001345.3
+1	{d}dam-gal-nun	{d}dam-gal-nun	Damgalnunak	DN	{d}dam-gal-nun\abs	1	sux	N1=Damgalnunak.N5=ø	N1=NAME.N5=ABS	Damgalnunak.ø	DN	1
+
+# Q001345.4
+1	mu-tud	tud	utud	V/t	mu-tud	bear	sux	V4=mu.V11=n.V12=utud.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.utud.ø	V/t	fashion a statue, to bring a statue into being
+
+# Q001345.5
+1	e₂	e₂	e	N	e₂\abs	house	sux	N1=e.N5=ø	N=STEM.N5=ABS	e.ø	N	house, temple
+2	mu-du₃	du₃	du	V/t	mu-du₃\dat	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

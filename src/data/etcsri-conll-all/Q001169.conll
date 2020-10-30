@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q001169 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001169.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001169.1
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂\abs	1	sux	N1=Bau.N5=ø	N1=NAME.N5=ABS	Bau.ø	DN	1
+2	šud₃	šud₃	šud	N	šud₃	prayer	sux	N1=šud	N1=STEM	šud	N	prayer, dedication, blessing
+3	iri-ka-gen₆-na-ka-ke₄	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na-ka-ke₄\n5edat	1	sux	N1=Irikaginak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=DAT-NH	Irikaginak.ak.e	RN	Ruler of Lagaš
+
+# Q001169.2
+1	ba-gub	gub	gub	V/i	ba-gub\v14sg3s	stand	sux	V5=b.V7=a.V12=gub.V14=ø	V5=3-NH.V7=DAT.V12=STEM.V14=3-SG-S	b.a.gub.ø	V/i	stand
+
+# Q001169.3
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name
+

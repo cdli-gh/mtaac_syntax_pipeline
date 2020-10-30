@@ -1,0 +1,38 @@
+# project: etcsri 
+# textid: Q004368 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004368.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004368.1
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim
+
+# Q004368.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q004368.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\abs	1	sux	N1=Urim.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urim.ak.ø	SN	1
+
+# Q004368.4
+1	arad₂-{d}nanna	arad₂-{d}nanna	Aradnanna	PN	arad₂-{d}nanna	3	sux	N1=Aradnanna	N1=NAME	Aradnanna	PN	3
+
+# Q004368.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	a-a-kal-la	a-a-kal-la	Ayakala	PN	a-a-kal-la	4	sux	N1=Ayakala	N1=NAME	Ayakala	PN	4
+
+# Q004368.6
+1	muhaldim	muhaldim	muhaldim	N	muhaldim	cook	sux	N1=muhaldim	N1=STEM	muhaldim	N	cook
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great
+3	lugal	lugal	lugal	N	lugal\gen\gen\abs	king	sux	N1=lugal.N5=ak.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=GEN.N5=ABS	lugal.ak.ak.ø	N	king
+
+# Q004368.7
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

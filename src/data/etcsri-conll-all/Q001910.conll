@@ -1,0 +1,29 @@
+# project: etcsri 
+# textid: Q001910 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001910.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001910.1
+1	{d}inana	{d}inana	Inanak	DN	{d}inana\dat	1	sux	N1=Inanak.N5=ra	N1=NAME.N5=DAT-H	Inanak.ra	DN	1
+
+# Q001910.2
+1	pap-lal₃	pap-lal₃	Paplal	PN	pap-lal₃	1	sux	N1=Paplal	N1=NAME	Paplal	PN	1
+
+# Q001910.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	amar-sumun	amar-sumun	Amarsumun	PN	amar-sumun	1	sux	N1=Amarsumun	N1=NAME	Amarsumun	PN	1
+
+# Q001910.4
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household
+
+# Q001910.5
+1	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂\gen	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1
+

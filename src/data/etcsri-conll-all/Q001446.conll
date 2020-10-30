@@ -1,0 +1,46 @@
+# project: etcsri 
+# textid: Q001446 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001446.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001446.1
+1	{d}nin-ur₄-ra	{d}nin-ur₄-ra	Ninura	DN	{d}nin-ur₄-ra	1	sux	N1=Ninura	N1=NAME	Ninura	DN	1
+
+# Q001446.2
+1	ama	ama	ama	N	ama	mother	sux	N1=ama	N1=STEM	ama	N	mother
+2	umma{ki}-ra	umma{ki}	Umma	SN	umma{ki}-ra\gen\dat	1	sux	N1=Umma.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT	Umma.ak.ra	SN	1
+
+# Q001446.3
+1	nam-mah-ni	nam-mah-ni	Nammahni	PN	nam-mah-ni	2	sux	N1=Nammahni	N1=NAME	Nammahni	PN	Governor of Umma
+
+# Q001446.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001446.5
+1	umma{ki}-ke₄	umma{ki}	Umma	SN	umma{ki}-ke₄	1	sux	N1=Umma.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Umma.ak.e	SN	1
+
+# Q001446.6
+1	e₂-u₃-la-ni	e₂-u₃-la	Eula	TN	e₂-u₃-la-ni\abs	1	sux	N1=Eula.N3=ani.N5=ø	N1=NAME.N3=3-SG-H-POSS.N5=ABS	Eula.ani.ø	TN	1
+
+# Q001446.7
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+
+# Q001446.8
+1	ki-be₂	ki	ki	N	ki-be₂\n5el3	place	sux	N1=ki.N3=bi.N5=e	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	ki.bi.e	N	place
+2	mu-na-gi₄	gi₄	gi	V/i	mu-na-gi₄	turn	sux	V4=mu.V6=nn.V7=a.V11=n.V12=gi.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.gi.ø	V/i	turn
+
+# Q001446.9
+1	ud-ba	ud	ud	N	ud-ba	sun	sux	N1=ud.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	ud.bi.'a	N	day, sun
+2	ia₃-ar-la-ga-an	ia₃-ar-la-ga-an	Yarlagan	RN	ia₃-ar-la-ga-an\abs	1	sux	N1=Yarlagan.N5=ø	N1=NAME.N5=ABS	Yarlagan.ø	RN	King of Gutium
+
+# Q001446.10
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	gu-ti-um-kam	gu-ti-um	Gutium	GN	gu-ti-um-kam	1	sux	N1=Gutium.N5=ak.N6=am	N1=NAME.N5=GEN.N6=COP-3-SG	Gutium.ak.am	GN	1
+

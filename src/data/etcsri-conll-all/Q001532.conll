@@ -1,0 +1,30 @@
+# project: etcsri 
+# textid: Q001532 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001532.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001532.1
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1
+
+# Q001532.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001532.3
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen\abs	1	sux	N1=Lagaš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lagaš.ak.ø	SN	1
+
+# Q001532.4
+1	lugal-agrig-zid	lugal-agrig-zid	Lugalagrigzid	PN	lugal-agrig-zid	1	sux	N1=Lugalagrigzid	N1=NAME	Lugalagrigzid	PN	1
+
+# Q001532.5
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+
+# Q001532.6
+1	dumu-ni	dumu	dumu	N	dumu-ni\abs	child	sux	N1=dumu.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	dumu.ani.ø	N	child
+

@@ -1,0 +1,10 @@
+#new_text=P100459
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(gesz2)	1(gesz)[sixty]	NUM	NU	_	2	nummod	_	_
+2	sa	sa[bundle]	NOUN	N	Number=Sing	8	ABS	_	_
+3	gi	gi[reed]	NOUN	N	Case=Abs|Number=Sing	2	appos	_	_
+4	e2-udu	e'udu[sheephouse]	NOUN	N	Number=Sing	8	TERM	_	_
+5	du3-a	du[build]	VERB	V	_	4	amod	_	_
+6	lugal-nesag-e	Lugalnesage[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	8	ERG	_	_
+7	szu	szu[hand]	NOUN	N	Animacy=Nhum|Number=Sing	8	L3-NH	_	_
+8	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	_	_	_	_

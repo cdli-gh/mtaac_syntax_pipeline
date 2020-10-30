@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q001938 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001938.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001938.1
+1	{d}šu-i₃-li₂-šu	{d}šu-i₃-li₂-šu	Šuilišu	RN	{d}šu-i₃-li₂-šu	1	sux	N1=Šuilišu	N1=NAME	Šuilišu	RN	2nd king of the dynasty of Isin
+
+# Q001938.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001938.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	ma-da-na	ma-da	mada	N	ma-da-na\gen\abs	land	sux	N1=mada.N3=ani.N5=ak.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=ABS	mada.ani.ak.ø	N	land, country
+
+# Q001938.4
+1	ir₁₁-ra-x-x-ni	ir₁₁-ra-x-x-ni	Irra-X-ni	PN	ir₁₁-ra-x-x-ni	1	sux	N1=Irra-X-ni	N1=NAME	Irra-X-ni	PN	1
+
+# Q001938.5
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+
+# Q001938.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	lu₂-bala-sag₉-ga	lu₂-bala-sag₉-ga	Lubalasaga	PN	lu₂-bala-sag₉-ga\gen\abs	1	sux	N1=Lubalasaga.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lubalasaga.ak.ø	PN	1
+

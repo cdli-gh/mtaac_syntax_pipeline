@@ -1,0 +1,30 @@
+# project: etcsri 
+# textid: Q001856 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001856.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001856.1
+1	ur-{d}{aš}aš₇-gi₄	ur-{d}{aš}aš₇-gi₄	Urašgi	PN	ur-{d}{aš}aš₇-gi₄	2	sux	N1=Urašgi	N1=NAME	Urašgi	PN	Ur-Ašgi II, governor of Adab
+
+# Q001856.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+
+# Q001856.3
+1	adab{ki}	adab{ki}	Adab	SN	adab{ki}\gen\abs	1	sux	N1=Adab.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Adab.ak.ø	SN	1
+
+# Q001856.4
+1	nita-sag₉-ga	nita-sag₉-ga	Nitasaga	PN	nita-sag₉-ga	1	sux	N1=Nitasaga	N1=NAME	Nitasaga	PN	1
+
+# Q001856.5
+1	dub-sar	dub-sar	dubsar	N	dub-sar\abs	scribe	sux	N1=dubsar.N5=ø	N1=STEM.N5=ABS	dubsar.ø	N	scribe
+
+# Q001856.6
+1	dumu-ni	dumu	dumu	N	dumu-ni\abs	child	sux	N1=dumu.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	dumu.ani.ø	N	child
+

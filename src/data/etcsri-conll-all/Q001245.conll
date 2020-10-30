@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q001245 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001245.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001245.1
+1	me-silim	me-silim	Mesilim	RN	me-silim	1	sux	N1=Mesilim	N1=NAME	Mesilim	RN	King of Kiš
+
+# Q001245.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kiš	kiš	Kiš	SN	kiš\gen\erg	1	sux	N1=Kiš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Kiš.ak.e	SN	1
+
+# Q001245.3
+1	e₂-kiri₆	e₂-kiri₆	Ekiri	TN	e₂-kiri₆\l1	1	sux	N1=Ekiri.N5='a	N1=NAME.N5=L1	Ekiri.'a	TN	1
+
+# Q001245.4
+1	bur	bur	bur	N	bur\abs	bowl	sux	N1=bur.N5=ø	N1=STEM.N5=ABS	bur.ø	N	bowl
+2	mu-gi₄	gi₄	gi	V/i	mu-gi₄\v10l1	turn	sux	V4=mu.V10=ni.V11=n.V12=gi.V14=ø	V4=VEN.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.ni.n.gi.ø	V/i	turn
+
+# Q001245.5
+1	nin-kisal-si	nin-kisal-si	Ninkisalesi	RN	nin-kisal-si\abs	1	sux	N1=Ninkisalsi.N5=ø	N1=NAME.N5=ABS	Ninkisalsi.ø	RN	Ruler of Adab
+
+# Q001245.6
+1	ensiₓ(|GAR.PA.TE.SI|)	ensiₓ(|GAR.PA.TE.SI|)	ensik	N	ensiₓ(|GAR.PA.TE.SI|)	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+2	adab	adab	Adab	SN	adab\gen\abs	1	sux	N1=Adab.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Adab.ak.ø	SN	1
+

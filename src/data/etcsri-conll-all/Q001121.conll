@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q001121 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001121.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001121.1
+1	geme₂-{d}ba-u₂	geme₂-{d}ba-u₂	Gemebauk	PN	geme₂-{d}ba-u₂	1	sux	N1=Gemebauk	N1=NAME	Gemebauk	PN	Daughter of En-entarzid, ruler of Lagaš
+
+# Q001121.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	en-en₃-tar-zid	en-en₃-tar-zid	Enentarzid	RN	en-en₃-tar-zid	1	sux	N1=Enbieštar	N1=NAME	Enbieštar	RN	Ruler of Lagaš
+
+# Q001121.3
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household
+2	{d}nin-ŋir₂-su-ka	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka\gen\abs	1	sux	N1=Ninŋirsuk.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninŋirsuk.ak.ø	DN	1
+

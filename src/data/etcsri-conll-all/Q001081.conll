@@ -1,0 +1,60 @@
+# project: etcsri 
+# textid: Q001081 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001081.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001081.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	KI	_	_	_	KI	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001081.3
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001081.6
+1	kisal	kisal	kisal	N	kisal	courtyard	sux	N1=kisal	N1=STEM	kisal	N	courtyard	_	_	_	_	_	_	_
+2	{d}lugal-urub{ki}-ka-ke₄	{d}lugal-urub{ki}	Lugalurubak	DN	{d}lugal-urub{ki}-ka-ke₄	1	sux	N1=Lugalurubak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lugalurubak.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001081.7
+1	sa₂	sa₂	sa	N	sa₂\abs	equal	sux	NV2=sa.N5=ø	NV2=STEM.N5=ABS	sa.ø	V/t	equal	_	_	sa dug	arrive	to arrive, to cause to arrive (regularly)	V/t	V/t
+2	i₃-mi-dug₄-dug₄	dug₄-dug₄	dug	V/t	i₃-mi-dug₄-dug₄\v10l3	speak	sux	V2=i.V4=m.V5=b.V10=i.V11=n.V12=dugdug.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	i.m.b.i.n.dugdug.ø	V/t	speak	1	mwe	_	_	_	_	_
+
+# Q001081.8
+1	en-an-na-tum₂-me	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂-me	1	sux	N1=Enanatum.N5=e	N1=NAME.N5=ERG	Enanatum.e	RN	En-ana-tum I, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001081.9
+1	{d}ama-ŋeštin-an-na-ra	{d}ama-ŋeštin-an-na	Ŋeštinanak	DN	{d}ama-ŋeštin-an-na-ra	1	sux	N1=Ŋeštinanak.N5=ra	N1=NAME.N5=DAT-H	Ŋeštinanak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001081.12
+1	ud₅	ud₅	uzud	N	ud₅	goat	sux	N1=uzud	N1=STEM	uzud	N	goat	_	_	_	_	_	_	_
+2	zid	zid	zid	V/i	zid	right	sux	NV2=zid	NV2=STEM	zid	V/i	right	_	_	_	_	_	_	_
+
+# Q001081.13
+1	maš	maš	maš	N	maš	goat	sux	N1=maš	N1=STEM	maš	N	goat	_	_	_	_	_	_	_
+2	zid	zid	zid	V/i	zid\abs	right	sux	NV2=zid.N5=ø	NV2=STEM.N5=ABS	zid.ø	V/i	right	_	_	_	_	_	_	_
+3	i₃-mi-tum₂	tum₂	tum	V/t	i₃-mi-tum₂	lead	sux	V2=i.V4=m.V5=b.V10=i.V11=n.V12=tum.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.m.b.i.n.tum.ø	V/t	to lead	_	_	_	_	_	_	_
+
+# Q001081.14
+1	ab₂	ab₂	ab	N	ab₂	cow	sux	N1=ab	N1=STEM	ab	N	cow	_	_	_	_	_	_	_
+2	zid	zid	zid	V/i	zid	right	sux	NV2=zid	NV2=STEM	zid	V/i	right	_	_	_	_	_	_	_
+
+# Q001081.15
+1	amar	amar	amar	N	amar	young	sux	N1=amar	N1=STEM	amar	N	young	_	_	_	_	_	_	_
+2	zid	zid	zid	V/i	zid\abs	right	sux	NV2=zid.N5=ø	NV2=STEM.N5=ABS	zid.ø	V/i	right	_	_	_	_	_	_	_
+3	i₃-mi-tum₂	tum₂	tum	V/t	i₃-mi-tum₂	lead	sux	V2=i.V4=m.V5=b.V10=i.V11=n.V12=tum.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.m.b.i.n.tum.ø	V/t	to lead	_	_	_	_	_	_	_
+
+# Q001081.16
+1	eme₃	eme₃	eme	N	eme₃	donkey	sux	N1=eme	N1=STEM	eme	N	female donkey	_	_	_	_	_	_	_
+2	ama-{ša}šaganₓ(GAN)	ama-{ša}šaganₓ(GAN)	amašagan	N	ama-{ša}šaganₓ(GAN)	mother	sux	N1=amašagan	N1=STEM	amašagan	N	bearing mother (human and animal)	_	_	_	_	_	_	_
+
+# Q001081.17
+1	dur₉	dur₉	dur	N	dur₉	donkey	sux	N1=dur	N1=STEM	dur	N	donkey	_	_	_	_	_	_	_
+2	kaš₅-bi	kaš₅	kaš	N	kaš₅-bi\abs	runner	sux	N1=kaš.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	kaš.bi.ø	N	runner	_	_	_	_	_	_	_
+

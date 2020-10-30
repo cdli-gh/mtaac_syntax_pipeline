@@ -1,0 +1,27 @@
+# project: etcsri 
+# textid: Q003653 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003653.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003653.1
+1	1(u@c)	_	_	_	1(u@c)	_	sux	_	_	_	n	_
+2	5(aš@c)	_	_	_	5(aš@c)	_	sux	_	_	_	n	_
+3	giŋ₄	giŋ₄	giŋ	N	giŋ₄\abs	unit	sux	N1=giŋ.N5=ø	N1=STEM.N5=ABS	giŋ.ø	N	a unit of weight, shekel, a unit of area, a unit of volume
+
+# Q003653.2
+1	{d}nin-ŋir₂-su	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su\dat	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1
+
+# Q003653.3
+1	iri-ka-gen₆-na	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na	1	sux	N1=Irikaginak	N1=NAME	Irikaginak	RN	Ruler of Lagaš
+
+# Q003653.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	ŋir₂-su₂{ki}	ŋir₂-su₂{ki}	Ŋirsu	SN	ŋir₂-su₂{ki}\gen\abs	1	sux	N1=Ŋirsu.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ŋirsu.ak.ø	SN	1
+

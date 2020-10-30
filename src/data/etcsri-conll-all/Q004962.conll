@@ -1,0 +1,36 @@
+# project: etcsri 
+# textid: Q004962 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004962.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004962.1
+1	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	Ibbisuen	RN	{d}i-bi₂-{d}suen	1	sux	N1=Ibbisuen	N1=NAME	Ibbisuen	RN	5th king of the 3rd dynasty of Urim
+
+# Q004962.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q004962.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\abs	1	sux	N1=Urim.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urim.ak.ø	SN	1
+
+# Q004962.4
+1	iš-ku-un-e₂-a	iš-ku-un-e₂-a	Iškunea	PN	iš-ku-un-e₂-a	1	sux	N1=Iškunea	N1=NAME	Iškunea	PN	1
+
+# Q004962.5
+1	nu-banda₃	nu-banda₃	nubanda	N	nu-banda₃	overseer	sux	N1=nubanda	N1=STEM	nubanda	N	overseer
+
+# Q004962.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	kur-bi-la-ak	kur-bi-la-ak	Kurbilak	PN	kur-bi-la-ak\gen\abs	1	sux	N1=Kurbilak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Kurbilak.ak.ø	PN	1
+
+# Q004962.7
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

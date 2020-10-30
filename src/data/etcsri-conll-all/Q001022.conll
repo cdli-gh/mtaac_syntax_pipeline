@@ -1,0 +1,48 @@
+# project: etcsri 
+# textid: Q001022 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001022.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001022.1
+1	ur-{d}nanše	ur-{d}nanše	Urnanše	RN	ur-{d}nanše	1	sux	N1=Urnanše	N1=NAME	Urnanše	RN	King of Lagaš
+
+# Q001022.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001022.3
+1	lagaš	lagaš	Lagaš	SN	lagaš\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001022.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	gu-|NI.DU|	gu-|NI.DU|	Gu-NI.DU	PN	gu-|NI.DU|\gen\erg	1	sux	N1=GU-NI.DU.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	GU-NI.ak.e	PN	1
+
+# Q001022.5
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	nin-ŋir₂-su₂	nin-ŋir₂-su₂	Ninŋirsuk	DN	nin-ŋir₂-su₂\gen\abs	1	sux	N1=Ninŋirsuk.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninŋirsuk.ak.ø	DN	1
+
+# Q001022.6
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001022.7
+1	lugal-ezen	lugal-ezen	Lugalezen	PN	lugal-ezen\abs	1	sux	N1=Lugalezen.N5=ø	N1=NAME.N5=ABS	Lugalezen.ø	PN	1
+
+# Q001022.8
+1	gu-la	gu-la	Gula	PN	gu-la\abs	1	sux	N1=Gula.N5=ø	N1=NAME.N5=ABS	Gula.ø	PN	1
+
+# Q001022.9
+1	a₂-ni-ta	a₂-ni-ta	Anita	PN	a₂-ni-ta\abs	1	sux	N1=Anita.N5=ø	N1=NAME.N5=ABS	Anita.ø	PN	1
+
+# Q001022.10
+1	aya₂-kur-gal	aya₂-kur-gal	Ayakurgal	RN	aya₂-kur-gal	1	sux	N1=Ayakurgal	N1=NAME	Ayakurgal	RN	Ruler of Lagaš
+2	dumu	dumu	dumu	N	dumu\abs	child	sux	N1=dumu.N5=ø	N1=STEM.N5=ABS	dumu.ø	N	child
+
+# Q001022.11
+1	barag-{sa}sag₇-nu-di	barag-{sa}sag₇-nu-di	Baragsagnudi	PN	barag-{sa}sag₇-nu-di\abs	1	sux	N1=Baragsagnudi.N5=ø	N1=NAME.N5=ABS	Baragsagnudi.ø	PN	1
+

@@ -1,0 +1,28 @@
+# project: etcsri 
+# textid: Q001519 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001519.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001519.2
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+
+# Q001519.3
+1	e₂-ninnu-anzud₂{mušen}-babbar₂	e₂-ninnu-anzud₂{mušen}-babbar₂	Eninnu-anzubabbar	TN	e₂-ninnu-anzud₂{mušen}-babbar₂	1	sux	N1=Eninnu-anzubabbar	N1=NAME	Eninnu-anzubabbar	TN	1
+
+# Q001519.4
+1	{d}nin-ŋir₂-su-ka	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka\abs	1	sux	N1=Ninŋirsuk.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninŋirsuk.ak.ø	DN	1
+
+# Q001519.5
+1	in-du₃-a	du₃	du	V/t	in-du₃-a\erg	build	sux	V2=i.V11=n.V12=du.V14=ø.V15='a.N5=e	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ERG	i.n.du.ø.'a.e	V/t	to build
+
+# Q001519.6
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+

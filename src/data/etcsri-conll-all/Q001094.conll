@@ -1,0 +1,143 @@
+# project: etcsri 
+# textid: Q001094 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001094.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001094.1
+1	{d}nin-ŋir₂-su₂	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1	_	_	_	_	_	_	_
+
+# Q001094.2
+1	ur-saŋ	ur-saŋ	ursaŋ	N	ur-saŋ	hero	sux	N1=ursaŋ	N1=STEM	ursaŋ	N	hero, warrior	_	_	_	_	_	_	_
+2	{d}en-lilₓ(E₂)-ra	{d}en-lilₓ(E₂)	Enlil	DN	{d}en-lilₓ(E₂)-ra\gen\dat	1	sux	N1=Enlil.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Enlil.ak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001094.3
+1	en-mete-na	en-mete-na	Enmetenak	RN	en-mete-na	1	sux	N1=Enmetenak	N1=NAME	Enmetenak	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001094.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001094.5
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001094.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	en-an-na-tum₂	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂	1	sux	N1=Enanatum	N1=NAME	Enanatum	RN	En-ana-tum I, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001094.7
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001094.8
+1	lagaš{ki}-ka-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-ke₄	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001094.9
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great	_	_	_	_	_	_	_
+3	an-ta-sur-ra	an-ta-sur-ra	Antasura	TN	an-ta-sur-ra\gen\abs	1	sux	N1=Antasura.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Antasura.ak.ø	TN	1	_	_	_	_	_	_	_
+
+# Q001094.10
+1	{d}nin-ŋir₂-su₂-ra	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001094.11
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001094.12
+1	kug-sig₁₇	kug-sig₁₇	kugsig	N	kug-sig₁₇	gold	sux	N1=kugsig	N1=STEM	kugsig	N	gold	_	_	_	_	_	_	_
+2	kug-babbar₂-ra	kug-babbar₂	kugbabbar	N	kug-babbar₂-ra\l1	silver	sux	N1=kugbabbar.N5='a	N1=STEM.N5=L1	kugbabbar.'a	N	silver	_	_	_	_	_	_	_
+
+# Q001094.13
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand	_	_	_	_	_	_	_
+2	mu-na-ni-tag	tag	tag	V/t	mu-na-ni-tag	touch	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=tag.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.tag.ø	V/t	touch	_	_	_	_	_	_	_
+
+# Q001094.14
+1	kiri₆	kiri₆	kiri	N	kiri₆	orchard	sux	N1=kiri	N1=STEM	kiri	N	(fruit) plantation, orchard	_	_	_	_	_	_	_
+2	e₂-šag₄-ga	e₂-šag₄	ešag	N	e₂-šag₄-ga\gen\abs	chamber	sux	N1=ešag.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	ešag.ak.ø	N	chamber, personal quarters	_	_	_	_	_	_	_
+3	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001094.15
+1	pu₂	pu₂	pu	N	pu₂	well	sux	N1=pu	N1=STEM	pu	N	well	_	_	_	_	_	_	_
+2	šeg₁₂	šeg₁₂	šeg	N	šeg₁₂	brick	sux	N1=šeg	N1=STEM	šeg	N	brick	_	_	_	_	_	_	_
+3	alurₓ(BAHAR₂)-ra	alurₓ(BAHAR₂)	ur	V/t	alurₓ(BAHAR₂)-ra\gen\abs	bake	sux	V2=al.V12=ur.V14=ø.V15='a.N5=ak.N5=ø	V2=FIN.V12=STEM.V14=3-SG-S.V15=SUB.N5=GEN.N5=ABS	al.ur.ø.'a.ak.ø	V/t	bake (bricks, bread, etc.)	_	_	_	_	_	_	_
+
+# Q001094.16
+1	mu-na-ni-sig₉-sig₉	sig₉-sig₉	sig	V/t	mu-na-ni-sig₉-sig₉	put	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=sigsig.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	mu.nn.a.ni.n.sigsig.ø	V/t	put	_	_	_	_	_	_	_
+
+# Q001094.17
+1	ud-ba	ud	ud	N	ud-ba	sun	sux	N1=ud.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	ud.bi.'a	N	day, sun	_	_	_	_	_	_	_
+
+# Q001094.18
+1	arad₂-ra-ni	arad₂	arad	N	arad₂-ra-ni	slave	sux	N1=arad.N3=ani	N1=STEM.N3=3-SG-H-POSS	arad.ani	N	slave, servant	_	_	_	_	_	_	_
+
+# Q001094.19
+1	du-du	du-du	Dudu	PN	du-du	1	sux	N1=Dudu	N1=NAME	Dudu	PN	1	_	_	_	_	_	_	_
+
+# Q001094.20
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household	_	_	_	_	_	_	_
+2	{d}nin-ŋir₂-su₂-ka-ke₄	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka-ke₄	1	sux	N1=Ninŋirsuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninŋirsuk.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001094.21
+1	bad₃	bad₃	bad	N	bad₃	wall	sux	N1=bad	N1=STEM	bad	N	wall, fortification	_	_	_	_	_	_	_
+2	da	da	dag	N	da	line	sux	N1=da	N1=STEM	da	N	line, side, edge	_	_	_	_	_	_	_
+3	sala₄	sala₄	Sala	GN	sala₄\gen	1	sux	N1=Sala.N5=ak	N1=NAME.N5=GEN	Sala.ak	GN	1	_	_	_	_	_	_	_
+
+# Q001094.22
+1	gu₂-eden-na-ka	gu₂-eden-na	Guedenak	GN	gu₂-eden-na-ka\gen\abs	1	sux	N1=Guedenak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Guedenak.ak.ø	GN	1	_	_	_	_	_	_	_
+
+# Q001094.23
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001094.24
+1	e₂	e₂	e	N	e₂\abs	house	sux	N1=e.N5=ø	N=STEM.N5=ABS	e.ø	N	house, temple	_	_	_	_	_	_	_
+2	igi	igi	igi	N	igi\abs	eye	sux	N1=igi.N5=ø	N1=STEM.N5=ABS	igi.ø	N	eye	_	_	igi il₂	look	to look at/towards, to choose	V/t	V/t
+3	il₂	il₂	il	V/t	il₂	raise	sux	NV2=il	NV2=STEM	il	V/t	raise	2	mwe	_	_	_	_	_
+4	eden-na	eden	eden	N	eden-na\gen\abs	plain	sux	N1=eden.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	eden.ak.ø	N	plain, steppe, open country	_	_	_	_	_	_	_
+
+# Q001094.25
+1	mu	mu	mu	N	mu\term	name	sux	N1=mu.N5=še	N1=STEM.N5=TERM	mu.še	N	name	_	_	_	_	_	_	_
+2	mu-na-še₂₁	še₂₁	še	V/t	mu-na-še₂₁	call	sux	V4=mu.V6=nn.V7=a.V11=n.V12=še.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.še.ø	V/t	call	_	_	_	_	_	_	_
+
+# Q001094.26
+1	bad₃	bad₃	bad	N	bad₃	wall	sux	N1=bad	N1=STEM	bad	N	wall, fortification	_	_	_	_	_	_	_
+2	kar	kar	kar	N	kar	harbor	sux	N1=kar	N1=STEM	kar	N	harbor	_	_	_	_	_	_	_
+3	ma₂-addirₓ(|PAD.DUG.GIŠ.SI|)	ma₂-addirₓ(|PAD.DUG.GIŠ.SI|)	maʾaddir	N	ma₂-addirₓ(|PAD.DUG.GIŠ.SI|)	ferryboat	sux	N1=maʾaddir	N1=STEM	maʾaddir	N	ferryboat, boat for hire	_	_	_	_	_	_	_
+
+# Q001094.27
+1	ŋir₂-su₂{ki}-ka	ŋir₂-su₂{ki}	Ŋirsu	SN	ŋir₂-su₂{ki}-ka\abs	1	sux	N1=Ŋirsu.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Ŋirsu.ak.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001094.28
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001094.29
+1	en	en	en	N	en\abs	lord	sux	N1=en.N5=ø	N1=STEM.N5=ABS	en.ø	N	lord	_	_	_	_	_	_	_
+2	zi-šag₄-ŋal₂	zi-šag₄-ŋal₂	zišagŋal	N	zi-šag₄-ŋal₂\abs	encouragement	sux	N1=zišagŋal.N5=ø	N1=STEM.N5=ABS	zišagŋal.ø	N	encouragement	_	_	_	_	_	_	_
+
+# Q001094.30
+1	mu	mu	mu	N	mu\term	name	sux	N1=mu.N5=še	N1=STEM.N5=TERM	mu.še	N	name	_	_	_	_	_	_	_
+2	mu-na-še₂₁	še₂₁	še	V/t	mu-na-še₂₁	call	sux	V4=mu.V6=nn.V7=a.V11=n.V12=še.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.še.ø	V/t	call	_	_	_	_	_	_	_
+
+# Q001094.31
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni	deity	sux	N1=diŋir.N3=ani	N1=STEM.N3=3-SG-H-POSS	diŋir.ani	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001094.32
+1	{d}šul-|MUŠ×PA|	{d}šul-|MUŠ×PA|	Šul-MUŠ×PA	DN	{d}šul-|MUŠ×PA|\erg	1	sux	N1=Šul-|MUŠ×PA|.N5=e	N1=NAME.N5=ERG	Šul-|MUŠ×PA|.e	DN	1	_	_	_	_	_	_	_
+
+# Q001094.33
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q001094.34
+1	{d}nin-ŋir₂-su₂-ra	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001094.35
+1	e₂-ninnu-a	e₂-ninnu	Eninnu	TN	e₂-ninnu-a	1	sux	N1=Eninnu.N5='a	N1=NAME.N5=L1	Eninnu.'a	TN	1	_	_	_	_	_	_	_
+
+# Q001094.36
+1	giri₁₇	giri₁₇	giri	N	giri₁₇\l3	nose	sux	N1=giri.N5=e	N1=STEM.N5=L3-NH	giri.e	N	nose	_	_	_	_	_	_	_
+2	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand	_	_	_	_	_	_	_
+3	he₂-na-še₃-ŋal₂	ŋal₂	ŋal	V/i	he₂-na-še₃-ŋal₂	be	sux	V1=ha.V2=i.V6=nn.V7=a.V9=ši.V11=n.V12=ŋal.V14=ø	V1=MOD1.V2=FIN.V6=3-SG-H.V7=DAT.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ha.i.nn.a.ši.n.ŋal.ø	V/i	be	_	_	_	_	_	_	_
+

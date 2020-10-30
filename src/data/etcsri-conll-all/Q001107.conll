@@ -1,0 +1,91 @@
+# project: etcsri 
+# textid: Q001107 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001107.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001107.1
+1	{d}nin-ŋir₂-su₂	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1	_	_	_	_	_	_	_
+
+# Q001107.2
+1	ur-saŋ	ur-saŋ	ursaŋ	N	ur-saŋ	hero	sux	N1=ursaŋ	N1=STEM	ursaŋ	N	hero, warrior	_	_	_	_	_	_	_
+2	{d}en-lilₓ(E₂)-ra	{d}en-lilₓ(E₂)	Enlil	DN	{d}en-lilₓ(E₂)-ra\gen\dat	1	sux	N1=Enlil.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Enlil.ak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001107.3
+1	en-mete-na	en-mete-na	Enmetenak	RN	en-mete-na	1	sux	N1=Enmetenak	N1=NAME	Enmetenak	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001107.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001107.5
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001107.6
+1	šag₄	šag₄	šag	N	šag₄\l3	heart	sux	N1=šag.N5=e	N1=STEM.N5=L3-NH	šag.e	N	heart, inner body	_	_	_	_	_	_	_
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q001107.7
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše\gen	1	sux	N1=Nanše.N5=ak	N1=NAME.N5=GEN	Nanše.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001107.8
+1	ensi₂-gal	ensi₂-gal	ensikgal	N	ensi₂-gal	governor	sux	N1=ensikgal	N1=STEM	ensikgal	N	chief governor	_	_	_	_	_	_	_
+
+# Q001107.9
+1	{d}nin-ŋir₂-su₂-ka	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka	1	sux	N1=Ninŋirsuk.N5=ak	N1=NAME.N5=GEN	Ninŋirsuk.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001107.10
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	en-an-na-tum₂	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂	1	sux	N1=Enanatum	N1=NAME	Enanatum	RN	En-ana-tum I, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001107.11
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001107.12
+1	lagaš{ki}-ka-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-ke₄	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001107.13
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	an-na-aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	an-na-aŋ₂-ŋa₂-ni	measure	sux	V2=a.V6=nn.V7=a.V11=n.V12=aŋ.V14=ø.V15='a.N3=ani	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N3=3-SG-H-POSS	a.nn.a.n.aŋ.ø.'a.ani	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001107.14
+1	{d}nin-ŋir₂-su₂-ra	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001107.15
+1	gur₄-gur₄	gur₄-gur₄	gurgur	N	gur₄-gur₄	vessel	sux	N1=gurgur	N1=STEM	gurgur	N	a vessel, a unit of liquid capacity	_	_	_	_	_	_	_
+2	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver	_	_	_	_	_	_	_
+3	luh-ha	luh	luh	V/t	luh-ha\gen	clean	sux	NV2=luh.NV4='a.N5=ak	NV2=STEM.NV4=SUB.N5=GEN	luh.'a.ak	V/t	clean, wash	_	_	_	_	_	_	_
+4	i₃	i₃	i	N	i₃	oil	sux	N1=i	N1=STEM	i	N	oil	_	_	_	_	_	_	_
+5	itud-da	itud	itud	N	itud-da\gen\abs	moon	sux	N1=itud.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	itud.ak.ø	N	moon, moonlight	_	_	_	_	_	_	_
+6	{d}nin-ŋir₂-su₂-ke₄	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ke₄	1	sux	N1=Ninŋirsuk.N5=e	N1=NAME.N5=ERG	Ninŋirsuk.e	DN	1	_	_	_	_	_	_	_
+7	ab-ta-gu₇-a	gu₇	gu	V/t	ab-ta-gu₇-a\abs	eat	sux	V2=a.V5=b.V9=ta.V12=gu.V14=e.V16='a.N5=ø	V2=FIN.V5=3-NH.V9=ABL.V12=STEM.V14=3-SG-A.V15=SUB.N5=ABS	a.b.ta.gu.e.'a.ø	V/t	eat, consume	_	_	_	_	_	_	_
+
+# Q001107.16
+1	mu-na-dim₂	dim₂	dim	V/t	mu-na-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create	_	_	_	_	_	_	_
+
+# Q001107.17
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q001107.18
+1	{d}nin-ŋir₂-su₂	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1	_	_	_	_	_	_	_
+
+# Q001107.19
+1	e₂-ninnu-ra	e₂-ninnu	Eninnu	TN	e₂-ninnu-ra	1	sux	N1=Eninnu.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Eninnu.ak.ra	TN	1	_	_	_	_	_	_	_
+
+# Q001107.20
+1	mu-na-gub	gub	gub	V/i	mu-na-gub	stand	sux	V4=mu.V6=nn.V7=a.V11=n.V12=gub.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=gub.V14=3-SG-P	mu.nn.a.n.gub.ø	V/i	stand	_	_	_	_	_	_	_
+
+# Q001107.21
+1	ud-ba	ud	ud	N	ud-ba	sun	sux	N1=ud.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	ud.bi.'a	N	day, sun	_	_	_	_	_	_	_
+2	du-du	du-du	Dudu	PN	du-du\abs	1	sux	N1=Dudu.N5=ø	N1=NAME.N5=ABS	Dudu.ø	PN	1	_	_	_	_	_	_	_
+
+# Q001107.22
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household	_	_	_	_	_	_	_
+2	{d}nin-ŋir₂-su₂-ka-kam	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka-kam	1	sux	N1=Ninŋirsuk.N5=ak.N5=ø.N6=am	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Ninŋirsuk.ak.ø.am	DN	1	_	_	_	_	_	_	_
+

@@ -1,0 +1,34 @@
+# project: etcsri 
+# textid: Q001900 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001900.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001900.2
+1	numun-na-ni	numun	numun	N	numun-na-ni\abs	seed	sux	N1=numun.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	numun.ani.ø	N	seed
+
+# Q001900.3
+1	he₂-eb₂-til-le	til	til	V/i	he₂-eb₂-til-le	complete	sux	V1=ha.V2=i.V11=b.V12=til.V14=e	V1=MOD1.V2=FIN.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A	ha.i.b.til.e	V/i	complete
+
+# Q001900.4
+1	tukum-bi	tukum-bi	tukumbi	CNJ	tukum-bi	if	sux	tukumbi	STEM	tukumbi	CNJ	if
+
+# Q001900.5
+1	gu₂-ne-saŋ-ŋa₂-ta	gu₂-ne-saŋ-ŋa₂	gunesaŋa	N	gu₂-ne-saŋ-ŋa₂-ta	cupboard	sux	N1=gunesaŋa.N5=ta	N1=STEM.N5=ABL	gunesaŋa.ta	N	cupboard
+
+# Q001900.6
+1	u₄-ub-ta-e₃	e₃	e	V/i	u₄-ub-ta-e₃	leave	sux	V1=u.V5=b.V9=ta.V11=n.V12=e.V14=ø	V1=ANT.V5=3-NH.V9=ABL.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	u.b.ta.n.e.ø	V/i	to leave, go out
+
+# Q001900.7
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	niŋ₂-gur₁₁-ra-ka	niŋ₂-gur₁₁	niŋgur	N	niŋ₂-gur₁₁-ra-ka	property	sux	N1=niŋgur.N5=ak.N5='a	N1=STEM.N5=GEN.N5=L1	niŋgur.ak.'a	N	property
+
+# Q001900.8
+1	x-ni-ku₄-ku₄-x	ku₄-ku₄	kur	V/i	x-ni-ku₄-ku₄-x	enter	sux	x	X	x	V/i	enter
+

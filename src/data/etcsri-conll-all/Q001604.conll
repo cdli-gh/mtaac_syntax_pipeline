@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q001604 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001604.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001604.2
+1	{d}šul-x	{d}šul-x	Šul-X	DN	{d}šul-x	1	sux	N1=Šul-X	N1=NAME	Šul-X	DN	1
+
+# Q001604.3
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni\dat	deity	sux	N1=diŋir.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	diŋir.ani.ra	N	deity, personal god
+
+# Q001604.4
+1	e₃-a	e₃	e	V/i	e₃-a	leave	sux	NV2=e.NV4='a	NV2=STEM.NV4=SUB	e.'a	V/i	to leave, go out
+2	x-x	_	_	_	x-x	_	sux	_	_	_	u	_
+

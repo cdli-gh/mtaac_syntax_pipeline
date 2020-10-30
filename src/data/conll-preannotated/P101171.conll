@@ -1,0 +1,25 @@
+#new_text=P101171
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	dug	dug[pot]	NOUN	N	Number=Sing	0	_	_	_
+3	dida	dida[wort]	NOUN	N	Number=Sing	2	appos	_	_
+4	du	gin[quality_designation]	VERB	V	_	3	amod	_	_
+5	3(ban2)	3(ban)[unit]	NOUN	N	Number=Sing	23	DAT-H	_	_
+6	3(ban2)	3(ban)[unit]	NOUN	N	Number=Sing	5	nummod	_	_
+7	zi3	zid[flour]	NOUN	N	Number=Sing	5	appos	_	_
+8	1/2(disz)	1/2(disz)[one]	NUM	NU	_	9	nummod	_	_
+9	sila3	sila[unit]	NOUN	N	Number=Sing	5	appos	_	_
+10	szum2	szum[garlic]	NOUN	N	Number=Sing	5	appos	_	_
+11	1(disz)	1(disz)[one]	NUM	NU	_	12	nummod	_	_
+12	sila3	sila[unit]	NOUN	N	Number=Sing	5	appos	_	_
+13	i3-gesz	igesz[oil]	NOUN	N	Number=Sing	5	appos	_	_
+14	szu-{d}en-lil2-la2	Szu'enlilla[1]	PROPN	PN	Animacy=Hum|Number=Sing	5	appos	_	_
+15	lu2	lu[person]	NOUN	N	Number=Sing	23	L1	_	_
+16	kin-gi4-a	kiggia[messenger]	NOUN	N	Number=Sing	15	appos	_	_
+17	sig4	szeg[brick]	NOUN	N	Number=Sing	15	appos	_	_
+18	ar-ha	brick]	NOUN	N	Number=Sing	15	appos	_	_
+19	iti	iti[month]	NOUN	N	Number=Sing	15	appos	_	_
+20	{d}li9-si4	Lisi[1]	PROPN	MN	Number=Sing	15	appos	_	_
+21	mu	mu[year]	NOUN	N	Number=Sing	23	ABS	_	_
+22	si-ma-num2{ki}	Simanum[1]	PROPN	SN	Case=Abs|Number=Sing	21	appos	_	_
+23	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_

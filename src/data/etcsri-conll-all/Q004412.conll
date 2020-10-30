@@ -1,0 +1,35 @@
+# project: etcsri 
+# textid: Q004412 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004412.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004412.1
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim
+
+# Q004412.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q004412.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\abs	1	sux	N1=Urim.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urim.ak.ø	SN	1
+
+# Q004412.4
+1	lu₂-x-x	lu₂-x-x	LU₂.X	PN	lu₂-x-x	5	sux	N1=LU₂.X	N1=NAME	LU₂.X	PN	5
+
+# Q004412.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ur-{d}ba-u₂	ur-{d}ba-u₂	Urbauk	PN	ur-{d}ba-u₂	7	sux	N1=Urbauk	N1=NAME	Urbauk	PN	7
+3	muhaldim	muhaldim	muhaldim	N	muhaldim	cook	sux	N1=muhaldim	N1=STEM	muhaldim	N	cook
+4	lugal	lugal	lugal	N	lugal\gen\gen\abs	king	sux	N1=lugal.N5=ak.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=GEN.N5=ABS	lugal.ak.ak.ø	N	king
+
+# Q004412.6
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

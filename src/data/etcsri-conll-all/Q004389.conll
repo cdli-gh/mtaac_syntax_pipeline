@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q004389 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004389.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004389.1
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim
+
+# Q004389.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga\abs	strong	sux	NV2=kalag.NV4='a.N5=ø	NV2=STEM.NV4=SUB.N5=ABS	kalag.'a.ø	V/i	strong
+
+# Q004389.3
+1	i₃-li₂-be-li₂	i₃-li₂-be-li₂	Ilibeli	PN	i₃-li₂-be-li₂	1	sux	N1=Ilibeli	N1=NAME	Ilibeli	PN	1
+
+# Q004389.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	hu-un-um	hu-un-um	Hunum	PN	hu-un-um\gen\abs	1	sux	N1=Hunum.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Hunum.ak.ø	PN	1
+

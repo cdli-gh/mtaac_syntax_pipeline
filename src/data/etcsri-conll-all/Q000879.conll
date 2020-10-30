@@ -1,0 +1,38 @@
+# project: etcsri 
+# textid: Q000879 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000879.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q000879.1
+1	{d}nanna	{d}nanna	Nanna	DN	{d}nanna	1	sux	N1=Nanna	N1=NAME	Nanna	DN	1
+
+# Q000879.2
+1	lugal-a-ni	lugal	lugal	N	lugal-a-ni\dat	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king
+
+# Q000879.3
+1	lu₂-sag₉-ga	lu₂-sag₉-ga	Lusaga	RN	lu₂-sag₉-ga	1	sux	N1=Lusaga	N1=NAME	Lusaga	RN	Ruler of Urim
+
+# Q000879.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q000879.5
+1	urim₅{ki}-ma-ke₄	urim₅{ki}	Urim	SN	urim₅{ki}-ma-ke₄	1	sux	N1=Urim.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Urim.ak.e	SN	1
+
+# Q000879.6
+1	ki-sur-ra-ni	ki-sur-ra	kisura	N	ki-sur-ra-ni\abs	border	sux	N1=kisura.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	kisura.ani.ø	N	border
+
+# Q000879.7
+1	ka-ta	ka	kag	N	ka-ta	mouth	sux	N1=kag.N5=ta	N1=STEM.N5=ABS	kag.ta	N	mouth
+2	mu-na-ta-e₃	e₃	e	V/i	mu-na-ta-e₃	leave	sux	V4=mu.V6=nn.V7=a.V9=ta.V11=n.V12=e.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V9=ABL.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ta.n.e.ø	V/i	to leave, go out
+
+# Q000879.8
+1	barag	barag	barag	N	barag\abs	dais	sux	N1=barag.N5=ø	N1=STEM.N5=ABS	barag.ø	N	dais
+2	mu-sig₉	sig₉	sig	V/t	mu-sig₉	put	sux	V4=mu.V11=n.V12=sig.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.sig.ø	V/t	put
+

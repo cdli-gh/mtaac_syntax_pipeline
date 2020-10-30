@@ -1,0 +1,59 @@
+# project: etcsri 
+# textid: Q004247 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004247.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004247.1
+1	{d}nin-šubur	{d}nin-šubur	Ninšubur	DN	{d}nin-šubur\dat	1	sux	N1=Ninšubur.N5=ra	N1=NAME.N5=DAT-H	Ninšubur.ra	DN	1	_	_	_	_	_	_	_
+
+# Q004247.2
+1	ur-akkilₓ(|AB.KID|)-la₂	ur-akkilₓ(|AB.KID|)-la₂	Urakkilak	PN	ur-akkilₓ(|AB.KID|)-la₂	1	sux	N1=Urakkilak	N1=NAME	Urakkilak	PN	1	_	_	_	_	_	_	_
+2	šu-i	šu-i	šuʾi	N	šu-i\erg	barber	sux	N1=šuʾi.N5=e	N1=STEM.N5=ERG	šuʾi.e	N	barber	_	_	_	_	_	_	_
+
+# Q004247.3
+1	nam-til₃-la-ni-da	nam-til₃	namtil	N	nam-til₃-la-ni-da	life	sux	N1=namtil.N3=ani.N5=da	N1=STEM.N3=3-SG-H-POSS.N5=COM	namtil.ani.da	N	life	_	_	_	_	_	_	_
+
+# Q004247.4
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-ru	ru	ru	V/t	mu-ru\dat	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+
+# Q004247.5
+1	gan-utu	gan-utu	Ganutuk	PN	gan-utu\abs	1	sux	N1=Ganutuk.N5=ø	N1=NAME.N5=ABS	Ganutuk.ø	PN	1	_	_	_	_	_	_	_
+
+# Q004247.6
+1	dam-ni	dam	dam	N	dam-ni\cop	spouse	sux	N1=dam.N3=ani.N5=ø.N6=am	N1=STEM.N3=3-SG-H-POSS.N5=ABS.N6=COP-3-SG	dam.ani.ø.am	N	spouse	_	_	_	_	_	_	_
+
+# Q004247.7
+1	gan-šubur	gan-šubur	Ganšuburak	PN	gan-šubur	1	sux	N1=Ganšuburak	N1=NAME	Ganšuburak	PN	1	_	_	_	_	_	_	_
+
+# Q004247.8
+1	me-ki-kug-ta	me-ki-kug-ta	Mekikugta	PN	me-ki-kug-ta	1	sux	N1=Mekikugta	N1=NAME	Mekikugta	PN	1	_	_	_	_	_	_	_
+
+# Q004247.9
+1	ur-saŋ-utu	ur-saŋ-utu	Ursaŋutu	PN	ur-saŋ-utu	1	sux	N1=Ursaŋutu	N1=NAME	Ursaŋutu	PN	1	_	_	_	_	_	_	_
+
+# Q004247.10
+1	inim-utu-zid	inim-utu-zid	Inimutuzid	PN	inim-utu-zid	1	sux	N1=Inimutuzid	N1=NAME	Inimutuzid	PN	1	_	_	_	_	_	_	_
+
+# Q004247.11
+1	KA-TAR-x	KA-TAR-x	KA.TAR.X	PN	KA-TAR-x	1	sux	N1=KA.TAR.X	N1=NAME	KA.TAR.X	PN	1	_	_	_	_	_	_	_
+
+# Q004247.12
+1	KASKAL-TAR	KASKAL-TAR	KASKAL.TAR	PN	KASKAL-TAR	1	sux	N1=KASKAL.TAR	N1=NAME	KASKAL.TAR	PN	1	_	_	_	_	_	_	_
+
+# Q004247.13
+1	MAŠ	MAŠ	MAŠ	PN	MAŠ	1	sux	N1=MAŠ	N1=NAME	MAŠ	PN	1	_	_	_	_	_	_	_
+
+# Q004247.14
+1	nin-i₃-zu-zu	nin-i₃-zu-zu	Ninizuzu	PN	nin-i₃-zu-zu\abs	1	sux	N1=Ninizuzu.N5=ø	N1=NAME.N5=ABS	Ninizuzu.ø	PN	1	_	_	_	_	_	_	_
+
+# Q004247.15
+1	dumu-ni-me	dumu	dumu	N	dumu-ni-me	child	sux	N1=dumu.N3=ani.N5=ø.N6=meš	N1=STEM.N3=3-SG-H-POSS.N5=ABS.N6=COP-3-PL	dumu.ani.ø.meš	N	child	_	_	_	_	_	_	_
+

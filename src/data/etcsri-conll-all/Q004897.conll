@@ -1,0 +1,30 @@
+# project: etcsri 
+# textid: Q004897 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004897.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004897.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna	1	sux	N1=Nanna	N1=NAME	Nanna	DN	1
+3	x-ta	_	_	_	x-ta	_	sux	_	_	_	u	_
+
+# Q004897.3
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun
+2	šušin{ki}	šušin{ki}	Šušin	SN	šušin{ki}\abs	Susa	sux	N1=Šušin.N5=ø	N1=NAME.N5=ABS	Šušin.ø	SN	Susa
+
+# Q004897.4
+1	mu-hul-a	hul	hulu	V/t	mu-hul-a\l1	bad	sux	V4=mu.V11=n.V12=hulu.V14=ø.V15='a.N5='a	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.n.hulu.ø.'a.'a	V/t	to plunder, raid
+
+# Q004897.5
+1	nam-ra-aš	nam-ra	namra	N	nam-ra-aš	booty	sux	N1=namra.N5=eš	N1=STEM.N5=ADV	namra.eš	N	booty
+
+# Q004897.6
+1	mu-na-ak-a	ak	ak	V/t	mu-na-ak-a\l1	do	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ak.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.ak.ø.'a.'a	V/t	do
+

@@ -1,0 +1,25 @@
+# project: etcsri 
+# textid: Q001007 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001007.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001007.2
+1	x-ba	_	_	_	x-ba	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001007.4
+1	mu-sar-ra-ba	mu-sar-ra	musara	N	mu-sar-ra-ba\l2	inscription	sux	N1=musara.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L2-NH	musara.bi.'a	N	inscription	_	_	_	_	_	_	_
+
+# Q001007.5
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand	_	_	šu ur	erase	to drag the hand on something or to wipe out something with the hand	V/t	V/t
+2	bi₂-ib₂-uru₁₂-a	uru₁₂	ur	V/t	bi₂-ib₂-uru₁₂-a	drag	sux	V5=b.V10=i.V11=b.V12=ur.V14=e.V15='a	V5=3-NH.V10=L2.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB	b.i.b.ur.e.'a	V/t	to drag	1	mwe	_	_	_	_	_
+
+# Q001007.6
+1	mu-ni	mu	mu	N	mu-ni\abs	name	sux	N1=mu.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	mu.ani.ø	N	name	_	_	_	_	_	_	_
+

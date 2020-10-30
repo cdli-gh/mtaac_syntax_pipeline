@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001173 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001173.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001173.2
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂\dat	1	sux	N1=Bau.N5=ra	N1=NAME.N5=DAT-H	Bau.ra	DN	1
+
+# Q001173.3
+1	nam-ra-ak-ni	nam-ra-ak	namraʾak	N	nam-ra-ak-ni\abs	booty	sux	N1=namra'ak.N3=ni.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	namra'ak.ni.ø	N	booty
+
+# Q001173.4
+1	mu-na-gub	gub	gub	V/i	mu-na-gub	stand	sux	V4=mu.V6=nn.V7=a.V11=n.V12=gub.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=gub.V14=3-SG-P	mu.nn.a.n.gub.ø	V/i	stand
+

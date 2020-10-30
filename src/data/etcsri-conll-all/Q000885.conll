@@ -1,0 +1,36 @@
+# project: etcsri 
+# textid: Q000885 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000885.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q000885.1
+1	en-an-ne₂-pad₃-da	en-an-ne₂-pad₃-da	Enanepada	PN	en-an-ne₂-pad₃-da	1	sux	N1=Enanepada	N1=NAME	Enanepada	PN	1
+
+# Q000885.2
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen	1	sux	N1=Nanna.N5=ak	N1=NAME.N5=GEN	Nanna.ak	DN	1
+
+# Q000885.3
+1	zirruₓ(|SAL.NUNUZ.ZI.AN.ŠEŠ.KI|)	zirruₓ(|SAL.NUNUZ.ZI.AN.ŠEŠ.KI|)	zirru	N	zirruₓ(|SAL.NUNUZ.ZI.AN.ŠEŠ.KI|)	priestess	sux	N1=zirru	N1=STEM	zirru	N	priestess
+
+# Q000885.4
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen	1	sux	N1=Nanna.N5=ak	N1=NAME.N5=GEN	Nanna.ak	DN	1
+
+# Q000885.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ur-{d}ba-u₂	ur-{d}ba-u₂	Urbauk	RN	ur-{d}ba-u₂	1	sux	N1=Urbauk	N1=NAME	Urbauk	RN	Ruler of Lagaš
+
+# Q000885.6
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q000885.7
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+

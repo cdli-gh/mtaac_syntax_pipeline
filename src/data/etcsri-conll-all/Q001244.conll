@@ -1,0 +1,41 @@
+# project: etcsri 
+# textid: Q001244 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001244.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001244.1
+1	me-silim	me-silim	Mesilim	RN	me-silim	1	sux	N1=Mesilim	N1=NAME	Mesilim	RN	King of Kiš
+
+# Q001244.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001244.3
+1	kiš{ki}	kiš{ki}	Kiš	SN	kiš{ki}\gen	1	sux	N1=Kiš.N5=ak	N1=NAME.N5=GEN	Kiš.ak	SN	1
+
+# Q001244.4
+1	e₂	e₂	e	N	e₂\abs	house	sux	N1=e.N5=ø	N=STEM.N5=ABS	e.ø	N	house, temple
+2	du₃	du₃	du	V/t	du₃	build	sux	NV2=du	NV2=STEM	du	V/t	to build
+3	{d}nin-ŋir₂-su	nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su\gen\erg	1	sux	N1=Ninŋirsuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninŋirsuk.ak.e	DN	1
+
+# Q001244.5
+1	{d}nin-ŋir₂-su	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su\dat	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1
+
+# Q001244.6
+1	mu-gub	gub	gub	V/i	mu-gub\dat	stand	sux	V4=mu.V6=nn.V7=a.V11=n.V12=gub.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=gub.V14=3-SG-P	mu.nn.a.n.gub.ø	V/i	stand
+
+# Q001244.7
+1	lugal-šag₄-engur	lugal-šag₄-engur	Lugalšagengur	RN	lugal-šag₄-engur\abs	1	sux	N1=Lugalšagengur.N5=ø	N1=NAME.N5=ABS	Lugalšagengur.ø	RN	Ruler of Lagaš
+
+# Q001244.8
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001244.9
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\abs	1	sux	N1=Lagaš.N5=ø	N1=NAME.N5=ABS	Lagaš.ø	SN	1
+

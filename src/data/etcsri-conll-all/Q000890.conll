@@ -1,0 +1,62 @@
+# project: etcsri 
+# textid: Q000890 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000890.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q000890.1
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1
+
+# Q000890.2
+1	munus	munus	munus	N	munus	woman	sux	N1=munus	N1=STEM	munus	N	woman
+2	sag₉-ga	sag₉	sag	V/i	sag₉-ga	good	sux	NV2=sag.NV4='a	NV2=STEM.NV4=SUB	sag.'a	V/i	(to be) good
+
+# Q000890.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	an-na	an	An	DN	an-na	1	sux	N1=An.N5=ak	N1=NAME.N5=GEN	An.ak	DN	1
+
+# Q000890.4
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady
+2	iri-kug-ga	iri-kug	Irikug	SN	iri-kug-ga	1	sux	N1=Irikug.N5=ak	N1=NAME.N5=GEN	Irikug.ak	SN	1
+
+# Q000890.5
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady
+
+# Q000890.6
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1
+
+# Q000890.7
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q000890.8
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q000890.9
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+2	e₂-ninnu	e₂-ninnu	Eninnu	TN	e₂-ninnu	1	sux	N1=Eninnu	N1=NAME	Eninnu	TN	1
+
+# Q000890.10
+1	{d}nin-ŋir₂-su-ka	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka	1	sux	N1=Ninŋirsuk.N5=ak	N1=NAME.N5=GEN	Ninŋirsuk.ak	DN	1
+
+# Q000890.11
+1	e₂-ŋidru	e₂-ŋidru	Eŋidruk	TN	e₂-ŋidru	1	sux	N1=Eŋidruk	N1=NAME	Eŋidruk	TN	E-ĝidru of Lagaš
+2	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+3	ub	ub	ub	N	ub	corner	sux	N1=ub	N1=STEM	ub	N	corner
+4	imin-a-ni	imin	imin	NU	imin-a-ni\abs	seven	sux	NV2=imin.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	imin.ani.ø	NU	seven
+
+# Q000890.12
+1	mu-du₃-a	du₃	du	V/t	mu-du₃-a\erg	build	sux	V4=mu.V11=n.V12=du.V14=ø.V15='a.N5=e	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ERG	mu.n.du.ø.'a.e	V/t	to build
+
+# Q000890.13
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	iri-kug-ga-ka-ni	iri-kug	Irikug	SN	iri-kug-ga-ka-ni\abs	1	sux	N1=Irikug.N5=ak.N3=ani.N5=ø	N1=NAME.N5=GEN.N3=3-SG-H-POSS.N5=ABS	Irikug.ak.ani.ø	SN	1
+
+# Q000890.14
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001177 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001177.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001177.1
+1	x-an-na-tum₂	x-an-na-tum₂	X-anatum	RN	x-an-na-tum₂	1	sux	N1=X-anatum	N1=NAME	X-anatum	RN	One of the rulers of the I. Dynasty of Lagaš
+
+# Q001177.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001177.3
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+

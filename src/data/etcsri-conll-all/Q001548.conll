@@ -1,0 +1,201 @@
+# project: etcsri 
+# textid: Q001548 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001548.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001548.1
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	{d}nin-ŋir₂-su	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1	_	_	_	_	_	_	_
+
+# Q001548.2
+1	ur-saŋ	ur-saŋ	ursaŋ	N	ur-saŋ	hero	sux	N1=ursaŋ	N1=STEM	ursaŋ	N	hero, warrior	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001548.3
+1	{d}en-lil₂-la₂-ke₄	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂-ke₄	1	sux	N1=Enlil.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Enlil.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001548.4
+1	{d}nin-ŋeš-zid-da	{d}nin-ŋeš-zid-da	Ninŋešzidak	DN	{d}nin-ŋeš-zid-da	1	sux	N1=Ninŋešzidak	N1=NAME	Ninŋešzidak	DN	1	_	_	_	_	_	_	_
+
+# Q001548.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	{d}nin-a-zu	{d}nin-a-zu	Ninazu	DN	{d}nin-a-zu\gen	1	sux	N1=Ninazu.N5=ak	N1=NAME.N5=GEN	Ninazu.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001548.6
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	1	mwe	_	_	_	_	_
+3	diŋir-re-ne-ra	diŋir	diŋir	N	diŋir-re-ne-ra	deity	sux	N1=diŋir.N4=enee.N5=ak.N5=ra	N1=STEM.N4=PL.N5=GEN.N5=DAT-H	diŋir.enee.ak.ra	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001548.7
+1	iri-a	iri	iri	N	iri-a\l1	city	sux	N1=iri.N5='a	N1=STEM.N5=L1	iri.'a	N	city	_	_	_	_	_	_	_
+2	ki-ur₃	ki-ur₃	kiʾur	N	ki-ur₃\abs	foundation	sux	N1=ki'ur.N5=ø	N1=STEM.N5=ABS	ki'ur.ø	N	foundation	_	_	_	_	_	_	_
+
+# Q001548.8
+1	mu-na-ni-ŋar-a	ŋar	ŋar	V/t	mu-na-ni-ŋar-a	place	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=ŋar.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.ni.n.ŋar.ø.'a.'a	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q001548.9
+1	ašag-ga	ašag	ašag	N	ašag-ga	field	sux	N1=ašag.N5='a	N1=STEM.N5=L1	ašag.'a	N	field	_	_	_	_	_	_	_
+2	gana₂	gana₂	gana	N	gana₂	field	sux	N1=gana	N1=STEM	gana	N	field	_	_	_	_	_	_	_
+3	id₂	id₂	id	N	id₂\abs	river	sux	N1=id.N5=ø	N1=STEM.N5=ABS	id.ø	N	river	_	_	_	_	_	_	_
+
+# Q001548.10
+1	mu-na-ni-ŋar-a	ŋar	ŋar	V/t	mu-na-ni-ŋar-a	place	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=ŋar.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.ni.n.ŋar.ø.'a.'a	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q001548.11
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1	_	_	_	_	_	_	_
+
+# Q001548.12
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001548.13
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001548.14
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	si	si	si	N	si\abs	horn	sux	N1=si.N5=ø	N1=STEM.N5=ABS	si.ø	N	horn	_	_	_	_	_	_	_
+3	sa₂	sa₂	sa	N	sa₂	equal	sux	NV2=sa	NV2=STEM	sa	V/t	equal	_	_	_	_	_	_	_
+
+# Q001548.15
+1	diŋir-ra-ne₂	diŋir	diŋir	N	diŋir-ra-ne₂	deity	sux	N1=diŋir.N3=ani.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=ERG	diŋir.ani.e	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001548.16
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂-e	aŋ₂	aŋ	V/t	aŋ₂-e	measure	sux	NV2=aŋ.N5=e	NV2=STEM.N5=ERG	aŋ.e	V/t	measure	1	mwe	_	_	_	_	_
+
+# Q001548.17
+1	{d}nin-ŋir₂-su	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1	_	_	_	_	_	_	_
+
+# Q001548.18
+1	lugal-a-ni	lugal	lugal	N	lugal-a-ni\dat	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king	_	_	_	_	_	_	_
+
+# Q001548.19
+1	e₂-ninnu-anzud₂{mušen}-babbar₂-ra-ni	e₂-ninnu-anzud₂{mušen}-babbar₂	Eninnu-anzubabbar	TN	e₂-ninnu-anzud₂{mušen}-babbar₂-ra-ni	1	sux	N1=Eninnu-anzubabbar.N3=ani	N1=NAME.N3=3-SG-H-POSS	Eninnu-anzubabbar.ani	TN	1	_	_	_	_	_	_	_
+
+# Q001548.20
+1	e₂-ŋidru	e₂-ŋidru	Eŋidruk	TN	e₂-ŋidru	1	sux	N1=Eŋidruk	N1=NAME	Eŋidruk	TN	E-ĝidru of Lagaš	_	_	_	_	_	_	_
+2	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+3	ub	ub	ub	N	ub	corner	sux	N1=ub	N1=STEM	ub	N	corner	_	_	_	_	_	_	_
+4	imin-na-ni	imin	imin	NU	imin-na-ni\abs	seven	sux	NV2=imin.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	imin.ani.ø	NU	seven	_	_	_	_	_	_	_
+
+# Q001548.21
+1	mu-na-du₃-a	du₃	du	V/t	mu-na-du₃-a\l1	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.du.ø.'a.'a	V/t	to build	_	_	_	_	_	_	_
+
+# Q001548.22
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše	1	sux	N1=Nanše	N1=NAME	Nanše	DN	1	_	_	_	_	_	_	_
+
+# Q001548.23
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+2	uru₁₆	uru₁₆	urun	V/i	uru₁₆	exalted	sux	NV2=urun	NV2=STEM	urun	V/i	exalted, mighty	_	_	_	_	_	_	_
+
+# Q001548.24
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q001548.25
+1	e₂-sirara₆	e₂-sirara₆	Esirara	TN	e₂-sirara₆	1	sux	N1=Esirara	N1=NAME	Esirara	TN	1	_	_	_	_	_	_	_
+
+# Q001548.26
+1	kur	kur	kur	N	kur	mountain	sux	N1=kur	N1=STEM	kur	N	mountain	_	_	_	_	_	_	_
+2	e₂-ta	e₂	e	N	e₂-ta	house	sux	N1=e.N5=ta	N1=STEM=N5=ABL	e.ta	N	house, temple	_	_	_	_	_	_	_
+3	il₂-la-ni	il₂	il	V/t	il₂-la-ni\abs	raise	sux	NV2=il.NV4='a.N3=ani.N5=ø	NV2=STEM.NV4=SUB.N3=3-SG-H-POSS.N5=ABS	il.'a.ani.ø	V/t	raise	_	_	_	_	_	_	_
+
+# Q001548.27
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001548.28
+1	diŋir	diŋir	diŋir	N	diŋir	deity	sux	N1=diŋir	N1=STEM	diŋir	N	deity, personal god	_	_	_	_	_	_	_
+2	gal-gal	gal-gal	gal	V/i	gal-gal	big	sux	NV2=galgal	NV2=STEM-RDP	galgal	V/i	(to be) big, great	_	_	_	_	_	_	_
+3	lagaš{ki}-ke₄-ne	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄-ne\dat	1	sux	N1=Lagaš.N5=ak.N4=enee.N5=ra	N1=NAME.N5=GEN.N4=PL.N5=DAT-H	Lagaš.ak.enee.ra	SN	1	_	_	_	_	_	_	_
+
+# Q001548.29
+1	e₂-ne-ne	e₂	e	N	e₂-ne-ne\abs	house	sux	N1=e.N3=anenee.N5=ø	N1=STEM.N3=3-PL-H.POSS.N5=ABS	e.anenee.ø	N	house, temple	_	_	_	_	_	_	_
+
+# Q001548.30
+1	mu-ne-du₃	du₃	du	V/t	mu-ne-du₃	build	sux	V4=mu.V6=nnee.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-PL-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nnee.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001548.31
+1	{d}nin-ŋeš-zid-da	{d}nin-ŋeš-zid-da	Ninŋešzidak	DN	{d}nin-ŋeš-zid-da	1	sux	N1=Ninŋešzidak	N1=NAME	Ninŋešzidak	DN	1	_	_	_	_	_	_	_
+
+# Q001548.32
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni\dat	deity	sux	N1=diŋir.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	diŋir.ani.ra	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001548.33
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	ŋir₂-su{ki}-ka-ni	ŋir₂-su{ki}	Ŋirsu	SN	ŋir₂-su{ki}-ka-ni\abs	1	sux	N1=Ŋirsu.N5=ak.N3=ani.N5=ø	N1=STEM.N5=GEN.N3=3-SG-H-POSS.N5=ABS	Ŋirsu.ak.ani.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001548.34
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001548.35
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	diŋir-ŋu₁₀-gin₇	diŋir	diŋir	N	diŋir-ŋu₁₀-gin₇	deity	sux	N1=diŋir.N3=ŋu.N5=gin	N1=STEM.N3=1-SG-POSS.N5=EQU	diŋir.ŋu.gin	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001548.36
+1	{d}nin-ŋir₂-su-ke₄	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ke₄	1	sux	N1=Ninŋirsuk.N5=e	N1=NAME.N5=ERG	Ninŋirsuk.e	DN	1	_	_	_	_	_	_	_
+
+# Q001548.37
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni\dat	deity	sux	N1=diŋir.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	diŋir.ani.ra	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001548.38
+1	uŋ₃-ŋa₂	uŋ₃	uŋ	N	uŋ₃-ŋa₂\l1	people	sux	N1=uŋ.N5='a	N1=STEM.N5=L1	uŋ.'a	N	people	_	_	_	_	_	_	_
+2	gu₃	gu₃	gu	N	gu₃\abs	voice	sux	N1=gu.N5=ø	N1=STEM.N5=ABS	gu.ø	N	voice	_	_	gu de	say	say	V/t	V/t
+3	u₃-mu-na-ni-de₂-a	de₂	de	V/t	u₃-mu-na-ni-de₂-a	pour	sux	V1=u.V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=de.V14=ø.V15='a.N5=e	V1=ANT.V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ERG	u.mu.nn.a.ni.n.de.ø.'a.e	V/t	pour	2	mwe	_	_	_	_	_
+
+# Q001548.39
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	diŋir-ŋa₂-ke₄	diŋir	diŋir	N	diŋir-ŋa₂-ke₄\n5el3	deity	sux	N1=diŋir.N3=ŋu.N5=ak.N5=e	N1=STEM.N3=1-SG-POSS.N5=GEN.N5=L3-NH	diŋir.ŋu.ak.e	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001548.40
+1	igi	igi	igi	N	igi	eye	sux	N1=igi	N1=STEM	igi	N	eye	_	_	_	_	_	_	_
+2	X-la	_	_	_	X-la	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001548.41
+1	na-ab-ak-ke₄	ak	ak	V/t	na-ab-ak-ke₄\v11bl3	do	sux	V2=nan.V11=b.V12=ak.V14=e	V2=MOD3.V11=3-SG-NH-L3.V12=STEM.V14=3-SG-A	nan.b.ak.e	V/t	do	_	_	_	_	_	_	_
+
+# Q001548.42
+1	mu-bi	mu	mu	N	mu-bi\abs	name	sux	N1=mu.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	mu.bi.ø	N	name	_	_	_	_	_	_	_
+2	he₂-pad₃-de₃	pad₃	pad	V/t	he₂-pad₃-de₃	find	sux	V1=ha.V2=i.V12=pad.V14=e	V1=MOD1.V2=FIN.V12=STEM.V14=3-SG-A	ha.i.pad.e	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q001548.43
+1	lu₂-bi	lu₂	lu	N	lu₂-bi\dem2\abs	person	sux	N1=lu.N3=bi.N5=ø	N1=STEM.N3=DEM2.N5=ABS	lu.bi.ø	N	person	_	_	_	_	_	_	_
+2	gu₅-li-ŋu₁₀	gu₅-li	guli	N	gu₅-li-ŋu₁₀\abs	friend	sux	N1=guli.N3=ŋu.N5=ø	N1=STEM.N3=1-SG-POSS.N5=ABS	guli.ŋu.ø	N	friend	_	_	_	_	_	_	_
+3	he₂-am₃	am₃	me	V/i	he₂-am₃	be	sux	V1=ha.V2=i.V12=me.V14=ø	V1=MOD1.V2=FIN.V12=COP.V14=3-SG-S	ha.i.me.ø	V/i	to be, (the independent form of the) copula	_	_	_	_	_	_	_
+
+# Q001548.44
+1	mu-ŋu₁₀	mu	mu	N	mu-ŋu₁₀\abs	name	sux	N1=mu.N3=ŋu.N5=ø	N1=STEM.N3=1-SG-POSS.N5=ABS	mu.ŋu.ø	N	name	_	_	mu pad	nominate	to nominate, to proclaim one's name publicly	V/t	V/t
+2	he₂-pad₃-de₃	pad₃	pad	V/t	he₂-pad₃-de₃	find	sux	V1=ha.V2=i.V12=pad.V14=e	V1=MOD1.V2=FIN.V12=STEM.V14=3-SG-A	ha.i.pad.e	V/t	to find, to discover	1	mwe	_	_	_	_	_
+
+# Q001548.45
+1	alan-na-e	alan	alan	N	alan-na-e\abs	statue	sux	N1=alan.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	alan.ani.ø	N	statue	_	_	_	_	_	_	_
+
+# Q001548.46
+1	mu-tud	tud	utud	V/t	mu-tud	bear	sux	V4=mu.V11=n.V12=utud.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.utud.ø	V/t	fashion a statue, to bring a statue into being	_	_	_	_	_	_	_
+
+# Q001548.47
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1	_	_	_	_	_	_	_
+
+# Q001548.48
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	e₂	e₂	e	N	e₂\abs	house	sux	N1=e.N5=ø	N=STEM.N5=ABS	e.ø	N	house, temple	_	_	_	_	_	_	_
+3	du₃-a-ka	du₃	du	V/t	du₃-a-ka\dat	build	sux	NV2=du.NV4='a.N5=ak.N5=ak.N5=ra	NV2=STEM.NV4=SUB.N5=GEN.N5=GEN.N5=DAT-H	du.'a.ak.ak.ra	V/t	to build	_	_	_	_	_	_	_
+
+# Q001548.49
+1	nam-ti-il	nam-ti-il	namtil	N	nam-ti-il\abs	life	sux	N1=namtil.N5=ø	N1=STEM.N5=ABS	namtil.ø	N	life	_	_	_	_	_	_	_
+
+# Q001548.50
+1	mu-na-šum₂	šum₂	šum	V/t	mu-na-šum₂	give	sux	V4=mu.V6=nn.V7=a.V11=n.V12=šum.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.šum.ø	V/t	give	_	_	_	_	_	_	_
+
+# Q001548.51
+1	mu-še₃	mu	mu	N	mu-še₃	name	sux	N1=mu.N5=še	N1=STEM.N5=TERM	mu.še	N	name	_	_	_	_	_	_	_
+2	mu-na-še₂₁	še₂₁	še	V/t	mu-na-še₂₁	call	sux	V4=mu.V6=nn.V7=a.V11=n.V12=še.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.še.ø	V/t	call	_	_	_	_	_	_	_
+
+# Q001548.52
+1	e₂-a	e₂	e	N	e₂-a\l1	house	sux	N1=e.N5='a	N1=STEM.N5=L1	e.'a	N	house, temple	_	_	_	_	_	_	_
+2	mu-na-ni-kur₉(REC145)	kur₉(REC145)	kur	V/i	mu-na-ni-kur₉(REC145)	enter	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=kur.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.kur.ø	V/i	enter	_	_	_	_	_	_	_
+

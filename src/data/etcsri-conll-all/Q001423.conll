@@ -1,0 +1,37 @@
+# project: etcsri 
+# textid: Q001423 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001423.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001423.2
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}en-lil₂-ka	{d}en-lil₂	Enlil	DN	{d}en-lil₂-ka\l1	1	sux	N1=Enlil.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L1	Enlil.ak.'a	DN	1
+
+# Q001423.3
+1	ni-sig₉	sig₉	sig	V/t	ni-sig₉	put	sux	V10=ni.V11=n.V12=sig.V14=ø	V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ni.n.sig.ø	V/t	put
+
+# Q001423.4
+1	ud-ba	ud	ud	N	ud-ba	sun	sux	N1=ud.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	ud.bi.'a	N	day, sun
+2	su₄-a-aš₂-ta-kal₂	su₄-a-aš₂-ta-kal₂	Suaštakal	PN	su₄-a-aš₂-ta-kal₂	1	sux	N1=Suaštakal	N1=NAME	Suaštakal	PN	1
+
+# Q001423.5
+1	šabra-e₂	šabra-e₂	šabraʾek	N	šabra-e₂	administrator	sux	N1=šabraek	N1=STEM	šabraek	N	administrator, estate administrator
+2	lugal	lugal	lugal	N	lugal\gen\abs	king	sux	N1=lugal.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	lugal.ak.ø	N	king
+
+# Q001423.6
+1	lu₂-a₂-ŋa₂-bi	lu₂-a₂-ŋa₂	luaŋa	N	lu₂-a₂-ŋa₂-bi\cop	leader	sux	N1=luaŋa.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	luaŋa.bi.ø.am	N	leader. commissioner
+
+# Q001423.7
+1	iri-na-bad₃-bi	iri-na-bad₃-bi	Irinabadbi	PN	iri-na-bad₃-bi\abs	1	sux	N1=Irinabadbi.N5=ø	N1=NAME.N5=ABS	Irinabadbi.ø	PN	1
+
+# Q001423.8
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household
+2	{d}en-lil₂-la₂-kam	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂-kam	1	sux	N1=Enlil.N5=ak.N5=ø.N6=am	N1=NAME.N5=GEN.N5=ABS.N6=COP-3-SG	Enlil.ak.ø.am	DN	1
+

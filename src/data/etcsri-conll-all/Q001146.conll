@@ -1,0 +1,32 @@
+# project: etcsri 
+# textid: Q001146 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001146.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001146.1
+1	en-nu	en-nu	ennuŋ	N	en-nu	imprisonment	sux	N1=ennuŋ	N1=STEM	ennuŋ	N	guards
+2	bad₃	bad₃	bad	N	bad₃\gen\abs	wall	sux	N1=bad.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	bad.ak.ø	N	wall, fortification
+
+# Q001146.2
+1	meš₃-barag	meš₃-barag	Mešbarag	PN	meš₃-barag\abs	1	sux	N1=Mešbarag.N5=ø	N1=NAME.N5=ABS	Mešbarag.ø	PN	1
+
+# Q001146.3
+1	ugula	ugula	ugula	N	ugula\abs	overseer	sux	N1=ugula.N5=ø	N1=STEM.N5=ABS	ugula.ø	N	overseer
+2	lu₂-id₅-mah	lu₂-id₅-mah	Luidmah	PN	lu₂-id₅-mah\abs	1	sux	N1=Luidmah.N5=ø	N1=NAME.N5=ABS	Luidmah.ø	PN	1
+
+# Q001146.4
+1	iri-ka-gen₆-na	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na	1	sux	N1=Irikaginak	N1=NAME	Irikaginak	RN	Ruler of Lagaš
+
+# Q001146.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001146.6
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen\abs	1	sux	N1=Lagaš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lagaš.ak.ø	SN	1
+

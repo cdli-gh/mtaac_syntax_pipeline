@@ -1,0 +1,24 @@
+# project: etcsri 
+# textid: Q001156 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001156.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001156.1
+1	{d}nin-ŋir₂-su-ke₄	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ke₄	1	sux	N1=Ninŋirsuk.N5=e	N1=NAME.N5=ERG	Ninŋirsuk.e	DN	1
+2	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+3	unug{ki}-ga-ka	unug{ki}	Unug	SN	unug{ki}-ga-ka\l1	1	sux	N1=Unug.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L1	Unug.ak.'a	SN	1
+4	dug₃-ga	dug₃	dug	V/i	dug₃-ga	good	sux	NV2=dug.NV4='a	NV2=STEM.NV4=SUB	dug.'a	V/i	good
+5	iri-ka-gen₆-na-ka	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na-ka\abs	1	sux	N1=Irikaginak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Irikaginak.ak.ø	RN	Ruler of Lagaš
+6	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂\com	1	sux	N1=Bau.N5=da	N1=NAME.N5=COM	Bau.da	DN	1
+7	mu-da-dug₄	dug₄	dug	V/t	mu-da-dug₄	speak	sux	V4=mu.V6=nn.V8=da.V11=n.V12=dug.V14=ø	V4=VEN.V6=3-SG-H.V8=COM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.da.n.dug.ø	V/t	speak
+
+# Q001156.2
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name
+

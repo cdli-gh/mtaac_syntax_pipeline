@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q001752 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001752.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001752.1
+1	ur-{d}nanibgal	ur-{d}nanibgal	Urnanibgal	PN	ur-{d}nanibgal	1	sux	N1=Urnanibgal	N1=NAME	Urnanibgal	PN	Governor of Nibru
+
+# Q001752.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+2	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen\abs	1	sux	N1=Nibru.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Nibru.ak.ø	SN	1
+
+# Q001752.3
+1	lugal-me₃-a	lugal-me₃-a	Lugalmea	PN	lugal-me₃-a	1	sux	N1=Lugalmea	N1=NAME	Lugalmea	PN	1
+
+# Q001752.4
+1	sukkal	sukkal	sukkal	N	sukkal	secretary	sux	N1=sukkal	N1=STEM	sukkal	N	secretary, envoy
+2	kaš₄	kaš₄	kaš	N	kaš₄\gen	runner	sux	N1=kaš.N5=ak	N1=STEM.N5=GEN	kaš.ak	N	runner
+
+# Q001752.5
+1	ugula	ugula	ugula	N	ugula	overseer	sux	N1=ugula	N1=STEM	ugula	N	overseer
+2	aga₃-us₂	aga₃-us₂	agaʾus	N	aga₃-us₂\gen\abs	soldier	sux	N1=aga'us.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	aga'us.ak.ø	N	a soldier
+
+# Q001752.6
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

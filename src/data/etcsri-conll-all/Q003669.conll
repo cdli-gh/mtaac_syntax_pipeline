@@ -1,0 +1,37 @@
+# project: etcsri 
+# textid: Q003669 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003669.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003669.1
+1	{d}namma	{d}namma	Namma	DN	{d}namma	1	sux	N1=Namma	N1=NAME	Namma	DN	1
+
+# Q003669.2
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	an-ra	an	An	DN	an-ra\gen\dat	1	sux	N1=An.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	An.ak.ra	DN	1
+
+# Q003669.3
+1	lugal-kisal-si	lugal-kisal-si	Lugalkisalesi	RN	lugal-kisal-si	1	sux	N1=Lugalkisalesi	N1=NAME	Lugalkisalesi	RN	King of Unug, king of Urim
+
+# Q003669.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1
+
+# Q003669.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₂{ki}-ma	urim₂{ki}	Urim	SN	urim₂{ki}-ma\gen\erg	1	sux	N1=Urim.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Urim.ak.e	SN	1
+
+# Q003669.6
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}namma	{d}namma	Namma	DN	{d}namma\gen\abs	1	sux	N1=Namma.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Namma.ak.ø	DN	1
+
+# Q003669.7
+1	mu-du₃	du₃	du	V/t	mu-du₃\dat	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

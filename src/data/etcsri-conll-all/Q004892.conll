@@ -1,0 +1,29 @@
+# project: etcsri 
+# textid: Q004892 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004892.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004892.2
+1	nin-ka-gen₆-na	nin-ka-gen₆-na	Ninkagina	PN	nin-ka-gen₆-na	1	sux	N1=Ninkagina	N1=NAME	Ninkagina	PN	Daughter of Kakug
+
+# Q004892.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ka-kug-ka	ka-kug	Kakug	PN	ka-kug-ka	1	sux	N1=Kakug.N5=ak.N5=ak	N1=NAME.N5=GEN.N5=GEN	Kakug.ak.ak	PN	1
+
+# Q004892.4
+1	x-MU	_	_	_	x-MU	_	sux	_	_	_	u	_
+
+# Q004892.5
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q004892.6
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also
+2	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life
+

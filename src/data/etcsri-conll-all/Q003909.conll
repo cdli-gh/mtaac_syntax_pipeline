@@ -1,0 +1,18 @@
+# project: etcsri 
+# textid: Q003909 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003909.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003909.1
+1	{d}en-lil₂-ra₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-ra₂	1	sux	N1=Enlil.N5=ra	N1=NAME.N5=DAT-H	Enlil.ra	DN	1
+
+# Q003909.2
+1	lugal-ki-ŋen-ne₂-du₇-du₇	lugal-ki-ŋen-ne₂-du₇-du₇	Lugalkiŋenešdudud	RN	lugal-ki-ŋen-ne₂-du₇-du₇	1	sux	N1=Lugalkiŋenešdudud	N1=NAME	Lugalkiŋenešdudud	RN	King of Unug, king of Urim
+

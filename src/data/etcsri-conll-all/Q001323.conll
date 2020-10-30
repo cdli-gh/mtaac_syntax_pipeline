@@ -1,0 +1,34 @@
+# project: etcsri 
+# textid: Q001323 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001323.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001323.1
+1	{d}en-ki-gal	{d}en-ki-gal	Enkigal	DN	{d}en-ki-gal\dat	1	sux	N1=Enkigal.N5=ra	N1=NAME.N5=DAT-H	Enkigal.ra	DN	1
+
+# Q001323.2
+1	ur-{d}lum-ma	ur-{d}lum-ma	Urluma	RN	ur-{d}lum-ma	1	sux	N1=Urluma	N1=NAME	Urluma	RN	King of Umma
+
+# Q001323.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	umma₂	umma₂	Umma	SN	umma₂\gen	1	sux	N1=Umma.N5=ak	N1=NAME.N5=GEN	Umma.ak	SN	1
+
+# Q001323.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	en-a₂-kal-le	en-a₂-kal-le	Enakale	RN	en-a₂-kal-le	1	sux	N1=Enakale	N1=NAME	Enakale	RN	King of Umma
+
+# Q001323.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	umma₂	umma₂	Umma	SN	umma₂\gen\gen\erg	1	sux	N1=Umma.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Umma.ak.ak.e	SN	1
+
+# Q001323.6
+1	e₂	e₂	e	N	e₂\poss3h\abs	house	sux	N1=e.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	e.ani.ø	N	house, temple
+2	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

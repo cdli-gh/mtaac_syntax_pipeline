@@ -1,0 +1,36 @@
+# project: etcsri 
+# textid: Q001583 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001583.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001583.2
+1	lagaš{ki}-ka-še₃	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-še₃	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Lagaš.ak.ak.še	SN	1
+
+# Q001583.3
+1	nin-ka-gen₆-na	nin-ka-gen₆-na	Ninkagina	PN	nin-ka-gen₆-na	1	sux	N1=Ninkagina	N1=NAME	Ninkagina	PN	Daughter of Kakug
+
+# Q001583.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ka-kug-ke₄	ka-kug	Kakug	PN	ka-kug-ke₄	1	sux	N1=Kakug.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Kakug.ak.e	PN	1
+
+# Q001583.5
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+5	x	_	_	_	x	_	sux	_	_	_	u	_
+6	x-ra	_	_	_	x-ra	_	sux	_	_	_	u	_
+
+# Q001583.6
+1	x-x	_	_	_	x-x	_	sux	_	_	_	u	_
+
+# Q001583.7
+1	x-x	_	_	_	x-x	_	sux	_	_	_	u	_
+

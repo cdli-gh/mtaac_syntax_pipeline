@@ -1,0 +1,45 @@
+# project: etcsri 
+# textid: Q004888 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004888.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004888.2
+1	x-x	_	_	_	x-x	_	sux	_	_	_	u	_
+
+# Q004888.3
+1	x-ke₄	_	_	_	x-ke₄	_	sux	_	_	_	u	_
+
+# Q004888.4
+1	x-x	_	_	_	x-x	_	sux	_	_	_	u	_
+
+# Q004888.5
+1	x-x-x	_	_	_	x-x-x	_	sux	_	_	_	u	_
+
+# Q004888.8
+1	x-ŋa₂-ni	_	_	_	x-ŋa₂-ni	_	sux	_	_	_	u	_
+
+# Q004888.9
+1	{d}nin-ŋir₂-su	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1
+
+# Q004888.10
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1
+
+# Q004888.11
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x-x-x	_	_	_	x-x-x	_	sux	_	_	_	u	_
+
+# Q004888.14
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q004888.15
+1	NA	_	_	_	NA	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+

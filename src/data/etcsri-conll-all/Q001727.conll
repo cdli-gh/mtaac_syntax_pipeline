@@ -1,0 +1,31 @@
+# project: etcsri 
+# textid: Q001727 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001727.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001727.1
+1	ur-{d}suen	ur-{d}suen	Ursuen	PN	ur-{d}suen	1	sux	N1=Ursuen	N1=NAME	Ursuen	PN	1
+
+# Q001727.2
+1	šagina	šagina	šakkanak	N	šagina	general	sux	N1=šakkanak	N1=STEM	šakkanak	N	military governor
+2	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1
+
+# Q001727.3
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also
+2	|BAD₃.AN.KI|-ka	|BAD₃.AN.KI|	Der	SN	|BAD₃.AN.KI|-ka\abs	1	sux	N1=Der.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Der.ak.ø	SN	1
+
+# Q001727.4
+1	ur-{d}en-ki	ur-{d}en-ki	Urenkik	PN	ur-{d}en-ki	1	sux	N1=Urenkik	N1=NAME	Urenkik	PN	1
+
+# Q001727.5
+1	ab-ba	ab-ba	abba	N	ab-ba	father	sux	N1=abba	N1=STEM	abba	N	an official
+2	iri	iri	iri	N	iri\gen\abs	city	sux	N1=iri.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	iri.ak.ø	N	city
+3	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

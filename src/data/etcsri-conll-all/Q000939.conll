@@ -1,0 +1,46 @@
+# project: etcsri 
+# textid: Q000939 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000939.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q000939.1
+1	{d}nanna	{d}nanna	Nanna	DN	{d}nanna	1	sux	N1=Nanna	N1=NAME	Nanna	DN	1
+
+# Q000939.2
+1	amar	amar	amar	N	amar	young	sux	N1=amar	N1=STEM	amar	N	young
+2	ban₃-da	ban₃-da	banda	V/i	ban₃-da	junior	sux	NV2=banda	NV2=STEM	banda	V/i	(to be) junior
+3	an-na	an	An	DN	an-na	1	sux	N1=An.N5=ak	N1=NAME.N5=GEN	An.ak	DN	1
+
+# Q000939.3
+1	dumu-saŋ	dumu-saŋ	dumusaŋ	N	dumu-saŋ	first-born	sux	N1=dumusaŋ	N1=STEM	dumusaŋ	N	first-born
+
+# Q000939.4
+1	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1
+
+# Q000939.5
+1	lugal-a-ni	lugal	lugal	N	lugal-a-ni\dat	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king
+
+# Q000939.6
+1	ur-{d}namma	ur-{d}namma	Urnammak	RN	ur-{d}namma	1	sux	N1=Urnammak	N1=NAME	Urnammak	RN	1st king of the 3rd dynasty of Urim
+
+# Q000939.7
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q000939.8
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma-ke₄	urim₅{ki}	Urim	SN	urim₅{ki}-ma-ke₄	1	sux	N1=Urim.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Urim.ak.e	SN	1
+
+# Q000939.9
+1	e₂-temen-ni₂-guru₃-ni	e₂-temen-ni₂-guru₃	Etemenniguru	TN	e₂-temen-ni₂-guru₃-ni\abs	1	sux	N1=Etemenniguru.N3=ani.N5=ø	N1=NAME.N3=3-SG-H-POSS.N5=ABS	Etemenniguru.ani.ø	TN	1
+
+# Q000939.10
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

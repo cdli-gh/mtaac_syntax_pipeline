@@ -1,0 +1,45 @@
+# project: etcsri 
+# textid: Q001065 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001065.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001065.2
+1	kur-kur	kur-kur	kur	N	kur-kur\abs	mountain	sux	N1=kurkur.N5=ø	N1=STEM-RDP.N5=ABS	kurkur.ø	N	mountain	_	_	_	_	_	_	_
+2	šu-ni-še₃	šu	šu	N	šu-ni-še₃	hand	sux	N1=šu.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	šu.ani.še	N	hand	_	_	_	_	_	_	_
+
+# Q001065.3
+1	mu-še₃-ŋar-ra-a	ŋar	ŋar	V/t	mu-še₃-ŋar-ra-a\l1	place	sux	V4=mu.V6=nn.V9=ši.V11=n.V12=ŋar.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.ši.n.ŋar.ø.'a.'a	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q001065.4
+1	ki-bala	ki-bala	kibala	N	ki-bala\abs	rebel land	sux	N1=kibala.N5=ø	N1=STEM.N5=ABS	kibala.ø	N	rebel land	_	_	_	_	_	_	_
+2	ŋiri₃-ni-še₃	ŋiri₃	ŋiri	N	ŋiri₃-ni-še₃	foot	sux	N1=ŋiri.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	ŋiri.ani.še	N	foot	_	_	_	_	_	_	_
+
+# Q001065.5
+1	mu-še₃-ŋar-ra-a	ŋar	ŋar	V/t	mu-še₃-ŋar-ra-a\l1	place	sux	V4=mu.V6=nn.V9=ši.V11=n.V12=ŋar.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.ši.n.ŋar.ø.'a.'a	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q001065.6
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001065.7
+1	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	mu pad	nominate	to nominate, to proclaim one's name publicly	V/t	V/t
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	1	mwe	_	_	_	_	_
+
+# Q001065.8
+1	{d}nin-ŋir₂-su-ke₄	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ke₄	1	sux	N1=Ninŋirsuk.N5=e	N1=NAME.N5=ERG	Ninŋirsuk.e	DN	1	_	_	_	_	_	_	_
+
+# Q001065.11
+1	UR	_	_	_	UR	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	KA	_	_	_	KA	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001065.12
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+

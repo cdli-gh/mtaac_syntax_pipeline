@@ -1,0 +1,68 @@
+# project: etcsri 
+# textid: Q001953 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001953.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001953.1
+1	{d}iš-me-{d}da-gan	{d}iš-me-{d}da-gan	Išmedagan	RN	{d}iš-me-{d}da-gan	1	sux	N1=Išmedagan	N1=NAME	Išmedagan	RN	4th king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q001953.2
+1	u₂-a	u₂-a	ua	N	u₂-a	provisioner	sux	N1=ua	N1=STEM	ua	N	provisioner, provider	_	_	_	_	_	_	_
+2	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen	1	sux	N1=Nibru.N5=ak	N1=NAME.N5=GEN	Nibru.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001953.3
+1	saŋ-us₂	saŋ-us₂	saŋus	V/i	saŋ-us₂	constant	sux	NV2=saŋus	NV2=STEM	saŋus	V/i	(to be) constant, regular	_	_	_	_	_	_	_
+
+# Q001953.4
+1	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001953.5
+1	ud-da	ud	ud	N	ud-da	sun	sux	N1=ud.N5='a	N1=STEM.N5=L1	ud.'a	N	day, sun	_	_	_	_	_	_	_
+2	gub	gub	gub	V/i	gub	stand	sux	NV2=gub	NV2=STEM	gub	V/i	stand	_	_	_	_	_	_	_
+
+# Q001953.6
+1	eridug{ki}-ga	eridug{ki}	Eridug	SN	eridug{ki}-ga	1	sux	N1=Eridug.N5=ak	N1=Eridug.N5=GEN	Eridug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001953.7
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest	_	_	_	_	_	_	_
+2	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001953.8
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	i₃-si-in{ki}-na	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-na	1	sux	N1=Isin.N5=ak	N1=NAME.N5=GEN	Isin.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001953.9
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri	ki-uri	Akkad	GN	ki-uri\gen	1	sux	N1=Akkad.N5=ak	N1=NAME.N5=GEN	Akkad.ak	GN	1	_	_	_	_	_	_	_
+
+# Q001953.10
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001953.11
+1	{d}inana-ka-ke₄	{d}inana	Inanak	DN	{d}inana-ka-ke₄	1	sux	N1=Inanak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Inanak.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001953.12
+1	bad₃	bad₃	bad	N	bad₃	wall	sux	N1=bad	N1=STEM	bad	N	wall, fortification	_	_	_	_	_	_	_
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great	_	_	_	_	_	_	_
+3	durum{ki}	durum{ki}	Durum	SN	durum{ki}	1	sux	N1=Durum	N1=NAME	Durum	SN	1	_	_	_	_	_	_	_
+
+# Q001953.13
+1	iri{ki}	iri{ki}	iri	N	iri{ki}	city	sux	N1=iri	N1=STEM	iri	N	city	_	_	_	_	_	_	_
+2	nam-šagina	nam-šagina	namšakkanak	N	nam-šagina	governorship	sux	N1=namšakkanak	N1=STEM	namšakkanak	N	governorship	_	_	_	_	_	_	_
+
+# Q001953.14
+1	nam-dumu-na-ka-ni	nam-dumu	namdumu	N	nam-dumu-na-ka-ni\abs	status	sux	N1=namdumu.N3=ani.N5=ak.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N3=3-SG-H-POSS.N5=ABS	namdumu.ani.ak.ani.ø	N	status as crown prince	_	_	_	_	_	_	_
+
+# Q001953.15
+1	mu-un-du₃	du₃	du	V/t	mu-un-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

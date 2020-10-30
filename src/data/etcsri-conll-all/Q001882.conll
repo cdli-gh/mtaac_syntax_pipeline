@@ -1,0 +1,51 @@
+# project: etcsri 
+# textid: Q001882 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001882.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001882.2
+1	x{ki}	_	_	_	x{ki}	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001882.3
+1	x{ki}	_	_	_	x{ki}	_	sux	_	_	_	u	_
+2	hu-uh₂-nu-ri{ki}	hu-uh₂-nu-ri{ki}	Huhnuri	SN	hu-uh₂-nu-ri{ki}\abs	1	sux	N1=Huhnuri.N5=ø	N1=NAME.N5=ABS	Huhnuri.ø	SN	1
+3	mu-x-x	_	_	_	mu-x-x	_	sux	_	_	_	u	_
+
+# Q001882.4
+1	x-x-ri-ni{ki}	x-x-ri-ni{ki}	X-rini	GN	x-x-ri-ni{ki}	1	sux	N1=X-rini	N1=NAME	X-rini	GN	1
+2	ši-pa-ra{ki}	ši-pa-ra{ki}	Šipara	GN	ši-pa-ra{ki}\abs	1	sux	N1=Šipara.N5=ø	N1=NAME.N5=ABS	Šipara.ø	GN	1
+3	mu-x-x	_	_	_	mu-x-x	_	sux	_	_	_	u	_
+
+# Q001882.5
+1	x-ki{ki}	x-ki{ki}	X-ki	GN	x-ki{ki}	1	sux	N1=X-ki	N1=NAME	X-ki	GN	1
+2	sa-bu-um{ki}-bi-da	sa-bu-um{ki}	Sabum	SN	sa-bu-um{ki}-bi-da\dem2	1	sux	N1=Sabum.N3=bi.N5=da	N1=NAME.N3=DEM2.N5=COM	Sabum.bi.da	SN	1
+
+# Q001882.6
+1	x-x{ki}	x-x{ki}	X	GN	x-x{ki}	2	sux	N1=X	N1=NAME	X	GN	2
+2	ki-maš{ki}	ki-maš{ki}	Kimaš	GN	ki-maš{ki}	1	sux	N1=Kimaš	N1=NAME	Kimaš	GN	1
+3	du₈-du₈-li₂{ki}	du₈-du₈-li₂{ki}	Duduli	GN	du₈-du₈-li₂{ki}	1	sux	N1=Duduli	N1=NAME	Duduli	GN	1
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001882.7
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	ma-da	ma-da	mada	N	ma-da	land	sux	N1=mada	N1=STEM	mada	N	land, country
+3	an-ša₄-an{ki}	an-ša₄-an{ki}	Anšan	SN	an-ša₄-an{ki}	1	sux	N1=Anšan	N1=NAME	Anšan	SN	1
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001882.8
+1	x{ki}	x{ki}	X	GN	x{ki}	3	sux	N1=X	N1=NAME	X	GN	3
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+5	x	_	_	_	x	_	sux	_	_	_	u	_
+

@@ -1,0 +1,18 @@
+# project: etcsri 
+# textid: Q001612 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001612.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001612.2
+1	lagaš{ki}-ka-še₃	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-še₃	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Lagaš.ak.ak.še	SN	1
+
+# Q001612.3
+1	ur-{d}šul-pa-e₃-a	ur-{d}šul-pa-e₃-a	Uršulpaea	PN	ur-{d}šul-pa-e₃-a	1	sux	N1=Uršulpaea	N1=NAME	Uršulpaea	PN	1
+

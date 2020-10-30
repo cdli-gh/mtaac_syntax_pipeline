@@ -1,0 +1,69 @@
+# project: etcsri 
+# textid: Q000945 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000945.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q000945.1
+1	{d}nanna	{d}nanna	Nanna	DN	{d}nanna	1	sux	N1=Nanna	N1=NAME	Nanna	DN	1	_	_	_	_	_	_	_
+
+# Q000945.2
+1	dumu-saŋ	dumu-saŋ	dumusaŋ	N	dumu-saŋ	first-born	sux	N1=dumusaŋ	N1=STEM	dumusaŋ	N	first-born	_	_	_	_	_	_	_
+
+# Q000945.3
+1	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1	_	_	_	_	_	_	_
+
+# Q000945.4
+1	lugal-a-ni	lugal	lugal	N	lugal-a-ni\dat	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king	_	_	_	_	_	_	_
+
+# Q000945.5
+1	ur-{d}namma	ur-{d}namma	Urnammak	RN	ur-{d}namma	1	sux	N1=Urnammak	N1=NAME	Urnammak	RN	1st king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q000945.6
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q000945.7
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000945.8
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri-ke₄	ki-uri	Akkad	GN	ki-uri-ke₄	1	sux	N1=Akkad.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Akkad.ak.e	GN	1	_	_	_	_	_	_	_
+
+# Q000945.9
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+3	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen\abs	1	sux	N1=Nanna.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Nanna.ak.ø	DN	1	_	_	_	_	_	_	_
+
+# Q000945.10
+1	in-du₃-a	du₃	du	V/t	in-du₃-a\erg	build	sux	V2=i.V11=n.V12=du.V14=ø.V15='a.N5=e	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ERG	i.n.du.ø.'a.e	V/t	to build	_	_	_	_	_	_	_
+
+# Q000945.11
+1	niŋ₂	niŋ₂	niŋ	N	niŋ₂	thing	sux	N1=niŋ	N1=STEM	niŋ	N	thing	_	_	_	_	_	_	_
+2	ul-li₂-a-ke₄	ul-li₂	ul	N	ul-li₂-a-ke₄\n5el3	distant	sux	NV2=ul.NV4='a.N5=ak.N5=e	NV2=STEM.NV4=SUB.N5=GEN.N5=L3-NH	ul.'a.ak.e	V/i	distant time	_	_	_	_	_	_	_
+3	pa	pa	pa	N	pa\abs	branch	sux	N1=pa.N5=ø	N1=STEM.N5=ABS	pa.ø	N	branch	_	_	pa e	appear	appear	V/t	V/t
+4	mu-na-e₃	e₃	e	V/i	mu-na-e₃	leave	sux	V4=mu.V6=nn.V7=a.V11=n.V12=e.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.e.ø	V/i	to leave, go out	3	mwe	_	_	_	_	_
+
+# Q000945.12
+1	gaba	gaba	gaba	N	gaba	chest	sux	N1=gaba	N1=STEM	gaba	N	breast, chest, frontier	_	_	_	_	_	_	_
+2	a-ab-ka-ka	a-ab	aʾabak	N	a-ab-ka-ka\n5al2	sea	sux	N1=a'abak.N5=ak.N5='a	N1=STEM.N5=GEN.N5=L2-NH	a'abak.ak.'a	N	sea	_	_	_	_	_	_	_
+
+# Q000945.13
+1	ki-saₓ(SAR)-a	ki-saₓ(SAR)	kisa	N	ki-saₓ(SAR)-a\n5al2	platform	sux	N1=kisa.N5='a	N1=STEM.N5=L2-NH	kisa.'a	N	platform	_	_	_	_	_	_	_
+2	nam-ga-eš₈	nam-ga-eš₈	namgaʾeš	N	nam-ga-eš₈\abs	trade	sux	N1=namga'eš.N5=ø	N1=STEM.N5=ABS	namga'eš.ø	N	sea trade	_	_	_	_	_	_	_
+3	bi₂-sa₂	sa₂	sa	N	bi₂-sa₂	equal	sux	V5=b.V10=i.V11=n.V12=sa.V14=ø	V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.sa.ø	V/t	equal	_	_	_	_	_	_	_
+
+# Q000945.14
+1	ma₂	ma₂	ma	N	ma₂	ship	sux	N1=ma	N1=STEM	ma	N	ship	_	_	_	_	_	_	_
+2	ma₂-gan	ma₂-gan	Magan	GN	ma₂-gan\abs	1	sux	N1=Magan.N5=ø	N1=NAME.N5=ABS	Magan.ø	GN	1	_	_	_	_	_	_	_
+3	šu-na	šu	šu	N	šu-na\n5al2	hand	sux	N1=šu.N3=ani.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L2-NH	šu.ani.'a	N	hand	_	_	_	_	_	_	_
+4	mu-ni-gi₄	gi₄	gi	V/i	mu-ni-gi₄	turn	sux	V4=mu.V6=nn.V10=i.V11=n.V12=gi.V14=ø	V4=VEN.V6=3-SG-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.i.n.gi.ø	V/i	turn	_	_	_	_	_	_	_
+

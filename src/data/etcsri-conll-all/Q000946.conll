@@ -1,0 +1,88 @@
+# project: etcsri 
+# textid: Q000946 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000946.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q000946.1
+1	{d}nanna	{d}nanna	Nanna	DN	{d}nanna	1	sux	N1=Nanna	N1=NAME	Nanna	DN	1
+
+# Q000946.2
+1	dumu-saŋ	dumu-saŋ	dumusaŋ	N	dumu-saŋ	first-born	sux	N1=dumusaŋ	N1=STEM	dumusaŋ	N	first-born
+
+# Q000946.3
+1	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1
+
+# Q000946.4
+1	lugal-a-ni	lugal	lugal	N	lugal-a-ni\dat	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king
+
+# Q000946.5
+1	ur-{d}namma	ur-{d}namma	Urnammak	RN	ur-{d}namma	1	sux	N1=Urnammak	N1=NAME	Urnammak	RN	1st king of the 3rd dynasty of Urim
+
+# Q000946.6
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q000946.7
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q000946.8
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1
+3	ki-uri-ke₄	ki-uri	Akkad	GN	ki-uri-ke₄	1	sux	N1=Akkad.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Akkad.ak.e	GN	1
+
+# Q000946.9
+1	sug	sug	sug	N	sug	marsh	sux	N1=sug	N1=STEM	sug	N	reed-bed, marsh
+2	peš	peš	peš	N	peš\abs	seedling	sux	N1=peš.N5=ø	N1=STEM.N5=ABS	peš.ø	N	seedling
+3	du₃-a	du₃	du	V/t	du₃-a	build	sux	NV2=du.NV4='a	NV2=STEM.NV4=SUB	du.'a	V/t	to build
+
+# Q000946.10
+1	sug	sug	sug	N	sug\abs	marsh	sux	N1=sug.N5=ø	N1=STEM.N5=ABS	sug.ø	N	reed-bed, marsh
+2	he₂-me-am₃	me	me	V/i	he₂-me-am₃	be	sux	V1=ha.V2=i.V12=me.V14=ø.N6=am	V1=MOD1.V2=FIN.V12=COP.V14=3-SG-S.N6=COP-3-SG	ha.i.me.ø.am	V/i	to be, (the independent form of the) copula
+
+# Q000946.11
+1	a-šag₄-bi	a-šag₄	ašag	N	a-šag₄-bi\abs	field	sux	N1=ašag.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	ašag.bi.ø	N	field
+
+# Q000946.12
+1	1(šargal){gal}	_	_	_	1(šargal){gal}	_	sux	_	_	_	n	_
+2	gana₂-am₃	gana₂	gana	N	gana₂-am₃	field	sux	N1=gana.N5=ø.N6=am	N1=STEM.N5=ABS.N6=COP-3-SG	gana.ø.am	N	field
+
+# Q000946.13
+1	a-ta	a	a	N	a-ta	water	sux	N1=a.N5=ta	N1=STEM.N5=ABL	a.ta	N	water
+
+# Q000946.14
+1	ha-mu-na-ta-ed₃	ed₃	ed	V/i	ha-mu-na-ta-ed₃	ascend	sux	V1=ha.V4=mu.V6=nn.V7=a.V9=ta.V11=n.V12=ed.V14=ø	V1=MOD1.V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ha.mu.nn.a.ta.n.ed.ø	V/i	ascend
+
+# Q000946.15
+1	eg₂-bi	eg₂	eg	N	eg₂-bi	levee	sux	N1=eg.N3=bi	N1=STEM.N3=3-SG-NH-POSS	eg.bi	N	levee
+2	4(diš)	_	_	_	4(diš)	_	sux	_	_	_	n	_
+3	da-na	da-na	dana	N	da-na	unit	sux	N1=dana	N1=STEM	dana	N	a unit of length, double-hour (distance), double-mile
+4	4(geš₂)	_	_	_	4(geš₂)	_	sux	_	_	_	n	_
+5	2(u)	_	_	_	2(u)	_	sux	_	_	_	n	_
+6	{ninda}nindaₓ(DU)	{ninda}nindaₓ(DU)	nindan	N	{ninda}nindaₓ(DU)	pole	sux	N1=nindan	N1=STEM	nindan	N	pole, a unit of length
+
+# Q000946.16
+1	he₂-na-ak	ak	ak	V/t	he₂-na-ak	do	sux	V1=ha.V2=i.V6=nn.V7=a.V11=n.V12=ak.V14=ø	V1=MOD1.V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ha.i.nn.a.n.ak.ø	V/t	do
+
+# Q000946.17
+1	urim₅{ki}-e	urim₅{ki}	Urim	SN	urim₅{ki}-e\n5el3	1	sux	N1=Urim.N5=e	N1=NAME.N5=L3-NH	Urim.e	SN	1
+2	gil-sa-aš	gil-sa	gilsa	N	gil-sa-aš\adv	treasure	sux	N1=gilsa.N5=eš	N1=STEM.N5=ADV	gilsa.eš	N	treasure
+
+# Q000946.18
+1	he₂-mi-ak	ak	ak	V/t	he₂-mi-ak\v10l3	do	sux	V1=ha.V2=i.V4=m.V5=b.V10=i.V11=n.V12=ak.V14=ø	V1=MOD1.V2=FIN.V4=VEN.V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ha.i.m.b.i.n.ak.ø	V/t	do
+
+# Q000946.19
+1	eg₂-ba	eg₂	eg	N	eg₂-ba\dem2	levee	sux	N1=eg.N3=bi.N5=ak	N1=STEM.N3=DEM2.N5=GEN	eg.bi.ak	N	levee
+2	a-ba	a-ba	aba	N	a-ba\abs	who?	sux	N1=aba.N5=ø	N1=STEM.N5=ABS	aba.ø	N	who?
+3	{d}nanna-gin₇	{d}nanna	Nanna	DN	{d}nanna-gin₇	1	sux	N1=Nanna.N5=gin	N1=NAME.N5=EQU	Nanna.gin	DN	1
+
+# Q000946.20
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name
+

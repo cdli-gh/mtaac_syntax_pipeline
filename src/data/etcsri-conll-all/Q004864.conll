@@ -1,0 +1,29 @@
+# project: etcsri 
+# textid: Q004864 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004864.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004864.2
+1	en-bi₂-eš₁₈-tar₂	en-bi₂-eš₁₈-tar₂	Enbieštar	RN	en-bi₂-eš₁₈-tar₂	1	sux	N1=Enentarzid	N1=NAME	Enentarzid	RN	King of Kiš
+
+# Q004864.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kiš{ki}	kiš{ki}	Kiš	SN	kiš{ki}\gen\abs	1	sux	N1=Kiš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Kiš.ak.ø	SN	1
+
+# Q004864.4
+1	mu-dab₅	dab₅	dab	V/t	mu-dab₅	seize	sux	V4=mu.V11=n.V12=dab.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.dab.ø	V/t	to seize, to take, to hold
+
+# Q004864.5
+1	alan-bi	alan	alan	N	alan-bi	statue	sux	N1=alan.N3=bi	N1=STEM.N3=3-SG-NH-POSS	alan.bi	N	statue
+
+# Q004864.6
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi	lapis	sux	N1=zagin.N3=bi	N1=STEM.N3=3-SG-NH-POSS	zagin.bi	N	lapis lazuli
+

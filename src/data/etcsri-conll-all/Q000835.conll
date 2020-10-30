@@ -1,0 +1,56 @@
+# project: etcsri 
+# textid: Q000835 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000835.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q000835.1
+1	en-he₂-du₇-an-na	en-he₂-du₇-an-na	Enheduanak	PN	en-he₂-du₇-an-na	1	sux	N1=Enheduanak	N1=NAME	Enheduanak	PN	Daughter of Sargon, king of Agade
+
+# Q000835.2
+1	zirruₓ(|SAL.NUNUZ.ZI.AN.ŠEŠ.KI|)	zirruₓ(|SAL.NUNUZ.ZI.AN.ŠEŠ.KI|)	zirru	N	zirruₓ(|SAL.NUNUZ.ZI.AN.ŠEŠ.KI|)	priestess	sux	N1=zirru	N1=STEM	zirru	N	priestess
+
+# Q000835.3
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen	1	sux	N1=Nanna.N5=ak	N1=NAME.N5=GEN	Nanna.ak	DN	1
+
+# Q000835.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+
+# Q000835.5
+1	šar-ru-GI	šar-ru-GI	Šarrukin	RN	šar-ru-GI	1	sux	N1=Šarrukin	N1=NAME	Šarrukin	RN	1st king of the dynasty of Agade
+
+# Q000835.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q000835.7
+1	kiš	kiš	kiš	N	kiš\gen\gen\erg	totality	sux	N1=kiš.N5=ak.N5=ak.N5=e	N1=STEM.N5=GEN.N5=GEN.N5=ERG	kiš.ak.ak.e	N	totality, world
+
+# Q000835.8
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}INANA-ZA-ZA	{d}INANA-ZA-ZA	Inanak-ZAZA	DN	{d}INANA-ZA-ZA\gen	1	sux	N1=Inanak-ZAZA.N5=ak	N1=NAME.N5=GEN	Inanak-ZAZA.ak	DN	1
+
+# Q000835.9
+1	urim₅{ki}-ma-ka	urim₅{ki}	Urim	SN	urim₅{ki}-ma-ka\gen\l1	1	sux	N1=Urim.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L1	Urim.ak.'a	SN	1
+
+# Q000835.10
+1	barag-sig₉-ga	barag-sig₉-ga	baragsiga	N	barag-sig₉-ga\abs	shrine	sux	N1=baragsiga.N5=ø	N1=STEM.N5=ABS	baragsiga.ø	N	a low socle for cultic purposes, a pedestal, an altar
+
+# Q000835.11
+1	bi₂-e-du₃	du₃	du	V/t	bi₂-e-du₃	build	sux	V5=b.V10=i.V11=n.V12=du.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.du.ø	V/t	to build
+
+# Q000835.12
+1	barag	barag	barag	N	barag	dais	sux	N1=barag	N1=STEM	barag	N	dais
+2	banšur	banšur	banšur	N	banšur	table	sux	N1=banšur	N1=STEM	banšur	N	table
+3	an-na	an	An	DN	an-na	1	sux	N1=An.N5=ak	N1=NAME.N5=GEN	An.ak	DN	1
+
+# Q000835.13
+1	mu-še₃	mu	mu	N	mu-še₃	name	sux	N1=mu.N5=še	N1=STEM.N5=TERM	mu.še	N	name
+2	be₂-še₂₁	še₂₁	še	V/t	be₂-še₂₁	call	sux	V5=b.V10=i.V11=n.V12=še.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.še.ø	V/t	call
+

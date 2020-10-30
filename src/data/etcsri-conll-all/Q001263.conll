@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q001263 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001263.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001263.1
+1	{d}nin-tin-ugₓ(|EZEN×HAL|)-ga	{d}nin-tin-ugₓ(|EZEN×HAL|)-ga	Nintinuga	DN	{d}nin-tin-ugₓ(|EZEN×HAL|)-ga\dat	1	sux	N1=Nintinuga.N5=ra	N1=NAME.N5=DAT	Nintinuga.ra	DN	1
+
+# Q001263.2
+1	puzur₅-ma-ma	puzur₅-ma-ma	Puzurmama	PN	puzur₅-ma-ma	1	sux	N1=Puzurmama	N1=NAME	Puzurmama	PN	1
+
+# Q001263.3
+1	dam-gar₃	dam-gar₃	damgar	N	dam-gar₃\erg	merchant	sux	N1=damgar.N5=e	N1=STEM.N5=ERG	damgar.e	N	merchant
+
+# Q001263.4
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+

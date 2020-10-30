@@ -1,0 +1,34 @@
+# project: etcsri 
+# textid: Q001837 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001837.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001837.1
+1	da-da	da-da	Dada	PN	da-da	1	sux	N1=Dada	N1=NAME	Dada	PN	1 Governor of Nibru
+
+# Q001837.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+
+# Q001837.3
+1	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen\abs	1	sux	N1=Nibru.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Nibru.ak.ø	SN	1
+
+# Q001837.4
+1	lugal-ma₂-gur₈-re	lugal-ma₂-gur₈-re	Lugalmagure	PN	lugal-ma₂-gur₈-re	3	sux	N1=Lugalmagure	N1=NAME	Lugalmagure	PN	3
+
+# Q001837.5
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+
+# Q001837.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	lugal-gub-ba-ni	lugal-gub-ba-ni	Lugalgubani	PN	lugal-gub-ba-ni\gen\abs	1	sux	N1=Lugalgubani.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lugalgubani.ak.ø	PN	1
+
+# Q001837.7
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

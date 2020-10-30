@@ -1,0 +1,40 @@
+# project: etcsri 
+# textid: Q001765 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001765.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001765.1
+1	{d}nin-ŋeš-zid-da	{d}nin-ŋeš-zid-da	Ninŋešzidak	DN	{d}nin-ŋeš-zid-da	1	sux	N1=Ninŋešzidak	N1=NAME	Ninŋešzidak	DN	1	_	_	_	_	_	_	_
+
+# Q001765.2
+1	lugal-a-ni	lugal	lugal	N	lugal-a-ni\dat	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king	_	_	_	_	_	_	_
+
+# Q001765.3
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001765.4
+1	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q001765.5
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga-še₃	kalag	kalag	V/i	kalag-ga-še₃	strong	sux	NV2=kalag.NV4='a.N5=ak.N5=še	NV2=STEM.NV4=SUB.N5=GEN.N5=TERM	kalag.'a.ak.še	V/i	strong	_	_	_	_	_	_	_
+
+# Q001765.6
+1	niŋ₂-kal-la	niŋ₂-kal-la	Niŋkala	PN	niŋ₂-kal-la	1	sux	N1=Niŋkala	N1=NAME	Niŋkala	PN	1	_	_	_	_	_	_	_
+
+# Q001765.7
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd	_	_	_	_	_	_	_
+2	udu	udu	udu	N	udu	sheep	sux	N1=udu	N1=STEM	udu	N	sheep	_	_	_	_	_	_	_
+3	niga-ke₄	niga	niga	V/i	niga-ke₄	fattened	sux	NV2=niga.N5=ak.N5=e	NV2=STEM.N5=GEN.N5=ERG	niga.ak.e	V/i	fattened	_	_	_	_	_	_	_
+
+# Q001765.8
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

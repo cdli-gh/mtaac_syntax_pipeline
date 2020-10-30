@@ -1,0 +1,25 @@
+# project: etcsri 
+# textid: Q001724 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001724.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001724.1
+1	tu-li₂-id-UTU{ši}	tu-li₂-id-UTU{ši}	Tulidšamši	PN	tu-li₂-id-UTU{ši}	1	sux	N1=Tulidšamši	N1=NAME	Tulidšamši	PN	1
+
+# Q001724.2
+1	ereš-diŋir	ereš-diŋir	erešdiŋir	N	ereš-diŋir	priestess	sux	N1=erešdiŋir	N1=STEM	erešdiŋir	N	a priestess
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen\abs	1	sux	N1=Nanna.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Nanna.ak.ø	DN	1
+
+# Q001724.3
+1	arad₂-e₂-x-x-x	arad₂-e₂-x-x-x	Arade-X	PN	arad₂-e₂-x-x-x\abs	1	sux	N1=Arade-X.N5=ø	N1=NAME.N5=ABS	Arade-X.ø	PN	1
+
+# Q001724.4
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

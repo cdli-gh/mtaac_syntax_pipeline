@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q001310 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001310.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001310.1
+1	{d}nin-lil₂	{d}nin-lil₂	Ninlil	DN	{d}nin-lil₂\dat	1	sux	N1=Ninlil.N5=ra	N1=NAME.N5=DAT-H	Ninlil.ra	DN	1
+
+# Q001310.2
+1	ŋiri₃-ni	ŋiri₃-ni	Ŋirini	PN	ŋiri₃-ni	1	sux	N1=Ŋirini	N1=NAME	Ŋirini	PN	1
+
+# Q001310.3
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	lugal-lu₂-ke₄	lugal-lu₂	Lugallu	PN	lugal-lu₂-ke₄	1	sux	N1=Lugallu.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lugallu.ak.e	PN	1
+

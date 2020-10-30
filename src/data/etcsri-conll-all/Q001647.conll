@@ -1,0 +1,40 @@
+# project: etcsri 
+# textid: Q001647 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001647.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001647.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001647.3
+1	nin-a-ni-ir	nin	nin	N	nin-a-ni-ir	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady
+
+# Q001647.4
+1	ta₂-ra-am-urim₂{ki}	ta₂-ra-am-urim₂{ki}	Taramurim	PN	ta₂-ra-am-urim₂{ki}	1	sux	N1=Taramurim	N1=NAME	Taramurim	PN	Daughter of Apil-kīn, king of Mari, daughter-in-law of Ur-Namma, king of Urim
+
+# Q001647.5
+1	dumu-munus	dumu-munus	dumumunus	N	dumu-munus	daughter	sux	N1=dumumunus	N1=STEM	dumumunus	N	daughter
+2	a-pil-ki-in	a-pil-ki-in	Apilkin	RN	a-pil-ki-in	1	sux	N1=Apilkin	N1=NAME	Apilkin	RN	1
+
+# Q001647.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	ma-ri₂{ki}-ka	ma-ri₂{ki}	Mari	SN	ma-ri₂{ki}-ka	1	sux	N1=Mari.N5=ak.N5=ak	N1=NAME.N5=GEN.N5=GEN	Mari.ak.ak	SN	1
+
+# Q001647.7
+1	e₂-gi₄-a	e₂-gi₄-a	egia	N	e₂-gi₄-a	bride	sux	N1=egia	N1=STEM	egia	N	bride
+
+# Q001647.8
+1	ur-{d}namma	ur-{d}namma	Urnammak	RN	ur-{d}namma	1	sux	N1=Urnammak	N1=NAME	Urnammak	RN	1st king of the 3rd dynasty of Urim
+
+# Q001647.9
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+

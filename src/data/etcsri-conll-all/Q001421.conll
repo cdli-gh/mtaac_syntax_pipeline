@@ -1,0 +1,42 @@
+# project: etcsri 
+# textid: Q001421 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001421.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001421.2
+1	šuruppak{ki}-ga-ke₄	šuruppak{ki}	Šuruppag	SN	šuruppak{ki}-ga-ke₄	1	sux	N1=Šuruppag.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Šuruppag.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001421.3
+1	šag₄-ge	šag₄	šag	N	šag₄-ge\n5el3	heart	sux	N1=šag.N5=e	N1=STEM.N5=L3-NH	šag.e	N	heart, inner body	_	_	_	_	_	_	_
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q001421.4
+1	{d}sud₃-da-ke₄	{d}sud₃	Sud	DN	{d}sud₃-da-ke₄	1	sux	N1=Sud.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Sud.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001421.5
+1	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	mu pad	nominate	to nominate, to proclaim one's name publicly	V/t	V/t
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	1	mwe	_	_	_	_	_
+
+# Q001421.6
+1	{d}nin-ŋidru-ka-ke₄	{d}nin-ŋidru	Ninŋidruk	DN	{d}nin-ŋidru-ka-ke₄	1	sux	N1=Ninŋidruk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninŋidruk.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001421.7
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001421.8
+1	lugal-ni	lugal	lugal	N	lugal-ni	king	sux	N1=lugal.N3=ani	N1=STEM.N3=3-SG-H-POSS	lugal.ani	N	king	_	_	_	_	_	_	_
+
+# Q001421.9
+1	ri₂-mu-uš	ri₂-mu-uš	Rimuš	RN	ri₂-mu-uš	1	sux	N1=Rimuš	N1=NAME	Rimuš	RN	2nd king of dynasty of Agade	_	_	_	_	_	_	_
+
+# Q001421.10
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kiš-ka-še₃	kiš	kiš	N	kiš-ka-še₃	totality	sux	N1=kiš.N5=ak.N5=še	N1=STEM.N5=GEN.N5=TERM	kiš.ak.še	N	totality, world	_	_	_	_	_	_	_
+

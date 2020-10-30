@@ -1,0 +1,49 @@
+# project: etcsri 
+# textid: Q001132 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001132.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001132.1
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše\dat	1	sux	N1=Nanše.N5=ra	N1=NAME.N5=DAT-H	Nanše.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001132.2
+1	id₂	id₂	id	N	id₂	river	sux	N1=id	N1=STEM	id	N	river	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni	measure	sux	NV2=aŋ.N3=ani	NV2=STEM.N3=3-SG-H-POSS	aŋ.ani	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001132.3
+1	id₂-niŋin₆{ki}-du-a	id₂-niŋin₆{ki}-du	Idniŋindu	WN	id₂-niŋin₆{ki}-du-a\l2	1	sux	N1=Idniĝindu.N5='a	N1=NAME.N5=L2-NH	Idniĝindu.'a	WN	1	_	_	_	_	_	_	_
+
+# Q001132.4
+1	al	al	al	N	al\abs	hoe	sux	N1=al.N5=ø	N1=STEM.N5=ABS	al.ø	N	hoe	_	_	_	_	_	_	_
+2	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001132.5
+1	ka-ba	ka	kag	N	ka-ba\l1	mouth	sux	N1=kag.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L1	kag.bi.'a	N	mouth	_	_	_	_	_	_	_
+
+# Q001132.6
+1	e₂-ninnu	e₂-ninnu	Eninnu	TN	e₂-ninnu\abs	1	sux	N1=Eninnu.N5=ø	N1=NAME.N5=ABS	Eninnu.ø	TN	1	_	_	_	_	_	_	_
+
+# Q001132.7
+1	ni-du₃	du₃	du	V/t	ni-du₃	build	sux	V10=ni.V11=n.V12=du.V14=ø	V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ni.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001132.8
+1	kun-ba	kun	kun	N	kun-ba\l1	tail	sux	N1=kun.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L1	kun.bi.'a	N	tail, canal outlet	_	_	_	_	_	_	_
+
+# Q001132.9
+1	e₂-sirara₃{ki}	e₂-sirara₃{ki}	Esirara	TN	e₂-sirara₃{ki}\abs	1	sux	N1=Esirara.N5=ø	N1=NAME.N5=ABS	Esirara.ø	TN	1	_	_	_	_	_	_	_
+
+# Q001132.10
+1	ni-du₃	du₃	du	V/t	ni-du₃	build	sux	V10=ni.V11=n.V12=du.V14=ø	V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ni.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001132.11
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+

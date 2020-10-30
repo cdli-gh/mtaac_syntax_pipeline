@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q001439 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001439.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001439.1
+1	lu₂-diŋir-ra-na	lu₂-diŋir-ra-na	Ludiŋiranak	PN	lu₂-diŋir-ra-na	1	sux	N1=Ludiŋiranak	N1=NAME	Ludiŋiranak	PN	1
+
+# Q001439.2
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household
+2	isin₂{ki}	isin₂{ki}	Isin	SN	isin₂{ki}\gen\abs	1	sux	N1=Isin.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Isin.ak.ø	SN	1
+
+# Q001439.3
+1	lu₂-diŋir-ra	lu₂-diŋir-ra	Ludiŋirak	PN	lu₂-diŋir-ra	1	sux	N1=Ludiŋirak	N1=NAME	Ludiŋirak	PN	1
+
+# Q001439.4
+1	dub-sar	dub-sar	dubsar	N	dub-sar\abs	scribe	sux	N1=dubsar.N5=ø	N1=STEM.N5=ABS	dubsar.ø	N	scribe
+2	arad₂-da-ni	arad₂	arad	N	arad₂-da-ni\abs	slave	sux	N1=arad.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	arad.ani.ø	N	slave, servant
+

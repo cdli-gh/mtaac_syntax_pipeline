@@ -1,0 +1,82 @@
+# project: etcsri 
+# textid: Q001084 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001084.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001084.1
+1	en-an-na-tum₂	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂	1	sux	N1=Enanatum	N1=NAME	Enanatum	RN	En-ana-tum I, ruler of Lagaš
+
+# Q001084.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001084.3
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001084.4
+1	šag₄	šag₄	šag	N	šag₄\l3	heart	sux	N1=šag.N5=e	N1=STEM.N5=L3-NH	šag.e	N	heart, inner body
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover
+
+# Q001084.5
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše\gen	1	sux	N1=Nanše.N5=ak	N1=NAME.N5=GEN	Nanše.ak	DN	1
+
+# Q001084.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	tud-da	tud	utud	V/t	tud-da	bear	sux	NV2=utud.NV4='a	NV2=STEM.NV4=SUB	utud.'a	V/t	bear
+
+# Q001084.7
+1	{d}lugal-urub{ki}-ka	{d}lugal-urub{ki}	Lugalurubak	DN	{d}lugal-urub{ki}-ka	1	sux	N1=Lugalurubak.N5=ak	N1=NAME.N5=GEN	Lugalurubak.ak	DN	1
+
+# Q001084.8
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	aya₂-kur-gal	aya₂-kur-gal	Ayakurgal	RN	aya₂-kur-gal	1	sux	N1=Ayakurgal	N1=NAME	Ayakurgal	RN	Ruler of Lagaš
+
+# Q001084.9
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001084.10
+1	lagaš{ki}-ka-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-ke₄	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1
+
+# Q001084.11
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun
+2	{d}inana-ra	{d}inana	Inanak	DN	{d}inana-ra	1	sux	N1=Inanak.N5=ra	N1=NAME.N5=DAT-H	Inanak.ra	DN	1
+
+# Q001084.12
+1	eb-gal	eb-gal	Ebgal	TN	eb-gal\abs	1	sux	N1=Ebgal.N5=ø	N1=NAME.N5=ABS	Ebgal.ø	TN	1
+2	mu-na-du₃-a	du₃	du	V/t	mu-na-du₃-a\l1	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.du.ø.'a.'a	V/t	to build
+
+# Q001084.13
+1	e₂-an-na	e₂-an-na	Eanak	TN	e₂-an-na\abs	1	sux	N1=Eanak.N5=ø	N1=NAME.N5=ABS	Eanak.ø	TN	1
+2	kur-kur-ra	kur-kur	kur	N	kur-kur-ra\n5al2	mountain	sux	N1=kurkur.N5='a	N1=STEM-RDP.N5=L2-NH	kurkur.'a	N	mountain
+
+# Q001084.14
+1	mu-na-dirig-ga-a	dirig	dirig	V/t	mu-na-dirig-ga-a	exceed	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dirig.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.dirig.ø.'a.'a	V/t	create
+
+# Q001084.15
+1	kug-sig₁₇	kug-sig₁₇	kugsig	N	kug-sig₁₇	gold	sux	N1=kugsig	N1=STEM	kugsig	N	gold
+2	kug-babbar₂-ra	kug-babbar₂	kugbabbar	N	kug-babbar₂-ra\l1	silver	sux	N1=kugbabbar.N5='a	N1=STEM.N5=L1	kugbabbar.'a	N	silver
+
+# Q001084.16
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	mu-na-ni-tag-ga-a	tag	tag	V/t	mu-na-ni-tag-ga-a	touch	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=tag.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.ni.n.tag.ø.'a.'a	V/t	touch
+
+# Q001084.17
+1	KIB@g	KIB@g	kib	N	KIB@g\abs	object	sux	N1=kib.N5=ø	N1=STEM.N5=ABS	kib.ø	N	an object, inscribed clay nail?
+2	arad₂-ra-ni	arad₂	arad	N	arad₂-ra-ni	slave	sux	N1=arad.N3=ani	N1=STEM.N3=3-SG-H-POSS	arad.ani	N	slave, servant
+
+# Q001084.18
+1	id₂-lu₂-sikil	id₂-lu₂-sikil	Idlusikil	PN	id₂-lu₂-sikil	1	sux	N1=Idlusikil	N1=NAME	Idlusikil	PN	1
+
+# Q001084.19
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+2	e₂-šag₄-ga-ka-ne₂	e₂-šag₄	ešag	N	e₂-šag₄-ga-ka-ne₂	chamber	sux	N1=ešag.N5=ak.N3=ani.N5=e	N1=STEM.N5=GEN.N3=3-SG-H-POSS.N5=ERG	ešag.ak.ani.e	N	chamber, personal quarters
+
+# Q001084.20
+1	e-ma-dim₂	dim₂	dim	V/t	e-ma-dim₂	create	sux	V2=i.V5=ba.V11=n.V12=dim.V14=ø	V2=FIN.V4=VEN.V5=MID.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.ba.n.dim.ø	V/t	create
+

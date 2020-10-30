@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001251 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001251.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001251.1
+1	lugal-nam-nir-šum₂	lugal-nam-nir-šum₂	Lugalnamniršuma	RN	lugal-nam-nir-šum₂	1	sux	N1=Lugalnamniršuma	N1=NAME	Lugalnamniršuma	RN	King of Kiš
+
+# Q001251.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001251.3
+1	kiš	kiš	Kiš	SN	kiš\gen\abs	1	sux	N1=Kiš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Kiš.ak.ø	SN	1
+

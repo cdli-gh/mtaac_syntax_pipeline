@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001722 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001722.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001722.1
+1	ša-at-{d}suen	ša-at-{d}suen	Šatsuen	PN	ša-at-{d}suen	1	sux	N1=Šatsuen	N1=NAME	Šatsuen	PN	Daughter of Šulgi, king of Urim
+
+# Q001722.2
+1	dumu-munus	dumu-munus	dumumunus	N	dumu-munus	daughter	sux	N1=dumumunus	N1=STEM	dumumunus	N	daughter
+2	lugal	lugal	lugal	N	lugal\gen\abs	king	sux	N1=lugal.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	lugal.ak.ø	N	king
+

@@ -1,0 +1,19 @@
+#new_text=P100267
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	gu4	gud[ox]	NOUN	N	Number=Sing	7	ABS	_	_
+3	1(u)	1(u)[ten]	NUM	NU	_	2	nummod	_	_
+4	udu	udu[sheep]	NOUN	N	Number=Sing	2	appos	_	_
+5	u2	u[grass]	NOUN	N	Case=Abs|Number=Sing	2	appos	_	_
+6	nir-i3-da-gal2	Niridagal[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	7	ERG	_	_
+7	mu-kux(DU)	nna]	VERB	V	Number=Sing|Person=3	11	DAT-H	_	_
+8	{d}szul-gi-si2-im-tum	Szulgisi'imtum[1]	PROPN	PN	Animacy=Hum|Number=Sing	7	appos	_	_
+9	be-li2-du10	Belidu[1]	PROPN	PN	Animacy=Hum|Number=Sing	11	ERG	_	_
+10	kuruszda	kuruszda[fattener]	NOUN	N	Case=Erg|Number=Sing	9	appos	_	_
+11	i3-dab5	n]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	0	_	_	_
+12	iti	iti[month]	NOUN	N	Number=Sing	17	L1	_	_
+13	ezem-me-ki-gal2	Ezemmekigal[1]	PROPN	MN	Number=Sing	12	appos	_	_
+14	mu	mu[year]	NOUN	N	Number=Sing	12	appos	_	_
+15	us2-sa	us[follow]	VERB	V	_	14	amod	_	_
+16	an-sza-an{ki}	Anszan[1]	PROPN	GN	Case=Abs|Number=Sing	17	ABS	_	_
+17	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_

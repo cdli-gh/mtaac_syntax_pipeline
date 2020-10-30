@@ -1,0 +1,18 @@
+# project: etcsri 
+# textid: Q001290 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001290.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001290.1
+1	šeš-ki-na	šeš-ki-na	Šeškina	PN	šeš-ki-na	1	sux	N1=Šeškina	N1=NAME	Šeškina	PN	1
+
+# Q001290.2
+1	nu-banda₃	nu-banda₃	nubanda	N	nu-banda₃\abs	overseer	sux	N1=nubanda.N5=ø	N1=STEM.N5=ABS	nubanda.ø	N	overseer
+

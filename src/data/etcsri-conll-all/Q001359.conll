@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001359 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001359.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001359.1
+1	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\dat	1	sux	N1=Nanna.N5=ra	N1=NAME.N5=DAT-H	Nanna.ra	DN	1
+
+# Q001359.2
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q001359.3
+1	x-še₃	_	_	_	x-še₃	_	sux	_	_	_	u	_
+

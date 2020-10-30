@@ -1,0 +1,24 @@
+# project: etcsri 
+# textid: Q001181 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001181.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001181.2
+1	ašag	ašag	ašag	N	ašag	field	sux	N1=ašag	N1=STEM	ašag	N	field
+2	gu₂-eden-na	gu₂-eden-na	Guedenak	GN	gu₂-eden-na\abs	1	sux	N1=Guedenak.N5=ø	N1=NAME.N5=ABS	Guedenak.ø	GN	1
+
+# Q001181.3
+1	mu-na-uru₄	uru₄	uru	V/t	mu-na-uru₄	sow	sux	V4=mu.V6=nn.V7=a.V11=n.V12=uru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.uru.ø	V/t	sow, to cultivate
+
+# Q001181.4
+1	x-bi	_	_	_	x-bi	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	guru₇	guru₇	guru	N	guru₇\u	store	sux	N1=guru.N5=x	N1=STEM.N5=X	guru.x	N	unit of capacity
+

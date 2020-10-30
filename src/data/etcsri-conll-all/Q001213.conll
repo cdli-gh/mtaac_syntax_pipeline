@@ -1,0 +1,15 @@
+# project: etcsri 
+# textid: Q001213 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001213.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001213.1
+1	diŋir-mah	diŋir-mah	Diŋirmah	DN	diŋir-mah\abs	1	sux	N1=Diŋirmah.N5=ø	N1=NAME.N5=ABS	Diŋirmah.ø	DN	1
+

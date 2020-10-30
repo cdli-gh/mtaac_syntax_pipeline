@@ -1,0 +1,18 @@
+# project: etcsri 
+# textid: Q004260 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004260.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004260.2
+1	{d}x	_	_	_	{d}x	_	sux	_	_	_	u	_
+
+# Q004260.3
+1	nin-a-ni	nin	nin	N	nin-a-ni	lady	sux	N1=nin.N3=ani	N1=STEM.N3=3-SG-H-POSS	nin.ani	N	lady
+

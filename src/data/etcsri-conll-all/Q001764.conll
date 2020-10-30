@@ -1,0 +1,46 @@
+# project: etcsri 
+# textid: Q001764 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001764.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001764.1
+1	{d}nin-iri-a-mu-ŋen	{d}nin-iri-a-mu-ŋen	Niniriamuŋen	DN	{d}nin-iri-a-mu-ŋen	1	sux	N1=Niniriamuŋen	N1=NAME	Niniriamuŋen	DN	1	_	_	_	_	_	_	_
+
+# Q001764.2
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q001764.3
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001764.4
+1	šul-gi	šul-gi	Šulgir	RN	šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q001764.5
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001764.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma-ka-še₃	urim₅{ki}	Urim	SN	urim₅{ki}-ma-ka-še₃	1	sux	N1=Urim.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Urim.ak.ak.še	SN	1	_	_	_	_	_	_	_
+
+# Q001764.7
+1	nin-kisal-še₃	nin-kisal-še₃	Ninkisalše	PN	nin-kisal-še₃	1	sux	N1=Ninkisalše	N1=NAME	Ninkisalše	PN	1	_	_	_	_	_	_	_
+
+# Q001764.8
+1	ur-niŋin₃-ŋu₁₀	ur-niŋin₃-ŋu₁₀	Urniŋinŋu	PN	ur-niŋin₃-ŋu₁₀	1	sux	N1=Urniŋinŋu	N1=NAME	Urniŋinŋu	PN	1	_	_	_	_	_	_	_
+
+# Q001764.9
+1	ga-eš₈	ga-eš₈	gaʾeš	N	ga-eš₈	trader	sux	N1=ga'eš	N1=STEM	ga'eš	N	trader	_	_	_	_	_	_	_
+2	a-ab-ba-ka-ke₄	a-ab-ba	aʾabak	N	a-ab-ba-ka-ke₄	sea	sux	N1=a'abak.N5=ak.N5=e	N1=STEM.N5=GEN.N5=ERG	a'abak.ak.e	N	sea	_	_	_	_	_	_	_
+
+# Q001764.10
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

@@ -1,0 +1,10 @@
+#new_text=P100767
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	pisan-dub-ba	bisagdubak[filing_basket]	NOUN	N	Number=Sing	0	_	_	_
+2	e2-tum	bitum[~administration]	NOUN	N	Number=Sing	1	appos	_	_
+3	ab2	ab[cow]	NOUN	N	Number=Sing	1	appos	_	_
+4	e2-tur3	etur[stall]	NOUN	N	Number=Sing	1	appos	_	_
+5	u3	u[and]	CCONJ	CNJ	_	4	cc	_	_
+6	gu4-{gesz}apin	gudapin[ox]	NOUN	N	Case=Gen,Gen|Number=Sing	4	conj	_	_
+7	mu	mu[year]	NOUN	N	Number=Sing	0	_	_	_
+8	en-mah-gal-an-na	Enmahgalana[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_

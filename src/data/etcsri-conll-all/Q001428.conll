@@ -1,0 +1,24 @@
+# project: etcsri 
+# textid: Q001428 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001428.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001428.1
+1	en-men-an-na	en-men-an-na	Enmenanak	PN	en-men-an-na\abs	1	sux	N1=Enmenana.N5=ø	N1=NAME.N5=ABS	Enmenana.ø	PN	Daughter of Narām-Suen, king of Agade
+
+# Q001428.2
+1	ur-si	ur-si	Ursi	PN	ur-si	1	sux	N1=Ursi	N1=NAME	Ursi	PN	1
+
+# Q001428.3
+1	i₃-du₈	i₃-du₈	idu	N	i₃-du₈\abs	doorkeeper	sux	N1=idu.N5=ø	N1=STEM.N5=ABS	idu.ø	N	doorkeeper
+
+# Q001428.4
+1	arad₂-da-ni	arad₂	arad	N	arad₂-da-ni\abs	slave	sux	N1=arad.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	arad.ani.ø	N	slave, servant
+

@@ -1,0 +1,78 @@
+# project: etcsri 
+# textid: Q001127 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001127.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001127.1
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001127.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001127.4
+1	{d}šul-šag₄-ga-na-ra	{d}šul-šag₄-ga-na	Šulšaganak	DN	{d}šul-šag₄-ga-na-ra	1	sux	N1=Šulšaganak.N5=ra	N1=NAME.N5=DAT-H	Šulšaganak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001127.5
+1	ki-tuš-akkil-le₂	ki-tuš-akkil-le₂	Ekitušakkile	TN	ki-tuš-akkil-le₂\abs	1	sux	N1=Ekitušakkile.N5=ø	N1=NAME.N5=ABS	Ekitušakkile.ø	TN	1	_	_	_	_	_	_	_
+
+# Q001127.6
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001127.7
+1	bur-saŋ	bur-saŋ	Bursaŋ	TN	bur-saŋ	1	sux	N1=Bursaĝ	N1=NAME	Bursaĝ	TN	1	_	_	_	_	_	_	_
+2	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+3	sa₂-dug₄	sa₂-dug₄	sadug	N	sa₂-dug₄\abs	offerings	sux	N1=sadug.N5=ø	N1=STEM.N5=ABS	sadug.ø	N	offerings	_	_	_	_	_	_	_
+4	an-na-ta-guru₃-a-ni	guru₃	gur	V/t	an-na-ta-guru₃-a-ni\abs	lift	sux	V2=a.V6=nn.V7=a.V9=ta.V12=gur.V14=ø.V15='a.N3=ani.N5=ø	V2=FIN.V6=3-SG-H.V7=DAT.V9=ABL.V12=STEM.V14=3-SG-P.V15=SUB.N3=3-SG-H-POSS.N5=ABS	a.nn.a.ta.gur.ø.'a.ani.ø	V/t	lift, carry	_	_	_	_	_	_	_
+
+# Q001127.8
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001127.9
+1	bad₃	bad₃	bad	N	bad₃	wall	sux	N1=bad	N1=STEM	bad	N	wall, fortification	_	_	_	_	_	_	_
+2	ŋir₂-su{ki}-ke₄	ŋir₂-su{ki}	Ŋirsu	SN	ŋir₂-su{ki}-ke₄\n5el3	1	sux	N1=Ŋirsu.N5=ak.N5=e	N1=NAME.N5=GEN.N5=L3-NH	Ŋirsu.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001127.11
+1	{d}en-lilₓ(E₂)-la	{d}en-lilₓ(E₂)	Enlil	DN	{d}en-lilₓ(E₂)-la	1	sux	N1=Enlil.N5=ra	N1=NAME.N5=DAT-H	Enlil.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001127.12
+1	e₂-ad-da	e₂-ad-da	Eaddak	TN	e₂-ad-da	1	sux	N1=Eaddak	N1=NAME	Eaddak	TN	1	_	_	_	_	_	_	_
+
+# Q001127.13
+1	im-saŋ-ŋa₂-ka-ni	im-saŋ	Imsaŋ	GN	im-saŋ-ŋa₂-ka-ni\abs	1	sux	N1=Imsaŋ.N5=ak.N3=ani.N5=ø	N1=NAME.N5=GEN.N3=3-SG-H-POSS.N5=ABS	Imsaŋ.ak.ani.ø	GN	1	_	_	_	_	_	_	_
+
+# Q001127.14
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001127.15
+1	{d}nin-ŋir₂-su-ra	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001127.16
+1	id₂	id₂	id	N	id₂	river	sux	N1=id	N1=STEM	id	N	river	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni	measure	sux	NV2=aŋ.N3=ani	NV2=STEM.N3=3-SG-H-POSS	aŋ.ani	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001127.17
+1	{id₂}pa₅-{d}samanₓ(|ŠE.NUN.ŠE₃.BU|)-kaš₄-ša₄	{id₂}pa₅-{d}samanₓ(|ŠE.NUN.ŠE₃.BU|)-kaš₄-ša₄	Pasamankaša	WN	{id₂}pa₅-{d}samanₓ(|ŠE.NUN.ŠE₃.BU|)-kaš₄-ša₄\n5el3	1	sux	N1=Pasamankaša.N5=e	N1=NAME.N5=L3-NH	Pasamankaša.e	WN	1	_	_	_	_	_	_	_
+
+# Q001127.18
+1	al	al	al	N	al\abs	hoe	sux	N1=al.N5=ø	N1=STEM.N5=ABS	al.ø	N	hoe	_	_	_	_	_	_	_
+2	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001127.20
+1	iri-ka-gen₆-na	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na	1	sux	N1=Irikaginak	N1=NAME	Irikaginak	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001127.21
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q001127.22
+1	lagaš{ki}-x	lagaš{ki}	Lagaš	SN	lagaš{ki}-x\gen\x	1	sux	N1=Lagaš.N5=ak.N5=x	N1=NAME.N5=GEN.N5=X	Lagaš.ak.x	SN	1	_	_	_	_	_	_	_
+

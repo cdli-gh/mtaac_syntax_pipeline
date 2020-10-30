@@ -1,0 +1,76 @@
+# project: etcsri 
+# textid: Q001949 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001949.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001949.1
+1	{d}iš-me-{d}da-gan	{d}iš-me-{d}da-gan	Išmedagan	RN	{d}iš-me-{d}da-gan	1	sux	N1=Išmedagan	N1=NAME	Išmedagan	RN	4th king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q001949.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001949.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	i₃-si-in{ki}-na	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-na	1	sux	N1=Isin.N5=ak	N1=NAME.N5=GEN	Isin.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001949.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₂-ba-ke₄	limmu₂	limmu	NU	limmu₂-ba-ke₄	four	sux	NV2=limmu.N3=bi.N5=ak.N5=e	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	limmu.bi.ak.e	NU	four	_	_	_	_	_	_	_
+
+# Q001949.5
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}	1	sux	N1=Nibru	N1=NAME	Nibru	SN	1	_	_	_	_	_	_	_
+
+# Q001949.6
+1	iri	iri	iri	N	iri	city	sux	N1=iri	N1=STEM	iri	N	city	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001949.7
+1	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂\gen\gen	1	sux	N1=Enlil.N5=ak.N5=ak	N1=NAME.N5=GEN.N5=GEN	Enlil.ak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001949.8
+1	gun₂-bi	gun₂	gun	N	gun₂-bi\abs	load	sux	N1=gun.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	gun.bi.ø	N	load	_	_	_	_	_	_	_
+
+# Q001949.9
+1	mu-un-du₈	du₈	duh	V/t	mu-un-du₈	loosen	sux	V4=mu.V11=n.V12=duh.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.duh.ø	V/t	loosen, release	_	_	_	_	_	_	_
+
+# Q001949.10
+1	erin₂-bi	erin₂	erin	N	erin₂-bi\abs	people	sux	N1=erin.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	erin.bi.ø	N	people, troops	_	_	_	_	_	_	_
+2	kaskal-ta	kaskal	kaskal	N	kaskal-ta	way	sux	N1=kaskal.N5=ta	N1=STEM.N5=ABL	kaskal.ta	N	military service	_	_	_	_	_	_	_
+
+# Q001949.11
+1	ba-ra-an-zig₃-ga-a	zig₃	zig	V/i	ba-ra-an-zig₃-ga-a\v5nh3	rise	sux	V5=ba.V9=ta.V11=n.V12=zig.V14=ø.V15='a.N5='a	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	ba.ta.n.zig.ø.'a.'a	V/i	rise	_	_	_	_	_	_	_
+
+# Q001949.12
+1	bad₃	bad₃	bad	N	bad₃	wall	sux	N1=bad	N1=STEM	bad	N	wall, fortification	_	_	_	_	_	_	_
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great	_	_	_	_	_	_	_
+
+# Q001949.13
+1	i₃-si-in{ki}-na	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-na\gen\abs	1	sux	N1=Isin.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Isin.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001949.14
+1	mu-un-du₃	du₃	du	V/t	mu-un-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001949.15
+1	bad₃-ba	bad₃	bad	N	bad₃-ba\dem2\gen	wall	sux	N1=bad.N3=bi.N5=ak	N1=STEM.N3=DEM2.N5=GEN	bad.bi.ak	N	wall, fortification	_	_	_	_	_	_	_
+
+# Q001949.16
+1	{d}iš-me-{d}da-gan	{d}iš-me-{d}da-gan	Išmedagan	RN	{d}iš-me-{d}da-gan\abs	1	sux	N1=Išmedagan.N5=ø	N1=NAME.N5=ABS	Išmedagan.ø	RN	4th king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q001949.17
+1	{d}en-lil₂-da	{d}en-lil₂	Enlil	DN	{d}en-lil₂-da	1	sux	N1=Enlil.N5=da	N1=NAME.N5=COM	Enlil.da	DN	1	_	_	_	_	_	_	_
+2	a₂-an-gal	a₂-an-gal	aŋal	V/i	a₂-an-gal\abs	strong	sux	NV2=aŋal.N5=ø	NV2=STEM.N5=ABS	aŋal.ø	V/i	(to be) strong	_	_	_	_	_	_	_
+
+# Q001949.18
+1	mu-bi-im	mu	mu	N	mu-bi-im	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name	_	_	_	_	_	_	_
+

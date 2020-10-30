@@ -1,0 +1,69 @@
+# project: etcsri 
+# textid: Q001964 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001964.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001964.1
+1	{d}inana	{d}inana	Inanak	DN	{d}inana	1	sux	N1=Inanak	N1=NAME	Inanak	DN	1	_	_	_	_	_	_	_
+
+# Q001964.2
+1	mu-ur₅{ki}	mu-ur₅{ki}	Mur	SN	mu-ur₅{ki}\gen	1	sux	N1=Mur.N5=ak	N1=NAME.N5=GEN	Mur.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001964.3
+1	{d}inana-ka-ni-ir	{d}inana	Inanak	DN	{d}inana-ka-ni-ir	1	sux	N1=Inanak.N3=ani.N5=ra	N1=NAME.N3=3-SG-H-POSS.N5=DAT-H	Inanak.ani.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001964.4
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001964.5
+1	{d}li-pi₂-it-eš₄-tar₂	{d}li-pi₂-it-eš₄-tar₂	Lipiteštar	RN	{d}li-pi₂-it-eš₄-tar₂	1	sux	N1=Lipiteštar	N2=NAME	Lipiteštar	RN	5th king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q001964.6
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd	_	_	_	_	_	_	_
+2	ŋeš	ŋeš	ŋeš	N	ŋeš\abs	tree	sux	N1=ŋeš.N5=ø	N1=STEM.N5=ABS	ŋeš.ø	N	tree	_	_	_	_	_	_	_
+3	tuku	tuku	tuku	V/t	tuku	acquire	sux	NV2=tuku	NV2=STEM	tuku	V/t	to acquire, to have	_	_	_	_	_	_	_
+
+# Q001964.7
+1	diŋir-re-e-ne	diŋir	diŋir	N	diŋir-re-e-ne\gen	deity	sux	N1=diŋir.N4=enee.N5=ak	N1=STEM.N4=PL.N5=GEN	diŋir.enee.ak	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001964.8
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri	ki-uri	Akkad	GN	ki-uri\gen	1	sux	N1=Akkad.N5=ak	N1=NAME.N5=GEN	Akkad.ak	GN	1	_	_	_	_	_	_	_
+
+# Q001964.9
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+2	{d}inana-ka-še₃	{d}inana	Inanak	DN	{d}inana-ka-še₃	1	sux	N1=Inanak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=TERM	Inanak.ak.še	DN	1	_	_	_	_	_	_	_
+
+# Q001964.10
+1	la-ma-sa₃-tum	la-ma-sa₃-tum	Lamassatum	PN	la-ma-sa₃-tum	1	sux	N1=Lamassatum	N1=NAME	Lamassatum	PN	Mother of Lipit-Eštar, king of Isin	_	_	_	_	_	_	_
+
+# Q001964.11
+1	ama-ne₂	ama	ama	N	ama-ne₂	mother	sux	N1=ama.N3=ani.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=ERG	ama.ani.e	N	mother	_	_	_	_	_	_	_
+
+# Q001964.12
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+2	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q001964.13
+1	e₂-mar-uru₅	e₂-mar-uru₅	Emaruru	TN	e₂-mar-uru₅	1	sux	N1=Emaruru	N1=NAME	Emaruru	TN	1	_	_	_	_	_	_	_
+
+# Q001964.14
+1	šutum₂	šutum₂	šutum	N	šutum₂	storehouse	sux	N1=šutum	N1=STEM	šutum	N	storehouse	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni\abs	measure	sux	NV2=aŋ.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	aŋ.ani.ø	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001964.15
+1	šag₄	šag₄	šag	N	šag₄	heart	sux	N1=šag	N1=STEM	šag	N	middle	_	_	_	_	_	_	_
+2	i₃-si-in{ki}-na-ka	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-na-ka	1	sux	N1=Isin.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L1	Isin.ak.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001964.16
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

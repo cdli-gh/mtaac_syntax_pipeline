@@ -1,0 +1,13 @@
+#new_text=P254349
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	{d}szul-sza3-ga	Szulszaga[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+2	dumu	dumu[child]	NOUN	N	Number=Sing	1	appos	_	_
+3	ki-ag2	ki'ag[love]	VERB	V	_	2	amod	_	_
+4	{d}nin-gir2-su-ka	Ningirsu[1]	PROPN	DN	Animacy=Hum|Case=Gen|Number=Sing	1	GEN	_	_
+5	lugal-a-ni	Lugal[king]	NOUN	N	Animacy=Hum|Number=Sing	1	appos	_	_
+6	ur-{d}nin-mar{ki}	Urninmar[1]	PROPN	PN	Animacy=Hum|Number=Sing	5	appos	_	_
+7	ensi2	ensik[ruler]	NOUN	N	Number=Sing	5	appos	_	_
+8	lagasz{ki}-ke4	Lagasz[1]	PROPN	SN	Case=Gen,Erg|Number=Sing	7	GEN	_	_
+9	nam-ti-la-ni-sze3	namtil[life]	NOUN	N	Animacy=Hum|Number=Sing	0	_	_	_
+10	a	a[water]	NOUN	N	Number=Sing	0	_	_	_
+11	mu-na-ru	n]	VERB	V	Number=Sing|Person=3	0	_	_	_

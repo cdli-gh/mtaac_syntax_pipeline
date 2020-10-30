@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001288 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001288.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001288.1
+1	an-dab₆-si	an-dab₆-si	Andabsi	PN	an-dab₆-si	1	sux	N1=Andabsi	N1=NAME	Andabsi	PN	1
+
+# Q001288.2
+1	SAR	_	_	_	SAR	_	sux	_	_	_	u	_
+2	gal	gal	gal	V/i	gal\abs	big	sux	NV2=gal.N5=ø	NV2=STEM.N5=ABS	gal.ø	V/i	(to be) big, great
+

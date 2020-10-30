@@ -1,0 +1,18 @@
+# project: etcsri 
+# textid: Q001187 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001187.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001187.1
+1	{d}nin-ŋir₂-su₂	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1
+
+# Q001187.2
+1	ba-gara₂-ra	ba-gara₂	Bagara	TN	ba-gara₂-ra	1	sux	N1=Bagara.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Bagara.ak.ra	TN	1
+

@@ -1,0 +1,26 @@
+#new_text=P100690
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	4(gesz2)	4(gesz)[sixty]	NUM	NU	_	3	nummod	_	_
+2	3(disz)	3(disz)[one]	NUM	NU	_	1	nummod	_	_
+3	udu	udu[sheep]	NOUN	N	Number=Sing	0	_	_	_
+4	bar-gal2	bargal[~sheep]	NOUN	N	Case=Abs|Number=Sing	3	appos	_	_
+5	2(u)	2(u)[ten]	NUM	NU	_	7	nummod	_	_
+6	4(disz)	4(disz)[one]	NUM	NU	_	5	nummod	_	_
+7	udu	udu[sheep]	NOUN	N	Number=Sing	0	_	_	_
+8	bar-su-ga	barsuga[~sheep]	NOUN	N	Case=Abs|Number=Sing	7	appos	_	_
+9	1(gesz2)	1(gesz)[sixty]	NUM	NU	_	0	_	_	_
+10	3(u)	3(u)[ten]	NUM	NU	_	9	nummod	_	_
+11	la2	la[hang]	VERB	V	_	0	_	_	_
+12	x	_	_	_	_	0	_	_	_
+13	masz2	masz[goat]	NOUN	N	Case=Abs|Number=Sing	17	ABS	_	_
+14	ki	ki[place]	NOUN	N	Number=Sing	17	ABL	_	_
+15	lugal-a2-zi-da-ta	Lugalazida[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	14	GEN	_	_
+16	inim-{d}szara2	Inimszara[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	17	ERG	_	_
+17	i3-dab5	n]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	0	_	_	_
+18	iti	iti[month]	NOUN	N	Number=Sing	24	ABL	_	_
+19	sze-sag-ku5-ta	Szesagku[1]	PROPN	MN	Case=Abl|Number=Sing	18	appos	_	_
+20	iti	iti[month]	NOUN	N	Number=Sing	24	TERM	_	_
+21	{d}li9-si4-sze3	Lisi[1]	PROPN	MN	Number=Sing	20	appos	_	_
+22	mu	mu[year]	NOUN	N	Number=Sing	24	ABS	_	_
+23	an-sza-an{ki}	Anszan[1]	PROPN	GN	Case=Abs|Number=Sing	22	appos	_	_
+24	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_

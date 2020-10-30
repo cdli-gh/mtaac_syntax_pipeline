@@ -1,0 +1,58 @@
+# project: etcsri 
+# textid: Q001951 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001951.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001951.1
+1	{d}iš-me-{d}da-gan	{d}iš-me-{d}da-gan	Išmedagan	RN	{d}iš-me-{d}da-gan	1	sux	N1=Išmedagan	N1=NAME	Išmedagan	RN	4th king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q001951.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri-ra	ki-uri	Akkad	GN	ki-uri-ra	1	sux	N1=Akkad.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=L3-H	Akkad.ak.ra	GN	1	_	_	_	_	_	_	_
+
+# Q001951.3
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	{d}en-lil₂-le	{d}en-lil₂	Enlil	DN	{d}en-lil₂-le	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+
+# Q001951.4
+1	{d}nin-urta	{d}nin-urta	Ninurta	DN	{d}nin-urta	1	sux	N1=Ninurta	N1=NAME	Ninurta	DN	1	_	_	_	_	_	_	_
+
+# Q001951.5
+1	ur-saŋ	ur-saŋ	ursaŋ	N	ur-saŋ	hero	sux	N1=ursaŋ	N1=STEM	ursaŋ	N	hero, warrior	_	_	_	_	_	_	_
+2	kalag-ga-ni	kalag	kalag	V/i	kalag-ga-ni\abs	strong	sux	NV2=kalag.NV4='a.N3=ani.N5=ø	NV2=STEM.NV4=SUB.N3=3-SG-H-POSS.N5=ABS	kalag.'a.ani.ø	V/i	strong	_	_	_	_	_	_	_
+
+# Q001951.6
+1	maškim-še₃	maškim	maškim	N	maškim-še₃	administrator	sux	N1=maškim.N5=še	N1=STEM.N5=TERM	maškim.še	N	an administrator, commissioner	_	_	_	_	_	_	_
+
+# Q001951.7
+1	mu-ni-in-tuku-a	tuku	tuku	V/t	mu-ni-in-tuku-a\v10l3	acquire	sux	V4=mu.V6=nn.V10=i.V11=n.V12=tuku.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.i.n.tuku.ø.'a.'a	V/t	to acquire, to have	_	_	_	_	_	_	_
+
+# Q001951.8
+1	šita₂	šita₂	šita	N	šita₂	weapon	sux	N1=šita	N1=STEM	šita	N	weapon	_	_	_	_	_	_	_
+2	mi-tum	mi-tum	mitum	N	mi-tum	weapon	sux	N1=mitum	N1=STEM	mitum	N	a divine weapon	_	_	_	_	_	_	_
+3	saŋ	saŋ	saŋ	N	saŋ	head	sux	N1=saŋ	N1=STEM	saŋ	N	head	_	_	_	_	_	_	_
+4	ninnu	ninnu	ninnu	NU	ninnu\abs	fifty	sux	NV2=ninnu.N5=ø	NV2=STEM.N5=ABS	ninnu.ø	NU	fifty	_	_	_	_	_	_	_
+
+# Q001951.9
+1	mu-na-dim₂	dim₂	dim	V/t	mu-na-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create	_	_	_	_	_	_	_
+
+# Q001951.10
+1	šeg₁₂	šeg₁₂	šeg	N	šeg₁₂	brick	sux	N1=šeg	N1=STEM	šeg	N	brick	_	_	_	_	_	_	_
+2	al-ur₃-ra	ur₃	ur	V/t	al-ur₃-ra\n5al2	bake	sux	V2=al.V12=ur.V14=ø.V15='a.N5='a	V2=FIN.V12=STEM.V14=3-SG-S.V15=SUB.N5=L2-NH	al.ur.ø.'a.'a	V/t	bake (bricks, bread, etc.)	_	_	_	_	_	_	_
+
+# Q001951.11
+1	{ŋeš}tukul	{ŋeš}tukul	tukul	N	{ŋeš}tukul	weapon	sux	N1=tukul	N1=STEM	tukul	N	weapon	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-a-ni	aŋ₂	aŋ	V/t	aŋ₂-a-ni\abs	measure	sux	NV2=aŋ.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	aŋ.ani.ø	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001951.12
+1	mu-na-an-gub-ba-am₃	gub	gub	V/i	mu-na-an-gub-ba-am₃	stand	sux	V4=mu.V6=nn.V7=a.V11=n.V12=gub.V14=ø.V15='a.N6=am	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=gub.V14=3-SG-P.V15=SUB.N6=COP-3-SG	mu.nn.a.n.gub.ø.'a.am	V/i	stand	_	_	_	_	_	_	_
+

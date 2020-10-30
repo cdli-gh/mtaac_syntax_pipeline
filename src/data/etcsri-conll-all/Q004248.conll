@@ -1,0 +1,18 @@
+# project: etcsri 
+# textid: Q004248 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004248.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004248.1
+1	niŋ₂-u₂-rum	niŋ₂-u₂-rum	niŋurum	N	niŋ₂-u₂-rum	property	sux	NV2=niŋurum	NV2=STEM	niŋurum	N	property
+
+# Q004248.2
+1	{d}lama	{d}lama	Lama	DN	{d}lama\gen\abs	1	sux	N1=Lama.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lama.ak.ø	DN	1
+

@@ -1,0 +1,48 @@
+# project: etcsri 
+# textid: Q002242 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002242.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q002242.1
+1	{d}suen-ka₃-ši-id	{d}suen-ka₃-ši-id	Sinkašid	RN	{d}suen-ka₃-ši-id	1	sux	N1=Sinkašid	N1=NAME	Sinkašid	RN	King of Unug
+
+# Q002242.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q002242.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1
+
+# Q002242.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	am-na-nu-um	am-na-nu-um	Amnanum	GN	am-na-nu-um\gen	1	sux	N1=Amnanum.N5=ak	N1=NAME.N5=GEN	Amnanum.ak	GN	1
+
+# Q002242.5
+1	u₂-a	u₂-a	ua	N	u₂-a	provisioner	sux	N1=ua	N1=STEM	ua	N	provisioner, provider
+2	e₂-an-na	e₂-an-na	Eanak	TN	e₂-an-na\gen\erg	1	sux	N1=Eanak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Eanak.ak.e	TN	1
+
+# Q002242.6
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun
+2	e₂-an-na	e₂-an-na	Eanak	TN	e₂-an-na\abs	1	sux	N1=Eanak.N5=ø	N1=NAME.N5=ABS	Eanak.ø	TN	1
+
+# Q002242.7
+1	mu-du₃-a	du₃	du	V/t	mu-du₃-a\l1	build	sux	V4=mu.V11=n.V12=du.V14=ø.V15='a.N5='a	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.n.du.ø.'a.'a	V/t	to build
+
+# Q002242.8
+1	e₂-gal	e₂-gal	egal	N	e₂-gal	palace	sux	N1=egal	N1=STEM	egal	N	palace
+2	gibil	gibil	gibil	V/i	gibil	new	sux	NV2=gibil	NV2=STEM	gibil	V/i	new
+
+# Q002242.9
+1	e₂-ki-tuš-šag₄-hul₂-la-ka-ni	e₂-ki-tuš-šag₄-hul₂-la	Ekituššaghulak	TN	e₂-ki-tuš-šag₄-hul₂-la-ka-ni\abs	1	sux	N1=Ekituššaghulak.N3=ani.N5=ø	N1=NAME.N3=3-SG-H-POSS.N5=ABS	Ekituššaghulak.ani.ø	TN	Palace of Sin-kašid, king of Unug
+
+# Q002242.10
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+

@@ -1,0 +1,24 @@
+# project: etcsri 
+# textid: Q001243 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001243.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001243.1
+1	{d}za-ba₄-ba₄	{d}za-ba₄-ba₄	Zababa	DN	{d}za-ba₄-ba₄\dat	1	sux	N1=Zababa.N5=ra	N1=NAME.N5=DAT-H	Zababa.ra	DN	1
+
+# Q001243.2
+1	u₂-hub₂	u₂-hub₂	Uhub	RN	u₂-hub₂	1	sux	N1=Uhub	N1=NAME	Uhub	RN	Ruler of Kiš
+
+# Q001243.3
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001243.4
+1	kiš{ki}	kiš{ki}	Kiš	SN	kiš{ki}\gen	1	sux	N1=Kiš.N5=ak	N1=NAME.N5=GEN	Kiš.ak	SN	1
+

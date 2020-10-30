@@ -1,0 +1,26 @@
+#new_text=P100281
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	9(gesz2)	9(gesz)[sixty]	NUM	NU	_	3	nummod	_	_
+2	3(u)	3(u)[ten]	NUM	NU	_	1	nummod	_	_
+3	{kusz}suhub2	suhub[boots]	NOUN	N	Number=Sing	13	ABS	_	_
+4	e2-ba-an	eban[pair]	NOUN	N	Case=Abs|Number=Sing	3	appos	_	_
+5	ki	ki[place]	NOUN	N	Number=Sing	13	ABL	_	_
+6	ensi2	ensik[ruler]	NOUN	N	Number=Sing	5	GEN	_	_
+7	gir2-su{ki}-ta	Girsu[1]	PROPN	SN	Case=Gen,Gen,Abl|Number=Sing	6	GEN	_	_
+8	erin2	erin[people]	NOUN	N	Number=Sing	13	ERG	_	_
+9	aga3-us2	aga'us[soldier]	NOUN	N	Number=Sing	8	appos	_	_
+10	lugal	lugal[king]	NOUN	N	Number=Sing	9	GEN	_	_
+11	gar-sza-na{ki}-ka-ke4	Garszana[1]	PROPN	SN	Case=Gen,Gen,Erg|Number=Sing	10	GEN	_	_
+12	szu	szu[hand]	NOUN	N	Animacy=Nhum|Number=Sing	13	L3-NH	_	_
+13	ba-ab-ti	teg[accept]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+14	nu-banda3	nubanda[overseer]	NOUN	N	Number=Sing	0	_	_	_
+15	e-lu-da-an	Eludan[1]	PROPN	PN	Animacy=Hum|Number=Sing	14	appos	_	_
+16	sza3	szag[heart]	NOUN	N	Number=Sing	14	appos	_	_
+17	unu{ki}	Unug[1]	PROPN	SN	Case=Gen|Number=Sing	16	GEN	_	_
+18	giri3	giri[foot]	NOUN	N	Number=Sing	0	_	_	_
+19	lugal-am-gal	Lugalamgal[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	18	GEN	_	_
+20	mu	mu[year]	NOUN	N	Number=Sing	24	ABS	_	_
+21	en	en[priest]	NOUN	N	Number=Sing	20	appos	_	_
+22	{d}nanna	Nanna[1]	PROPN	DN	Animacy=Hum|Number=Sing	21	GEN	_	_
+23	kar-zi-da	ak]	PROPN	SN	Case=Gen,Gen,Abs|Number=Sing	22	GEN	_	_
+24	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_

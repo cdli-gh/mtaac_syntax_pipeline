@@ -1,0 +1,15 @@
+# project: etcsri 
+# textid: Q001424 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001424.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001424.1
+1	en-men-an-na	en-men-an-na	Enmenanak	PN	en-men-an-na\abs	1	sux	N1=Enmenana.N5=ø	N1=NAME.N5=ABS	Enmenana.ø	PN	Daughter of Narām-Suen, king of Agade
+

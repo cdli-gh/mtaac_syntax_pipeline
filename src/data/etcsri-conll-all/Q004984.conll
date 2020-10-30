@@ -1,0 +1,29 @@
+# project: etcsri 
+# textid: Q004984 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004984.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004984.1
+1	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	Ibbisuen	RN	{d}i-bi₂-{d}suen	1	sux	N1=Ibbisuen	N1=NAME	Ibbisuen	RN	5th king of the 3rd dynasty of Urim
+
+# Q004984.3
+1	lugal-dumu-gir₁₅	lugal-dumu-gir₁₅	Lugaldumugir	PN	lugal-dumu-gir₁₅	1	sux	N1=Lugaldumugir	N1=NAME	Lugaldumugir	PN	1
+
+# Q004984.4
+1	gudu₄-abzu	gudu₄-abzu	gudugabzuk	N	gudu₄-abzu	priest	sux	N1=gudugabzuk	N1=STEM	gudugabzuk	N	a priest
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen	1	sux	N1=Nanna.N5=ak	N1=NAME.N5=GEN	Nanna.ak	DN	1
+
+# Q004984.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	{d}nanna-i₃-zig₃	{d}nanna-i₃-zig₃	Nannaizig	PN	{d}nanna-i₃-zig₃\gen\abs	1	sux	N1=Nannaizig.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Nannaizig.ak.ø	PN	1
+
+# Q004984.6
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

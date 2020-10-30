@@ -1,0 +1,25 @@
+# project: etcsri 
+# textid: X000106 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: X000106.U0 
+# bracketing_level: 0 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# X000106.1
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1
+
+# X000106.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# X000106.3
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen\abs	1	sux	N1=Lagaš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lagaš.ak.ø	SN	1
+
+# X000106.4
+1	geme₂-{d}šul-pa-e₃	geme₂-{d}šul-pa-e₃	Gemešulpaek	PN	geme₂-{d}šul-pa-e₃\abs	1	sux	N1=Gemešulpaek.N5=ø	N1=NAME.N5=ABS	Gemešulpaek.ø	PN	Spouse of Gudea, ruler of Lagaš
+
+# X000106.5
+1	dam-ni	dam	dam	N	dam-ni\abs	spouse	sux	N1=dam.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	dam.ani.ø	N	spouse
+

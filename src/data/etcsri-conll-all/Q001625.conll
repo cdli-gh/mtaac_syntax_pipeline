@@ -1,0 +1,79 @@
+# project: etcsri 
+# textid: Q001625 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001625.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001625.1
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	an-ne₂	an	An	DN	an-ne₂	1	sux	N1=An.N5=e	N1=NAME.N5=ERG	An.e	DN	1	_	_	_	_	_	_	_
+3	{d}en-lil₂-le	{d}en-lil₂	Enlil	DN	{d}en-lil₂-le	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+4	{d}nanna-aš	{d}nanna	Nanna	DN	{d}nanna-aš	1	sux	N1=Nanna.N5=še	N1=NAME.N5=TERM	Nanna.še	DN	1	_	_	_	_	_	_	_
+
+# Q001625.2
+1	igi	igi	igi	N	igi	eye	sux	N1=igi	N1=STEM	igi	N	eye	_	_	_	_	_	_	_
+2	sag₉-ga-ne-ne-a	sag₉	sag	V/i	sag₉-ga-ne-ne-a	good	sux	NV2=sag.NV4='a.N3=anenee.N5='a	NV2=STEM.NV4=SUB.N3=3-PL-POSS.N5=L1	sag.'a.anenee.'a	V/i	(to be) good	_	_	_	_	_	_	_
+
+# Q001625.3
+1	mu-un-ši-bar-re-eš-a	bar	bar	V/t	mu-un-ši-bar-re-eš-a	cvve	sux	V4=mu.V6=nn.V9=ši.V11=n.V12=bar.V14=eš.V15='a	V4=VEN.V6=3-SG-H.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-PL.V15=SUB	mu.nn.ši.n.bar.eš.'a	V/t	(compound verb verbal element)	_	_	_	_	_	_	_
+
+# Q001625.4
+1	nam-lugal	nam-lugal	namlugal	N	nam-lugal	kingship	sux	N1=namlugal	N1=STEM	namlugal	N	kingship, royal	_	_	_	_	_	_	_
+2	urim₂{ki}-ma	urim₂{ki}	Urim	SN	urim₂{ki}-ma\abs	1	sux	N1=Urim.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urim.ak.ø	SN	1	_	_	_	_	_	_	_
+3	mu-un-na-an-šum₂-ma-a	šum₂	šum	V/t	mu-un-na-an-šum₂-ma-a	give	sux	V4=mu.V6=nn.V7=a.V11=n.V12=šum.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.šum.ø.'a.'a	V/t	give	_	_	_	_	_	_	_
+
+# Q001625.5
+1	ud-ba	ud	ud	N	ud-ba	sun	sux	N1=ud.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	ud.bi.'a	N	day, sun	_	_	_	_	_	_	_
+2	ur-{d}namma	ur-{d}namma	Urnammak	RN	ur-{d}namma	1	sux	N1=Urnammak	N1=NAME	Urnammak	RN	1st king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q001625.6
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+3	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+4	urim₂{ki}-ma	urim₂{ki}	Urim	SN	urim₂{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001625.7
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri₂-ke	ki-uri₂	Akkad	GN	ki-uri₂-ke	1	sux	N1=Akkad.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Akkad.ak.e	GN	1	_	_	_	_	_	_	_
+
+# Q001625.8
+1	ama-tud{a-me-du}	ama-tud	amaʾatud	N	ama-tud{a-me-du}	slave	sux	N1=ama'atud	N1=STEM	ama'atud	N	slave	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+4	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen	1	sux	N1=Nanna.N5=ak	N1=NAME.N5=GEN	Nanna.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001625.9
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	dug₄-ga	dug₄	dug	V/t	dug₄-ga	speak	sux	NV2=dug.NV4='a	NV2=STEM.NV4=SUB	dug.'a	V/t	speak	_	_	_	_	_	_	_
+3	{d}en-lil₂-la₂-ke₄	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂-ke₄	1	sux	N1=Enlil.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Enlil.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001625.10
+1	ki-sur-ra	ki-sur-ra	kisura	N	ki-sur-ra	border	sux	N1=kisura	N1=STEM	kisura	N	border	_	_	_	_	_	_	_
+2	diŋir-re-e-ne	diŋir	diŋir	N	diŋir-re-e-ne\gen\abs	deity	sux	N1=diŋir.N4=enee.N5=ak.N5=ø	N1=STEM.N4=PL.N5=GEN.N5=ABS-OB	diŋir.enee.ak.ø	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001625.11
+1	di	di	did	N	di	lawsuit	sux	N1=di	N1=STEM	di	N	lawsuit	_	_	_	_	_	_	_
+2	niŋ₂-gen₆-na	niŋ₂-gen₆-na	niŋgina	N	niŋ₂-gen₆-na	truth	sux	N1=niŋgina	N1=STEM	niŋgina	N	truth	_	_	_	_	_	_	_
+3	{d}utu-ta	{d}utu	Utu	DN	{d}utu-ta	1	sux	N1=Utu.N5=ak.N5=ta	N1=NAME.N5=GEN.N5=ABL	Utu.ak.ta	DN	1	_	_	_	_	_	_	_
+
+# Q001625.12
+1	inim	inim	inim	N	inim\abs	word	sux	N1=inim.N5=ø	N1=STEM.N5=ABS	inim.ø	N	word	_	_	_	_	_	_	_
+2	he₂-bi₂-in-ge-en	ge-en	gin	V/t	he₂-bi₂-in-ge-en	establish	sux	V1=ha.V5=b.V10=i.V11=n.V12=gin.V14=ø	V1=MOD.V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ha.b.i.n.gin.ø	V/i	establish, confirm, make firm	_	_	_	_	_	_	_
+
+# Q001625.13
+1	uŋ₃-be₂	uŋ₃	uŋ	N	uŋ₃-be₂	people	sux	N1=uŋ.N3=bi.N5=e	N1=STEM.N3=3-SG-NH-POSS.N5=DAT.NH	uŋ.bi.e	N	people	_	_	_	_	_	_	_
+2	šukur₂	šukur₂	šukur	N	šukur₂\abs	ration	sux	N1=šukur.N5=ø	N1=STEM.N5=ABS	šukur.ø	N	ration, subsistance allotment/field	_	_	_	_	_	_	_
+3	ha-ba-an-šum₂	šum₂	šum	V/t	ha-ba-an-šum₂	give	sux	V1=ha.V5=b.V7=a.V11=n.V12=šum.V14=ø	V1=MOD1.V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ha.b.a.n.šum.ø	V/t	give	_	_	_	_	_	_	_
+
+# Q001625.14
+1	bulug-bi	bulug	bulug	N	bulug-bi\abs	needle	sux	N1=bulug.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	bulug.bi.ø	N	needle, stake, boundary-marker	_	_	_	_	_	_	_
+2	gen₆-na	gen₆	gin	V/t	gen₆-na\abs	establish	sux	NV2=gin.NV4='a.N5=ø	NV2=STEM.NV4=SUB.N5=ABS	gin.'a.ø	V/i	establish, confirm, make firm	_	_	_	_	_	_	_
+3	ha-ba-an-sig₉	sig₉	sig	V/t	ha-ba-an-sig₉	put	sux	V1=ha.V5=b.V7=a.V11=n.V12=sig.V14=ø	V1=MOD1.V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ha.b.a.n.sig.ø	V/t	put	_	_	_	_	_	_	_
+

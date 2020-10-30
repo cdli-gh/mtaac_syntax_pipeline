@@ -1,0 +1,36 @@
+# project: etcsri 
+# textid: Q001700 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001700.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001700.1
+1	a-ma-at-{d}suen	a-ma-at-{d}suen	Amatsuen	PN	a-ma-at-{d}suen	1	sux	N1=Amatsuen	N1=NAME	Amatsuen	PN	Spouse of Šulgi, king of Urim
+
+# Q001700.2
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+
+# Q001700.3
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001700.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\abs	1	sux	N1=Urim.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urim.ak.ø	SN	1
+
+# Q001700.5
+1	it-ra-ak-i₃-li₂	it-ra-ak-i₃-li₂	Itrakili	PN	it-ra-ak-i₃-li₂	1	sux	N1=Itrakili	N1=NAME	Itrakili	PN	1
+
+# Q001700.6
+1	ra₂-gaba	ra₂-gaba	ragaba	N	ra₂-gaba\abs	rider	sux	N1=ragaba.N5=ø	N1=STEM.N5=ABS	ragaba.ø	N	rider
+
+# Q001700.7
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

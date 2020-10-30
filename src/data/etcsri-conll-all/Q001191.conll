@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001191 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001191.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001191.1
+1	lugal-u₃-ma	lugal-u₃-ma	Lugaluma	PN	lugal-u₃-ma	1	sux	N1=Lugaluma	N1=NAME	Lugaluma	PN	1
+
+# Q001191.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+

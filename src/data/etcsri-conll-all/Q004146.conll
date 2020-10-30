@@ -1,0 +1,25 @@
+# project: etcsri 
+# textid: Q004146 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004146.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004146.1
+1	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuenak	RN	{d}amar-{d}suen	1	sux	N1=Amarsuenak	N1=NAME	Amarsuenak	RN	3rd king of the 3rd dynasty of Urim
+
+# Q004146.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga\abs	strong	sux	NV2=kalag.NV4='a.N5=ø	NV2=STEM.NV4=SUB.N5=ABS	kalag.'a.ø	V/i	strong
+
+# Q004146.3
+1	{d}šul-gi-da-nir-ŋal₂	{d}šul-gi-da-nir-ŋal₂	Šulgirdanirŋal	PN	{d}šul-gi-da-nir-ŋal₂\abs	1	sux	N1=Šulgirdanirŋal.N5=ø	N1=NAME.N5=ABS	Šulgirdanirŋal.ø	PN	1
+
+# Q004146.4
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

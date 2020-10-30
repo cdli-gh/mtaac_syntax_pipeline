@@ -1,0 +1,32 @@
+# project: etcsri 
+# textid: Q001699 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001699.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001699.1
+1	GEME₂-{d}suen	GEME₂-{d}suen	Amatsuen	PN	GEME₂-{d}suen	1	sux	N1=Amatsuen	N1=NAME	Amatsuen	PN	Spouse of Šulgi, king of Urim
+
+# Q001699.2
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	šul-gi	šul-gi	Šulgir	RN	šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+
+# Q001699.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q001699.4
+1	šu-ku-bu-um	šu-ku-bu-um	Šukubum	PN	šu-ku-bu-um	1	sux	N1=Šukubum	N1=NAME	Šukubum	PN	1
+
+# Q001699.5
+1	ra₂-gaba	ra₂-gaba	ragaba	N	ra₂-gaba\abs	rider	sux	N1=ragaba.N5=ø	N1=STEM.N5=ABS	ragaba.ø	N	rider
+
+# Q001699.6
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

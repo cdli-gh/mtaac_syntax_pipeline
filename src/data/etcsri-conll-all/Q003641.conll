@@ -1,0 +1,108 @@
+# project: etcsri 
+# textid: Q003641 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003641.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003641.1
+1	ur-{d}nanše	ur-{d}nanše	Urnanše	RN	ur-{d}nanše	1	sux	N1=Urnanše	N1=NAME	Urnanše	RN	King of Lagaš
+
+# Q003641.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+
+# Q003641.3
+1	gu-|NI.DU|	gu-|NI.DU|	Gu-NI.DU	PN	gu-|NI.DU|\gen	1	sux	N1=GU-NI.DU.N5=ak	N1=NAME.N5=GEN	GU-NI.ak	PN	1
+
+# Q003641.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q003641.5
+1	lagaš	lagaš	Lagaš	SN	lagaš\gen\erg	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1
+
+# Q003641.6
+1	eb-gal	eb-gal	Ebgal	TN	eb-gal\abs	1	sux	N1=Ebgal.N5=ø	N1=NAME.N5=ABS	Ebgal.ø	TN	1
+
+# Q003641.7
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q003641.9
+1	men-barag-abzu	men-barag-abzu	Menbaragabzu	PN	men-barag-abzu	1	sux	N1=Menbaragabzu	N1=NAME	Menbaragabzu	PN	Spouse of Ur-Nanše, ruler of Lagaš
+2	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+
+# Q003641.10
+1	ur-{d}nanše	ur-{d}nanše	Urnanše	RN	ur-{d}nanše	1	sux	N1=Urnanše	N1=NAME	Urnanše	RN	King of Lagaš
+
+# Q003641.11
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q003641.12
+1	lagaš	lagaš	Lagaš	SN	lagaš\gen\gen\abs	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Lagaš.ak.ak.ø	SN	1
+
+# Q003641.13
+1	nin-u₄-su₃	nin-u₄-su₃	Ninusura	PN	nin-u₄-su₃	1	sux	N1=Ninusura	N1=NAME	Ninusura	PN	Daughter of Ur-Nanše, ruler of Lagaš
+
+# Q003641.14
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+
+# Q003641.15
+1	ur-{d}nanše	ur-{d}nanše	Urnanše	RN	ur-{d}nanše	1	sux	N1=Urnanše	N1=NAME	Urnanše	RN	King of Lagaš
+
+# Q003641.16
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q003641.17
+1	lagaš	lagaš	Lagaš	SN	lagaš\gen\gen\abs	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Lagaš.ak.ak.ø	SN	1
+
+# Q003641.18
+1	ur-{d}nanše	ur-{d}nanše	Urnanše	RN	ur-{d}nanše	1	sux	N1=Urnanše	N1=NAME	Urnanše	RN	King of Lagaš
+
+# Q003641.19
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+
+# Q003641.20
+1	gu-|NI.DU|	gu-|NI.DU|	Gu-NI.DU	PN	gu-|NI.DU|\gen	1	sux	N1=GU-NI.DU.N5=ak	N1=NAME.N5=GEN	GU-NI.ak	PN	1
+
+# Q003641.21
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q003641.22
+1	lagaš	lagaš	Lagaš	SN	lagaš\gen\erg	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1
+
+# Q003641.23
+1	eb-gal	eb-gal	Ebgal	TN	eb-gal\abs	1	sux	N1=Ebgal.N5=ø	N1=NAME.N5=ABS	Ebgal.ø	TN	1
+
+# Q003641.24
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q003641.26
+1	ma₂	ma₂	ma	N	ma₂	ship	sux	N1=ma	N1=STEM	ma	N	ship
+2	dilmun	dilmun	Dilmun	GN	dilmun	1	sux	N1=Dilmun	N1=NAME	Dilmun	GN	1
+
+# Q003641.27
+1	kur-ta	kur	kur	N	kur-ta\abs	mountain	sux	N1=kur.N5=ta.N5=ø	N1=STEM.N5=ABL.N5=ABS	kur.ta.ø	N	mountain
+
+# Q003641.28
+1	gu₂	gu₂	gu	N	gu₂\l2	neck	sux	N1=gu.N5='a	N1=STEM.N5=L2-NH	gu.'a	N	neck
+2	ŋeš	ŋeš	ŋeš	N	ŋeš\abs	tree	sux	N1=ŋeš.N5=ø	N1=STEM.N5=ABS	ŋeš.ø	N	tree
+
+# Q003641.29
+1	mu-ŋal₂	ŋal₂	ŋal	V/i	mu-ŋal₂\dat	be	sux	V4=mu.V6=nn.V7=a.V10=e.V12=ŋal.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L2.V12=STEM.V14=3-SG-S	mu.nn.a.e.ŋal.ø	V/i	be
+
+# Q003641.31
+1	mu-dab₅	dab₅	dab	V/t	mu-dab₅	seize	sux	V4=mu.V11=n.V12=dab.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.dab.ø	V/t	to seize, to take, to hold
+
+# Q003641.33
+1	mu-dun	dun	dun	V/t	mu-dun	dig	sux	V4=mu.V11=n.V12=dun.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.dun.ø	V/t	dig
+
+# Q003641.35
+1	kinda₂-zid	kinda₂-zid	Kindazid	DN	kinda₂-zid\abs	1	sux	N1=Kindazid.N5=ø	N1=NAME.N5=ABS	Kindazid.ø	DN	1
+
+# Q003641.36
+1	mu-tud	tud	utud	V/t	mu-tud	bear	sux	V4=mu.V11=n.V12=utud.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.utud.ø	V/t	fashion a statue, to bring a statue into being
+

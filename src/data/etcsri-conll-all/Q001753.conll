@@ -1,0 +1,25 @@
+# project: etcsri 
+# textid: Q001753 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001753.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001753.1
+1	inim-kug-ga-ni	inim-kug-ga-ni	Inimkugani	PN	inim-kug-ga-ni	1	sux	N1=Inimkugani	N1=NAME	Inimkugani	PN	1
+
+# Q001753.2
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest
+2	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂\abs	1	sux	N1=Enlil.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Enlil.ak.ø	DN	1
+
+# Q001753.3
+1	{d}inana-ka	{d}inana-ka	Inanakak	PN	{d}inana-ka\abs	1	sux	N1=Inanakak.N5=ø	N1=NAME.N5=ABS	Inanakak.ø	PN	1
+
+# Q001753.4
+1	dam-ni	dam	dam	N	dam-ni\abs	spouse	sux	N1=dam.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	dam.ani.ø	N	spouse
+

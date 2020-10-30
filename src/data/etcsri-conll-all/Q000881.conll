@@ -1,0 +1,71 @@
+# project: etcsri 
+# textid: Q000881 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000881.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q000881.1
+1	{d}nin-ŋir₂-su	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1	_	_	_	_	_	_	_
+
+# Q000881.2
+1	ur-saŋ	ur-saŋ	ursaŋ	N	ur-saŋ	hero	sux	N1=ursaŋ	N1=STEM	ursaŋ	N	hero, warrior	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q000881.3
+1	{d}en-lil₂-la₂-ra	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂-ra	1	sux	N1=Enlil.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Enlil.ak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q000881.4
+1	piriŋ-me₃	piriŋ-me₃	Piriŋme	RN	piriŋ-me₃	1	sux	N1=Piriŋme	N1=NAME	Piriŋme	RN	Ruler of Lagaš, son of Ur-Ninŋirsu I, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q000881.5
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q000881.6
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000881.7
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	ur-{d}nin-ŋir₂-su	ur-{d}nin-ŋir₂-su	Urninŋirsu	RN	ur-{d}nin-ŋir₂-su	1	sux	N1=Urninŋirsu	N1=NAME	Urninŋirsu	RN	Ur-Ninŋirsu I, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q000881.8
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q000881.9
+1	lagaš{ki}-ka-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-ke₄	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q000881.10
+1	šag₄-ge	šag₄	šag	N	šag₄-ge\n5el3	heart	sux	N1=šag.N5=e	N1=STEM.N5=L3-NH	šag.e	N	heart, inner body	_	_	_	_	_	_	_
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q000881.11
+1	{d}nanše-ke₄	{d}nanše	Nanše	DN	{d}nanše-ke₄	1	sux	N1=Nanše.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Nanše.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q000881.12
+1	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	mu pad	nominate	to nominate, to proclaim one's name publicly	V/t	V/t
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	1	mwe	_	_	_	_	_
+
+# Q000881.13
+1	{d}nin-ŋir₂-su-ka-ke₄	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka-ke₄	1	sux	N1=Ninŋirsuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninŋirsuk.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q000881.14
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	tud-da	tud	utud	V/t	tud-da	bear	sux	NV2=utud.NV4='a	NV2=STEM.NV4=SUB	utud.'a	V/t	bear	_	_	_	_	_	_	_
+
+# Q000881.15
+1	{d}nin-sumun₂-ka-ke₄	{d}nin-sumun₂	Ninsumunak	DN	{d}nin-sumun₂-ka-ke₄	1	sux	N1=Ninsumunak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninsumunak.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q000881.16
+1	ŋeš-keš₂-ra₂	ŋeš-keš₂-ra₂	ŋeškešda	N	ŋeš-keš₂-ra₂\abs	dam	sux	N1=ŋeškešda.N5=ø	N1=STEM.N5=ABS	ŋeškešda.ø	N	dam	_	_	_	_	_	_	_
+
+# Q000881.17
+1	{id₂}ur-saŋ-a₂-ni-a	{id₂}ur-saŋ-a₂-ni	Ursaŋani	WN	{id₂}ur-saŋ-a₂-ni-a\n5al2	1	sux	N1=Ursaŋani.N5='a	N1=NAME.N5=L2-NH	Ursaŋani.'a	WN	1	_	_	_	_	_	_	_
+
+# Q000881.18
+1	mu-na-ak	ak	ak	V/t	mu-na-ak	do	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ak.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ak.ø	V/t	do	_	_	_	_	_	_	_
+

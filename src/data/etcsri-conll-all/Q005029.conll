@@ -1,0 +1,18 @@
+# project: etcsri 
+# textid: Q005029 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q005029.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q005029.2
+1	bur-ba	bur	bur	N	bur-ba\dem2	bowl	sux	N1=bur.N3=bi.N5=ak	N1=STEM.N3=DEM2.N5=GEN	bur.bi.ak	N	bowl
+2	e₂-a	e₂	e	N	e₂-a\l1	house	sux	N1=e.N5='a	N1=STEM.N5=L1	e.'a	N	house, temple
+3	ma-an-x	_	_	_	ma-an-x	_	sux	_	_	_	u	_
+4	mu-bi-im	mu	mu	N	mu-bi-im	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name
+

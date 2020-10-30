@@ -1,0 +1,41 @@
+# project: etcsri 
+# textid: Q001469 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001469.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001469.1
+1	{d}lamma	{d}lamma	lammar	N	{d}lamma	deity	sux	N1=lammar	N1=STEM	lammar	N	deity	_	_	_	_	_	_	_
+
+# Q001469.2
+1	tar-sir₂-sir₂-ra	tar-sir₂-sir₂	Tarsirsir	SN	tar-sir₂-sir₂-ra\dat	1	sux	N1=Tarsirsir.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Tarsirsir.ak.ra	SN	1	_	_	_	_	_	_	_
+
+# Q001469.3
+1	ur-{d}ba-u₂	ur-{d}ba-u₂	Urbauk	RN	ur-{d}ba-u₂	1	sux	N1=Urbauk	N1=NAME	Urbauk	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001469.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001469.5
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001469.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	tud-da	tud	utud	V/t	tud-da	bear	sux	NV2=utud.NV4='a	NV2=STEM.NV4=SUB	utud.'a	V/t	bear	_	_	_	_	_	_	_
+
+# Q001469.7
+1	{d}nin-a₂-gal-ka-ke₄	{d}nin-a₂-gal	Ninagalak	DN	{d}nin-a₂-gal-ka-ke₄	1	sux	N1=Ninagalak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninagalak.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001469.8
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q001469.9
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

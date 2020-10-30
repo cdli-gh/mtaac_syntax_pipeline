@@ -1,0 +1,244 @@
+# project: etcsri 
+# textid: Q000994 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000994.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q000994.1
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q000994.2
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	1	mwe	_	_	_	_	_
+3	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1	_	_	_	_	_	_	_
+
+# Q000994.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	{d}en-lil₂-le	{d}en-lil₂	Enlil	DN	{d}en-lil₂-le	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+
+# Q000994.4
+1	šag₄-ga-na	šag₄	šag	N	šag₄-ga-na	heart	sux	N1=šag.N3=ani.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L1	šag.ani.'a	N	heart, inner body	_	_	_	_	_	_	_
+
+# Q000994.5
+1	in-pad₃	pad₃	pad	V/t	in-pad₃	find	sux	V2=i.V11=n.V12=pad.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.pad.ø	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q000994.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q000994.7
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₂{ki}-ma	urim₂{ki}	Urim	SN	urim₂{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000994.8
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba	four	sux	NV2=limmu.N3=bi.N5=ak	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN	limmu.bi.ak	NU	four	_	_	_	_	_	_	_
+
+# Q000994.9
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q000994.10
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+
+# Q000994.11
+1	mu-sar-ra	mu-sar-ra	musara	N	mu-sar-ra	inscription	sux	N1=musara	N1=STEM	musara	N	inscription	_	_	_	_	_	_	_
+
+# Q000994.12
+1	zag	zag	zag	N	zag	side	sux	N1=zag	N1=STEM	zag	N	side	_	_	_	_	_	_	_
+2	zid-da-ni	zid	zid	V/i	zid-da-ni	right	sux	NV2=zid.NV4='a.N3=ani	NV2=stem.NV4=SUB.N3=3-SG-H-POSS	zid.'a.ani	V/i	right	_	_	_	_	_	_	_
+
+# Q000994.13
+1	alan	alan	alan	N	alan	statue	sux	N1=alan	N1=STEM	alan	N	statue	_	_	_	_	_	_	_
+2	na₄	na₄	na	N	na₄\gen	stone	sux	N1=na.N5=ak	N1=STEM.N5=GEN	na.ak	N	stone	_	_	_	_	_	_	_
+
+# Q000994.14
+1	2(diš)	_	_	_	2(diš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	sila₃	sila₃	sila	N	sila₃	unit	sux	N1=sila	N1=STEM	sila	N	a unit of capacity, a vessel	_	_	_	_	_	_	_
+3	ninda	ninda	ninda	N	ninda\abs	bread	sux	N1=ninda.N5=ø	N1=STEM.N5=ABS	ninda.ø	N	bread	_	_	_	_	_	_	_
+
+# Q000994.15
+1	2(diš)	_	_	_	2(diš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	sila₃	sila₃	sila	N	sila₃	unit	sux	N1=sila	N1=STEM	sila	N	a unit of capacity, a vessel	_	_	_	_	_	_	_
+3	lal₃	lal₃	lal	N	lal₃\abs	syrup	sux	N1=lal.N5=ø	N1=STEM.N5=ABS	lal.ø	N	syrup	_	_	_	_	_	_	_
+
+# Q000994.16
+1	1(diš)	_	_	_	1(diš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	sila₃	sila₃	sila	N	sila₃	unit	sux	N1=sila	N1=STEM	sila	N	a unit of capacity, a vessel	_	_	_	_	_	_	_
+3	kurun	kurun	kurun	N	kurun\abs	beer	sux	N1=kurun.N5=ø	N1=STEM.N5=ABS	kurun.ø	N	a beer	_	_	_	_	_	_	_
+
+# Q000994.17
+1	1(diš)	_	_	_	1(diš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	sila₃	sila₃	sila	N	sila₃	unit	sux	N1=sila	N1=STEM	sila	N	a unit of capacity, a vessel	_	_	_	_	_	_	_
+3	kaš	kaš	kaš	N	kaš\abs	beer	sux	N1=kaš.N5=ø	N1=STEM.N5=ABS	kaš.ø	N	beer	_	_	_	_	_	_	_
+
+# Q000994.18
+1	1(diš)	_	_	_	1(diš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	ma-la-gum₂	ma-la-ku	malaku	N	ma-la-gum₂	~meat	sux	N1=malaku	N1=STEM	malaku	N	a cut of meat	_	_	_	_	_	_	_
+3	udu	udu	udu	N	udu	sheep	sux	N1=udu	N1=STEM	udu	N	sheep	_	_	_	_	_	_	_
+
+# Q000994.19
+1	niŋ₂-dab₅	nindaba	nindaba	N	niŋ₂-dab₅	offering	sux	N1=nindaba	N1=STEM	nindaba	N	(food) offering	_	_	_	_	_	_	_
+2	itud-da-ka	itud	itud	N	itud-da-ka	moon	sux	N1=itud.N5=ak.N5=ø.N6=am	N1=STEM.N5=GEN.N5=ABS.N6=COP-3-SG	itud.ak.ø.am	N	moon, moonlight	_	_	_	_	_	_	_
+
+# Q000994.20
+1	{ŋeš}banšur	{ŋeš}banšur	banšur	N	{ŋeš}banšur	table	sux	N1=banšur	N1=STEM	banšur	N	table	_	_	_	_	_	_	_
+
+# Q000994.21
+1	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂	1	sux	N1=Enlil	N1=NAME	Enlil	DN	1	_	_	_	_	_	_	_
+
+# Q000994.22
+1	lugal-ŋa₂-ta	lugal	lugal	N	lugal-ŋa₂-ta	king	sux	N1=lugal.N3=ŋu.N5=ak.N5=ta	N1=STEM.N3=1-SG-POSS.N5=GEN.N5=ABL	lugal.ŋu.ak.ta	N	king	_	_	_	_	_	_	_
+
+# Q000994.23
+1	1(diš)	_	_	_	1(diš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	tug₂	tug₂	tug	N	tug₂	textile	sux	N1=tug	N1=STEM	tug	N	textile, garment	_	_	_	_	_	_	_
+3	a	_	_	_	a	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000994.24
+1	1(diš)	_	_	_	1(diš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	sila₃	sila₃	sila	N	sila₃	unit	sux	N1=sila	N1=STEM	sila	N	a unit of capacity, a vessel	_	_	_	_	_	_	_
+3	i₃	i₃	i	N	i₃	oil	sux	N1=i	N1=STEM	i	N	oil	_	_	i duga	oil	aromatic oil or ointment	N	N
+4	dug₃-ga	dug₃	dug	V/i	dug₃-ga\abs	good	sux	NV2=dug.NV4='a.N5=ø	NV2=STEM.NV4=SUB.N5=ABS	dug.'a.ø	V/i	good	3	mwe	_	_	_	_	_
+
+# Q000994.25
+1	niŋ₂-dab₅	nindaba	nindaba	N	niŋ₂-dab₅	offering	sux	N1=nindaba	N1=STEM	nindaba	N	(food) offering	_	_	_	_	_	_	_
+2	itud-da-ka	itud	itud	N	itud-da-ka	moon	sux	N1=itud.N5=ak.N5=ø.N6=am	N1=STEM.N5=GEN.N5=ABS.N6=COP-3-SG	itud.ak.ø.am	N	moon, moonlight	_	_	_	_	_	_	_
+
+# Q000994.26
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	{d}nin-lil₂	{d}nin-lil₂	Ninlil	DN	{d}nin-lil₂	1	sux	N1=Ninlil	N1=NAME	Ninlil	DN	1	_	_	_	_	_	_	_
+
+# Q000994.27
+1	nin-ŋa₂-ta	nin	nin	N	nin-ŋa₂-ta	lady	sux	N1=nin.N3=ŋu.N5=ak.N5=ta	N1=STEM.N3=1-SG-POSS.N5=GEN.N5=ABL	nin.ŋu.ak.ta	N	lady	_	_	_	_	_	_	_
+
+# Q000994.28
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q000994.29
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	1	mwe	_	_	_	_	_
+3	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1	_	_	_	_	_	_	_
+
+# Q000994.30
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	{d}en-lil₂-le	{d}en-lil₂	Enlil	DN	{d}en-lil₂-le	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+
+# Q000994.31
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	1	mwe	_	_	_	_	_
+3	šag₄-ga-na	šag₄	šag	N	šag₄-ga-na	heart	sux	N1=šag.N3=ani.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L1	šag.ani.'a	N	heart, inner body	_	_	_	_	_	_	_
+
+# Q000994.32
+1	in-pad₃	pad₃	pad	V/t	in-pad₃	find	sux	V2=i.V11=n.V12=pad.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.pad.ø	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q000994.33
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q000994.34
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₂{ki}-ma	urim₂{ki}	Urim	SN	urim₂{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000994.35
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₂-ba-ke₄	limmu₂	limmu	NU	limmu₂-ba-ke₄	four	sux	NV2=limmu.N3=bi.N5=ak.N5=e	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	limmu.bi.ak.e	NU	four	_	_	_	_	_	_	_
+
+# Q000994.36
+1	i₃-ba	ba	ba	V/t	i₃-ba	allot	sux	V2=i.V11=n.V12=ba.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.ba.ø	V/t	allot	_	_	_	_	_	_	_
+
+# Q000994.37
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+3	na-me	na-me	name	XP	na-me\l1	somebody	sux	N1=name.N5='a	N1=STEM.N5=L1	name.'a	XP	some, any	_	_	_	_	_	_	_
+
+# Q000994.38
+1	niŋ₂-dab₅-e	nindaba	nindaba	N	niŋ₂-dab₅-e\dem1	offering	sux	N1=nindaba	N1=STEM	nindaba	N	(food) offering	_	_	_	_	_	_	_
+
+# Q000994.39
+1	i₃-ku₅-re₆-a	ku₅	kud	V/t	i₃-ku₅-re₆-a	cut	sux	V2=i.V12=kud.V14=e.V15='a	V2=FIN.V12=STEM.V14=3-SG-A.V15=SUB	i.kud.e.'a	V/t	cut	_	_	_	_	_	_	_
+
+# Q000994.40
+1	lu₂-bi	lu₂	lu	N	lu₂-bi\dem2\abs	person	sux	N1=lu.N3=bi.N5=ø	N1=STEM.N3=DEM2.N5=ABS	lu.bi.ø	N	person	_	_	_	_	_	_	_
+
+# Q000994.41
+1	lugal	lugal	lugal	N	lugal\abs	king	sux	N1=lugal.N5=ø	N1=STEM.N5=ABS	lugal.ø	N	king	_	_	_	_	_	_	_
+2	he₂-a	am₃	me	V/i	he₂-a	be	sux	V1=ha.V2=i.V12=me.V14=ø	V1=MOD1.V2=FIN.V12=COP.V14=3-SG-S	ha.i.me.ø	V/i	to be, (the independent form of the) copula	_	_	_	_	_	_	_
+
+# Q000994.42
+1	en	en	en	N	en\abs	lord	sux	N1=en.N5=ø	N1=STEM.N5=ABS	en.ø	N	lord	_	_	_	_	_	_	_
+2	he₂-a	am₃	me	V/i	he₂-a	be	sux	V1=ha.V2=i.V12=me.V14=ø	V1=MOD1.V2=FIN.V12=COP.V14=3-SG-S	ha.i.me.ø	V/i	to be, (the independent form of the) copula	_	_	_	_	_	_	_
+
+# Q000994.43
+1	ensi₂	ensi₂	ensik	N	ensi₂\abs	ruler	sux	N1=ensik.N5=ø	N1=STEM.N5=ABS	ensik.ø	N	governor	_	_	_	_	_	_	_
+2	he₂-a	am₃	me	V/i	he₂-a	be	sux	V1=ha.V2=i.V12=me.V14=ø	V1=MOD1.V2=FIN.V12=COP.V14=3-SG-S	ha.i.me.ø	V/i	to be, (the independent form of the) copula	_	_	_	_	_	_	_
+
+# Q000994.44
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa\abs	official	sux	N1=saŋŋa.N5=ø	N1=STEM.N5=ABS	saŋŋa.ø	N	an official, the chief administrator of a temple household	_	_	_	_	_	_	_
+2	he₂-a	am₃	me	V/i	he₂-a	be	sux	V1=ha.V2=i.V12=me.V14=ø	V1=MOD1.V2=FIN.V12=COP.V14=3-SG-S	ha.i.me.ø	V/i	to be, (the independent form of the) copula	_	_	_	_	_	_	_
+
+# Q000994.45
+1	gudu₄	gudu₄	gudug	N	gudu₄	priest	sux	N1=gudug	N1=STEM	gudug	N	a priest	_	_	_	_	_	_	_
+2	maš₂-e	maš₂	maš	N	maš₂-e\n5el3	goat	sux	N1=maš.N5=e	N1=STEM.N5=L3-NH	maš.e	N	goat	_	_	maše pad	choose by extispicy	to choose by extispicy	V/t	V/t
+3	pad₃-da	pad₃	pad	V/t	pad₃-da\abs	find	sux	NV2=pad.NV4='a.N5=ø	NV2=STEM.NV4=SUB.N5=ABS	pad.'a.ø	V/t	to find, to discover	2	mwe	_	_	_	_	_
+4	he₂-a	am₃	me	V/i	he₂-a	be	sux	V1=ha.V2=i.V12=me.V14=ø	V1=MOD1.V2=FIN.V12=COP.V14=3-SG-S	ha.i.me.ø	V/i	to be, (the independent form of the) copula	_	_	_	_	_	_	_
+
+# Q000994.46
+1	lu₂-ba	lu₂	lu	N	lu₂-ba\dem2	person	sux	N1=lu.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=X	lu.bi.'a	N	person	_	_	_	_	_	_	_
+
+# Q000994.47
+1	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂	1	sux	N1=Enlil	N1=NAME	Enlil	DN	1	_	_	_	_	_	_	_
+
+# Q000994.48
+1	{d}nin-lil₂-e	{d}nin-lil₂	Ninlil	DN	{d}nin-lil₂-e	1	sux	N1=Ninlil.N5=e	N1=NAME.N5=ERG	Ninlil.e	DN	1	_	_	_	_	_	_	_
+
+# Q000994.49
+1	nam	nam	nam	N	nam\abs	fate	sux	N1=nam.N5=ø	N1=STEM.N5=ABS	nam.ø	N	fate	_	_	nam kud	curse	to curse	V/t	V/t
+2	ha-ba-da-kuru₅-ne	kuru₅	kud	V/t	ha-ba-da-kuru₅-ne	cut	sux	V1=ha.V5=ba.V6=nn.V8=da.V12=kud.V14=enee	V1=MOD1.V5=MID.V6=3-SG-H.V8=COM.V12=STEM.V14=3-PL-A	ha.ba.nn.da.kud.enee	V/t	cut	1	mwe	_	_	_	_	_
+
+# Q000994.50
+1	ibila	ibila	ibila	N	ibila\abs	heir	sux	N1=ibila.N5=ø	N1=STEM.N5=ABS	ibila.ø	N	heir	_	_	_	_	_	_	_
+2	na-an-ni-du₁₂-du₁₂-ne	du₁₂-du₁₂	tuku	V/t	na-an-ni-du₁₂-du₁₂-ne\v10l3\v11sg3p	acquire	sux	V2=nan.V6=nn.V10=i.V11=n.V12=dudu.V14=enee	V2=MOD3.V6=3-SG-H.V10=L3.V11=3-SG-H-P.V12=STEM-PF.V14=3-PL-A	nan.nn.i.n.dudu.enee	V/t	to acquire, to have	_	_	_	_	_	_	_
+
+# Q000994.51
+1	mu-ni	mu	mu	N	mu-ni\abs	name	sux	N1=mu.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	mu.ani.ø	N	name	_	_	_	_	_	_	_
+2	kalam-ma	kalam	kalam	N	kalam-ma\l1	land	sux	N1=kalam.N5='a	N1=STEM.N5=L1	kalam.'a	N	the Land (of Sumer)	_	_	_	_	_	_	_
+3	na-an-ni-ŋa₂-ŋa₂-ne	ŋa₂-ŋa₂	ŋar	V/t	na-an-ni-ŋa₂-ŋa₂-ne\v11nl3	place	sux	V2=nan.V10=ni.V11=n.V12=ŋaŋa.V14=enee	V2=MOD3.V10=L1.V11=3-SG-H-L3.V12=STEM-PF.V14=3-PL-A	nan.ni.n.ŋaŋa.enee	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q000994.52
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	saŋ-bi	saŋ	saŋ	N	saŋ-bi\abs	head	sux	N1=saŋ.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	saŋ.bi.ø	N	capital, previous amount	_	_	_	_	_	_	_
+
+# Q000994.53
+1	nu-ub-da-ab-kur₂-re-a	kur₂	kur	V/i	nu-ub-da-ab-kur₂-re-a\abs	different	sux	V1=nu.V5=b.V8=da.V11=b.V12=kur.V14=e.V15='a.N5=ø	V1=NEG.V5=3-NH.V8=COM.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB.N5=ABS	nu.b.da.b.kur.e.'a.ø	V/i	(to be) different	_	_	_	_	_	_	_
+
+# Q000994.54
+1	igi	igi	igi	N	igi	face	sux	N1=igi	N1=STEM	igi	N	face	_	_	_	_	_	_	_
+2	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂	1	sux	N1=Enlil	N1=NAME	Enlil	DN	1	_	_	_	_	_	_	_
+
+# Q000994.55
+1	{d}nin-lil₂-la₂-ka	{d}nin-lil₂	Ninlil	DN	{d}nin-lil₂-la₂-ka\l1	1	sux	N1=Ninlil.N5=ak.N5='a	N1=Ninlil.N5=GEN.N5=L1	Ninlil.ak.'a	DN	1	_	_	_	_	_	_	_
+
+# Q000994.56
+1	he₂-en-sag₉	sag₉	sag	V/i	he₂-en-sag₉\v14sg3s	good	sux	V1=ha.V2=i.V10=n.V12=sag.V14=ø	V1=MOD1.V2=FIN.V10=L1-SYN.V12=STEM.V14=3-SG-S	ha.i.n.sag.ø	V/i	(to be) good	_	_	_	_	_	_	_
+
+# Q000994.57
+1	mu-sar-ra	mu-sar-ra	musara	N	mu-sar-ra	inscription	sux	N1=musara	N1=STEM	musara	N	inscription	_	_	_	_	_	_	_
+
+# Q000994.58
+1	ki-gal	ki-gal	kigal	N	ki-gal	platform	sux	N1=kigal	N1=STEM	kigal	N	platform, pedestal	_	_	_	_	_	_	_
+2	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q000994.59
+1	alan	alan	alan	N	alan	statue	sux	N1=alan	N1=STEM	alan	N	statue	_	_	_	_	_	_	_
+2	na₄-kam	na₄	na	N	na₄-kam	stone	sux	N1=na.N5=ak.N6=am	N1=STEM.N5=GEN.N6=COP-3-SG	na.ak.am	N	stone	_	_	_	_	_	_	_
+

@@ -1,0 +1,120 @@
+# project: etcsri 
+# textid: Q001080 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001080.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001080.1
+1	{d}lugal-urub{ki}-ra	{d}lugal-urub{ki}	Lugalurubak	DN	{d}lugal-urub{ki}-ra	1	sux	N1=Lugalurubak.N5=ra	N1=NAME.N5=DAT-H	Lugalurubak.ra	DN	1
+
+# Q001080.2
+1	arad₂	arad₂	arad	N	arad₂	slave	sux	N1=arad	N1=STEM	arad	N	slave, servant
+2	kalag-ga-ni	kalag	kalag	V/i	kalag-ga-ni	strong	sux	NV2=kalag.NV4='a.N3=ani	NV2=STEM.NV4=SUB.N3=3-SG-H-POSS	kalag.'a.ani	V/i	strong
+
+# Q001080.3
+1	en-an-na-tum₂	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂	1	sux	N1=Enanatum	N1=NAME	Enanatum	RN	En-ana-tum I, ruler of Lagaš
+
+# Q001080.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001080.5
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1
+
+# Q001080.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	aya₂-kur-gal	aya₂-kur-gal	Ayakurgal	RN	aya₂-kur-gal	1	sux	N1=Ayakurgal	N1=NAME	Ayakurgal	RN	Ruler of Lagaš
+
+# Q001080.7
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001080.8
+1	lagaš{ki}-ka-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-ke₄	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1
+
+# Q001080.9
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun
+2	{d}inana-ra	{d}inana	Inanak	DN	{d}inana-ra	1	sux	N1=Inanak.N5=ra	N1=NAME.N5=DAT-H	Inanak.ra	DN	1
+
+# Q001080.10
+1	eb-gal	eb-gal	Ebgal	TN	eb-gal\abs	1	sux	N1=Ebgal.N5=ø	N1=NAME.N5=ABS	Ebgal.ø	TN	1
+2	mu-na-du₃-a	du₃	du	V/t	mu-na-du₃-a\l1	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.du.ø.'a.'a	V/t	to build
+
+# Q001080.11
+1	{d}nin-dar	{d}nin-dar	Nindara	DN	{d}nin-dar	1	sux	N1=Nindara	N1=NAME	Nindara	DN	1
+
+# Q001080.12
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	uru₁₆-ra	uru₁₆	urun	V/i	uru₁₆-ra	exalted	sux	NV2=urun.N5=ra	NV2=STEM.N5=DAT-H	urun.ra	V/i	exalted, mighty
+
+# Q001080.13
+1	e₂-ni	e₂	e	N	e₂-ni\abs	house	sux	N1=e.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	e.ani.ø	N	house, temple
+
+# Q001080.14
+1	ki-be₂	ki	ki	N	ki-be₂\n5el3	place	sux	N1=ki.N3=bi.N5=e	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	ki.bi.e	N	place
+2	mu-na-gi₄-a	gi₄	gi	V/i	mu-na-gi₄-a\l1	turn	sux	V4=mu.V6=nn.V7=a.V11=n.V12=gi.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.gi.ø.'a.'a	V/i	turn
+
+# Q001080.15
+1	{d}hendur-saŋ-ra	{d}hendur-saŋ	Hendursaŋak	DN	{d}hendur-saŋ-ra	1	sux	N1=Hendursaŋak.N5=ra	N1=NAME.N5=DAT-H	Hendursaŋak.ra	DN	1
+
+# Q001080.16
+1	e₂-ni	e₂	e	N	e₂-ni\abs	house	sux	N1=e.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	e.ani.ø	N	house, temple
+2	mu-na-du₃-a	du₃	du	V/t	mu-na-du₃-a\l1	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.du.ø.'a.'a	V/t	to build
+
+# Q001080.17
+1	{d}lugal-urub{ki}-ra	{d}lugal-urub{ki}	Lugalurubak	DN	{d}lugal-urub{ki}-ra	1	sux	N1=Lugalurubak.N5=ra	N1=NAME.N5=DAT-H	Lugalurubak.ra	DN	1
+
+# Q001080.18
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great
+3	urub{ki}-ka-ni	urub{ki}	Urub	SN	urub{ki}-ka-ni\abs	1	sux	N1=Urub.N5=ak.N3=ani.N5=ø	N1=NAME.N5=GEN.N3=3-SG-H-POSS.N5=ABS	Urub.ak.ani.ø	SN	1
+
+# Q001080.19
+1	mu-na-du₃-a	du₃	du	V/t	mu-na-du₃-a\l1	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.du.ø.'a.'a	V/t	to build
+
+# Q001080.20
+1	{d}ama-ŋeštin-an-na-ra	{d}ama-ŋeštin-an-na	Ŋeštinanak	DN	{d}ama-ŋeštin-an-na-ra	1	sux	N1=Ŋeštinanak.N5=ra	N1=NAME.N5=DAT-H	Ŋeštinanak.ra	DN	1
+
+# Q001080.21
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	saŋ-ubₓ(|EZEN×HAL|)-ka-ni	saŋ-ubₓ(|EZEN×HAL|)	Saŋub	SN	saŋ-ubₓ(|EZEN×HAL|)-ka-ni\abs	1	sux	N1=Saŋub.N5=ak.N3=ani.N5=ø	N1=NAME.N5=GEN.N3=3-SG-H-POSS.N5=ABS	Saŋub.ak.ani.ø	SN	1
+
+# Q001080.22
+1	mu-na-du₃-a	du₃	du	V/t	mu-na-du₃-a\l1	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.du.ø.'a.'a	V/t	to build
+
+# Q001080.23
+1	ud-ba	ud	ud	N	ud-ba	sun	sux	N1=ud.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	ud.bi.'a	N	day, sun
+
+# Q001080.24
+1	en-an-na-tum₂-me	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂-me	1	sux	N1=Enanatum.N5=e	N1=NAME.N5=ERG	Enanatum.e	RN	En-ana-tum I, ruler of Lagaš
+
+# Q001080.25
+1	ganun	ganun	ganun	N	ganun	storehouse	sux	N1=ganun	N1=STEM	ganun	N	storehouse
+2	mah	mah	mah	V/i	mah	great	sux	NV2=mah	NV2=STEM	mah	V/i	great
+
+# Q001080.26
+1	urub{ki}-ba	urub{ki}	Urub	SN	urub{ki}-ba\gen\abs	1	sux	N1=Urub.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urub.ak.ø	SN	1
+
+# Q001080.27
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001080.28
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life
+
+# Q001080.29
+1	{d}lugal-urub{ki}-ra	{d}lugal-urub{ki}	Lugalurubak	DN	{d}lugal-urub{ki}-ra	1	sux	N1=Lugalurubak.N5=ra	N1=NAME.N5=DAT-H	Lugalurubak.ra	DN	1
+
+# Q001080.30
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great
+3	urub{ki}-ka	urub{ki}	Urub	SN	urub{ki}-ka\l1	1	sux	N1=Urub.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L1	Urub.ak.'a	SN	1
+
+# Q001080.31
+1	giri₁₇	giri₁₇	giri	N	giri₁₇\l3	nose	sux	N1=giri.N5=e	N1=STEM.N5=L3-NH	giri.e	N	nose
+2	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+3	he₂-na-še₃-ŋal₂	ŋal₂	ŋal	V/i	he₂-na-še₃-ŋal₂	be	sux	V1=ha.V2=i.V6=nn.V7=a.V9=ši.V11=n.V12=ŋal.V14=ø	V1=MOD1.V2=FIN.V6=3-SG-H.V7=DAT.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ha.i.nn.a.ši.n.ŋal.ø	V/i	be
+

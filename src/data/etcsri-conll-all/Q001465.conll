@@ -1,0 +1,40 @@
+# project: etcsri 
+# textid: Q001465 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001465.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001465.1
+1	{d}en-ki	{d}en-ki	Enkik	DN	{d}en-ki	1	sux	N1=Enkik	N1=NAME	Enkik	DN	1
+
+# Q001465.2
+1	lugal-a-ni	lugal	lugal	N	lugal-a-ni\dat	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king
+
+# Q001465.3
+1	ur-{d}ba-u₂	ur-{d}ba-u₂	Urbauk	RN	ur-{d}ba-u₂	1	sux	N1=Urbauk	N1=NAME	Urbauk	RN	Ruler of Lagaš
+
+# Q001465.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001465.5
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001465.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	tud-da	tud	utud	V/t	tud-da	bear	sux	NV2=utud.NV4='a	NV2=STEM.NV4=SUB	utud.'a	V/t	bear
+
+# Q001465.7
+1	{d}nin-a₂-gal-ka-ke₄	{d}nin-a₂-gal	Ninagalak	DN	{d}nin-a₂-gal-ka-ke₄	1	sux	N1=Ninagalak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninagalak.ak.e	DN	1
+
+# Q001465.8
+1	e₂-a-ni	e₂	e	N	e₂-a-ni\abs	house	sux	N1=e.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	e.ani.ø	N	house, temple
+
+# Q001465.9
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

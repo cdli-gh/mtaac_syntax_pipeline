@@ -1,0 +1,52 @@
+# project: etcsri 
+# textid: Q001739 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001739.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001739.1
+1	{d}inana	{d}inana	Inanak	DN	{d}inana	1	sux	N1=Inanak	N1=NAME	Inanak	DN	1
+
+# Q001739.2
+1	{d}nin	{d}nin	nin	N	{d}nin	lady	sux	N1=nin	N1=STEM	nin	N	lady
+2	an-še₃	an	an	N	an-še₃	sky	sux	N1=an.N5=še	N1=STEM.N5=TERM	an.še	N	sky, heaven
+3	la₂-a	la₂	la	V/t	la₂-a	hang	sux	NV2=la.NV4='a	NV2=STEM.NV4=SUB	la.'a	V/t	to hang
+
+# Q001739.3
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady
+2	UN-gal	UN-gal	UN.gal	N	UN-gal	ruler	sux	N1=UN.gal	N1=STEM	UN.gal	N	ruler
+
+# Q001739.4
+1	diŋir-re-ne	diŋir	diŋir	N	diŋir-re-ne\gen	deity	sux	N1=diŋir.N4=enee.N5=ak	N1=STEM.N4=PL.N5=GEN	diŋir.enee.ak	N	deity, personal god
+
+# Q001739.5
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady
+
+# Q001739.6
+1	nam-mah-ni-dug₃	nam-mah-ni-dug₃	Nammahnidug	PN	nam-mah-ni-dug₃	1	sux	N1=Nammahnidug	N1=NAME	Nammahnidug	PN	1
+
+# Q001739.7
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	lu₂-giri₁₇-zal	lu₂-giri₁₇-zal	Lugirizal	PN	lu₂-giri₁₇-zal	1	sux	N1=Lugirizal	N1=NAME	Lugirizal	PN	Governor of Lagaš
+
+# Q001739.8
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+
+# Q001739.9
+1	lagaš{ki}-ka-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-ke₄	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1
+
+# Q001739.10
+1	mu-tud	tud	utud	V/t	mu-tud	bear	sux	V4=mu.V11=n.V12=utud.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.utud.ø	V/t	fashion a statue, to bring a statue into being
+
+# Q001739.11
+1	e₂-a-ni	e₂	e	N	e₂-a-ni\abs	house	sux	N1=e.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	e.ani.ø	N	house, temple
+
+# Q001739.12
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

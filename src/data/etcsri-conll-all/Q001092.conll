@@ -1,0 +1,77 @@
+# project: etcsri 
+# textid: Q001092 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001092.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001092.1
+1	{d}inana-ra	{d}inana	Inanak	DN	{d}inana-ra	1	sux	N1=Inanak.N5=ra	N1=NAME.N5=DAT-H	Inanak.ra	DN	1
+
+# Q001092.2
+1	{d}lugal-e₂-muš₃-ra	{d}lugal-e₂-muš₃	Lugalemuš	DN	{d}lugal-e₂-muš₃-ra	1	sux	N1=Lugalemuš.N5=ra	N1=NAME.N5=DAT-H	Lugalemuš.ra	DN	1
+
+# Q001092.3
+1	en-mete-na	en-mete-na	Enmetenak	RN	en-mete-na	1	sux	N1=Enmetenak	N1=NAME	Enmetenak	RN	Ruler of Lagaš
+
+# Q001092.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001092.5
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1
+
+# Q001092.6
+1	e₂-muš₃	e₂-muš₃	Emuš	TN	e₂-muš₃	1	sux	N1=Emuš	N1=NAME	Emuš	TN	1
+2	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+3	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place
+4	aŋ₂-ne-ne	aŋ₂	aŋ	V/t	aŋ₂-ne-ne\abs	measure	sux	NV2=aŋ.N3=anene.N5=ø	NV2=STEM.N3=3-PL-H-POSS.N5=ABS	aŋ.anene.ø	V/t	measure
+
+# Q001092.7
+1	mu-ne-du₃	du₃	du	V/t	mu-ne-du₃	build	sux	V4=mu.V6=nnee.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-PL-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nnee.a.n.du.ø	V/t	to build
+
+# Q001092.8
+1	KIB@g	KIB@g	kib	N	KIB@g\abs	object	sux	N1=kib.N5=ø	N1=STEM.N5=ABS	kib.ø	N	an object, inscribed clay nail?
+2	mu-na-dug₄	dug₄	dug	V/t	mu-na-dug₄	speak	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dug.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dug.ø	V/t	speak
+
+# Q001092.9
+1	en-mete-na	en-mete-na	Enmetenak	RN	en-mete-na	1	sux	N1=Enmetenak	N1=NAME	Enmetenak	RN	Ruler of Lagaš
+
+# Q001092.10
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+2	e₂-muš₃	e₂-muš₃	Emuš	TN	e₂-muš₃\abs	1	sux	N1=Emuš.N5=ø	N1=NAME.N5=ABS	Emuš.ø	TN	1
+3	du₃-a	du₃	du	V/t	du₃-a\gen	build	sux	NV2=du.NV4='a.N5=ak	NV2=STEM.NV4=SUB.N5=GEN	du.'a.ak	V/t	to build
+
+# Q001092.11
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni\abs	deity	sux	N1=diŋir.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	diŋir.ani.ø	N	deity, personal god
+
+# Q001092.12
+1	{d}šul-|MUŠ×PA|-am₆	{d}šul-|MUŠ×PA|	Šul-MUŠ×PA	DN	{d}šul-|MUŠ×PA|-am₆	1	sux	N1=Šul-|MUŠ×PA|.N5=ø.N6=am	N1=NAME.N5=ABS.N6=COP-3-SG	Šul-|MUŠ×PA|.ø.am	DN	1
+
+# Q001092.13
+1	ud-ba	ud	ud	N	ud-ba	sun	sux	N1=ud.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	ud.bi.'a	N	day, sun
+2	en-mete-na	en-mete-na	Enmetenak	RN	en-mete-na	1	sux	N1=Enmetenak	N1=NAME	Enmetenak	RN	Ruler of Lagaš
+
+# Q001092.14
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001092.15
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001092.16
+1	lugal-ki-ne₂-eš₂-du₇-du₇	lugal-ki-ne₂-eš₂-du₇-du₇	Lugalkiŋenešdudud	RN	lugal-ki-ne₂-eš₂-du₇-du₇	1	sux	N1=Lugalkiŋenešdudud	N1=NAME	Lugalkiŋenešdudud	RN	King of Unug, king of Urim
+
+# Q001092.17
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001092.18
+1	unug{ki}-be₂	unug{ki}	Unug	SN	unug{ki}-be₂\dem2\erg	1	sux	N1=Unug.N5=ak.N3=bi.N5=e	N1=NAME.N5=GEN.N3=DEM2.N5=ERG	Unug.ak.bi.e	SN	1
+
+# Q001092.19
+1	nam-šeš	nam-šeš	namšeš	N	nam-šeš\abs	brotherhood	sux	N1=namšeš.N5=ø	N1=STEM.N5=ABS	namšeš.ø	N	brotherhood
+2	e-ak	ak	ak	V/t	e-ak	do	sux	V2=i.V11=n.V12=ak.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.ak.ø	V/t	do
+

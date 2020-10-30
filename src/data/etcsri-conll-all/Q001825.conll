@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q001825 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001825.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001825.1
+1	ku-ba-tum	ku-ba-tum	Kubatum	PN	ku-ba-tum	1	sux	N1=Kubatum	N1=NAME	Kubatum	PN	Consort of Šu-Suen, king of Urim	_	_	_	_	_	_	_
+
+# Q001825.2
+1	lukur	lukur	lukur	N	lukur	priestess	sux	N1=lukur	N1=STEM	lukur	N	a priestess, consort	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001825.3
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen\gen\abs	1	sux	N1=Šusuen.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šusuen.ak.ø	RN	4th king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+

@@ -1,0 +1,27 @@
+#new_text=P100610
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(u)	1(u)[ten]	NUM	NU	_	3	nummod	_	_
+2	8(disz)	8(disz)[one]	NUM	NU	_	1	nummod	_	_
+3	gurusz	gurusz[male]	NOUN	N	Number=Sing	21	ABL	_	_
+4	u4	ud[day]	NOUN	N	Number=Sing	3	appos	_	_
+5	1(disz)-sze3	1(disz)[one]	NUM	NU	_	4	nummod	_	_
+6	ur-dub-la2	Urdubla[1]	PROPN	PN	Animacy=Hum|Number=Sing	3	appos	_	_
+7	aszgab	aszgab[leatherworker]	NOUN	N	Number=Sing	3	appos	_	_
+8	ki	ki[place]	NOUN	N	Number=Sing	3	appos	_	_
+9	lugal-iti-da	Lugalitida[1]	PROPN	PN	Animacy=Hum|Number=Sing	3	appos	_	_
+10	dumu	dumu[child]	NOUN	N	Number=Sing	9	GEN	_	_
+11	giri3-ni-ta	Girini[1]	PROPN	PN	Animacy=Hum|Case=Gen,Gen,Abl|Number=Sing	10	GEN	_	_
+12	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	21	L1	_	_
+13	a-kal-la	Akalla[1]	PROPN	PN	Animacy=Hum|Number=Sing	12	appos	_	_
+14	aszgab	aszgab[leatherworker]	NOUN	N	Case=Gen|Number=Sing	13	GEN	_	_
+15	iti	iti[month]	NOUN	N	Number=Sing	12	appos	_	_
+16	{d}dumu-zi	Dumuzi[1]	PROPN	MN	Number=Sing	12	appos	_	_
+17	mu	mu[year]	NOUN	N	Number=Sing	21	ABS	_	_
+18	ha-ar-szi{ki}	Harszi[1]	PROPN	SN	Number=Sing	17	appos	_	_
+19	u3	u[and]	CCONJ	CNJ	_	18	cc	_	_
+20	ki-masz{ki}	Kimasz[1]	PROPN	SN	Case=Abs|Number=Sing	18	conj	_	_
+21	ba-hul	hulu[destroy]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+22	a-kal-la	Akalla[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+23	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+24	lu2-bulug3-ga2	Lugalitida[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+25	aszgab-gal	aszgabgal[head_leatherworker]	NOUN	N	Case=Gen|Number=Sing	24	GEN	_	_

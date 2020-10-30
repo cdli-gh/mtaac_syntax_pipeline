@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q004317 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004317.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004317.1
+1	nam-mah-{d}ba-u₂	nam-mah-{d}ba-u₂	Nammahbau	PN	nam-mah-{d}ba-u₂	1	sux	N1=Nammahbau	N1=NAME	Nammahbau	PN	1
+
+# Q004317.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ur-ku	ur-ku	Urku	PN	ur-ku\gen	1	sux	N1=Urku.N5=ak	N1=NAME.N5=GEN	Urku.ak	PN	1
+
+# Q004317.3
+1	gudu₄	gudu₄	gudug	N	gudu₄	priest	sux	N1=gudug	N1=STEM	gudug	N	a priest
+2	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi\gen\abs	1	sux	N1=Šulgir.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šulgir.ak.ø	RN	2nd king of the 3rd dynasty of Urim
+

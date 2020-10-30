@@ -1,0 +1,27 @@
+# project: etcsri 
+# textid: Q002040 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002040.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q002040.1
+1	kug-{d}lugal-ban₃-da	kug-{d}lugal-ban₃-da	Kuglugalbanda	PN	kug-{d}lugal-ban₃-da	1	sux	N1=Kuglugalbanda	N1=NAME	Kuglugalbanda	PN	1
+
+# Q002040.2
+1	šita-eš₃	šita-eš₃	šitaʾeša	N	šita-eš₃	priest	sux	N1=šita'eša	N1=STEM	šita'eša	N	a priest
+2	{d}nin-gal	{d}nin-gal	Ningal	DN	{d}nin-gal\gen	1	sux	N1=Ningal.N5=ak	N1=NAME.N5=GEN	Ningal.ak	DN	1
+
+# Q002040.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	na-silim	na-silim	Nasilim	PN	na-silim\gen	3	sux	N1=Nasilim.N5=ak	N1=NAME.N5=GEN	Nasilim.ak	PN	1
+
+# Q002040.4
+1	arad	arad	arad	N	arad	slave	sux	N1=arad	N1=STEM	arad	N	slave, servant
+2	su-mu-AN	su-mu-AN	Sumuel	RN	su-mu-AN\gen\abs	1	sux	N1=Sumuel.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Sumuel.ak.ø	PN	1 King of Larsa
+

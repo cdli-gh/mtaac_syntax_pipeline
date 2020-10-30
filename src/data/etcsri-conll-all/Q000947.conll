@@ -1,0 +1,258 @@
+# project: etcsri 
+# textid: Q000947 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000947.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q000947.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.3
+1	x-gin₇	_	_	_	x-gin₇	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.4
+1	x-bi	_	_	_	x-bi	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.5
+1	x-AN	_	_	_	x-AN	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.6
+1	ur-{d}namma	ur-{d}namma	Urnammak	RN	ur-{d}namma	1	sux	N1=Urnammak	N1=NAME	Urnammak	RN	1st king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q000947.7
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q000947.8
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000947.9
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri	ki-uri	Akkad	GN	ki-uri\gen	1	sux	N1=Akkad.N5=ak	N1=NAME.N5=GEN	Akkad.ak	GN	1	_	_	_	_	_	_	_
+
+# Q000947.10
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	AN	_	_	_	AN	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.11
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	NI	_	_	_	NI	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	BI	_	_	_	BI	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.12
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.13
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.14
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	šu	šu	šu	N	šu	hand	sux	N1=šu	N1=STEM	šu	N	hand	_	_	_	_	_	_	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.15
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.16
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.17
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.18
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.19
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.20
+1	{d}ur-{d}namma-ra	{d}ur-{d}namma	Urnammak	RN	{d}ur-{d}namma-ra	1	sux	N1=Urnammak.N5=ra	N1=NAME.N5=DAT-H	Urnammak.ra	RN	1st king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q000947.21
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	itud-da	itud	itud	N	itud-da	moon	sux	N1=itud.N5='a	N1=STEM.N5=L1	itud.'a	N	moon, moonlight	_	_	_	_	_	_	_
+
+# Q000947.22
+1	1(geš₂)	_	_	_	1(geš₂)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	3(u)	_	_	_	3(u)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+3	še	še	še	N	še	barley	sux	N1=še	N1=STEM	še	N	barley	_	_	_	_	_	_	_
+4	gur	gur	gur	N	gur	unit	sux	N1=gur	N1=STEM	gur	N	a unit of capacity, a measuring vessel	_	_	_	_	_	_	_
+
+# Q000947.23
+1	3(u)	_	_	_	3(u)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	udu	udu	udu	N	udu	sheep	sux	N1=udu	N1=STEM	udu	N	sheep	_	_	_	_	_	_	_
+
+# Q000947.24
+1	3(u)	_	_	_	3(u)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	sila₃	sila₃	sila	N	sila₃	unit	sux	N1=sila	N1=STEM	sila	N	a unit of capacity, a vessel	_	_	_	_	_	_	_
+3	i₃-nun	i₃-nun	inun	N	i₃-nun\abs	ghee	sux	N1=inun.N5=ø	N1=STEM.N5=ABS	inun.ø	N	ghee	_	_	_	_	_	_	_
+
+# Q000947.25
+1	sa₂-dug₄-še₃	sa₂-dug₄	sadug	N	sa₂-dug₄-še₃	offerings	sux	N1=sadug.N5=še	N1=STEM.N5=TERM	sadug.še	N	offerings	_	_	_	_	_	_	_
+
+# Q000947.26
+1	mu-na-ni-ŋar	ŋar	ŋar	V/t	mu-na-ni-ŋar	place	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=ŋar.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.ŋar.ø	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q000947.27
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	an-ne₂	an	An	DN	an-ne₂	1	sux	N1=An.N5=e	N1=NAME.N5=ERG	An.e	DN	1	_	_	_	_	_	_	_
+
+# Q000947.28
+1	{d}en-lil₂-le	{d}en-lil₂	Enlil	DN	{d}en-lil₂-le	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+
+# Q000947.29
+1	{d}nanna-ar	{d}nanna	Nanna	DN	{d}nanna-ar	1	sux	N1=Nanna.N5=ra	N1=NAME.N5=DAT-H	Nanna.ra	DN	1	_	_	_	_	_	_	_
+
+# Q000947.30
+1	nam-lugal	nam-lugal	namlugal	N	nam-lugal	kingship	sux	N1=namlugal	N1=STEM	namlugal	N	kingship, royal	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\abs	1	sux	N1=Urim.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urim.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q000947.31
+1	mu-na-šum₂-mu-uš-a-ba	šum₂	šum	V/t	mu-na-šum₂-mu-uš-a-ba	give	sux	V4=mu.V6=nn.V7=a.V11=n.V12=šum.V14=eš.V15='a.N3=bi.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-PL.V15=SUB.N3=DEM2.N5=L1	mu.nn.a.n.šum.eš.'a.bi.'a	V/t	give	_	_	_	_	_	_	_
+
+# Q000947.32
+1	ud-ba	ud	ud	N	ud-ba	sun	sux	N1=ud.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	ud.bi.'a	N	day, sun	_	_	_	_	_	_	_
+2	{d}ur-{d}namma-ra	{d}ur-{d}namma	Urnammak	RN	{d}ur-{d}namma-ra	1	sux	N1=Urnammak.N5=ra	N1=NAME.N5=DAT-H	Urnammak.ra	RN	1st king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q000947.33
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	tud-da	tud	utud	V/t	tud-da	bear	sux	NV2=utud.NV4='a	NV2=STEM.NV4=SUB	utud.'a	V/t	bear	_	_	_	_	_	_	_
+
+# Q000947.34
+1	{d}nin-sumun₂-ka	{d}nin-sumun₂	Ninsumunak	DN	{d}nin-sumun₂-ka	1	sux	N1=Ninsumunak.N5=ak	N1=NAME.N5=GEN	Ninsumunak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q000947.35
+1	ama-a-tud	ama-a-tud	amaʾatud	N	ama-a-tud	slave	sux	N1=ama'atud	N1=STEM	ama'atud	N	slave	_	_	_	_	_	_	_
+
+# Q000947.36
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂-ŋa₂-ni-ir	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni-ir	measure	sux	NV2=aŋ.N3=ani.N5=ra	NV2=STEM.N3=3-SG-H-POSS.N5=DAT-H	aŋ.ani.ra	V/t	measure	1	mwe	_	_	_	_	_
+
+# Q000947.37
+1	niŋ₂-si-sa₂-ni-še₃	niŋ₂-si-sa₂	niŋsisa	N	niŋ₂-si-sa₂-ni-še₃	justice	sux	N1=niŋsisa.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	niŋsisa.ani.še	N	justice	_	_	_	_	_	_	_
+
+# Q000947.38
+1	niŋ₂-gen₆-na-ni-še₃	niŋ₂-gen₆-na	niŋgina	N	niŋ₂-gen₆-na-ni-še₃	truth	sux	N1=niŋgina.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	niŋgina.ani.še	N	truth	_	_	_	_	_	_	_
+
+# Q000947.39
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+5	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+6	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.40
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.41
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.42
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	MU	_	_	_	MU	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.43
+1	si	_	_	_	si	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.44
+1	BA	_	_	_	BA	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.45
+1	2(diš)	_	_	_	2(diš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.46
+1	2(diš)	_	_	_	2(diš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.47
+1	NAM	_	_	_	NAM	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.49
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	AN	_	_	_	AN	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.50
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.51
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	imin-bi	imin	imin	NU	imin-bi\abs	seven	sux	NV2=imin.N3=bi.N5=ø	NV2=STEM.N3=3-NH-POSS.N5=ABS	imin.bi.ø	NU	seven	_	_	_	_	_	_	_
+
+# Q000947.52
+1	hu-mu-un-da-an-x	_	_	_	hu-mu-un-da-an-x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.53
+1	nam-ha-ni	nam-ha-ni	Nammahni	RN	nam-ha-ni	1	sux	N1=Nammahni	N1=NAME	Nammahni	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q000947.54
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q000947.55
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q000947.56
+1	he₂-mi-x	_	_	_	he₂-mi-x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000947.57
+1	ki-sur-ra	ki-sur-ra	kisura	N	ki-sur-ra\l2	border	sux	N1=kisura.N5='a	N1=STEM.N5=L2-NH	kisura.'a	N	border	_	_	_	_	_	_	_
+
+# Q000947.58
+1	ma₂	ma₂	ma	N	ma₂	ship	sux	N1=ma	N1=STEM	ma	N	ship	_	_	_	_	_	_	_
+2	ma₂-gan{ki}-na	ma₂-gan{ki}	Magan	GN	ma₂-gan{ki}-na	1	sux	N1=Magan.N5=ak	N1=NAME.N5=GEN	Magan.ak	GN	1	_	_	_	_	_	_	_
+
+# Q000947.59
+1	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen\abs	1	sux	N1=Nanna.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Nanna.ak.ø	DN	1	_	_	_	_	_	_	_
+
+# Q000947.60
+1	a₂	a₂	a	N	a₂	arm	sux	N1=a	N1=STEM	a	N	arm	_	_	_	_	_	_	_
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna	1	sux	N1=Nanna	N1=NAME	Nanna	DN	1	_	_	_	_	_	_	_
+
+# Q000947.61
+1	lugal-ŋa₂-ta	lugal	lugal	N	lugal-ŋa₂-ta	king	sux	N1=lugal.N3=ŋu.N5=ak.N5=ta	N1=STEM.N3=1-SG-POSS.N5=GEN.N5=ABL	lugal.ŋu.ak.ta	N	king	_	_	_	_	_	_	_
+
+# Q000947.62
+1	he₂-mi-gi₄	gi₄	gi	V/i	he₂-mi-gi₄\v11sg1a	turn	sux	V1=ha.V4=m.V5=b.V10=i.V11=1.V12=gi.V14=ø	V1=MOD1.V4=VEN.V5=3-NH.V10=L3.V11=1-SG-A.V12=STEM.V14=3-SG-S	ha.m.b.i.1.gi.ø	V/i	turn	_	_	_	_	_	_	_
+
+# Q000947.63
+1	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\l1	1	sux	N1=Urim.N5='a	N1=NAME.N5=L1	Urim.'a	SN	1	_	_	_	_	_	_	_
+
+# Q000947.64
+1	ha-ba-tam	tam	tam	V/i	ha-ba-tam	constant	sux	V1=ha-V5=ba.V11=1.V12=tam.V14=ø	V1=MOD1.V5=MID-V11=1-SG-A.V12=STEM.V14=3-SG-P	ha-V5=ba.1.tam.ø	V/i	(to be) constant, (to be) regular, (to be) permanent	_	_	_	_	_	_	_
+

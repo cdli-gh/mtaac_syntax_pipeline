@@ -1,0 +1,76 @@
+# project: etcsri 
+# textid: Q001082 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001082.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001082.2
+1	lagaš{ki}-ka-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-ke₄	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001082.3
+1	en-an-na-tum₂	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂	1	sux	N1=Enanatum	N1=NAME	Enanatum	RN	En-ana-tum I, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001082.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001082.5
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001082.8
+1	lagaš{ki}-ka-ra	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-ra	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=GEN.N5=DAT-H	Lagaš.ak.ak.ra	SN	1	_	_	_	_	_	_	_
+
+# Q001082.9
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	{d}nin-ŋir₂-su₂-ke₄	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ke₄	1	sux	N1=Ninŋirsuk.N5=e	N1=NAME.N5=ERG	Ninŋirsuk.e	DN	1	_	_	_	_	_	_	_
+
+# Q001082.10
+1	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	mu pad	nominate	to nominate, to proclaim one's name publicly	V/t	V/t
+2	e-ne₂-pad₃-da	pad₃	pad	V/t	e-ne₂-pad₃-da	find	sux	V2=i.V6=nn.V10=i.V11=n.V12=pad.V14=ø.V15='a	V2=FIN.V6=3-SG-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB	i.nn.i.n.pad.ø.'a	V/t	to find, to discover	1	mwe	_	_	_	_	_
+
+# Q001082.11
+1	a₂	a₂	a	N	a₂\abs	arm	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	arm	_	_	_	_	_	_	_
+2	e-na-šum₂-ma-a	šum₂	šum	V/t	e-na-šum₂-ma-a	give	sux	V2=i.V6=nn.V7=a.V11=n.V12=šum.V14=ø.V15='a.N5='a	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	i.nn.a.n.šum.ø.'a.'a	V/t	give	_	_	_	_	_	_	_
+
+# Q001082.12
+1	kur-kur	kur-kur	kur	N	kur-kur\abs	mountain	sux	N1=kurkur.N5=ø	N1=STEM-RDP.N5=ABS	kurkur.ø	N	mountain	_	_	_	_	_	_	_
+2	šu-ni-še₃	šu	šu	N	šu-ni-še₃	hand	sux	N1=šu.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	šu.ani.še	N	hand	_	_	_	_	_	_	_
+
+# Q001082.13
+1	mu-še₃-ŋar-ra-a	ŋar	ŋar	V/t	mu-še₃-ŋar-ra-a\l1	place	sux	V4=mu.V6=nn.V9=ši.V11=n.V12=ŋar.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.ši.n.ŋar.ø.'a.'a	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q001082.16
+1	mu	mu	mu	N	mu\term	name	sux	N1=mu.N5=še	N1=STEM.N5=TERM	mu.še	N	name	_	_	_	_	_	_	_
+2	mu-ne₂-še₂₁	še₂₁	še	V/t	mu-ne₂-še₂₁	call	sux	V4=mu.V6=nn.V10=i.V11=n.V12=še.V14=ø	V4=VEN.V6=3-SG-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.i.n.še.ø	V/t	call	_	_	_	_	_	_	_
+
+# Q001082.17
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1	_	_	_	_	_	_	_
+
+# Q001082.18
+1	munus	munus	munus	N	munus	woman	sux	N1=munus	N1=STEM	munus	N	woman	_	_	_	_	_	_	_
+2	sag₉-ga	sag₉	sag	V/i	sag₉-ga\dat	good	sux	NV2=sag.NV4='a.N5=ra	NV2=STEM.NV4=SUB.N5=DAT-H	sag.'a.ra	V/i	(to be) good	_	_	_	_	_	_	_
+
+# Q001082.19
+1	e₂-a	e₂	e	N	e₂-a\l1	house	sux	N1=e.N5='a	N1=STEM.N5=L1	e.'a	N	house, temple	_	_	_	_	_	_	_
+2	mu-na-ni-kurₓ(DU)	kurₓ(DU)	kur	V/i	mu-na-ni-kurₓ(DU)	enter	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=kur.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.kur.ø	V/i	enter	_	_	_	_	_	_	_
+
+# Q001082.22
+1	x-ka-x	_	_	_	x-ka-x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001082.23
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1	_	_	_	_	_	_	_
+
+# Q001082.24
+1	munus	munus	munus	N	munus	woman	sux	N1=munus	N1=STEM	munus	N	woman	_	_	_	_	_	_	_
+2	sag₉-ga	sag₉	sag	V/i	sag₉-ga	good	sux	NV2=sag.NV4='a	NV2=STEM.NV4=SUB	sag.'a	V/i	(to be) good	_	_	_	_	_	_	_
+
+# Q001082.25
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+

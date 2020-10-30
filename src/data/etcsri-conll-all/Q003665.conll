@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q003665 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003665.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003665.1
+1	meš₃-an-ne₂-pad₃-da	meš₃-an-ne₂-pad₃-da	Mešanepada	RN	meš₃-an-ne₂-pad₃-da	1	sux	N1=Mešanepada	N1=NAME	Mešanepada	RN	King of Urim
+
+# Q003665.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kiš{ki}	kiš{ki}	Kiš	SN	kiš{ki}\gen	1	sux	N1=Kiš.N5=ak	N1=NAME.N5=GEN	Kiš.ak	SN	1
+
+# Q003665.3
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	nu-gig	nu-gig	nugig	N	nu-gig\gen\abs	priestess	sux	N1=nugig.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	nugig.ak.ø	N	a priestess, a divine epithet, a profession for women
+

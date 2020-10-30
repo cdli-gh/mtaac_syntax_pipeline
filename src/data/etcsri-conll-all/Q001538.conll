@@ -1,0 +1,37 @@
+# project: etcsri 
+# textid: Q001538 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001538.U0 
+# bracketing_level: 0 
+# m/@k=genre : Literary 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001538.2
+1	{d}en-lil₂-e	{d}en-lil₂	Enlil	DN	{d}en-lil₂-e	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+2	en	en	en	N	en	lord	sux	N1=en	N1=STEM	en	N	lord	_	_	_	_	_	_	_
+3	{d}nin-ŋir₂-su-ra	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001538.3
+1	gu₃	gu₃	gu	N	gu₃\abs	voice	sux	N1=gu.N5=ø	N1=STEM.N5=ABS	gu.ø	N	voice	_	_	gu de	say	say	V/t	V/t
+2	mu-na-de₂-e	de₂	de	V/t	mu-na-de₂-e	pour	sux	V4=mu.V6=nn.V7=a.V12=de.V14=e	V4=VEN.V6=3-SG-H.V7=DAT.V12=STEM.V14=3-SG-A	mu.nn.a.de.e	V/t	pour	1	mwe	_	_	_	_	_
+
+# Q001538.6
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001538.7
+1	a₂	a₂	a	N	a₂\abs	arm	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	arm	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	he₂-x	_	_	_	he₂-x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001538.8
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+4	he₂-x-x	_	_	_	he₂-x-x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+

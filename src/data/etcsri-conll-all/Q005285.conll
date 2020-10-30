@@ -1,0 +1,40 @@
+# project: etcsri 
+# textid: Q005285 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q005285.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q005285.1
+1	{d}nin-hur-saŋ	{d}nin-hur-saŋ	Ninhursaŋak	DN	{d}nin-hur-saŋ	1	sux	N1=Ninhursaŋak	N1=NAME	Ninhursaŋak	DN	1	_	_	_	_	_	_	_
+
+# Q005285.2
+1	ama	ama	ama	N	ama	mother	sux	N1=ama	N1=STEM	ama	N	mother	_	_	_	_	_	_	_
+2	diŋir-re-ne-ra	diŋir	diŋir	N	diŋir-re-ne-ra	deity	sux	N1=diŋir.N4=enee.N5=ak.N5=ra	N1=STEM.N4=PL.N5=GEN.N5=DAT-H	diŋir.enee.ak.ra	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q005285.3
+1	lu₂-{d}utu	lu₂-{d}utu	Luutu	PN	lu₂-{d}utu	4	sux	N1=Luutu	N1=NAME	Luutu	PN	Governor of Umma	_	_	_	_	_	_	_
+
+# Q005285.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor	_	_	_	_	_	_	_
+
+# Q005285.5
+1	umma{ki}-ke₄	umma{ki}	Umma	SN	umma{ki}-ke₄	1	sux	N1=Umma.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Umma.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q005285.6
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q005285.7
+1	tilla₃	tilla₃	tilla	N	tilla₃	street	sux	N1=tilla	N1=STEM	tilla	N	street	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-na	aŋ₂	aŋ	V/t	aŋ₂-na\l1	measure	sux	NV2=aŋ.N3=ani.N5='a	NV2=STEM.N3=3-SG-H-POSS.N5=L1	aŋ.ani.'a	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q005285.8
+1	e₂	e₂	e	N	e₂\abs	house	sux	N1=e.N5=ø	N=STEM.N5=ABS	e.ø	N	house, temple	_	_	_	_	_	_	_
+2	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

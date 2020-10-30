@@ -1,0 +1,59 @@
+# project: etcsri 
+# textid: Q005031 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q005031.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q005031.1
+1	{d}ne₃-eri₁₁-gal	{d}ne₃-eri₁₁-gal	Nergal	DN	{d}ne₃-eri₁₁-gal	1	sux	N1=Nergal	N1=NAME	Nergal	DN	1	_	_	_	_	_	_	_
+
+# Q005031.2
+1	al-da-ak{ki}	al-da-ak{ki}	Aldak	GN	al-da-ak{ki}\gen	1	sux	N1=Aldak.N5=ak	N1=NAME.N5=GEN	Aldak.ak	GN	1	_	_	_	_	_	_	_
+
+# Q005031.3
+1	lugal-a-ni-ir	lugal	lugal	N	lugal-a-ni-ir	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king	_	_	_	_	_	_	_
+
+# Q005031.4
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q005031.5
+1	{d}iš-me-{d}da-gan	{d}iš-me-{d}da-gan	Išmedagan	RN	{d}iš-me-{d}da-gan	1	sux	N1=Išmedagan	N1=NAME	Išmedagan	RN	4th king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q005031.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q005031.7
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	i₃-si-in{ki}-na	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-na	1	sux	N1=Isin.N5=ak	N1=NAME.N5=GEN	Isin.ak	SN	1	_	_	_	_	_	_	_
+
+# Q005031.8
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri-ka-še₃	ki-uri	Akkad	GN	ki-uri-ka-še₃	1	sux	N1=Akkad.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Akkad.ak.ak.še	GN	1	_	_	_	_	_	_	_
+
+# Q005031.9
+1	IR₁₁-er₃-ra	IR₁₁-er₃-ra	Waraderra	PN	IR₁₁-er₃-ra	1	sux	N1=Waraderra	N1=NAME	Waraderra	PN	1	_	_	_	_	_	_	_
+
+# Q005031.10
+1	gudu₄	gudu₄	gudug	N	gudu₄	priest	sux	N1=gudug	N1=STEM	gudug	N	a priest	_	_	_	_	_	_	_
+2	{d}ne₃-eri₁₁-gal	{d}ne₃-eri₁₁-gal	Nergal	DN	{d}ne₃-eri₁₁-gal\gen	1	sux	N1=Nergal.N5=ak	N1=NAME.N5=GEN	Nergal.ak	DN	1	_	_	_	_	_	_	_
+
+# Q005031.11
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	a-da-lal₃	a-da-lal₃	Adalal	PN	a-da-lal₃	6	sux	N1=Adalal	N1=NAME	Adalal	PN	6	_	_	_	_	_	_	_
+3	gudu₄-ge₂	gudu₄	gudug	N	gudu₄-ge₂\gen	priest	sux	N1=gudug.N5=e	N1=STEM.N5=GEN-OB	gudug.e	N	a priest	_	_	_	_	_	_	_
+
+# Q005031.12
+1	arad₂-da-ne₂	arad₂	arad	N	arad₂-da-ne₂	slave	sux	N1=arad.N3=ani.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=ERG	arad.ani.e	N	slave, servant	_	_	_	_	_	_	_
+
+# Q005031.13
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

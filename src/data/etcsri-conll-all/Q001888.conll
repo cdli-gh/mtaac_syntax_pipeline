@@ -1,0 +1,28 @@
+# project: etcsri 
+# textid: Q001888 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001888.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001888.1
+1	mu-ni	mu	mu	N	mu-ni\abs	name	sux	N1=mu.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	mu.ani.ø	N	name
+2	bi₂-ib₂-sar-a	sar	sar	V/t	bi₂-ib₂-sar-a	write	sux	V5=b.V10=i.V11=b.V12=sar.V14=e.V15='a	V5=3-NH.V10=L2.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB	b.i.b.sar.e.'a	V/t	write
+
+# Q001888.2
+1	lu₂-ba	lu₂	lu	N	lu₂-ba\dem2	person	sux	N1=lu.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=X	lu.bi.'a	N	person
+
+# Q001888.3
+1	{d}meš₃-lam-ta-e₃-a	{d}meš₃-lam-ta-e₃-a	Mešlamtaea	DN	{d}meš₃-lam-ta-e₃-a	1	sux	N1=Mešlamtaea	N1=NAME	Mešlamtaea	DN	1
+
+# Q001888.4
+1	x-ŋu₁₀	_	_	_	x-ŋu₁₀	_	sux	_	_	_	u	_
+
+# Q001888.5
+1	x-x	_	_	_	x-x	_	sux	_	_	_	u	_
+

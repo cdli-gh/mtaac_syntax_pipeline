@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001160 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001160.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001160.1
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂\abs	1	sux	N1=Bau.N5=ø	N1=NAME.N5=ABS	Bau.ø	DN	1
+2	barag	barag	barag	N	barag	dais	sux	N1=barag	N1=STEM	barag	N	dais
+3	iri-ka-gen₆-na-ka-da	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na-ka-da	1	sux	N1=Irikaginak.N5=ak.N5=da	N1=NAME.N5=GEN.N5=COM	Irikaginak.ak.da	RN	Ruler of Lagaš
+4	am₆-da-kuš₂	kuš₂	kušu	V/i	am₆-da-kuš₂	tired	sux	V2=a.V4=m.V5=b.V8=da.V12=kušu.V14=ø	V2=FIN.V4=VEN.V5=3-NH.V8=COM.V12=STEM.V14=3-SG-S	a.m.b.da.kušu.ø	V/i	(to be) tired, troubled
+
+# Q001160.2
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name
+

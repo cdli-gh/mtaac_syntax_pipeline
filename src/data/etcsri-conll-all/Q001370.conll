@@ -1,0 +1,90 @@
+# project: etcsri 
+# textid: Q001370 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001370.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001370.1
+1	an	an	An	DN	an	1	sux	N1=AN	N1=NAME	AN	DN	1	_	_	_	_	_	_	_
+2	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+3	kur-kur-ra	kur-kur	kur	N	kur-kur-ra	mountain	sux	N1=kurkur.N5=ak	N1=STEM-RDP.N5=GEN	kurkur.ak	N	mountain	_	_	_	_	_	_	_
+
+# Q001370.2
+1	{d}inana	{d}inana	Inanak	DN	{d}inana	1	sux	N1=Inanak	N1=NAME	Inanak	DN	1	_	_	_	_	_	_	_
+2	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+3	e₂-an-na-ra	e₂-an-na	Eanak	TN	e₂-an-na-ra	1	sux	N1=Eanak.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Eanak.ak.ra	TN	1	_	_	_	_	_	_	_
+
+# Q001370.3
+1	lugal-ki-ŋen-ne₂-du₇-du₇	lugal-ki-ŋen-ne₂-du₇-du₇	Lugalkiŋenešdudud	RN	lugal-ki-ŋen-ne₂-du₇-du₇\abs	1	sux	N1=Lugalkiŋenešdudud.N5=ø	N1=NAME.N5=ABS	Lugalkiŋenešdudud.ø	RN	King of Unug, king of Urim	_	_	_	_	_	_	_
+
+# Q001370.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kiš{ki}	kiš{ki}	Kiš	SN	kiš{ki}\gen\abs	1	sux	N1=Kiš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Kiš.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001370.5
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	{d}inana-ke₄	{d}inana	Inanak	DN	{d}inana-ke₄	1	sux	N1=Inanak.N5=e	N1=NAME.N5=ERG	Inanak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001370.6
+1	lugal-ki-ŋen-ne₂-du₇-du₇-ra	lugal-ki-ŋen-ne₂-du₇-du₇	Lugalkiŋenešdudud	RN	lugal-ki-ŋen-ne₂-du₇-du₇-ra	1	sux	N1=Lugalkiŋenešdudud.N5=ra	N1=NAME.N5=DAT-H	Lugalkiŋenešdudud.ra	RN	King of Unug, king of Urim	_	_	_	_	_	_	_
+
+# Q001370.7
+1	nam-en	nam-en	namen	N	nam-en\abs	lordship	sux	N1=namen.N5=ø	N1=STEM.N5=ABS	namen.ø	N	lordship, the status of being lord	_	_	_	_	_	_	_
+
+# Q001370.8
+1	nam-lugal-da	nam-lugal	namlugal	N	nam-lugal-da	kingship	sux	N1=namlugal.N5=da	N1=STEM.N5=COM	namlugal.da	N	kingship, royal	_	_	_	_	_	_	_
+
+# Q001370.9
+1	e-na-da-tab-ba-a	tab	tab	V/t	e-na-da-tab-ba-a\l1	double	sux	V2=e.V6=nn.V7=a.V8=da.V11=n.V12=tab.V14=ø.V15='a.N5='a	V2=FIN.V6=3-SG-H.V7=DAT.V8=COM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	e.nn.a.da.n.tab.ø.'a.'a	V/t	double, to repeat	_	_	_	_	_	_	_
+
+# Q001370.10
+1	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga\l1	1	sux	N1=Unug.N5='a	N1=NAME.N5=L1	Unug.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001370.11
+1	nam-en	nam-en	namen	N	nam-en\abs	lordship	sux	N1=namen.N5=ø	N1=STEM.N5=ABS	namen.ø	N	lordship, the status of being lord	_	_	_	_	_	_	_
+2	mu-ak-ke₄	ak	ak	V/t	mu-ak-ke₄	do	sux	V4=mu.V10=n.V12=ak.V14=e	V4=VEN.V10=L1-SYN.V12=STEM.V14=3-SG-A	mu.n.ak.e	V/t	do	_	_	_	_	_	_	_
+
+# Q001370.12
+1	urim₂{ki}-ma	urim₂{ki}	Urim	SN	urim₂{ki}-ma\l1	1	sux	N1=Urim.N5='a	N1=NAME.N5=L1	Urim.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001370.13
+1	nam-lugal	nam-lugal	namlugal	N	nam-lugal\abs	kingship	sux	N1=namlugal.N5=ø	N1=STEM.N5=ABS	namlugal.ø	N	kingship, royal	_	_	_	_	_	_	_
+
+# Q001370.14
+1	mu-ak-ke₄	ak	ak	V/t	mu-ak-ke₄	do	sux	V4=mu.V10=n.V12=ak.V14=e	V4=VEN.V10=L1-SYN.V12=STEM.V14=3-SG-A	mu.n.ak.e	V/t	do	_	_	_	_	_	_	_
+
+# Q001370.15
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	{d}inana-ke₄	{d}inana	Inanak	DN	{d}inana-ke₄	1	sux	N1=Inanak.N5=e	N1=NAME.N5=ERG	Inanak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001370.16
+1	lugal-ki-ŋen-ne₂-du₇-du₇-ra	lugal-ki-ŋen-ne₂-du₇-du₇	Lugalkiŋenešdudud	RN	lugal-ki-ŋen-ne₂-du₇-du₇-ra	1	sux	N1=Lugalkiŋenešdudud.N5=ra	N1=NAME.N5=DAT-H	Lugalkiŋenešdudud.ra	RN	King of Unug, king of Urim	_	_	_	_	_	_	_
+
+# Q001370.17
+1	gu₃	gu₃	gu	N	gu₃	voice	sux	N1=gu	N1=STEM	gu	N	voice	_	_	_	_	_	_	_
+2	zid	zid	zid	V/i	zid\abs	right	sux	NV2=zid.N5=ø	NV2=STEM.N5=ABS	zid.ø	V/i	right	_	_	_	_	_	_	_
+3	e-na-de₂-a	de₂	de	V/t	e-na-de₂-a\l1	pour	sux	V2=i.V6=nn.V7=a.V11=n.V12=de.V14=ø.V15='a.N5='a	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	i.nn.a.n.de.ø.'a.'a	V/t	pour	_	_	_	_	_	_	_
+
+# Q001370.18
+1	ud-ba	ud	ud	N	ud-ba	sun	sux	N1=ud.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	ud.bi.'a	N	day, sun	_	_	_	_	_	_	_
+
+# Q001370.19
+1	lugal-ki-ŋen-ne₂-du₇-du₇-de₃	lugal-ki-ŋen-ne₂-du₇-du₇	Lugalkiŋenešdudud	RN	lugal-ki-ŋen-ne₂-du₇-du₇-de₃	1	sux	N1=Lugalkiŋenešdudud.N5=e	N1=NAME.N5=ERG	Lugalkiŋenešdudud.e	RN	King of Unug, king of Urim	_	_	_	_	_	_	_
+
+# Q001370.20
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q001370.21
+1	{d}inana	{d}inana	Inanak	DN	{d}inana	1	sux	N1=Inanak	N1=NAME	Inanak	DN	1	_	_	_	_	_	_	_
+2	nin-ni	nin	nin	N	nin-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q001370.22
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

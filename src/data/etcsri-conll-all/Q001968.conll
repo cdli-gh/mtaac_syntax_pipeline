@@ -1,0 +1,36 @@
+# project: etcsri 
+# textid: Q001968 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001968.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001968.1
+1	{d}li-pi₂-it-eš₄-tar₂	{d}li-pi₂-it-eš₄-tar₂	Lipiteštar	RN	{d}li-pi₂-it-eš₄-tar₂	1	sux	N1=Lipiteštar	N2=NAME	Lipiteštar	RN	5th king of the dynasty of Isin
+
+# Q001968.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001968.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	ma-da-na	ma-da	mada	N	ma-da-na\gen\abs	land	sux	N1=mada.N3=ani.N5=ak.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=ABS	mada.ani.ak.ø	N	land, country
+
+# Q001968.4
+1	{d}i-din-{d}da-gan-wa-qar	{d}i-din-{d}da-gan-wa-qar	Iddindaganwaqar	PN	{d}i-din-{d}da-gan-wa-qar	1	sux	N1=Iddindaganwaqar	N1=NAME	Iddindaganwaqar	PN	1
+
+# Q001968.5
+1	eš₃-a-ab-da	eš₃-a-ab-da	ešabdu	N	eš₃-a-ab-da	profession	sux	N1=ešabdu	N1=STEM	ešabdu	N	(an administrative temple official)
+
+# Q001968.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	{d}nanna-i₃-sag₉	{d}nanna-i₃-sag₉	Nannaisag	PN	{d}nanna-i₃-sag₉\gen\abs	1	sux	N1=Nannaisag.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Nannaisag.ak.ø	PN	1
+
+# Q001968.7
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

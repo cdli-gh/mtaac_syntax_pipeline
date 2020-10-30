@@ -1,0 +1,77 @@
+# project: etcsri 
+# textid: Q001943 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001943.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001943.1
+1	{d}nin-lil₂	{d}nin-lil₂	Ninlil	DN	{d}nin-lil₂	1	sux	N1=Ninlil	N1=NAME	Ninlil	DN	1	_	_	_	_	_	_	_
+2	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+3	diŋir-re-e-ne-ra	diŋir	diŋir	N	diŋir-re-e-ne-ra	deity	sux	N1=diŋir.N4=enee.N5=ak.N5=ra	N1=STEM.N4=PL.N5=GEN.N5=DAT-H	diŋir.enee.ak.ra	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001943.2
+1	{d}i-din-{d}da-gan	{d}i-din-{d}da-gan	Iddindagan	RN	{d}i-din-{d}da-gan	1	sux	N1=Iddindagan	N1=NAME	Iddindagan	RN	3rd king of the dynasty of Isin	_	_	_	_	_	_	_
+2	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+3	kalag-ga	kalag	kalag	V/i	kalag-ga\erg	strong	sux	NV2=kalag.NV4='a.N5=e	NV2=STEM.NV4=SUB.N5=ERG	kalag.'a.e	V/i	strong	_	_	_	_	_	_	_
+
+# Q001943.3
+1	{urud}alan	{urud}alan	alan	N	{urud}alan	statue	sux	N1=alan	N1=STEM	alan	N	statue	_	_	_	_	_	_	_
+2	keše₂-da-na	keše₂	kešed	V/t	keše₂-da-na\abs	bind	sux	NV2=kešed.NV5='a.N3=ani.N5='a	NV2=STEM.NV5=SUB.N3=3-SG-H-POSS.N5=X	kešed.'a.ani.'a	V/t	to bind	_	_	_	_	_	_	_
+3	mu-na-dim₂	dim₂	dim	V/t	mu-na-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create	_	_	_	_	_	_	_
+
+# Q001943.4
+1	igi-ni-še₃	igi	igi	N	igi-ni-še₃	face	sux	N1=igi.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	igi.ani.še	N	face	_	_	_	_	_	_	_
+2	in-gub	gub	gub	V/i	in-gub	stand	sux	V2=i.V11=n.V12=gub.V14=ø	V2=FIN.V11=3-SG-H-A.V12=gub.V14=3-SG-P	i.n.gub.ø	V/i	stand	_	_	_	_	_	_	_
+
+# Q001943.5
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+2	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+3	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	2	mwe	_	_	_	_	_
+
+# Q001943.6
+1	lu₂	lu₂	lu	N	lu₂\abs	person	sux	N1=lu.N5=ø	N1=STEM.N5=ABS	lu.ø	N	person	_	_	_	_	_	_	_
+2	a₂	a₂	a	N	a₂	arm	sux	N1=a	N1=STEM	a	N	arm	_	_	_	_	_	_	_
+3	niŋ₂-hul	niŋ₂-hul	niŋhulu	N	niŋ₂-hul\abs	evil	sux	N1=niŋhulu.N5=ø	N1=STEM.N5=ABS	niŋhulu.ø	N	evil	_	_	_	_	_	_	_
+4	dim₂-ma	dim₂	dim	V/t	dim₂-ma\abs	create	sux	NV2=dim.NV4='a.N5=ø	NV2=STEM.NV4=SUB.N5=ABS	dim.'a.ø	V/t	create	_	_	_	_	_	_	_
+5	ib₂-ši-aŋ₂-ŋa₂-a	aŋ₂	aŋ	V/t	ib₂-ši-aŋ₂-ŋa₂-a	measure	sux	V2=i.V5=b.V9=ši.V12=aŋ.V14=e.V15='a	V2=FIN.V5=3-NH.V9=TERM.V12=STEM.V14=3-SG-A.V15=SUB	i.b.ši.aŋ.e.'a	V/t	measure	_	_	_	_	_	_	_
+
+# Q001943.7
+1	niŋ₂	niŋ₂	niŋ	N	niŋ₂	thing	sux	N1=niŋ	N1=STEM	niŋ	N	thing	_	_	_	_	_	_	_
+2	dim₂-ma-ŋu₁₀	dim₂	dim	V/t	dim₂-ma-ŋu₁₀\abs	create	sux	NV2=dim.NV4='a.N3=ŋu.N5=ø	NV2=STEM.NV4=SUB.N3=1-SG-POSS.N5=ABS	dim.'a.ŋu.ø	V/t	create	_	_	_	_	_	_	_
+3	ib₂-x-be₂-a	_	_	_	ib₂-x-be₂-a	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001943.8
+1	mu-sar-ra-ba	mu-sar-ra	musara	N	mu-sar-ra-ba\l2	inscription	sux	N1=musara.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L2-NH	musara.bi.'a	N	inscription	_	_	_	_	_	_	_
+2	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand	_	_	šu ur	erase	to drag the hand on something or to wipe out something with the hand	V/t	V/t
+3	bi₂-ib₂-uru₁₂-a	uru₁₂	ur	V/t	bi₂-ib₂-uru₁₂-a	drag	sux	V5=b.V10=i.V11=b.V12=ur.V14=e.V15='a	V5=3-NH.V10=L2.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB	b.i.b.ur.e.'a	V/t	to drag	2	mwe	_	_	_	_	_
+4	mu-ni	mu	mu	N	mu-ni\abs	name	sux	N1=mu.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	mu.ani.ø	N	name	_	_	_	_	_	_	_
+5	bi₂-ib₂-sar-a	sar	sar	V/t	bi₂-ib₂-sar-a	write	sux	V5=b.V10=i.V11=b.V12=sar.V14=e.V15='a	V5=3-NH.V10=L2.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB	b.i.b.sar.e.'a	V/t	write	_	_	_	_	_	_	_
+
+# Q001943.9
+1	aš₂	aš₂	aš	N	aš₂\abs	curse	sux	N1=aš.N5=ø	N1=STEM.N5=ABS	aš.ø	N	curse	_	_	_	_	_	_	_
+2	bala-ba-a-ke₄-eš	bala	bala	V/t	bala-ba-a-ke₄-eš	turn	sux	NV2=bala.NV4='a.N3=bi.N5=ak.N5=eš	NV2=STEM.NV4=SUB.N3=DEM2.N5=GEN.N5=ADV	bala.'a.bi.ak.eš	V/t	turn, rotate, to change, to revoke	_	_	_	_	_	_	_
+
+# Q001943.10
+1	lu₂-kur₂	lu₂-kur₂	lukur	N	lu₂-kur₂\abs	stranger	sux	N1=lukur.N5=ø	N1=STEM.N5=ABS	lukur.ø	N	stranger	_	_	_	_	_	_	_
+2	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand	_	_	_	_	_	_	_
+3	ba-an-zi-zi-a	zi-zi	zig	V/i	ba-an-zi-zi-a	rise	sux	V5=ba.V6=nn.V10=ø.V12=zizi.V14=e.V15='a	V5=MID.V6=3-SG-H.V10=L2-SYN.V12=STEM-PF.V14=3-SG-A.V15=SUB	ba.nn.ø.zizi.e.'a	V/i	rise	_	_	_	_	_	_	_
+
+# Q001943.11
+1	lu₂-ba	lu₂	lu	N	lu₂-ba\dem2	person	sux	N1=lu.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=X	lu.bi.'a	N	person	_	_	_	_	_	_	_
+2	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂	1	sux	N1=Enlil	N1=NAME	Enlil	DN	1	_	_	_	_	_	_	_
+3	lugal-ŋu₁₀	lugal	lugal	N	lugal-ŋu₁₀	king	sux	N1=lugal.N3=ŋu	N1=STEM.N3=1-SG-POSS	lugal.ŋu	N	king	_	_	_	_	_	_	_
+4	{d}nin-lil₂	{d}nin-lil₂	Ninlil	DN	{d}nin-lil₂	1	sux	N1=Ninlil	N1=NAME	Ninlil	DN	1	_	_	_	_	_	_	_
+5	nin-ŋu₁₀	nin	nin	N	nin-ŋu₁₀	lady	sux	N1=nin.N3=ŋu	N1=STEM.N3=1-SG-POSS	nin.ŋu	N	lady	_	_	_	_	_	_	_
+
+# Q001943.12
+1	{d}da-gan	{d}da-gan	Dagan	DN	{d}da-gan	1	sux	N1=Dagan	N1=NAME	Dagan	DN	1	_	_	_	_	_	_	_
+2	diŋir-ŋe₂₆	diŋir	diŋir	N	diŋir-ŋe₂₆	deity	sux	N1=diŋir.N3=ŋu.N5=e	N1=STEM.N3=1-SG-POSS.N5=ERG	diŋir.ŋu.e	N	deity, personal god	_	_	_	_	_	_	_
+3	nam	nam	nam	N	nam\abs	fate	sux	N1=nam.N5=ø	N1=STEM.N5=ABS	nam.ø	N	fate	_	_	nam kud	curse	to curse	V/t	V/t
+4	ha-ba-an-da-ku₅-ru-ne	kud	kud	V/t	ha-ba-an-da-ku₅-ru-ne	cut	sux	V1=ha.V5=ba.V6=nn.V8=da.V12=kud.V14=enee	V1=MOD1.V5=MID.V6=3-SG-H.V8=COM.V12=STEM.V14=3-PL-A	ha.ba.nn.da.kud.enee	V/t	cut	3	mwe	_	_	_	_	_
+

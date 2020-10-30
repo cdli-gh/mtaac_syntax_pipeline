@@ -1,0 +1,39 @@
+# project: etcsri 
+# textid: Q001880 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001880.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001880.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	DI	_	_	_	DI	_	sux	_	_	_	u	_
+
+# Q001880.3
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	GAR	_	_	_	GAR	_	sux	_	_	_	u	_
+
+# Q001880.4
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001880.6
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	sila₃	sila₃	sila	N	sila₃	unit	sux	N1=sila	N1=STEM	sila	N	a unit of capacity, a vessel
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001880.7
+1	1(diš)	_	_	_	1(diš)	_	sux	_	_	_	n	_
+2	sila₃	sila₃	sila	N	sila₃	unit	sux	N1=sila	N1=STEM	sila	N	a unit of capacity, a vessel
+3	kaš	kaš	kaš	N	kaš\abs	beer	sux	N1=kaš.N5=ø	N1=STEM.N5=ABS	kaš.ø	N	beer
+
+# Q001880.8
+1	1(u)	_	_	_	1(u)	_	sux	_	_	_	n	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+

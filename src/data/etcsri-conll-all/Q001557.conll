@@ -1,0 +1,71 @@
+# project: etcsri 
+# textid: Q001557 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001557.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001557.2
+1	e₂-x	_	_	_	e₂-x	_	sux	_	_	_	X	_	_	_	_	_	_	_	_
+2	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+3	diŋir-ra-ta	diŋir	diŋir	N	diŋir-ra-ta	deity	sux	N1=diŋir.N5=ak.N5=ta	N1=STEM.N5=GEN.N5=ABL	diŋir.ak.ta	N	deity, personal god	_	_	_	_	_	_	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001557.3
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001557.4
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše	1	sux	N1=Nanše	N1=NAME	Nanše	DN	1	_	_	_	_	_	_	_
+
+# Q001557.5
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+2	in-dub-ba-ke₄	in-dub-ba	induba	N	in-dub-ba-ke₄	boundary	sux	N1=induba.N5=ak.N5=e	N1=STEM.N5=GEN.N5=ERG	induba.ak.e	N	boundary	_	_	_	_	_	_	_
+
+# Q001557.6
+1	{d}nin-ŋir₂-su	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1	_	_	_	_	_	_	_
+
+# Q001557.7
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	{ŋeš}tukul-ke₄	{ŋeš}tukul	tukul	N	{ŋeš}tukul-ke₄	weapon	sux	N1=tukul.N5=ak.N5=e	N1=STEM.N5=GEN.N5=ERG	tukul.ak.e	N	weapon	_	_	_	_	_	_	_
+
+# Q001557.8
+1	{d}ŋa₂-tum₃-dug₃	{d}ŋa₂-tum₃-dug₃	Ŋatumdug	DN	{d}ŋa₂-tum₃-dug₃	1	sux	N1=Ŋatumdug	N1=NAME	Ŋatumdug	DN	1	_	_	_	_	_	_	_
+
+# Q001557.9
+1	ama	ama	ama	N	ama	mother	sux	N1=ama	N1=STEM	ama	N	mother	_	_	_	_	_	_	_
+2	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001557.10
+1	{d}ig-alim	{d}ig-alim	Igalimak	DN	{d}ig-alim	1	sux	N1=Igalimak	N1=NAME	Igalimak	DN	1	_	_	_	_	_	_	_
+
+# Q001557.11
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001557.12
+1	{d}nin-ŋir₂-su-ka-ke₄	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka-ke₄	1	sux	N1=Ninŋirsuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninŋirsuk.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001557.14
+1	lu₂-kur₂	lu₂-kur₂	lukur	N	lu₂-kur₂\abs	stranger	sux	N1=lukur.N5=ø	N1=STEM.N5=ABS	lukur.ø	N	stranger	_	_	_	_	_	_	_
+
+# Q001557.15
+1	{ŋeš}dur₂-ŋar-na	{ŋeš}dur₂-ŋar	durŋar	N	{ŋeš}dur₂-ŋar-na\n5al2	chair	sux	N1=durŋar.N3=ani.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L2-NH	durŋar.ani.'a	N	chair	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	ha-bi₂-dur₂-ne	dur₂	tuš	V/i	ha-bi₂-dur₂-ne	sit	sux	V1=ha.V5=b.V10=i.V11=n.V12=dur.V14=enee	V1=MOD1.V5=3-NH.V10=L2.V11=3-SG-H-P.V12=STEM-PF.V14=3-PL-A	ha.b.i.n.dur.enee	V/i	to sit (down)	_	_	_	_	_	_	_
+
+# Q001557.16
+1	numun-na-ni	numun	numun	N	numun-na-ni\abs	seed	sux	N1=numun.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	numun.ani.ø	N	seed	_	_	_	_	_	_	_
+
+# Q001557.17
+1	he₂-eb₂-til-ne	til	til	V/i	he₂-eb₂-til-ne	complete	sux	V1=ha.V2=i.V11=b.V12=til.V14=enee	V1=MOD1.V2=FIN.V11=3-SG-NH-P.V12=STEM.V14=3-PL-A	ha.i.b.til.enee	V/i	complete	_	_	_	_	_	_	_
+
+# Q001557.18
+1	mu-ni	mu	mu	N	mu-ni\abs	name	sux	N1=mu.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	mu.ani.ø	N	name	_	_	_	_	_	_	_
+2	he₂-eb₂-ha-lam-e-ne	ha-lam	halam	V/t	he₂-eb₂-ha-lam-e-ne	forsake	sux	V1=ha.V2=i.V11=b.V12=halam.V14=enee	V1=MOD1.V2=FIN.V11=3-SG-NH-P.V12=STEM.V14=3-PL-A	ha.i.b.halam.enee	V/t	forsake, destroy, become forgotten	_	_	_	_	_	_	_
+

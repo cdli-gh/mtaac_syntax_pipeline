@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q004244 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004244.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004244.1
+1	e₂	e₂	e	N	e₂\abs	house	sux	N1=e.N5=ø	N=STEM.N5=ABS	e.ø	N	house, temple
+2	du₃	du₃	du	V/t	du₃	build	sux	NV2=du	NV2=STEM	du	V/t	to build
+
+# Q004244.2
+1	{d}nin-e₂-gal	{d}nin-e₂-gal	Ninegalak	DN	{d}nin-e₂-gal\gen	1	sux	N1=Ninegalak.N5=ak	N1=NAME.N5=GEN	Ninegalak.ak	DN	1
+
+# Q004244.3
+1	e₂-pa-e₃	e₂-pa-e₃	Epae	RN	e₂-pa-e₃	1	sux	N1=Epae	N1=NAME	Epae	RN	King of Adab
+
+# Q004244.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	adab{ki}	adab{ki}	Adab	SN	adab{ki}\gen\abs	1	sux	N1=Adab.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Adab.ak.ø	SN	1
+

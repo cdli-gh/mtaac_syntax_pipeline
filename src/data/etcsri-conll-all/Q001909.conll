@@ -1,0 +1,51 @@
+# project: etcsri 
+# textid: Q001909 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001909.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001909.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q001909.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba-ka-še₃	limmu₂	limmu	NU	limmu₂-ba-ka-še₃	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ak.N5=še	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=GEN.N5=TERM	limmu.bi.ak.ak.še	NU	four
+
+# Q001909.4
+1	lu₂-{d}utu	lu₂-{d}utu	Luutu	PN	lu₂-{d}utu	3	sux	N1=Luutu	N1=NAME	Luutu	PN	3
+2	zadim	zadim	zadim	N	zadim\erg	stone-cutter	sux	N1=zadim.N5=e	N1=zadim.N5=ERG	zadim.e	N	stone-cutter
+
+# Q001909.5
+1	bur	bur	bur	N	bur	bowl	sux	N1=bur	N1=STEM	bur	N	bowl
+2	sag₉-ga	sag₉	sag	V/i	sag₉-ga\abs	good	sux	NV2=sag.NV4='a.N5=ø	NV2=STEM.NV4=SUB.N5=ABS	sag.'a.ø	V/i	(to be) good
+
+# Q001909.6
+1	mu-na-dim₂	dim₂	dim	V/t	mu-na-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create
+
+# Q001909.7
+1	bur-ba	bur	bur	N	bur-ba\dem2	bowl	sux	N1=bur.N3=bi.N5=ak	N1=STEM.N3=DEM2.N5=GEN	bur.bi.ak	N	bowl
+2	nin-ŋu₁₀	nin	nin	N	nin-ŋu₁₀	lady	sux	N1=nin.N3=ŋu	N1=STEM.N3=1-SG-POSS	nin.ŋu	N	lady
+
+# Q001909.8
+1	ŋeš-du₃	ŋeš-du₃	ŋeštug	N	ŋeš-du₃	ear	sux	N1=ŋeštug	N1=STEM	ŋeštug	N	ear
+2	niŋ₂-sag₉-ga-ni-a	niŋ₂-sag₉-ga	niŋsaga	N	niŋ₂-sag₉-ga-ni-a	goodness	sux	N1=niŋsaga.N3=ani.N5=a	N1=STEM.N3=3-SG-H-POSS.N5=L1	niŋsaga.ani.a	N	goodness, good (thing)
+
+# Q001909.9
+1	ga-a-til₃	til₃	til	V/i	ga-a-til₃\v10l1	live	sux	V2=ga.V10=n.V12=til	V2=MOD2.V10=L1-SYN.V12=STEM	ga.n.til	V/i	live
+
+# Q001909.10
+1	igi	igi	igi	N	igi	eye	sux	N1=igi	N1=STEM	igi	N	eye
+2	sag₉-ga-ni	sag₉	sag	V/i	sag₉-ga-ni\abs	good	sux	NV2=sag.NV4='a.N3=ani.N5=ø	NV2=STEM.NV4=SUB.N3=3-SG-H-POSS.N5=ABS	sag.'a.ani.ø	V/i	(to be) good
+3	hu-mu-si-ba-re	ba	bar	V/t	hu-mu-si-ba-re	cvve	sux	V1=ha.V4=mu.V6=1.V9=ši.V12=bar.V14=e	V1=MOD1.V4=VEN.V6=1-SG.V9=TERM.V12=STEM.V14=3-SG-A	ha.mu.1.ši.bar.e	V/t	(compound verb verbal element)
+
+# Q001909.11
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name
+

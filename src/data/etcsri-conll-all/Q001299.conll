@@ -1,0 +1,15 @@
+# project: etcsri 
+# textid: Q001299 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001299.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001299.1
+1	alim-šu	alim-šu	Alimšu	PN	alim-šu\abs	1	sux	N1=Alimšu.N5=ø	N1=NAME.N5=ABS	Alimšu.ø	PN	1
+

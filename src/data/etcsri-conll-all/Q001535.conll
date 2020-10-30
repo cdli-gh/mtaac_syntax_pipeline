@@ -1,0 +1,38 @@
+# project: etcsri 
+# textid: Q001535 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001535.U0 
+# bracketing_level: 0 
+# m/@k=genre : Literary 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001535.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001535.3
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	za-gin₃-na-ke₄	za-gin₃	zagin	N	za-gin₃-na-ke₄	lapis	sux	N1=zagin.N5=ak.N5=e	N1=STEM.N5=GEN.N5=X	zagin.ak.e	N	lapis lazuli
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001535.6
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	kalam-ma	kalam	kalam	N	kalam-ma\gen	land	sux	N1=kalam.N5=ak	N1=STEM.N5=GEN	kalam.ak	N	the Land (of Sumer)
+
+# Q001535.7
+1	dim	dim	dim	N	dim	post	sux	N1=dim	N1=STEM	dim	N	post, pillar, pole
+2	gal-bi	gal	gal	V/i	gal-bi\abs	big	sux	NV2=gal.N3=bi.N5=ø	NV2=STEM.N3=3-SG-NH-POSS.N5=ABS	gal.bi.ø	V/i	(to be) big, great
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001535.10
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	šu	šu	šu	N	šu	hand	sux	N1=šu	N1=STEM	šu	N	hand
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_
+5	kalam	kalam	kalam	N	kalam	land	sux	N1=kalam	N1=STEM	kalam	N	the Land (of Sumer)
+6	x	_	_	_	x	_	sux	_	_	_	u	_
+

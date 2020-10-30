@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q004106 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004106.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004106.1
+1	{d}šara₂	{d}šara₂	Šara	DN	{d}šara₂\dat	1	sux	N1=Šara.N5=ra	N1=NAME.N5=DAT-H	Šara.ra	DN	1
+2	barag-sag₃-nu-di	barag-sag₃-nu-di	Baragsagnudi	RN	barag-sag₃-nu-di	1	sux	N1=Baragsagnudi	N1=NAME	Baragsagnudi	RN	King of Umma
+
+# Q004106.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	umma{ki}	umma{ki}	Umma	SN	umma{ki}\gen\erg	1	sux	N1=Umma.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Umma.ak.e	SN	1
+
+# Q004106.3
+1	mu-gub	gub	gub	V/i	mu-gub\dat	stand	sux	V4=mu.V6=nn.V7=a.V11=n.V12=gub.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=gub.V14=3-SG-P	mu.nn.a.n.gub.ø	V/i	stand
+

@@ -1,0 +1,27 @@
+# project: etcsri 
+# textid: Q003664 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003664.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003664.1
+1	aya₂-KALAM-dug₃	aya₂-KALAM-dug₃	Ayakalamdug	RN	aya₂-KALAM-dug₃	1	sux	N1=Ayakalamdug	N1=NAME	Ayakalamdug	RN	King of Urim
+
+# Q003664.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q003664.3
+1	urim₅	urim₅	Urim	SN	urim₅\gen\abs	1	sux	N1=Urim.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urim.ak.ø	SN	1
+
+# Q003664.4
+1	aya₂-šu-sikil-an	aya₂-šu-sikil-an	Ayašusikilanak	PN	aya₂-šu-sikil-an	1	sux	N1=Ayašusikilanak	N1=NAME	Ayašusikilanak	PN	Spouse of Aya-kalam-dug, king of Urim
+
+# Q003664.5
+1	dam-ni	dam	dam	N	dam-ni\abs	spouse	sux	N1=dam.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	dam.ani.ø	N	spouse
+

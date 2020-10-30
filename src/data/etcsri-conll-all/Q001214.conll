@@ -1,0 +1,18 @@
+# project: etcsri 
+# textid: Q001214 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001214.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001214.1
+1	e₂-kiri₆	e₂-kiri₆	Ekiri	TN	e₂-kiri₆\abs	1	sux	N1=Ekiri.N5=ø	N1=NAME.N5=ABS	Ekiri.ø	TN	1
+
+# Q001214.2
+1	barag-gan-ne₂-dug₃	barag-gan-ne₂-dug₃	Baraganedug	RN	barag-gan-ne₂-dug₃	1	sux	N1=Baraganedug	N1=NAME	Baraganedug	RN	Ruler of Adab
+

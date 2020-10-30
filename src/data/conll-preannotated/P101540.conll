@@ -1,0 +1,33 @@
+#new_text=P101540
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(disz)	2(disz)[one]	NUM	NU	_	_	_	_	_
+2	ma-na	mana[unit]	NOUN	N	Number=Sing	_	_	_	_
+3	1(u)	1(u)[ten]	NUM	NU	_	1(u)[ten]	NU	_	_
+4	8(disz)	8(disz)[one]	NUM	NU	_	_	_	_	_
+5	gin2	gig[unit]	NOUN	N	Number=Sing	_	_	_	_
+6	uruda urud[copper] N	_	_	_	_	_	_	_	_
+7	ar-ma-tum	armatum[door]	NOUN	N	Case=Abs|Number=Sing	_	_	_	_
+8	mu	mu[name]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+9	gesz gesz[wood] N	_	_	_	_	_	_	_	_
+10	ig	ig[door]	NOUN	N	Number=Sing	_	_	_	_
+11	ka2	kan[gate]	NOUN	N	Number=Sing	_	_	_	_
+12	du10-us2	dus[path]	NOUN	N	Number=Sing	_	_	_	_
+13	lugal-ka-sze3	lugal[king]	NOUN	N	Case=Gen,Gen,Gen|Number=Sing	_	_	_	_
+14	lu2-{d}nanna	Lunanna[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	_	_	_	_
+15	i3-la2	n]	VERB	V	Number=Sing|Person=3|VerbForm=Fin	_	_	_	_
+16	ugula	ugula[overseer]	NOUN	N	Number=Sing	_	_	_	_
+17	lugal-ku3-zu	Lugalkuzu[1]	PROPN	PN	Animacy=Hum|Number=Sing	Lugalkuzu[1][-ak]	PN	_	Lugalkuzu[1][-ak]
+18	giri3	giri[foot]	NOUN	N	Number=Sing	giri[foot]	PRP	_	giri[foot]  N
+19	lu2-{d}inanna	Lu'inanna[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+20	sukkal	sukkal[secretary]	NOUN	N	Case=Gen|Number=Sing	sukkal[secretary][-ak]	N.GEN	_	_
+21	iti	iti[month]	NOUN	N	Number=Sing	iti[month]	N	_	iti[month][-ak]
+22	{d}pa4-u2-e	Pa'u'e[1]	PROPN	MN	Number=Sing	_	_	_	_
+23	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+24	{d}szu-{d}suen	Szusuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	Szusuen[1]	RN	_	_
+25	lugal	lugal[king]	NOUN	N	Number=Sing	lugal[king][-ak]	N.GEN	_	lugal[quality_designation]
+26	uri5{ki}-ma-ke4	Urim[1]	PROPN	SN	Case=Gen,Erg|Number=Sing	Urim[1]-ak-e	SN.GEN.ERG	_	_
+27	ma-da	mada[land]	NOUN	N	Number=Sing	mada[land][-ak][-ø]	N.GEN.ABS	_	mada[land][-ak][-ø]
+28	za-ab-sza-li{ki}	Zabszali[1]	PROPN	SN	Case=Gen,Abs|Number=Sing	Zabszali[1][-ak][-ø]	GN.GEN.ABS	_	Zabszali[1][-ak]
+29	mu-hul	n]	VERB	V	Number=Sing|Person=3	mu[-n]-hulu[destroy][-ø]	VEN.3-SG-H-A.V.3-SG-P	_	mu[-n]-hulu[bad][-ø][-'a]
+30	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	kiszib[seal]	N	_	_
+31	nu-ra-a	Nura'a[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	_	_	_	_

@@ -1,0 +1,53 @@
+# project: etcsri 
+# textid: Q001383 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001383.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001383.1
+1	{d}nin-šubur	{d}nin-šubur	Ninšubur	DN	{d}nin-šubur\dat	1	sux	N1=Ninšubur.N5=ra	N1=NAME.N5=DAT-H	Ninšubur.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001383.2
+1	aya₂-diŋir-ŋu₁₀	aya₂-diŋir-ŋu₁₀	Ayadiŋirŋu	PN	aya₂-diŋir-ŋu₁₀	1	sux	N1=Ayadiŋirŋu	N1=NAME	Ayadiŋirŋu	PN	1	_	_	_	_	_	_	_
+
+# Q001383.3
+1	ad-da	ad-da	adda	N	ad-da	father	sux	N1=adda	N1=STEM	adda	N	father	_	_	_	_	_	_	_
+
+# Q001383.4
+1	AK	AK	AK	PN	AK	1	sux	N1=AK	N1=NAME	AK	PN	1	_	_	_	_	_	_	_
+2	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household	_	_	_	_	_	_	_
+3	{d}utu	{d}utu	Utu	DN	{d}utu\gen	1	sux	N1=Utu.N5=ak	N1=NAME.N5=GEN	Utu.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001383.5
+1	KUM-tuš-še₃	KUM-tuš-še₃	KUM-tuše	PN	KUM-tuš-še₃	1	sux	N1=KUM-tuše	N1=NAME	KUM-tuše	PN	1	_	_	_	_	_	_	_
+2	ama	ama	ama	N	ama	mother	sux	N1=ama	N1=STEM	ama	N	mother	_	_	_	_	_	_	_
+
+# Q001383.6
+1	aya₂-diŋir-ŋu₁₀-ke₄	aya₂-diŋir-ŋu₁₀	Ayadiŋirŋu	PN	aya₂-diŋir-ŋu₁₀-ke₄	1	sux	N1=Ayadiŋirŋu.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ayadiŋirŋu.ak.e	PN	1	_	_	_	_	_	_	_
+
+# Q001383.7
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	{d}nin-imma₃	{d}nin-imma₃	Ninimma	DN	{d}nin-imma₃\erg	1	sux	N1=Ninimma.N5=e	N1=NAME.N5=ERG	Ninimma.e	DN	1	_	_	_	_	_	_	_
+
+# Q001383.8
+1	gu₃	gu₃	gu	N	gu₃\abs	voice	sux	N1=gu.N5=ø	N1=STEM.N5=ABS	gu.ø	N	voice	_	_	gu de	say	say	V/t	V/t
+2	e-na-de₂-a	de₂	de	V/t	e-na-de₂-a	pour	sux	V2=i.V6=nn.V7=a.V11=n.V12=de.V14=ø.V15='a	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB	i.nn.a.n.de.ø.'a	V/t	pour	1	mwe	_	_	_	_	_
+
+# Q001383.9
+1	ni₂	ni₂	ni	N	ni₂\abs	fear	sux	N1=ni.N5=ø	N1=STEM.N5=ABS	ni.ø	N	fear	_	_	_	_	_	_	_
+2	mu-ni-tuku	tuku	tuku	V/t	mu-ni-tuku\l1	acquire	sux	V4=mu.V6=nn.V10=i.V11=n.V12=tuku.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V10=L3.V11=3-SG-H-A.V12=STEM.V14=ø.V15=SUB.N5=L1	mu.nn.i.n.tuku.ø.'a.'a	V/t	to acquire, to have	_	_	_	_	_	_	_
+
+# Q001383.10
+1	aya₂-diŋir-ŋu₁₀	aya₂-diŋir-ŋu₁₀	Ayadiŋirŋu	PN	aya₂-diŋir-ŋu₁₀	1	sux	N1=Ayadiŋirŋu	N1=NAME	Ayadiŋirŋu	PN	1	_	_	_	_	_	_	_
+2	KUM-tuš-še₃	KUM-tuš-še₃	KUM-tuše	PN	KUM-tuš-še₃\erg	1	sux	N1=KUM-tuše.N5=e	N1=NAME.N5=ERG	KUM-tuše.e	PN	1	_	_	_	_	_	_	_
+
+# Q001383.11
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

@@ -1,0 +1,18 @@
+# project: etcsri 
+# textid: Q002001 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002001.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q002001.1
+1	e₂-gal	e₂-gal	egal	N	e₂-gal	palace	sux	N1=egal	N1=STEM	egal	N	palace
+
+# Q002001.2
+1	{d}suen-ma-gir	{d}suen-ma-gir	Sinmagir	RN	{d}suen-ma-gir\gen\abs	1	sux	N1=Sinmagir.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Sinmagir.ak.ø	RN	King of Isin
+

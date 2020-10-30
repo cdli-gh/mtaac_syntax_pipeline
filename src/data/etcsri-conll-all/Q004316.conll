@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q004316 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004316.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004316.1
+1	nam-mah	nam-mah	Nammah	PN	nam-mah	1	sux	N1=Nammah	N1=NAME	Nammah	PN	1
+
+# Q004316.2
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd
+2	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi\gen\abs	1	sux	N1=Šulgir.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šulgir.ak.ø	RN	2nd king of the 3rd dynasty of Urim
+

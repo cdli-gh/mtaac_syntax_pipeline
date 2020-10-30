@@ -1,0 +1,103 @@
+#new_text=P100188						
+# ID	FORM	SEGM	XPOSTAG	HEAD	DEPREL	MISC
+@prefix :      <file:///C:/Users/Ilya/Desktop/MTAAC/000%20Syntax%20pipeline/scr/data/> .
+@prefix terms: <http://purl.org/acoli/open-ie/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix nif:   <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+
+:s1_o.5.2  a        nif:Word ;
+        conll:FORM  "..." ;
+        conll:ID    "o.5.2" ;
+        conll:SEGM  "_[_]" .
+
+:s1_o.4.1  a          nif:Word ;
+        nif:nextWord  :s1_o.4.2 ;
+        conll:FORM    "x" ;
+        conll:ID      "o.4.1" ;
+        conll:SEGM    "_[_]" .
+
+:s1_o.4.4  a          nif:Word ;
+        nif:nextWord  :s1_o.5.1 ;
+        conll:FORM    "x" ;
+        conll:ID      "o.4.4" ;
+        conll:SEGM    "_[_]" .
+
+:s1_o.3.3  a           nif:Word ;
+        nif:nextWord   :s1_o.3.4 ;
+        conll:FORM     "dumu" ;
+        conll:ID       "o.3.3" ;
+        conll:SEGM     "dumu[child]" ;
+        conll:XPOSTAG  "N" .
+
+:s1_o.2.2  a          nif:Word ;
+        nif:nextWord  :s1_o.2.3 ;
+        conll:FORM    "x" ;
+        conll:ID      "o.2.2" ;
+        conll:SEGM    "_[_]" .
+
+:s1_o.1.1  a           nif:Word ;
+        nif:nextWord   :s1_o.1.2 ;
+        conll:FORM     "masz-da" ;
+        conll:ID       "o.1.1" ;
+        conll:SEGM     "maszda[stone]" ;
+        conll:XPOSTAG  "N" .
+
+:s1_o.4.2  a          nif:Word ;
+        nif:nextWord  :s1_o.4.3 ;
+        conll:FORM    "x" ;
+        conll:ID      "o.4.2" ;
+        conll:SEGM    "_[_]" .
+
+:s1_o.3.1  a          nif:Word ;
+        nif:nextWord  :s1_o.3.2 ;
+        conll:FORM    "x" ;
+        conll:ID      "o.3.1" ;
+        conll:SEGM    "_[_]" .
+
+:s1_o.5.1  a          nif:Word ;
+        nif:nextWord  :s1_o.5.2 ;
+        conll:FORM    "x" ;
+        conll:ID      "o.5.1" ;
+        conll:SEGM    "_[_]" .
+
+:s1_o.3.4  a          nif:Word ;
+        nif:nextWord  :s1_o.4.1 ;
+        conll:FORM    "x" ;
+        conll:ID      "o.3.4" ;
+        conll:SEGM    "_[_]" .
+
+:s1_o.2.3  a          nif:Word ;
+        nif:nextWord  :s1_o.3.1 ;
+        conll:FORM    "x" ;
+        conll:ID      "o.2.3" ;
+        conll:SEGM    "_[_]" .
+
+:s1_0   a       nif:Sentence .
+
+:s1_o.1.2  a          nif:Word ;
+        nif:nextWord  :s1_o.2.1 ;
+        conll:FORM    "x" ;
+        conll:ID      "o.1.2" ;
+        conll:SEGM    "_[_]" .
+
+:s1_o.4.3  a           nif:Word ;
+        nif:nextWord   :s1_o.4.4 ;
+        conll:FORM     "mar" ;
+        conll:ID       "o.4.3" ;
+        conll:SEGM     "mar[wagon]" ;
+        conll:XPOSTAG  "N" .
+
+:s1_o.3.2  a          nif:Word ;
+        nif:nextWord  :s1_o.3.3 ;
+        conll:FORM    "x" ;
+        conll:ID      "o.3.2" ;
+        conll:SEGM    "_[_]" .
+
+:s1_o.2.1  a           nif:Word ;
+        nif:nextWord   :s1_o.2.2 ;
+        conll:FORM     "dumu" ;
+        conll:ID       "o.2.1" ;
+        conll:SEGM     "dumu[child]" ;
+        conll:XPOSTAG  "N" .

@@ -1,0 +1,38 @@
+# project: etcsri 
+# textid: Q001199 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001199.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001199.1
+1	{d}nin-šubur	{d}nin-šubur	Ninšubur	DN	{d}nin-šubur\dat	1	sux	N1=Ninšubur.N5=ra	N1=NAME.N5=DAT-H	Ninšubur.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001199.2
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001199.3
+1	barag-gan-ne₂-dug₃	barag-gan-ne₂-dug₃	Baraganedug	RN	barag-gan-ne₂-dug₃	1	sux	N1=Baraganedug	N1=NAME	Baraganedug	RN	Ruler of Adab	_	_	_	_	_	_	_
+
+# Q001199.4
+1	ensiₓ(|GAR.PA.TE.SI|)	ensiₓ(|GAR.PA.TE.SI|)	ensik	N	ensiₓ(|GAR.PA.TE.SI|)	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001199.5
+1	adab{ki}-da	adab{ki}	Adab	SN	adab{ki}-da\gen\gen\com	1	sux	N1=Adab.N5=ak.N5=ak.N5=da	N1=NAME.N5=GEN.N5=GEN.N5=COM	Adab.ak.ak.da	SN	1	_	_	_	_	_	_	_
+
+# Q001199.6
+1	ur-akkilₓ(|AB.KID|)-la₂	ur-akkilₓ(|AB.KID|)-la₂	Urakkilak	PN	ur-akkilₓ(|AB.KID|)-la₂	1	sux	N1=Urakkilak	N1=NAME	Urakkilak	PN	1	_	_	_	_	_	_	_
+
+# Q001199.7
+1	ab-ba	ab-ba	abba	N	ab-ba	father	sux	N1=abba	N1=STEM	abba	N	an official	_	_	_	_	_	_	_
+2	iri	iri	iri	N	iri\gen\erg	city	sux	N1=iri.N5=ak.N5=e	N1=STEM.N5=GEN.N5=ERG	iri.ak.e	N	city	_	_	_	_	_	_	_
+
+# Q001199.8
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-ru	ru	ru	V/t	mu-ru\dat	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

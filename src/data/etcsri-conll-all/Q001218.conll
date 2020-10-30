@@ -1,0 +1,18 @@
+# project: etcsri 
+# textid: Q001218 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001218.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001218.1
+1	e₂-kiri₆	e₂-kiri₆	Ekiri	TN	e₂-kiri₆\abs	1	sux	N1=Ekiri.N5=ø	N1=NAME.N5=ABS	Ekiri.ø	TN	1
+
+# Q001218.2
+1	šubur	šubur	Šubur	PN	šubur\abs	1	sux	N1=Šubur.N5=ø	N1=NAME.N5=ABS	Šubur.ø	PN	1
+

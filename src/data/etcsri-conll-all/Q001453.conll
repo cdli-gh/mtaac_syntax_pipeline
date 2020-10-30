@@ -1,0 +1,20 @@
+# project: etcsri 
+# textid: Q001453 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001453.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001453.1
+1	ba-za	ba-za	Baza	PN	ba-za	1	sux	N1=Baza	N1=NAME	Baza	PN	1
+2	utul	utul	udul	N	utul\abs	herdsman	sux	N1=udul.N5=ø	N1=STEM.N5=ABS	udul.ø	N	chief herdsman
+
+# Q001453.2
+1	arad	arad	arad	N	arad	slave	sux	N1=arad	N1=STEM	arad	N	slave, servant
+2	ur-{d}utu	ur-{d}utu	Urutu	PN	ur-{d}utu\gen\abs	1	sux	N1=Urutu.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urutu.ak.ø	PN	1
+

@@ -1,0 +1,79 @@
+# project: etcsri 
+# textid: Q001023 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001023.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001023.1
+1	ur-{d}nanše	ur-{d}nanše	Urnanše	RN	ur-{d}nanše	1	sux	N1=Urnanše	N1=NAME	Urnanše	RN	King of Lagaš
+
+# Q001023.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001023.3
+1	lagaš	lagaš	Lagaš	SN	lagaš\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001023.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	gu-|NI.DU|	gu-|NI.DU|	Gu-NI.DU	PN	gu-|NI.DU|\gen\erg	1	sux	N1=GU-NI.DU.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	GU-NI.ak.e	PN	1
+
+# Q001023.5
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	nin-ŋir₂-su	nin-ŋir₂-su	Ninŋirsuk	DN	nin-ŋir₂-su\gen\abs	1	sux	N1=Ninŋirsuk.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninŋirsuk.ak.ø	DN	1
+
+# Q001023.6
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001023.7
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}nanše	{d}nanše	Nanše	DN	{d}nanše\gen\abs	1	sux	N1=Nanše.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Nanše.ak.ø	DN	1
+
+# Q001023.8
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001023.9
+1	abzu-ban₃-da	abzu-ban₃-da	Abzubanda	TN	abzu-ban₃-da\abs	1	sux	N1=Abzubanda.N5=ø	N1=NAME.N5=ABS	Abzubanda.ø	TN	1
+
+# Q001023.10
+1	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001023.11
+1	šeš-ŋar	šeš-ŋar	Šešeŋara	TN	šeš-ŋar\abs	1	sux	N1=Šešeŋara.N5=ø	N1=NAME.N5=ABS	Šešeŋara.ø	TN	1
+2	mu-du₃	du₃	du	V/t	mu-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build
+
+# Q001023.13
+1	LU₂-ki₂-na-tum	LU₂-ki₂-na-tum	Awilkinatum	PN	LU₂-ki₂-na-tum\abs	1	sux	N1=Awilkinatum.N5=ø	N1=NAME.N5=ABS	Awilkinatum.ø	PN	1
+
+# Q001023.14
+1	lugal-ezen	lugal-ezen	Lugalezen	PN	lugal-ezen	1	sux	N1=Lugalezen	N1=NAME	Lugalezen	PN	1
+2	dumu	dumu	dumu	N	dumu\abs	child	sux	N1=dumu.N5=ø	N1=STEM.N5=ABS	dumu.ø	N	child
+
+# Q001023.15
+1	mu-kur-šuba₄-ta	mu-kur-šuba₄-ta	Mukuršubata	PN	mu-kur-šuba₄-ta	1	sux	N1=Mukuršubata	N1=NAME	Mukuršubata	PN	1
+2	dumu	dumu	dumu	N	dumu\abs	child	sux	N1=dumu.N5=ø	N1=STEM.N5=ABS	dumu.ø	N	child
+
+# Q001023.16
+1	hur-saŋ-še₃-mah₂	hur-saŋ-še₃-mah₂	Hursaŋšemah	PN	hur-saŋ-še₃-mah₂	1	sux	N1=Hursaŋšemah	N1=STEM	Hursaŋšemah	PN	1
+
+# Q001023.17
+1	a₂-ni-ta	a₂-ni-ta	Anita	PN	a₂-ni-ta\abs	1	sux	N1=Anita.N5=ø	N1=NAME.N5=ABS	Anita.ø	PN	1
+
+# Q001023.18
+1	ba-lu₅	ba-lu₅	Balu	PN	ba-lu₅	1	sux	N1=Balu	N1=NAME	Balu	PN	1
+2	muš-lah₅	muš-lah₅	mušlah	N	muš-lah₅	singer	sux	N1=mušlah	N1=STEM	mušlah	N	snake charmer
+3	gal	gal	gal	V/i	gal\abs	big	sux	NV2=gal.N5=ø	NV2=STEM.N5=ABS	gal.ø	V/i	(to be) big, great
+
+# Q001023.19
+1	aya₂-kur-gal	aya₂-kur-gal	Ayakurgal	RN	aya₂-kur-gal	1	sux	N1=Ayakurgal	N1=NAME	Ayakurgal	RN	Ruler of Lagaš
+2	dumu	dumu	dumu	N	dumu\abs	child	sux	N1=dumu.N5=ø	N1=STEM.N5=ABS	dumu.ø	N	child
+
+# Q001023.20
+1	nam-a-zu₅	nam-a-zu₅	Namazu	PN	nam-a-zu₅	1	sux	N1=Namazu	N1=NAME	Namazu	PN	1
+2	{lu₂}dub-sar	{lu₂}dub-sar	dubsar	N	{lu₂}dub-sar\abs	scribe	sux	N1=dubsar.N5=ø	N1=STEM.N5=ABS	dubsar.ø	N	scribe
+

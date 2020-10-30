@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001178 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001178.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001178.2
+1	{d}lugal-urub{ki}-ra	{d}lugal-urub{ki}	Lugalurubak	DN	{d}lugal-urub{ki}-ra	1	sux	N1=Lugalurubak.N5=ra	N1=NAME.N5=DAT-H	Lugalurubak.ra	DN	1
+
+# Q001178.3
+1	lugal-mu-da-kuš₂	lugal-mu-da-kuš₂	Lugalmudakuš	PN	lugal-mu-da-kuš₂\erg	1	sux	N1=Lugalmudakuš.N5=e	N1=NAME.N5=ERG	Lugalmudakuš.e	PN	1
+
+# Q001178.4
+1	mu-na-dim₂	dim₂	dim	V/t	mu-na-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create
+

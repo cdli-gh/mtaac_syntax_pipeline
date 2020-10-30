@@ -1,0 +1,172 @@
+# project: etcsri 
+# textid: Q004449 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004449.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004449.1
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	an-ne₂	an	An	DN	an-ne₂	1	sux	N1=An.N5=e	N1=NAME.N5=ERG	An.e	DN	1	_	_	_	_	_	_	_
+
+# Q004449.2
+1	{d}en-lil₂-le	{d}en-lil₂	Enlil	DN	{d}en-lil₂-le	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+
+# Q004449.3
+1	{d}utu-ur₂	{d}utu	Utu	DN	{d}utu-ur₂	1	sux	N1=Utu.N5=ra	N1=NAME.N5=DAT-H	Utu.ra	DN	1	_	_	_	_	_	_	_
+
+# Q004449.4
+1	larsam{ki}-ma	larsam{ki}	Larsam	SN	larsam{ki}-ma	1	sux	N1=Larsam.N5='a	N1=NAME.N5=L1	Larsam.'a	SN	1	_	_	_	_	_	_	_
+
+# Q004449.5
+1	nam-lugal	nam-lugal	namlugal	N	nam-lugal	kingship	sux	N1=namlugal	N1=STEM	namlugal	N	kingship, royal	_	_	_	_	_	_	_
+
+# Q004449.6
+1	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+2	ki-uri	ki-uri	Akkad	GN	ki-uri\gen	1	sux	N1=Akkad.N5=ak	N1=NAME.N5=GEN	Akkad.ak	GN	1	_	_	_	_	_	_	_
+
+# Q004449.7
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+2	nam-sipad	nam-sipad	namsipad	N	nam-sipad	shepherdship	sux	N1=namsipad	N1=STEM	namsipad	N	shepherdship	_	_	_	_	_	_	_
+3	kur	kur	kur	N	kur	mountain	sux	N1=kur	N1=STEM	kur	N	mountain	_	_	_	_	_	_	_
+4	mar-du₂	mar-du₂	Martu	EN	mar-du₂\gen\abs	1	sux	N1=Martu.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Martu.ak.ø	EN	1	_	_	_	_	_	_	_
+
+# Q004449.8
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand	_	_	šu du₇	complete	to complete, perfect, to be in working order (of tools)	V/t	V/t
+2	mu-na-an-du₇-uš-a	du₇	du	V/i	mu-na-an-du₇-uš-a\l1	suitable	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=eš.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-PL.V15=SUB.N5=L1	mu.nn.a.n.du.eš.'a.'a	V/i	(to be) fitting, suitable	1	mwe	_	_	_	_	_
+
+# Q004449.9
+1	ud-ba	ud	ud	N	ud-ba	sun	sux	N1=ud.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	ud.bi.'a	N	day, sun	_	_	_	_	_	_	_
+2	gu-un-gu-nu-um	gu-un-gu-nu-um	Gungunum	RN	gu-un-gu-nu-um	1	sux	N1=Gungunum	N1=NAME	Gungunum	RN	King of Larsa	_	_	_	_	_	_	_
+
+# Q004449.10
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q004449.11
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	larsam{ki}-ma	larsam{ki}	Larsam	SN	larsam{ki}-ma\gen	1	sux	N1=Larsam.N5=ak	N1=NAME.N5=GEN	Larsam.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004449.12
+1	engar	engar	engar	N	engar	farmer	sux	N1=engar	N1=STEM	engar	N	farmer	_	_	_	_	_	_	_
+2	urim₂{ki}-ma	urim₂{ki}	Urim	SN	urim₂{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004449.13
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand	_	_	šu gi	repay	to repay, to return something to someone, settle an account	V/t	V/t
+2	gi₄-gi₄	gi₄-gi₄	gi	V/i	gi₄-gi₄	turn	sux	NV2=gigi.NV3=ed	NV2=STEM-PF.NV3=PF	gigi.ed	V/i	turn	1	mwe	_	_	_	_	_
+3	e₂-babbar-ra	e₂-babbar	Ebabbar	TN	e₂-babbar-ra	2	sux	N1=Ebabbar.N5=ak	N1=NAME.N5=GEN	Ebabbar.ak	TN	2	_	_	_	_	_	_	_
+
+# Q004449.14
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri	ki-uri	Akkad	GN	ki-uri\gen	1	sux	N1=Akkad.N5=ak	N1=NAME.N5=GEN	Akkad.ak	GN	1	_	_	_	_	_	_	_
+
+# Q004449.15
+1	ibila	ibila	ibila	N	ibila	heir	sux	N1=ibila	N1=STEM	ibila	N	heir	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q004449.16
+1	sa-mi-um-ma	sa-mi-um	Samium	RN	sa-mi-um-ma	1	sux	N1=Samium.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS-OB	Samium.ak.ø	RN	King of Larsa	_	_	_	_	_	_	_
+
+# Q004449.17
+1	bad₃	bad₃	bad	N	bad₃	wall	sux	N1=bad	N1=STEM	bad	N	wall, fortification	_	_	_	_	_	_	_
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great	_	_	_	_	_	_	_
+3	larsam{ki}-ma	larsam{ki}	Larsam	SN	larsam{ki}-ma	1	sux	N1=Larsam.N5='a	N1=NAME.N5=L1	Larsam.'a	SN	1	_	_	_	_	_	_	_
+
+# Q004449.18
+1	{d}utu	{d}utu	Utu	DN	{d}utu	1	sux	N1=Utu	N1=NAME	Utu	DN	1	_	_	_	_	_	_	_
+2	ki-bala-e	ki-bala	kibala	N	ki-bala-e	rebel land	sux	N1=kibala.N5=e	N1=STEM.N5=L3-NH	kibala.e	N	rebel land	_	_	_	_	_	_	_
+3	sa₂	sa₂	sa	N	sa₂\abs	equal	sux	NV2=sa.N5=ø	NV2=STEM.N5=ABS	sa.ø	V/t	equal	_	_	sa dug	arrive	to arrive, to cause to arrive (regularly)	V/t	V/t
+4	di	di	dug	V/t	di	speak	sux	NV2=did	NV2=STEM-PF	did	V/t	speak	3	mwe	_	_	_	_	_
+
+# Q004449.19
+1	mu-bi-im	mu	mu	N	mu-bi-im	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name	_	_	_	_	_	_	_
+
+# Q004449.20
+1	mu-un-du₃	du₃	du	V/t	mu-un-du₃	build	sux	V4=mu.V11=n.V12=du.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q004449.21
+1	nam-galam	nam-galam	namgalam	N	nam-galam	skillfullness	sux	N1=namgalam	N1=STEM	namgalam	N	skillfullness	_	_	_	_	_	_	_
+2	dirig-ŋu₁₀-ta	dirig	dirig	V/t	dirig-ŋu₁₀-ta	exceed	sux	NV2=dirig.N3=ŋu.N5=ta	NV2=STEM.N3=1-SG-POSS.N5=ABL	dirig.ŋu.ta	V/t	create	_	_	_	_	_	_	_
+
+# Q004449.22
+1	iri{ki}-ŋu₁₀	iri{ki}	iri	N	iri{ki}-ŋu₁₀\abs	city	sux	N1=iri.N3=ŋu.N5=ABS	N1=STEM.N3=1-SG-POSS.N5=ABS	iri.ŋu.ABS	N	city	_	_	_	_	_	_	_
+2	sug-ta	sug	sug	N	sug-ta	marsh	sux	N1=sug.N5=ta	N1=STEM.N5=ABL	sug.ta	N	reed-bed, marsh	_	_	_	_	_	_	_
+
+# Q004449.23
+1	he₂-em-ta-e₃	e₃	e	V/i	he₂-em-ta-e₃\v11sg1a	leave	sux	V1=ha.V2=i.V4=m.V5=b.V9=ta.V11=1.V12=e.V14=ø	V1=MOD1.V2=FIN.V4=VEN.V5=3-NH.V9=ABL.V11=1-SG-A.V12=STEM.V14=3-SG-P	ha.i.m.b.ta.1.e.ø	V/i	to leave, go out	_	_	_	_	_	_	_
+
+# Q004449.24
+1	šag₄	šag₄	šag	N	šag₄	heart	sux	N1=šag	N1=STEM	šag	N	heart, inner body	_	_	_	_	_	_	_
+2	mu	mu	mu	N	mu	year	sux	N1=mu	N1=STEM	mu	N	year	_	_	_	_	_	_	_
+3	aš-ka	aš	aš	NU	aš-ka	one	sux	NV2=aš.N5=ak.N5='a	NV2=STEM.N5=GEN.N5=L1	aš.ak.'a	NU	one	_	_	_	_	_	_	_
+
+# Q004449.25
+1	šeg₁₂-bi	šeg₁₂	šeg	N	šeg₁₂-bi\abs	brick	sux	N1=šeg.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	šeg.bi.ø	N	brick	_	_	_	_	_	_	_
+2	hu-mu-du₃	du₃	du	V/t	hu-mu-du₃\v11sg1a	build	sux	V1=ha.V4=mu.V11=1.V12=du.V14=ø	V1=MOD1.V4=VEN.V11=1-SG-A.V12=STEM.V14=3-SG-P	ha.mu.1.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q004449.26
+1	bad₃	bad₃	bad	N	bad₃	wall	sux	N1=bad	N1=STEM	bad	N	wall, fortification	_	_	_	_	_	_	_
+2	gal	gal	gal	V/i	gal\abs	big	sux	NV2=gal.N5=ø	NV2=STEM.N5=ABS	gal.ø	V/i	(to be) big, great	_	_	_	_	_	_	_
+3	hu-mu-til	til	til	V/i	hu-mu-til\v11sg1a	complete	sux	V1=ha.V4=mu.V11=1.V12=til.V14=ø	V1=MOD1.V4=VEN.V11=1-SG-A.V12=STEM.V14=3-SG-P	ha.mu.1.til.ø	V/i	complete	_	_	_	_	_	_	_
+
+# Q004449.27
+1	iri{ki}-ŋa₂	iri{ki}	iri	N	iri{ki}-ŋa₂	city	sux	N1=iri.N3=ŋu.N5=ak	N1=STEM.N3=1-SG-POSS.N5=GEN	iri.ŋu.ak	N	city	_	_	_	_	_	_	_
+2	murub₄-ba	murub₄	murub	N	murub₄-ba	middle	sux	N1=murub.N3=bi.N5='a	N1=STEM.N3=3-NH-POSS.N5=L1	murub.bi.'a	N	middle	_	_	_	_	_	_	_
+
+# Q004449.28
+1	{id₂}buranun	{id₂}buranun	Buranun	WN	{id₂}buranun\abs	1	sux	N1=Buranun.N5=ø	N1=NAME.N5=ABS-OB	Buranun.ø	WN	Euphrates	_	_	_	_	_	_	_
+2	si	si	si	N	si\abs	horn	sux	N1=si.N5=ø	N1=STEM.N5=ABS	si.ø	N	horn	_	_	_	_	_	_	_
+3	ha-ba₂-ni-sa₂	sa₂	sa	N	ha-ba₂-ni-sa₂\v11sg1a	equal	sux	V1=ha.V5=b.V7=a.V10=ni.V11=1.V12=sa.V14=ø	V1=MOD1.V5=3-NH.V7=DAT.V10=L1.V11=1-SG-A.V12=STEM.V14=3-SG-P	ha.b.a.ni.1.sa.ø	V/t	equal	_	_	_	_	_	_	_
+
+# Q004449.29
+1	ud-ba	ud	ud	N	ud-ba	sun	sux	N1=ud.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	ud.bi.'a	N	day, sun	_	_	_	_	_	_	_
+2	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+3	bala-ŋa₂	bala	bala	V/t	bala-ŋa₂\l1	turn	sux	N1=bala.N5=ak.N3=ŋu.N5='a	N1=STEM.N5=GEN.N3=1-SG-POSS.N5=L1	bala.ak.ŋu.'a	V/t	turn, rotate, to change, to revoke	_	_	_	_	_	_	_
+
+# Q004449.30
+1	še	še	še	N	še	barley	sux	N1=še	N1=STEM	še	N	barley	_	_	_	_	_	_	_
+2	3(aš)	_	_	_	3(aš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+3	še	še	še	N	še	barley	sux	N1=še	N1=STEM	še	N	barley	_	_	_	_	_	_	_
+4	gur-ta	gur	gur	N	gur-ta	unit	sux	N1=gur.N5=ta	N1=STEM.N5=ABL	gur.ta	N	a unit of capacity, a measuring vessel	_	_	_	_	_	_	_
+
+# Q004449.31
+1	siki	siki	siki	N	siki	hair	sux	N1=siki	N1=STEM	siki	N	hair, wool	_	_	_	_	_	_	_
+2	1(u)	_	_	_	1(u)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+3	ma-na-ta	ma-na	mana	N	ma-na-ta	unit	sux	N1=mana.N5=ta	N1=STEM.N5=ABL	mana.ta	N	a unit of weight	_	_	_	_	_	_	_
+
+# Q004449.32
+1	i₃	i₃	i	N	i₃	oil	sux	N1=i	N1=STEM	i	N	oil	_	_	_	_	_	_	_
+2	1(ban₂)	_	_	_	1(ban₂)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+3	5(diš)	_	_	_	5(diš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+4	sila₃-ta	sila₃	sila	N	sila₃-ta	unit	sux	N1=sila.N5=ta	N1=STEM.N5=ABL	sila.ta	N	a unit of capacity, a vessel	_	_	_	_	_	_	_
+
+# Q004449.33
+1	1(diš)	_	_	_	1(diš)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	giŋ₄-še₃	giŋ₄	giŋ	N	giŋ₄-še₃	unit	sux	N1=giŋ.N5=še	N1=STEM.N5=TERM	giŋ.še	N	a unit of weight, shekel, a unit of area, a unit of volume	_	_	_	_	_	_	_
+3	ganba	ganba	ganba	N	ganba\abs	price	sux	N1=ganba.N5=ø	N1=STEM.N5=ABS	ganba.ø	N	market price	_	_	_	_	_	_	_
+4	he₂-ŋar-am₃	ŋar	ŋar	V/t	he₂-ŋar-am₃	place	sux	V1=ha.V2=i.V12=ŋar.V14=ø.N6=am	V1=MOD1.V2=FIN.V12=STEM.V14=3-SG-S.N6=COP-3-SG	ha.i.ŋar.ø.am	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q004449.34
+1	ugnim-ŋu₁₀	ugnim	ugnim	N	ugnim-ŋu₁₀\erg	army	sux	N1=ugnim.N3=ŋu.N5=e	N1=STEM.N3=1-SG-POSS.N5=ERG	ugnim.ŋu.e	N	army, troops	_	_	_	_	_	_	_
+2	nam-he-a	nam-he	namhe	N	nam-he-a	abundance	sux	N1=namhe.N5='a	N1=STEM.N5=L1	namhe.'a	N	abundance	_	_	_	_	_	_	_
+
+# Q004449.35
+1	kiŋ₂-bi	kiŋ₂	kiŋ	V/t	kiŋ₂-bi\abs	work	sux	NV2=kiŋ.N3=bi.N5=ø	NV2=STEM.N3=3-SG-NH-POSS.N5=ABS	kiŋ.bi.ø	V/t	to work	_	_	_	_	_	_	_
+2	hu-mu-ni-ib₂-ak	ak	ak	V/t	hu-mu-ni-ib₂-ak	do	sux	V1=ha.V4=mu.V10=ni.V11=b.V12=ak.V14=ø	V1=MOD1.V4=FIN.V10=L1.V11=3-SG-NH-A.V14=STEM.V14=3-SG-P	ha.mu.ni.b.ak.ø	V/t	do	_	_	_	_	_	_	_
+
+# Q004449.36
+1	ŋe₂₆-e	ŋe₂₆-e	ŋaʾe	IP	ŋe₂₆-e	I	sux	N1=ŋa'e.N5=ø	N1=STEM.N5=ABS	ŋa'e.ø	IP	I, me, mine	_	_	_	_	_	_	_
+2	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+3	niŋ₂-gen₆-na-me-en	niŋ₂-gen₆-na	niŋgina	N	niŋ₂-gen₆-na-me-en	truth	sux	N1=niŋgina.N5=ak.N5=ø.N6=men	N1=STEM.N5=GEN.N5=ABS.N6=COP-1-SG	niŋgina.ak.ø.men	N	truth	_	_	_	_	_	_	_
+
+# Q004449.37
+1	a₂-ba	a₂	a	N	a₂-ba\n5al2	arm	sux	N1=a.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L2-NH	a.bi.'a	N	arm	_	_	_	_	_	_	_
+2	ŋeš	ŋeš	ŋeš	N	ŋeš\abs	tree	sux	N1=ŋeš.N5=ø	N1=STEM.N5=ABS	ŋeš.ø	N	tree	_	_	_	_	_	_	_
+3	he₂-bi₂-in-ŋar	ŋar	ŋar	V/t	he₂-bi₂-in-ŋar\v11sg1a	place	sux	V1=ha.V5=b.V10=i.V11=n.V12=ŋar.V14=ø	V1=MOD1.V5=3-NH.V10=L2.V11=1-SG-A-OB.V12=STEM.V14=3-SG-P	ha.b.i.n.ŋar.ø	V/t	put, place, lay down	_	_	_	_	_	_	_
+

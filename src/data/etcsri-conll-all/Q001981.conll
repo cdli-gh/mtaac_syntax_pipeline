@@ -1,0 +1,20 @@
+# project: etcsri 
+# textid: Q001981 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001981.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001981.1
+1	DIŊIR-a-hu-u₂	DIŊIR-a-hu-u₂	Ilumahu	PN	DIŊIR-a-hu-u₂	1	sux	N1=Ilumahu	N1=NAME	Ilumahu	PN	1
+2	X	_	_	_	X	_	sux	_	_	_	u	_
+
+# Q001981.2
+1	arad	arad	arad	N	arad	slave	sux	N1=arad	N1=STEM	arad	N	slave, servant
+2	bur-{d}suen	bur-{d}suen	Bursuen	RN	bur-{d}suen\gen\abs	1	sux	N1=Bursuen.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Bursuen.ak.ø	RN	7th king of the dynasty of Isin
+

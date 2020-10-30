@@ -1,0 +1,24 @@
+# project: etcsri 
+# textid: Q003662 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003662.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003662.1
+1	{d}suen	{d}suen	Suen	DN	{d}suen\dat	1	sux	N1=Suen.N5=ra	N1=NAME.N5=DAT-H	Suen.ra	DN	1
+
+# Q003662.2
+1	meš₃-KALAM-dug₃	meš₃-KALAM-dug₃	Meškalamdug	RN	meš₃-KALAM-dug₃	1	sux	N1=Meškalamdug	N1=NAME	Meškalamdug	RN	King of Urim
+
+# Q003662.3
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q003662.4
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+

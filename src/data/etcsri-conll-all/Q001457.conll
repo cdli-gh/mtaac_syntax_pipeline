@@ -1,0 +1,63 @@
+# project: etcsri 
+# textid: Q001457 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001457.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001457.2
+1	{d}nin-gal	{d}nin-gal	Ningal	DN	{d}nin-gal	1	sux	N1=Ningal	N1=NAME	Ningal	DN	1	_	_	_	_	_	_	_
+
+# Q001457.3
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001457.4
+1	{d}suen-na	{d}suen	Suen	DN	{d}suen-na	1	sux	N1=Suen.N5=ak	N1=NAME.N5=GEN	Suen.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001457.5
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q001457.6
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001457.7
+1	{d}utu-he₂-ŋal₂	{d}utu-he₂-ŋal₂	Utuheŋal	RN	{d}utu-he₂-ŋal₂	1	sux	N1=Utuheŋal	N1=NAME	Utuheŋal	PN	King of Unug	_	_	_	_	_	_	_
+
+# Q001457.8
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001457.9
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001457.10
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₅-ba-ka-še₃	limmu₅	limmu	NU	limmu₅-ba-ka-še₃	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ak.N5=še	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=GEN.N5=TERM	limmu.bi.ak.ak.še	NU	four	_	_	_	_	_	_	_
+
+# Q001457.11
+1	ur-{d}namma	ur-{d}namma	Urnammak	RN	ur-{d}namma	1	sux	N1=Urnammak	N1=NAME	Urnammak	RN	1st king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q001457.12
+1	šagina	šagina	šakkanak	N	šagina	general	sux	N1=šakkanak	N1=STEM	šakkanak	N	military governor	_	_	_	_	_	_	_
+
+# Q001457.13
+1	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001457.14
+1	ama-tud	ama-tud	amaʾatud	N	ama-tud	slave	sux	N1=ama'atud	N1=STEM	ama'atud	N	slave	_	_	_	_	_	_	_
+
+# Q001457.15
+1	e₂-kiš-nu-ŋal₂-la	e₂-kiš-nu-ŋal₂	Ekišnuŋal	TN	e₂-kiš-nu-ŋal₂-la\gen	1	sux	N1=Ekišnuŋal.N5=ak	N1=NAME.N5=GEN	Ekišnuŋal.ak	TN	1	_	_	_	_	_	_	_
+
+# Q001457.16
+1	šeš-a-ne₂	šeš	šeš	N	šeš-a-ne₂	brother	sux	N1=šeš.N3=ani.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=ERG	šeš.ani.e	N	brother	_	_	_	_	_	_	_
+

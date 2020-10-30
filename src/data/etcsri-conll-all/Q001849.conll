@@ -1,0 +1,138 @@
+# project: etcsri 
+# textid: Q001849 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001849.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001849.1
+1	{d}nanna	{d}nanna	Nanna	DN	{d}nanna	1	sux	N1=Nanna	N1=NAME	Nanna	DN	1	_	_	_	_	_	_	_
+
+# Q001849.2
+1	su₃-ra₂-aŋ₂	su₃-ra₂-aŋ₂	sudaŋ	N	su₃-ra₂-aŋ₂\abs	metal	sux	N1=sudaŋ.N5=ø	N1=STEM.N5=ABS	sudaŋ.ø	N	a precious metal, brilliance	_	_	_	_	_	_	_
+
+# Q001849.3
+1	uŋ₃-ŋa₂-na	uŋ₃	uŋ	N	uŋ₃-ŋa₂-na\n5al2	people	sux	N1=uŋ.N3=ani.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L2-NH	uŋ.ani.'a	N	people	_	_	_	_	_	_	_
+2	ba-ra-ge	ba-ra-g·e	barag	V/t	ba-ra-ge	spread	sux	NV2=barag.NV3=ed	NV2=STEM.NV3=PF	barag.ed	V/t	spread out	_	_	_	_	_	_	_
+
+# Q001849.4
+1	en	en	en	N	en	lord	sux	N1=en	N1=STEM	en	N	lord	_	_	_	_	_	_	_
+2	dili-ne₂	dili	dili	V/i	dili-ne₂	single	sux	NV2=dili.N3=ani.N5=e	NV2=STEM.N3=3-SG-H-POSS.N5=L3-NH	dili.ani.e	V/i	(to be) single, unique, sole	_	_	_	_	_	_	_
+3	diŋir	diŋir	diŋir	N	diŋir	deity	sux	N1=diŋir	N1=STEM	diŋir	N	deity, personal god	_	_	_	_	_	_	_
+4	pa	pa	pa	N	pa\abs	branch	sux	N1=pa.N5=ø	N1=STEM.N5=ABS	pa.ø	N	branch	_	_	pa e	appear	appear	V/t	V/t
+5	e₃-a	e₃	e	V/i	e₃-a	leave	sux	NV2=e.NV4='a	NV2=STEM.NV4=SUB	e.'a	V/i	to leave, go out	4	mwe	_	_	_	_	_
+
+# Q001849.5
+1	lugal-a-ni-ir	lugal	lugal	N	lugal-a-ni-ir	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king	_	_	_	_	_	_	_
+
+# Q001849.6
+1	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	Ibbisuen	RN	{d}i-bi₂-{d}suen	1	sux	N1=Ibbisuen	N1=NAME	Ibbisuen	RN	5th king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q001849.7
+1	diŋir	diŋir	diŋir	N	diŋir	deity	sux	N1=diŋir	N1=STEM	diŋir	N	deity, personal god	_	_	_	_	_	_	_
+2	kalam-ma-na	kalam	kalam	N	kalam-ma-na\gen	land	sux	N1=kalam.N3=ani.N5=ak	N1=STEM.N3=3-SG-H-POSS.N5=GEN	kalam.ani.ak	N	the Land (of Sumer)	_	_	_	_	_	_	_
+
+# Q001849.8
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001849.9
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001849.10
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₂-ba-ke₄	limmu₂	limmu	NU	limmu₂-ba-ke₄	four	sux	NV2=limmu.N3=bi.N5=ak.N5=e	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	limmu.bi.ak.e	NU	four	_	_	_	_	_	_	_
+
+# Q001849.11
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	šušin{ki}	šušin{ki}	Šušin	SN	šušin{ki}	Susa	sux	N1=Šušin	N1=NAME	Šušin	SN	Susa	_	_	_	_	_	_	_
+
+# Q001849.12
+1	a-dam-šah₂{ki}	a-dam-šah₂{ki}	Adamšah	SN	a-dam-šah₂{ki}	1	sux	N1=Adamšah	N1=NAME	Adamšah	SN	1	_	_	_	_	_	_	_
+
+# Q001849.13
+1	ma-da	ma-da	mada	N	ma-da	land	sux	N1=mada	N1=STEM	mada	N	land, country	_	_	_	_	_	_	_
+2	a-wa-an{ki}-ka	a-wa-an{ki}	Awan	GN	a-wa-an{ki}-ka\n5al2	1	sux	N1=Awan.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L2-NH	Awan.ak.'a	GN	1	_	_	_	_	_	_	_
+
+# Q001849.14
+1	ud-gin₇	ud	ud	N	ud-gin₇	storm	sux	N1=ud.N5=gin	N1=STEM.N5=EQU	ud.gin	N	storm	_	_	_	_	_	_	_
+2	še₁₄	še₁₄	šeg	N	še₁₄\abs	voice	sux	N1=šeg.N5=ø	N1=STEM.N5=ABS	šeg.ø	N	voice	_	_	šeg gi	make noise	to make (a loud) noise, to roar	V/t	V/t
+3	bi₂-in-gi₄	gi₄	gi	V/i	bi₂-in-gi₄	turn	sux	V5=b.V10=i.V11=n.V12=gi.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.gi.ø	V/i	turn	2	mwe	_	_	_	_	_
+
+# Q001849.15
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	dili-a	dili	dili	V/i	dili-a	single	sux	NV2=dili.N5='a	NV2=STEM.N5=L1	dili.'a	V/i	(to be) single, unique, sole	_	_	_	_	_	_	_
+3	mu-un-gurum	gurum	gurum	V/t	mu-un-gurum	bend	sux	V4=mu.V11=n.V12=gurum.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.gurum.ø	V/t	bend, curve, wrap around	_	_	_	_	_	_	_
+
+# Q001849.16
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+2	en-bi	en	en	N	en-bi\abs	lord	sux	N1=en.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	en.bi.ø	N	lord	_	_	_	_	_	_	_
+3	šaŋa-a	šaŋa	šaŋar	V/i	šaŋa-a	oppressed	sux	N1=šaŋar.N5='a	N1=STEM.N5=L1	šaŋar.'a	V/i	(to be) afflicted, oppressed	_	_	_	_	_	_	_
+4	mi-ni-in-dab₅-ba-a	dab₅	dab	V/t	mi-ni-in-dab₅-ba-a	seize	sux	V4=mu.V10=ni.V11=n.V12=dab.V14=ø.V15='a.N5='a	V4=VEN.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.ni.n.dab.ø.'a.'a	V/t	to seize, to take, to hold	_	_	_	_	_	_	_
+
+# Q001849.17
+1	bur	bur	bur	N	bur	bowl	sux	N1=bur	N1=STEM	bur	N	bowl	_	_	_	_	_	_	_
+2	šaŋan	šaŋan	šaŋan	N	šaŋan	flask	sux	N1=šaŋan	N1=STEM	šaŋan	N	flask	_	_	_	_	_	_	_
+3	kug-sig₁₇	kug-sig₁₇	kugsig	N	kug-sig₁₇	gold	sux	N1=kugsig	N1=STEM	kugsig	N	gold	_	_	_	_	_	_	_
+
+# Q001849.18
+1	kiŋ₂	kiŋ₂	kiŋ	V/t	kiŋ₂	work	sux	NV2=kiŋ	NV2=STEM	kiŋ	V/t	to work	_	_	_	_	_	_	_
+2	ga-lam	ga-lam	galam	V/i	ga-lam\abs	skilful	sux	NV2=galam.N5=ø	NV2=STEM.N5=ABS	galam.ø	V/i	(to be) skilful, elaborate, clever, to make artfully	_	_	_	_	_	_	_
+3	kad₅(PAP)	kad₅	kad	V/t	kad₅(PAP)	tie	sux	NV2=kad	NV2=STEM	kad	V/t	tie, gather	_	_	_	_	_	_	_
+
+# Q001849.19
+1	gud-alim	gud-alim	gudalim	N	gud-alim	bovid	sux	N1=gudalim	N1=STEM	gudalim	N	bovid	_	_	_	_	_	_	_
+2	muš-ba	muš	muš	N	muš-ba\dem2\l1	snake	sux	N1=muš.N3=bi.N5='a	N1=STEM.N3=DEM2.N5=L1	muš.bi.'a	N	snake	_	_	_	_	_	_	_
+
+# Q001849.20
+1	šeŋ₃	šeŋ₃	šeŋ	N	šeŋ₃	rain	sux	N1=šeŋ	N1=STEM	šeŋ	V/i	rain	_	_	_	_	_	_	_
+2	gig₂	gig₂	giggi	V/i	gig₂	black	sux	NV2=giggi	NV2=STEM	giggi	V/i	(to be) black	_	_	_	_	_	_	_
+3	ni₂	ni₂	ni	N	ni₂\abs	fear	sux	N1=ni.N5=ø	N1=STEM.N5=ABS	ni.ø	N	fear	_	_	_	_	_	_	_
+4	guru₃	guru₃	gur	V/t	guru₃\l1	lift	sux	NV2=gur.N5='a	NV2=STEM.N5=L1	gur.'a	V/t	lift, carry	_	_	_	_	_	_	_
+
+# Q001849.21
+1	še-er-ga-an	še-er-ga-an	šerkan	N	še-er-ga-an\abs	ornament	sux	N1=šerkan.N5=ø	N1=STEM.N5=ABS	šerkan.ø	N	ornament	_	_	_	_	_	_	_
+2	dug₄-ga-bi	dug₄	dug	V/t	dug₄-ga-bi\abs	speak	sux	NV2=dug.NV4='a.N3=bi.N5=ø	NV2=STEM.NV4=SUB.N3=3-SG-NH-POSS.N5=ABS	dug.'a.bi.ø	V/t	speak	_	_	_	_	_	_	_
+
+# Q001849.22
+1	u₆	u₆	u	N	u₆\abs	admiration	sux	N1=u.N5=ø	N1=STEM.N5=ABS	u.ø	N	admiration	_	_	_	_	_	_	_
+2	di	di	dug	V/t	di	speak	sux	NV2=did	NV2=STEM-PF	did	V/t	speak	_	_	_	_	_	_	_
+3	nu-til-le-dam	til	til	V/i	nu-til-le-dam	complete	sux	NV1=nu.NV2=til.NV3=ed.N6=am	NV1=nu.NV2=STEM.NV3=ed.N6=COP-3-SG	nu.til.ed.am	V/i	complete	_	_	_	_	_	_	_
+
+# Q001849.23
+1	ezen	ezen	ezem	N	ezen	festival	sux	N1=ezem	N1=STEM	ezem	N	festival	_	_	_	_	_	_	_
+2	mah	mah	mah	V/i	mah	great	sux	NV2=mah	NV2=STEM	mah	V/i	great	_	_	_	_	_	_	_
+3	zag-mu	zag-mu	zagmuk	N	zag-mu	new year	sux	N1=zagmuk	N1=STEM	zagmuk	N	new year	_	_	_	_	_	_	_
+4	a	a	a	N	a	water	sux	N1=a	N1=STEM	a	N	water	_	_	_	_	_	_	_
+5	tu₅-a	tu₅	tu	V/t	tu₅-a	cvve	sux	NV2=tu.NV4='a	NV2=STEM.NV4=SUB	tu.'a	V/t	(compound verb verbal element)	_	_	_	_	_	_	_
+
+# Q001849.24
+1	{d}nanna-ka	{d}nanna	Nanna	DN	{d}nanna-ka	1	sux	N1=Nanna.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L1	Nanna.ak.'a	DN	1	_	_	_	_	_	_	_
+
+# Q001849.25
+1	ki	ki	ki	N	ki	place	sux	N1=ki	N1=STEM	ki	N	place	_	_	_	_	_	_	_
+2	dub-šen-e	dub-šen	dubšen	N	dub-šen-e\n5el3	chest	sux	N1=dubšen.N5=e	N1=STEM.N5=L3-NH	dubšen.e	N	chest	_	_	_	_	_	_	_
+3	ka	ka	kag	N	ka\abs	mouth	sux	N1=kag	N1=STEM	kag	N	mouth	_	_	_	_	_	_	_
+4	du₈-hu-ba	du₈	duh	V/t	du₈-hu-ba	loosen	sux	NV2=duh.NV3=ed.N3=bi.N5='a	NV2=STEM.NV3=PF.N3=3-SG-NH-POSS.N5=X	duh.ed.bi.'a	V/t	loosen, release	_	_	_	_	_	_	_
+
+# Q001849.26
+1	muš	muš	muš	N	muš\abs	face	sux	N1=muš.N5=ø	N1=STEM.N5=ABS	muš.ø	N	face	_	_	muš tum	stop working	stop working	V/i	V/t
+2	nu-tum₂-mu-de₃	tum₂	tum	V/t	nu-tum₂-mu-de₃\n5edat	lead	sux	NV1=nu.NV2=tum.NV3=ed.N5=e	NV1=NEG.NV2=STEM.NV3=PF.N5=DAT-NH	nu.tum.ed.e	V/t	to lead	1	mwe	_	_	_	_	_
+
+# Q001849.27
+1	mu-na-dim₂	dim₂	dim	V/t	mu-na-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create	_	_	_	_	_	_	_
+
+# Q001849.28
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q001849.29
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

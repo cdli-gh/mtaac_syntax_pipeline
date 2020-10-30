@@ -1,0 +1,30 @@
+# project: etcsri 
+# textid: Q001755 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001755.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001755.1
+1	ur-niŋar{ŋar}	ur-niŋar{ŋar}	Urniŋar	PN	ur-niŋar{ŋar}	2	sux	N1=Urniŋar	N1=NAME	Urniŋar	PN	Governor of Šuruppag
+
+# Q001755.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+
+# Q001755.3
+1	šuruppak{ki}	šuruppak{ki}	Šuruppag	SN	šuruppak{ki}\gen\abs	1	sux	N1=Šuruppag.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šuruppag.ak.ø	SN	1
+
+# Q001755.4
+1	a-bu-DU₁₀	a-bu-DU₁₀	Abuṭab	PN	a-bu-DU₁₀	1	sux	N1=Abuṭab	N1=NAME	Abuṭab	PN	1
+
+# Q001755.5
+1	dub-sar	dub-sar	dubsar	N	dub-sar\abs	scribe	sux	N1=dubsar.N5=ø	N1=STEM.N5=ABS	dubsar.ø	N	scribe
+
+# Q001755.6
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

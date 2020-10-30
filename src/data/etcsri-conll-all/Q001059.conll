@@ -1,0 +1,77 @@
+# project: etcsri 
+# textid: Q001059 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001059.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001059.1
+1	{d}nin-ŋir₂-su₂-ra	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001059.2
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001059.3
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001059.4
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001059.5
+1	kur	kur	kur	N	kur\l3	mountain	sux	N1=kur.N5=e	N1=STEM.N5=L3-NH	kur.e	N	mountain	_	_	_	_	_	_	_
+2	gu₂	gu₂	gu	N	gu₂\abs	neck	sux	N1=gu.N5=ø	N1=STEM.N5=ABS	gu.ø	N	neck	_	_	_	_	_	_	_
+3	ŋar-ŋar	ŋar-ŋar	ŋar	V/t	ŋar-ŋar	place	sux	NV2=ŋarŋar	NV2=STEM-RDP	ŋarŋar	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q001059.6
+1	{d}nin-ŋir₂-su₂-ke₄	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ke₄	1	sux	N1=Ninŋirsuk.N5=e	N1=NAME.N5=ERG	Ninŋirsuk.e	DN	1	_	_	_	_	_	_	_
+
+# Q001059.7
+1	elam	elam	Elam	GN	elam	1	sux	N1=Elam	N1=NAME	Elam	GN	1	_	_	_	_	_	_	_
+2	šubur	šubur	Šubur	GN	šubur\abs	1	sux	N1=Šubur.N5=ø	N1=NAME.N5=ABS	Šubur.ø	GN	1	_	_	_	_	_	_	_
+
+# Q001059.8
+1	gu₂	gu₂	gu	N	gu₂\abs	neck	sux	N1=gu.N5=ø	N1=STEM.N5=ABS	gu.ø	N	neck	_	_	gu ŋar	submit	submit	V/t	V/t
+2	mu-na-ŋar	ŋar	ŋar	V/t	mu-na-ŋar	place	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ŋar.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ŋar.ø	V/t	put, place, lay down	1	mwe	_	_	_	_	_
+
+# Q001059.9
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	ti-ra-aš₂{ki}	ti-ra-aš₂{ki}	Tiraš	TN	ti-ra-aš₂{ki}\gen\abs	1	sux	N1=Tiraš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Tiraš.ak.ø	TN	1	_	_	_	_	_	_	_
+
+# Q001059.10
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001059.11
+1	pa	pa	pa	N	pa\abs	branch	sux	N1=pa.N5=ø	N1=STEM.N5=ABS	pa.ø	N	branch	_	_	pa e	appear	appear	V/t	V/t
+2	mu-na-e₃	e₃	e	V/i	mu-na-e₃	leave	sux	V4=mu.V6=nn.V7=a.V11=n.V12=e.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.e.ø	V/i	to leave, go out	1	mwe	_	_	_	_	_
+
+# Q001059.12
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001059.13
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	inim-ma	inim	inim	N	inim-ma\n5al2	word	sux	N1=inim.N5='a	N1=STEM.N5=L2-NH	inim.'a	N	word	_	_	_	_	_	_	_
+3	sig₁₀-ga	sig₁₀	sig	V/t	sig₁₀-ga	put	sux	NV2=sig.NV4='a	NV2=STEM.NV4=SUB	sig.'a	V/t	put	_	_	_	_	_	_	_
+
+# Q001059.14
+1	{d}nin-ŋir₂-su₂-ka	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka\gen\abs	1	sux	N1=Ninŋirsuk.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninŋirsuk.ak.ø	DN	1	_	_	_	_	_	_	_
+
+# Q001059.15
+1	kur-kur-še₃	kur-kur	kur	N	kur-kur-še₃	mountain	sux	N1=kurkur.N5=še	N1=STEM-RDP.N5=TERM	kurkur.še	N	mountain	_	_	_	_	_	_	_
+
+# Q001059.16
+1	a₂	a₂	a	N	a₂	arm	sux	N1=a	N1=STEM	a	N	arm	_	_	_	_	_	_	_
+2	{d}nin-ŋir₂-su₂-ka-ta	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka-ta	1	sux	N1=Ninŋirsuk.N5=ak.N5=ta	N1=NAME.N5=GEN.N5=ABL	Ninŋirsuk.ak.ta	DN	1	_	_	_	_	_	_	_
+
+# Q001059.17
+1	lu₂-lu₇	lu₂-lu₇	lu	N	lu₂-lu₇	person	sux	N1=lulu	N1=STEM-RDP	lulu	N	person	_	_	_	_	_	_	_
+2	gaba	gaba	gaba	N	gaba	chest	sux	N1=gaba	N1=STEM	gaba	N	breast, chest, frontier	_	_	_	_	_	_	_
+3	mu-ru-da	ru	ri	V/i	mu-ru-da\abs	impose	sux	V4=mu.V6=nn.V10=ø.V12=ri.V13=ed.V14=e.V15='a.N5=ø	V4=VEN.V6=3-SG-H.V10=L2-SYN.V12=STEM.V13=PF.V14=3-SG-A.V15=SUB.N5=ABS	mu.nn.ø.ri.ed.e.'a.ø	V/i	impose	_	_	_	_	_	_	_
+
+# Q001059.18
+1	nu-tuku	tuku	tuku	V/t	nu-tuku\abs	acquire	sux	NV1=nu.NV2=tuku.N5=ø	NV1=NEG.NV2=STEM.N5=ABS	nu.tuku.ø	V/t	to acquire, to have	_	_	_	_	_	_	_
+

@@ -1,0 +1,35 @@
+# project: etcsri 
+# textid: Q001947 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001947.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001947.1
+1	en-an-na-tum₂-ma	en-an-na-tum₂-ma	Enanatuma	PN	en-an-na-tum₂-ma	1	sux	N1=Enanatuma	N1=NAME	Enanatuma	PN	En-ana-tuma, daughter of Išme-Dagan, king of Isin
+
+# Q001947.2
+1	zirruₓ(|EN.SAL.ME.NUNUZ.ZI.AN.ŠEŠ.KI|)	zirruₓ(|EN.SAL.ME.NUNUZ.ZI.AN.ŠEŠ.KI|)	zirru	N	zirruₓ(|EN.SAL.ME.NUNUZ.ZI.AN.ŠEŠ.KI|)	priestess	sux	N1=zirru	N1=STEM	zirru	N	priestess
+
+# Q001947.3
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen	1	sux	N1=Nanna.N5=ak	N1=NAME.N5=GEN	Nanna.ak	DN	1
+
+# Q001947.4
+1	šag₄	šag₄	šag	N	šag₄	heart	sux	N1=šag	N1=STEM	šag	N	middle
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\gen\l1	1	sux	N1=Urim.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L1	Urim.ak.'a	SN	1
+
+# Q001947.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	{d}iš-me-{d}da-gan	{d}iš-me-{d}da-gan	Išmedagan	RN	{d}iš-me-{d}da-gan	1	sux	N1=Išmedagan	N1=NAME	Išmedagan	RN	4th king of the dynasty of Isin
+
+# Q001947.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1
+3	ki-uri	ki-uri	Akkad	GN	ki-uri\gen\gen\abs	1	sux	N1=Akkad.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Akkad.ak.ak.ø	GN	1
+

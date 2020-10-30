@@ -1,0 +1,42 @@
+# project: etcsri 
+# textid: Q001779 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001779.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001779.2
+1	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+
+# Q001779.3
+1	teš₂-bi-da	teš₂	teš	N	teš₂-bi-da\dem2	unity	sux	N1=teš.N3=bi.N5=da	N1=STEM.N3=DEM2.N5=COM	teš.bi.da	N	unity
+2	na-x	_	_	_	na-x	_	sux	_	_	_	u	_
+
+# Q001779.4
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun
+2	a	_	_	_	a	_	sux	_	_	_	u	_
+3	x-x	_	_	_	x-x	_	sux	_	_	_	u	_
+
+# Q001779.5
+1	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1
+
+# Q001779.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₂{ki}-ma	urim₂{ki}	Urim	SN	urim₂{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q001779.7
+1	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂	1	sux	N1=Enlil	N1=NAME	Enlil	DN	1
+
+# Q001779.8
+1	x-ni-še₃	_	_	_	x-ni-še₃	_	sux	_	_	_	u	_
+
+# Q001779.9
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	a₂-dah	a₂-dah	atah	N	a₂-dah	helper	sux	N1=atah	N1=STEM	atah	N	helper
+

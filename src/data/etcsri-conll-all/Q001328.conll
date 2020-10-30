@@ -1,0 +1,15 @@
+# project: etcsri 
+# textid: Q001328 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001328.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001328.1
+1	meš₃-KALAM-dug₃	meš₃-KALAM-dug₃	Meškalamdug	PN	meš₃-KALAM-dug₃\abs	1	sux	N1=Meškalamdug.N5=ø	N1=NAME.N5=ABS	Meškalamdug.ø	PN	1
+

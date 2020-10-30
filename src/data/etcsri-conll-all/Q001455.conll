@@ -1,0 +1,66 @@
+# project: etcsri 
+# textid: Q001455 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001455.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001455.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001455.3
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001455.4
+1	{d}inana	{d}inana	Inanak	DN	{d}inana\gen	1	sux	N1=Inanak.N5=ak	N1=NAME.N5=GEN	Inanak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001455.5
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	GA	_	_	_	GA	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001455.6
+1	x-da	_	_	_	x-da	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001455.7
+1	x-ba	_	_	_	x-ba	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001455.8
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x-ga-na	_	_	_	x-ga-na	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001455.9
+1	x-da	_	_	_	x-da	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001455.11
+1	x-a-ni-ir	_	_	_	x-a-ni-ir	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001455.12
+1	{d}utu-he₂-ŋal₂	{d}utu-he₂-ŋal₂	Utuheŋal	RN	{d}utu-he₂-ŋal₂	1	sux	N1=Utuheŋal	N1=NAME	Utuheŋal	PN	King of Unug	_	_	_	_	_	_	_
+
+# Q001455.13
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001455.14
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001455.15
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+
+# Q001455.16
+1	limmu₅-ba-ke₄	limmu₅	limmu	NU	limmu₅-ba-ke₄	four	sux	NV2=limmu.N3=bi.N5=ak.N5=e	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	limmu.bi.ak.e	NU	four	_	_	_	_	_	_	_
+
+# Q001455.17
+1	x-ni	_	_	_	x-ni	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+

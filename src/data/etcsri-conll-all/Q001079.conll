@@ -1,0 +1,49 @@
+# project: etcsri 
+# textid: Q001079 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001079.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001079.1
+1	{d}nin-ŋir₂-su₂	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1	_	_	_	_	_	_	_
+
+# Q001079.2
+1	e₂-ninnu-ra	e₂-ninnu	Eninnu	TN	e₂-ninnu-ra	1	sux	N1=Eninnu.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Eninnu.ak.ra	TN	1	_	_	_	_	_	_	_
+
+# Q001079.3
+1	en-an-na-tum₂	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂	1	sux	N1=Enanatum	N1=NAME	Enanatum	RN	En-ana-tum I, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001079.4
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001079.5
+1	lagaš{ki}-ka	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka	1	sux	N1=Lagaš.N5=ak.N5=ak	N1=NAME.N5=GEN.N5=GEN	Lagaš.ak.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001079.6
+1	ŋuruš-a-ni	ŋuruš	ŋuruš	N	ŋuruš-a-ni	male	sux	N1=ŋuruš.N3=ani	N1=STEM.N3=3-SG-H-POSS	ŋuruš.ani	N	young adult male, able-bodied male worker, semi-free male worker	_	_	_	_	_	_	_
+
+# Q001079.7
+1	barag-ki-sumun	barag-ki-sumun	Baragkisumun	PN	barag-ki-sumun	1	sux	N1=Baragkisumun	N1=NAME	Baragkisumun	PN	1	_	_	_	_	_	_	_
+
+# Q001079.8
+1	sukkal-le	sukkal	sukkal	N	sukkal-le	secretary	sux	N1=sukkal.N5=e	N1=STEM.N5=ERG	sukkal.e	N	secretary, envoy	_	_	_	_	_	_	_
+
+# Q001079.9
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001079.10
+1	lugal-ni	lugal	lugal	N	lugal-ni	king	sux	N1=lugal.N3=ani	N1=STEM.N3=3-SG-H-POSS	lugal.ani	N	king	_	_	_	_	_	_	_
+
+# Q001079.11
+1	en-an-na-tum₂-ma-še₃	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂-ma-še₃	1	sux	N1=Enanatum.N5=ak.N5=še	N1=NAME.N5=GEN.N5=TERM	Enanatum.ak.še	RN	En-ana-tum I, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001079.12
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-še₃-ru	ru	ru	V/t	mu-na-še₃-ru	cvve	sux	V4=mu.V6=nn.V7=a.V9=ši.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ši.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

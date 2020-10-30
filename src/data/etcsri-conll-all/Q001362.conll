@@ -1,0 +1,105 @@
+# project: etcsri 
+# textid: Q001362 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001362.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001362.1
+1	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂	1	sux	N1=Enlil	N1=NAME	Enlil	DN	1	_	_	_	_	_	_	_
+
+# Q001362.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kur-kur-ra	kur-kur	kur	N	kur-kur-ra\dat	mountain	sux	N1=kurkur.N5=ak.N5=ra	N1=STEM-RDP.N5=GEN.N5=DAT-H	kurkur.ak.ra	N	mountain	_	_	_	_	_	_	_
+
+# Q001362.3
+1	en-ša₃-kuš₂-an-na	en-ša₃-kuš₂-an-na	Enšakušanak	RN	en-ša₃-kuš₂-an-na	1	sux	N1=Enšakušanak	N1=NAME	Enšakušanak	RN	King of Unug	_	_	_	_	_	_	_
+
+# Q001362.4
+1	en	en	en	N	en	lord	sux	N1=en	N1=STEM	en	N	lord	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+
+# Q001362.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalam-ma	kalam	kalam	N	kalam-ma\gen\erg	land	sux	N1=kalam.N5=ak.N5=e	N1=STEM.N5=GEN.N5=ERG	kalam.ak.e	N	the Land (of Sumer)	_	_	_	_	_	_	_
+
+# Q001362.6
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	diŋir-re-ne	diŋir	diŋir	N	diŋir-re-ne\erg	deity	sux	N1=diŋir.N4=enee.N5=e	N1=STEM.N4=PL.N5=ERG	diŋir.enee.e	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001362.7
+1	e-na-ne₂-eš₂-a	e	dug	V/t	e-na-ne₂-eš₂-a\l1	speak	sux	V2=i.V6=nn.V7=a.V11=n.V12=e.V14=eš.V15='a.N5='a	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM-PL.V14=3-PL.V15=SUB.N5=L1	i.nn.a.n.e.eš.'a.'a	V/t	speak	_	_	_	_	_	_	_
+
+# Q001362.8
+1	kiš{ki}	kiš{ki}	Kiš	SN	kiš{ki}\abs	1	sux	N1=Kiš.N5=ø	N1=NAME.N5=ABS	Kiš.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001362.9
+1	mu-hul	hul	hulu	V/t	mu-hul	bad	sux	V4=mu.V11=n.V12=hulu.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.hulu.ø	V/t	to plunder, raid	_	_	_	_	_	_	_
+
+# Q001362.10
+1	en-bi₂-eš₁₈-tar₂	en-bi₂-eš₁₈-tar₂	Enbieštar	RN	en-bi₂-eš₁₈-tar₂	1	sux	N1=Enentarzid	N1=NAME	Enentarzid	RN	King of Kiš	_	_	_	_	_	_	_
+
+# Q001362.11
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kiš{ki}	kiš{ki}	Kiš	SN	kiš{ki}\gen\abs	1	sux	N1=Kiš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Kiš.ak.ø	SN	1	_	_	_	_	_	_	_
+
+# Q001362.12
+1	mu-dab₅	dab₅	dab	V/t	mu-dab₅	seize	sux	V4=mu.V11=n.V12=dab.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.dab.ø	V/t	to seize, to take, to hold	_	_	_	_	_	_	_
+
+# Q001362.13
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	leader	_	_	_	_	_	_	_
+2	akšak{ki}-ka-ke₄	akšak{ki}	Akšak	SN	akšak{ki}-ka-ke₄	1	sux	N1=Akšak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Akšak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001362.14
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	leader	_	_	_	_	_	_	_
+2	kiš{ki}-ke₄	kiš	Kiš	SN	kiš{ki}-ke₄	1	sux	N1=Kiš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Kiš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001362.15
+1	iri	iri	iri	N	iri	city	sux	N1=iri	N1=STEM	iri	N	city	_	_	_	_	_	_	_
+2	na-ga-hul-a	hul	hulu	V/t	na-ga-hul-a\abs	bad	sux	V1=na.V3=nga.V11=n.V12=hulu.V14=ø.V15='a.N5=ø	V1=MOD7.V3=COOR.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15='a.N5=ABS	na.nga.n.hulu.ø.'a.ø	V/t	to plunder, raid	_	_	_	_	_	_	_
+
+# Q001362.16
+1	x-ga	_	_	_	x-ga	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001362.17
+1	x-ne	_	_	_	x-ne	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001362.18
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+5	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001362.20
+1	šu-ne-ne-a	šu	šu	N	šu-ne-ne-a\n5al2	hand	sux	N1=šu.N3=anenee.N5='a	N1=STEM.N3=3-PL-H-POSS.N5=L2-NH	šu.anenee.'a	N	hand	_	_	_	_	_	_	_
+
+# Q001362.21
+1	mu-ne-gi₄	gi₄	gi	V/i	mu-ne-gi₄	turn	sux	V4=mu.V6=nnee.V10=e.V11=n.V12=gi.V14=ø	V4=VEN.V6=3-PL-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nnee.e.n.gi.ø	V/i	turn	_	_	_	_	_	_	_
+
+# Q001362.22
+1	alan-bi	alan	alan	N	alan-bi	statue	sux	N1=alan.N3=bi	N1=STEM.N3=3-SG-NH-POSS	alan.bi	N	statue	_	_	_	_	_	_	_
+
+# Q001362.23
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver	_	_	_	_	_	_	_
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi	lapis	sux	N1=zagin.N3=bi	N1=STEM.N3=3-SG-NH-POSS	zagin.bi	N	lapis lazuli	_	_	_	_	_	_	_
+
+# Q001362.24
+1	ŋeš	ŋeš	ŋeš	N	ŋeš	tree	sux	N1=ŋeš	N1=STEM	ŋeš	N	tree	_	_	_	_	_	_	_
+2	niŋ₂-gur₁₁-bi	niŋ₂-gur₁₁	niŋgur	N	niŋ₂-gur₁₁-bi\abs	property	sux	N1=niŋgur.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	niŋgur.bi.ø	N	property	_	_	_	_	_	_	_
+
+# Q001362.25
+1	{d}en-lil₂-la	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la	1	sux	N1=Enlil.N5=ra	N1=NAME.N5=DAT-H	Enlil.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001362.26
+1	nibru{ki}-še₃	nibru{ki}	Nibru	SN	nibru{ki}-še₃	1	sux	N1=Nibru.N5=še	N1=NAME.N5=TERM	Nibru.še	SN	1	_	_	_	_	_	_	_
+
+# Q001362.27
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

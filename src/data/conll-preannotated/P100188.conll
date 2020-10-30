@@ -1,0 +1,17 @@
+#new_text=P100188
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	masz-da	maszda[stone]	NOUN	N	Number=Sing	0	_	_	_
+2	x	_	_	_	_	0	_	_	_
+3	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+4	x	_	_	_	_	0	_	_	_
+5	x	_	_	_	_	0	_	_	_
+6	x	_	_	_	_	0	_	_	_
+7	x	_	_	_	_	0	_	_	_
+8	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+9	x	_	_	_	_	0	_	_	_
+10	x	_	_	_	_	0	_	_	_
+11	x	_	_	_	_	0	_	_	_
+12	mar	mar[wagon]	NOUN	N	Number=Sing	0	_	_	_
+13	x	_	_	_	_	0	_	_	_
+14	x	_	_	_	_	0	_	_	_
+15	...	_	_	_	_	0	_	_	_

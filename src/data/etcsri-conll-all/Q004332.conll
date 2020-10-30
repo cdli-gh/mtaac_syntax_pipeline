@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q004332 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004332.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004332.1
+1	šu-ku-bu	šu-ku-bu	Šukubu	PN	šu-ku-bu	1	sux	N1=Šukubu	N1=NAME	Šukubu	PN	1
+
+# Q004332.2
+1	arad₂	arad₂	arad	N	arad₂	slave	sux	N1=arad	N1=STEM	arad	N	slave, servant
+2	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi\gen\abs	1	sux	N1=Šulgir.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šulgir.ak.ø	RN	2nd king of the 3rd dynasty of Urim
+

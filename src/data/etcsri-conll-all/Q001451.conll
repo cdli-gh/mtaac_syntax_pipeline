@@ -1,0 +1,35 @@
+# project: etcsri 
+# textid: Q001451 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001451.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001451.1
+1	{d}nin-gal	{d}nin-gal	Ningal	DN	{d}nin-gal	1	sux	N1=Ningal	N1=NAME	Ningal	DN	1
+
+# Q001451.2
+1	{d}nin	{d}nin	nin	N	{d}nin	lady	sux	N1=nin	N1=STEM	nin	N	lady
+2	urim₅{ki}-ma-ra	urim₅{ki}	Urim	SN	urim₅{ki}-ma-ra	1	sux	N1=Urim.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Urim.ak.ra	SN	1
+
+# Q001451.3
+1	kud-da	kud-da	Kuda	RN	kud-da	1	sux	N1=Kuda	N1=NAME	Kuda	RN	1
+
+# Q001451.4
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household
+2	{d}inana	{d}inana	Inanak	DN	{d}inana\gen	1	sux	N1=Inanak.N5=ak	N1=NAME.N5=GEN	Inanak.ak	DN	1
+
+# Q001451.5
+1	ur	ur	ur	N	ur	servant	sux	N1=ur	N1=STEM	ur	N	servant, devotee
+2	{d}utu-ke₄	{d}utu	Utu	DN	{d}utu-ke₄	1	sux	N1=Utu.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Utu.ak.e	DN	1
+
+# Q001451.6
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	KI	_	_	_	KI	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+

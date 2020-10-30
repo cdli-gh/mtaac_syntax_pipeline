@@ -1,0 +1,25 @@
+# project: etcsri 
+# textid: Q001297 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001297.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001297.1
+1	{d}inana	{d}inana	Inanak	DN	{d}inana\dat	1	sux	N1=Inanak.N5=ra	N1=NAME.N5=DAT-H	Inanak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001297.2
+1	ki-x-kuš₂	ki-x-kuš₂	Ki-X-kuš	PN	ki-x-kuš₂	1	sux	N1=Ki-X-kuš	N1=NAME	Ki-X-kuš	PN	1	_	_	_	_	_	_	_
+
+# Q001297.3
+1	simug	simug	simug	N	simug\erg	smith	sux	N1=simug.N5=e	N1=STEM.N5=ERG	simug.e	N	smith, metalworker	_	_	_	_	_	_	_
+
+# Q001297.4
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-ru	ru	ru	V/t	mu-ru\dat	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

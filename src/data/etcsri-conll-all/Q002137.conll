@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q002137 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002137.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q002137.1
+1	ri-im-{d}suen	ri-im-{d}suen	Rimsin	RN	ri-im-{d}suen	1	sux	N1=Rimsin	N1=NAME	Rimsin	RN	King of Larsam
+
+# Q002137.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	IR₁₁-{d}suen	IR₁₁-{d}suen	Waradsin	RN	IR₁₁-{d}suen	1	sux	N1=Waradsin	N1=NAME	Waradsin	RN	King of Larsam
+
+# Q002137.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	larsam{ki}-ma	larsam{ki}	Larsam	SN	larsam{ki}-ma\gen\gen\abs	1	sux	N1=Larsam.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Larsam.ak.ak.ø	SN	1
+

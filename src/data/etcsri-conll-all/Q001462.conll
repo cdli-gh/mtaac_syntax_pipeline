@@ -1,0 +1,57 @@
+# project: etcsri 
+# textid: Q001462 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001462.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001462.1
+1	{d}lamma	{d}lamma	lammar	N	{d}lamma	deity	sux	N1=lammar	N1=STEM	lammar	N	deity	_	_	_	_	_	_	_
+
+# Q001462.2
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1	_	_	_	_	_	_	_
+
+# Q001462.3
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q001462.4
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001462.5
+1	ur-{d}nin-ŋir₂-su	ur-{d}nin-ŋir₂-su	Urninŋirsu	RN	ur-{d}nin-ŋir₂-su	1	sux	N1=Urninŋirsu	N1=NAME	Urninŋirsu	RN	Ur-Ninŋirsu I, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001462.6
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001462.7
+1	lagaš{ki}-ka-še₃	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-še₃	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Lagaš.ak.ak.še	SN	1	_	_	_	_	_	_	_
+
+# Q001462.8
+1	nin-niŋar-e-si	nin-niŋar-e-si	Ninniŋaresi	PN	nin-niŋar-e-si	1	sux	N1=Ninniŋaresi	N1=NAME	Ninniŋaresi	PN	Spouse of Ur-Ninŋirsu I, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001462.9
+1	dam-ne₂	dam	dam	N	dam-ne₂	spouse	sux	N1=dam.N3=ani.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=ERG	dam.ani.e	N	spouse	_	_	_	_	_	_	_
+
+# Q001462.10
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+2	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q001462.11
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ri	ri	ru	V/t	mu-na-ri	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ri.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ri.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+
+# Q001462.12
+1	maš-da-re-a-ba	maš-da-re-a	mašdarea	N	maš-da-re-a-ba\gen	payment	sux	N1=mašdarea.N3=bi.N5=ak	N1=STEM.N3=DEM2.N5=GEN	mašdarea.bi.ak	N	payment	_	_	_	_	_	_	_
+
+# Q001462.13
+1	nin-ŋu₁₀	nin	nin	N	nin-ŋu₁₀\erg	lady	sux	N1=nin.N3=ŋu.N5=e	N1=STEM.N3=1-SG-POSS.N5=ERG	nin.ŋu.e	N	lady	_	_	_	_	_	_	_
+2	he₂-ma-zi-zi	zi-zi	zig	V/t	he₂-ma-zi-zi\v11sg3p	rise	sux	V1=ha.V2=i.V4=m.V5=ba.V11=n.V12=zizi.V14=e	V1=MOD1.V2=FIN.V4=VEN.V5=MID.V11=3-SG-H-P.V12=STEM-PF.V14=3-SG-A	ha.i.m.ba.n.zizi.e	V/i	raise	_	_	_	_	_	_	_
+
+# Q001462.14
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name	_	_	_	_	_	_	_
+

@@ -1,0 +1,25 @@
+# project: etcsri 
+# textid: Q003651 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003651.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003651.1
+1	barag-nam-tar-ra	barag-nam-tar-ra	Baragnamtara	PN	barag-nam-tar-ra	1	sux	N1=Baragnamtara	N1=NAME	Baragnamtara	PN	Spouse of Lugal-Anda, ruler of Lagaš
+
+# Q003651.2
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	lugal-an-da	lugal-an-da	Lugalanda	RN	lugal-an-da	1	sux	N1=Lugalanda	N1=NAME	Lugalanda	RN	Ruler of Lagaš
+
+# Q003651.3
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q003651.4
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen\gen\abs	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Lagaš.ak.ak.ø	SN	1
+

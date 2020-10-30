@@ -1,0 +1,91 @@
+# project: etcsri 
+# textid: Q001431 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001431.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001431.1
+1	{d}en-lil₂-le	{d}en-lil₂	Enlil	DN	{d}en-lil₂-le	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+
+# Q001431.2
+1	bi₂-dug₄	dug₄	dug	V/t	bi₂-dug₄	speak	sux	V5=b.V10=i.V11=n.V12=dug.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.dug.ø	V/t	speak	_	_	_	_	_	_	_
+
+# Q001431.4
+1	{d}šar-ka₃-li₃-LUGAL-ri₂	{d}šar-ka₃-li₃-LUGAL-ri₂	Šarkališarri	RN	{d}šar-ka₃-li₃-LUGAL-ri₂	1	sux	N1=Šarkališarri	N1=NAME	Šarkališarri	RN	5th king of the dynasty of Agade	_	_	_	_	_	_	_
+
+# Q001431.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q001431.6
+1	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001431.7
+1	sagi	sagi	šagia	N	sagi	cup-bearer	sux	N1=šagia	N1=STEM	šagia	N	cup-bearer	_	_	_	_	_	_	_
+
+# Q001431.8
+1	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001431.9
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q001431.10
+1	a-ga-de₃{ki}	a-ga-de₃{ki}	Agade	SN	a-ga-de₃{ki}\gen	1	sux	N1=Agade.N5=ak	N1=NAME.N5=GEN	Agade.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001431.11
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q001431.12
+1	uŋ₃	uŋ₃	uŋ	N	uŋ₃	people	sux	N1=uŋ	N1=STEM	uŋ	N	people	_	_	_	_	_	_	_
+
+# Q001431.13
+1	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂\gen\gen\dat	1	sux	N1=Enlil.N5=ak.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=GEN.N5=DAT-H	Enlil.ak.ak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001431.14
+1	igi	igi	igi	N	igi	face	sux	N1=igi	N1=STEM	igi	N	face	_	_	_	_	_	_	_
+2	en-na	en-na	enna	CNJ	en-na	until	sux	enna	STEM	enna	CNJ	until, up to	_	_	_	_	_	_	_
+
+# Q001431.15
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	LAGAB-ta	_	_	_	LAGAB-ta	_	sux	_	_	_	X	_	_	_	_	_	_	_	_
+
+# Q001431.17
+1	niŋin-ta	niŋin	niŋin	N	niŋin-ta	total	sux	N1=niŋin.N5=ta	N1=STEM.N5=ABL	niŋin.ta	N	total, sum, (the) whole, entirety	_	_	_	_	_	_	_
+
+# Q001431.18
+1	in-na-an-šum₂	šum₂	šum	V/t	in-na-an-šum₂	give	sux	V2=i.V6=nn.V7=a.V11=n.V12=šum.V14=ø	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.a.n.šum.ø	V/t	give	_	_	_	_	_	_	_
+
+# Q001431.20
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	nag-bu	nag-bu	nagbu	N	nag-bu	water	sux	N1=nagbu	N1=STEM	nagbu	N	waters, sources	_	_	_	_	_	_	_
+
+# Q001431.21
+1	{id₂}idigna	{id₂}idigna	Idigna	WN	{id₂}idigna	1	sux	N1=Idigna	N1=NAME	Idigna	WN	1	_	_	_	_	_	_	_
+
+# Q001431.22
+1	{id₂}buranun-na-bi-da	{id₂}buranun	Buranun	WN	{id₂}buranun-na-bi-da\gen\l3	1	sux	N1=Buranun.N3=bi.N5=da.N5=ak.N5=e	N1=NAME.N3=DEM1.N5=COM.N5=GEN.N5=L3-NH	Buranun.bi.da.ak.e	WN	Euphrates	_	_	_	_	_	_	_
+
+# Q001431.23
+1	sa₂	sa₂	sa	N	sa₂\abs	equal	sux	NV2=sa.N5=ø	NV2=STEM.N5=ABS	sa.ø	V/t	equal	_	_	sa dug	arrive	to arrive, to cause to arrive (regularly)	V/t	V/t
+2	dug₄-ga	dug₄	dug	V/t	dug₄-ga\l1	speak	sux	NV2=dug.NV4='a.N5='a	NV2=STEM.NV4=SUB.N5=L1	dug.'a.'a	V/t	speak	1	mwe	_	_	_	_	_
+
+# Q001431.24
+1	a-ne₂	a-ne₂	ane	IP	a-ne₂\abs	he	sux	N1=ane.N5=ø	N1=STEM.N5=ABS	ane.ø	IP	she, he	_	_	_	_	_	_	_
+2	{d}en-lil₂-ra	{d}en-lil₂	Enlil	DN	{d}en-lil₂-ra	1	sux	N1=Enlil.N5=ra	N1=NAME.N5=DAT-H	Enlil.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001431.25
+1	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\l1	1	sux	N1=Nibru.N5='a	N1=NAME.N5=L1	Nibru.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001431.26
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-ru	ru	ru	V/t	mu-ru\dat	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+
+# Q001431.28
+1	aš₃-am₃	aš₃	aš	NU	aš₃-am₃	six	sux	NV2=aš.N5=ø.N6=am	NV2=STEM.N5=ABS.N6=COP-3-SG	aš.ø.am	NU	six	_	_	_	_	_	_	_
+2	šid-bi	šid	šid	N	šid-bi\cop	count	sux	N1=šid.N5=ø.N6=am	N1=STEM.N5=ABS.N6=COP-3-SG	šid.ø.am	V/t	number	_	_	_	_	_	_	_
+

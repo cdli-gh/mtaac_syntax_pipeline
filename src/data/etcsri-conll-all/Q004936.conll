@@ -1,0 +1,30 @@
+# project: etcsri 
+# textid: Q004936 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004936.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004936.1
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim
+
+# Q004936.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga\abs	strong	sux	NV2=kalag.NV4='a.N5=ø	NV2=STEM.NV4=SUB.N5=ABS	kalag.'a.ø	V/i	strong
+
+# Q004936.3
+1	uš-ŋu₁₀	uš-ŋu₁₀	Ušŋu	PN	uš-ŋu₁₀	1	sux	N1=Ušŋu	N1=NAME	Ušŋu	PN	1
+2	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+
+# Q004936.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ur-šu-ga-lam-ma	ur-šu-ga-lam-ma	Uršugalamak	PN	ur-šu-ga-lam-ma\gen\abs	1	sux	N1=Uršugalamak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Uršugalamak.ak.ø	PN	1
+
+# Q004936.5
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

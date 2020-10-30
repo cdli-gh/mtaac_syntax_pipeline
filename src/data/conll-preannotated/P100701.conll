@@ -1,0 +1,24 @@
+#new_text=P100701
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	udu	udu[sheep]	NOUN	N	Number=Sing	4	ABS	_	_
+3	kur-ra	kur[mountain]	NOUN	N	Case=Gen,Abs|Number=Sing	2	GEN	_	_
+4	Ba-usz2	usz[die]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+5	ki	ki[place]	NOUN	N	Number=Sing	9	ABL	_	_
+6	ur-ru-ta	Urru[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	5	GEN	_	_
+7	a-kal-la	Akalla[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	9	ERG	_	_
+8	szu	szu[hand]	NOUN	N	Animacy=Nhum|Number=Sing	9	L3-NH	_	_
+9	ba-ti	n]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+10	iti	iti[month]	NOUN	N	Number=Sing	17	L1	_	_
+11	nesag	Nesag[1]	PROPN	MN	Number=Sing	10	appos	_	_
+12	mu	mu[year]	NOUN	N	Number=Sing	17	ERG	_	_
+13	{d}szul-gi	Szulgi[1]	PROPN	RN	Animacy=Hum|Number=Sing	12	appos	_	_
+14	lugal-e	lugal[king]	NOUN	N	Case=Erg|Number=Sing	12	appos	_	_
+15	bad3	bad[wall]	NOUN	N	Number=Sing	17	ABS	_	_
+16	ma-da	mada[land]	NOUN	N	Case=Gen,Abs|Number=Sing	15	GEN	_	_
+17	mu-du3	n]	VERB	V	Number=Sing|Person=3	0	_	_	_
+18	a-kal-la	Akalla[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+19	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	0	_	_	_
+20	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+21	ur-nigar{gar}	Urnigar[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+22	szusz3	kusz[cattle_manager]	NOUN	N	Case=Gen|Number=Sing	21	GEN	_	_

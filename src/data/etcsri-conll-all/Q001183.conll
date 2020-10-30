@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001183 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001183.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001183.1
+1	tun₃-ak	tun₃-ak	Tunak	RN	tun₃-ak	1	sux	N1=Tunak	N1=NAME	Tunak	RN	1
+
+# Q001183.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001183.3
+1	|BAHAR₂.E₂|	|BAHAR₂.E₂|	BAHAR-E	SN	|BAHAR₂.E₂|\gen\abs	1	sux	N1=BAHAR-E.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	BAHAR-E.ak.ø	SN	1
+

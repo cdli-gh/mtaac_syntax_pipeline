@@ -1,0 +1,51 @@
+# project: etcsri 
+# textid: Q001381 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001381.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001381.1
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	unug{ki}	unug{ki}	Unug	SN	unug{ki}\gen	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001381.2
+1	u₂-a	u₂-a	ua	N	u₂-a	provisioner	sux	N1=ua	N1=STEM	ua	N	provisioner, provider	_	_	_	_	_	_	_
+2	{d}inana	{d}inana	Inanak	DN	{d}inana	1	sux	N1=Inanak	N1=NAME	Inanak	DN	1	_	_	_	_	_	_	_
+
+# Q001381.3
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	{d}meš₃-saŋŋa-unug{ki}	{d}meš₃-saŋŋa-unug{ki}	Mešsaŋŋaunugak	DN	{d}meš₃-saŋŋa-unug{ki}\gen	1	sux	N1=Mešsaŋŋaunugak.N5=ak	N1=NAME.N5=GEN	Mešsaŋŋaunugak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001381.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	tud-da	tud	utud	V/t	tud-da	bear	sux	NV2=utud.NV4='a	NV2=STEM.NV4=SUB	utud.'a	V/t	bear	_	_	_	_	_	_	_
+
+# Q001381.5
+1	{d}nisaba	{d}nisaba	Nisabak	DN	{d}nisaba\gen	1	sux	N1=Nisabak.N5=ak	N1=NAME.N5=GEN	Nisabak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001381.7
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001381.8
+1	{d}inana	{d}inana	Inanak	DN	{d}inana\gen	1	sux	N1=Inanak.N5=ak	N1=NAME.N5=GEN	Inanak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001381.9
+1	ŋeštug₂	ŋeštug₂	ŋeštug	N	ŋeštug₂\abs	ear	sux	N1=ŋeštug.N5=ø	N1=ŋeštug.N5=ø	ŋeštug.ø	N	ear	_	_	_	_	_	_	_
+2	šum₂-ma	šum₂	šum	V/t	šum₂-ma	give	sux	NV2=šum.NV4='a	NV2=STEM.NV4=SUB	šum.'a	V/t	give	_	_	_	_	_	_	_
+
+# Q001381.10
+1	{d}en-ki	{d}en-ki	Enkik	DN	{d}en-ki\gen	1	sux	N1=Enkik.N5=ak	N1=NAME.N5=GEN	Enkik.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001381.11
+1	saŋ	saŋ	saŋ	N	saŋ	head	sux	N1=saŋ	N1=STEM	saŋ	N	slave	_	_	_	_	_	_	_
+2	a₂	a₂	a	N	a₂\abs	arm	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	arm	_	_	a e	rear	rear, bring up (a child), to take care of	V/t	V/t
+3	e₃-a	e₃	e	V/i	e₃-a	leave	sux	NV2=e.NV4='a	NV2=STEM.NV4=SUB	e.'a	V/i	to leave, go out	2	mwe	_	_	_	_	_
+4	{d}nin-girimₓ(|A.BU.HA.DU|)	{d}nin-girimₓ(|A.BU.HA.DU|)	Ningirim	DN	{d}nin-girimₓ(|A.BU.HA.DU|)\gen	1	sux	N1=Ningirim.N5=ak	N1=NAME.N5=GEN	Ningirim.ak	DN	1	_	_	_	_	_	_	_
+

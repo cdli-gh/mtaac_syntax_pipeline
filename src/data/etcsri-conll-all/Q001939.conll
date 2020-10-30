@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q001939 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001939.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001939.1
+1	{d}šu-i₃-li₂-šu	{d}šu-i₃-li₂-šu	Šuilišu	RN	{d}šu-i₃-li₂-šu	1	sux	N1=Šuilišu	N1=NAME	Šuilišu	RN	2nd king of the dynasty of Isin
+
+# Q001939.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001939.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	ma-da-na	ma-da	mada	N	ma-da-na\gen\abs	land	sux	N1=mada.N3=ani.N5=ak.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=ABS	mada.ani.ak.ø	N	land, country
+
+# Q001939.4
+1	{d}šara₂-mu-tum₂	{d}šara₂-mu-tum₂	Šaramutum	PN	{d}šara₂-mu-tum₂	1	sux	N1=Šaramutum	N1=NAME	Šaramutum	PN	1
+
+# Q001939.5
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+
+# Q001939.6
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ur-{d}šul-pa-e₃	ur-{d}šul-pa-e₃	Uršulpae	PN	ur-{d}šul-pa-e₃\gen\abs	2	sux	N1=Uršulpae.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Uršulpae.ak.ø	PN	2
+

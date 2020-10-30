@@ -1,0 +1,28 @@
+# project: etcsri 
+# textid: Q001293 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001293.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001293.1
+1	bur	bur	bur	N	bur\abs	bowl	sux	N1=bur.N5=ø	N1=STEM.N5=ABS	bur.ø	N	bowl	_	_	_	_	_	_	_
+
+# Q001293.2
+1	DI-abgal	DI-abgal	DI-abgal	PN	DI-abgal	1	sux	N1=DI-abgal	N1=NAME	DI-abgal	PN	1	_	_	_	_	_	_	_
+
+# Q001293.3
+1	mu₆-sub₃	mu₆-sub₃	musub	N	mu₆-sub₃\erg	heardsman	sux	N1=musub.N5=e	N1=STEM.N5=ERG	musub.e	N	shepherd, herdsman, an official	_	_	_	_	_	_	_
+
+# Q001293.4
+1	{d}inana	{d}inana	Inanak	DN	{d}inana\dat	1	sux	N1=Inanak.N5=ra	N1=NAME.N5=DAT-H	Inanak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001293.5
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-ru	ru	ru	V/t	mu-ru\dat	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

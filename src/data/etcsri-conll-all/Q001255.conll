@@ -1,0 +1,34 @@
+# project: etcsri 
+# textid: Q001255 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001255.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001255.1
+1	{d}RU-kalam-ma	RU-kalam-ma	RUkalamak	DN	{d}RU-kalam-ma\dat	1	sux	N1=RUkalamak.N5=ra	N1=NAME.N5=DAT.H	RUkalamak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001255.2
+1	pa₄-UN	pa₄-UN	PaUN	PN	pa₄-UN	1	sux	N1=PaUN	N1=NAME	PaUN	PN	1	_	_	_	_	_	_	_
+
+# Q001255.3
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+
+# Q001255.4
+1	nam-mah	nam-mah	Nammah	RN	nam-mah	1	sux	N1=Nammah	N1=NAME	Nammah	RN	Ruler of Nibru	_	_	_	_	_	_	_
+
+# Q001255.5
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001255.6
+1	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen\gen\erg	1	sux	N1=Nibru.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Nibru.ak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001255.7
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-ru	ru	ru	V/t	mu-ru\dat	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

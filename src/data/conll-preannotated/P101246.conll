@@ -1,0 +1,10 @@
+#new_text=P101246
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	2(disz)	2(disz)[one]	NUM	NU	_	_	_	_	_
+2	ud5	uzud[goat]	NOUN	N	Case=Abs|Number=Sing	_	_	_	_
+3	ba-usz2	usz[die]	VERB	V	Number=Sing|Person=3|Voice=Mid	ba-usz[kill][-ø]	MID.V.3-SG-S	_	_
+4	ki	ki[place]	NOUN	N	Number=Sing	_	_	_	_
+5	lugal-masz-zu	Lugalmaszzu[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+6	sipa-ta	sipa[shepherd]	NOUN	N	Case=Gen,Abl|Number=Sing	_	_	_	_
+7	iti	iti[month]	NOUN	N	Number=Sing	iti[month]	N	_	iti[month][-ak]
+8	{d}li9-si4	Lisi[1]	PROPN	MN	Number=Sing	_	_	_	_

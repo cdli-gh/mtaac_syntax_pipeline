@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q001355 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001355.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001355.1
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x-ka	_	_	_	x-ka	_	sux	_	_	_	X	_
+
+# Q001355.2
+1	mu-na-dirig	dirig	dirig	V/t	mu-na-dirig	exceed	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dirig.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dirig.ø	V/t	create
+
+# Q001355.3
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	aya₂-na-ka	aya₂	aya	N	aya₂-na-ka\n5al2	father	sux	N1=aya.N3=ani.N5=ak.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=L2-NH	aya.ani.ak.'a	N	father
+
+# Q001355.4
+1	mu-na-dirig	dirig	dirig	V/t	mu-na-dirig	exceed	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dirig.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dirig.ø	V/t	create
+

@@ -1,0 +1,16 @@
+# project: etcsri 
+# textid: Q001239 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001239.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001239.1
+1	ur-{d}nin-kilim	ur-{d}nin-kilim	Urninkilimak	PN	ur-{d}nin-kilim	1	sux	N1=Urninkilimak	N1=NAME	Urninkilimak	PN	1
+2	ugula	ugula	ugula	N	ugula\abs	overseer	sux	N1=ugula.N5=ø	N1=STEM.N5=ABS	ugula.ø	N	overseer
+

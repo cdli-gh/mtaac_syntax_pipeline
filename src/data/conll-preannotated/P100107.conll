@@ -1,0 +1,20 @@
+#new_text=P100107
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(disz)	1(disz)[one]	NUM	NU	_	0	_	_	_
+2	igi-sag	igisag[choose]	VERB	V	_	7	ABS	_	_
+3	szum2-ma	szum[garlic]	NOUN	N	Case=Gen|Number=Sing	7|7	GEN|ABL	_	_
+4	ki	ki[place]	NOUN	N	Number=Sing	3	GEN	_	_
+5	lu2-dingir-ra-ta	Ludingira[1]	PROPN	PN	Animacy=Hum|Case=Gen,Abl|Number=Sing	4	GEN	_	_
+6	ur-am3-ma-ke4	ammak[1]	PROPN	PN	Animacy=Hum|Case=Erg|Number=Sing	7	ERG	_	_
+7	su-su-dam	sug[repay]	VERB	V	Number=Sing|Person=3	0	_	_	_
+8	...	_	_	_	_	0	_	_	_
+9	...	_	_	_	_	0	_	_	_
+10	x	_	_	_	_	0	_	_	_
+11	...	_	_	_	_	0	_	_	_
+12	mu-ni-sze3	mu[name]	NOUN	N	Animacy=Hum|Number=Sing	18	TERM	_	_
+13	iti	iti[month]	NOUN	N	Number=Sing	18	L1	_	_
+14	sze-sag11-ku5	Szesagku[1]	PROPN	MN	Number=Sing	13	appos	_	_
+15	mu	mu[year]	NOUN	N	Number=Sing	18	ABS	_	_
+16	en	en[priest]	NOUN	N	Number=Sing	15	appos	_	_
+17	eridu{ki}	Eridu[1]	PROPN	SN	Case=Gen,Abs|Number=Sing	16	GEN	_	_
+18	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_

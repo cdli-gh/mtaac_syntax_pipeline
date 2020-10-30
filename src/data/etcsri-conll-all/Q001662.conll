@@ -1,0 +1,59 @@
+# project: etcsri 
+# textid: Q001662 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux akk 
+# type: text 
+# xml:id: Q001662.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001662.1
+1	šul-gi	šul-gi	Šulgir	RN	šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+
+# Q001662.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001662.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q001662.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1
+3	ki-uri-ke₄	ki-uri	Akkad	GN	ki-uri-ke₄	1	sux	N1=Akkad.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Akkad.ak.e	GN	1
+
+# Q001662.5
+1	e₂-meš₃-lam	e₂-meš₃-lam	Emešlam	TN	e₂-meš₃-lam	1	sux	N1=Emešlam	N1=NAME	Emešlam	TN	1
+
+# Q001662.6
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}meš₃-lam-ta-e₃-a	{d}meš₃-lam-ta-e₃-a	Mešlamtaea	DN	{d}meš₃-lam-ta-e₃-a\gen	1	sux	N1=Mešlamtaea.N5=ak	N1=NAME.N5=GEN	Mešlamtaea.ak	DN	1
+
+# Q001662.7
+1	gu₂-du₈-a{ki}	gu₂-du₈-a{ki}	Gudua	SN	gu₂-du₈-a{ki}\gen\abs	Kutha	sux	N1=Gudua.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Gudua.ak.ø	SN	1
+
+# Q001662.8
+1	mu-du₃-a	du₃	du	V/t	mu-du₃-a\abs	build	sux	V4=mu.V11=n.V12=du.V14=ø.V15='a.N5=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ABS	mu.n.du.ø.'a.ø	V/t	to build
+
+# Q001662.9
+1	ša	_	_	_	ša	_	akk	_	_	_	L	_
+2	UGU₂	_	_	_	UGU₂	_	akk	_	_	_	L	_
+3	{NA₄}NA.RU₂.A	_	_	_	{NA₄}NA.RU₂.A	_	akk	_	_	_	L	_
+4	LIBIR.RA	_	_	_	LIBIR.RA	_	akk	_	_	_	L	_
+
+# Q001662.10
+1	ša	_	_	_	ša	_	akk	_	_	_	L	_
+2	e₂-meš₃-lam	_	Emešlam	TN	e₂-meš₃-lam	1	akk	_	_	Emešlam	TN	1
+3	qe₃-reb	_	_	_	qe₃-reb	_	akk	_	_	_	L	_
+4	GU₂-DU₈-A{KI}	_	Gudua	SN	GU₂-DU₈-A{KI}	Kutha	akk	_	_	Gudua	SN	1
+
+# Q001662.11
+1	IM	_	_	_	IM	_	akk	_	_	_	L	_
+2	GID₂.DA	_	_	_	GID₂.DA	_	akk	_	_	_	L	_
+3	{m}{d}EN-TIN-iṭ	_	Bel-uballiṭ	PN	{m}{d}EN-TIN-iṭ	1	akk	_	_	Bel-uballiṭ	PN	1
+4	DUB.SAR	_	_	_	DUB.SAR	_	akk	_	_	_	L	_
+

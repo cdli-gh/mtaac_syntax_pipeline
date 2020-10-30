@@ -1,0 +1,15 @@
+# project: etcsri 
+# textid: Q001340 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001340.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001340.1
+1	aya₂-ul₄-gal	aya₂-ul₄-gal	Ayaulgal	PN	aya₂-ul₄-gal	1	sux	N1=Ayaulgal	N1=NAME	Ayaulgal	PN	1
+

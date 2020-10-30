@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q003220 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003220.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q003220.2
+1	lagaš{ki}-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ke₄	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q003220.3
+1	niŋ₂-du₇-e	niŋ₂-du₇	niŋdu	N	niŋ₂-du₇-e\n5el3	appropriate thing	sux	N1=niŋdu.N5=e	N1=STEM.N5=L3-NH	niŋdu.e	N	appropriate thing	_	_	_	_	_	_	_
+2	pa	pa	pa	N	pa\abs	branch	sux	N1=pa.N5=ø	N1=STEM.N5=ABS	pa.ø	N	branch	_	_	pa e	appear	appear	V/t	V/t
+3	mu-na-e₃	e₃	e	V/i	mu-na-e₃	leave	sux	V4=mu.V6=nn.V7=a.V11=n.V12=e.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.e.ø	V/i	to leave, go out	2	mwe	_	_	_	_	_
+
+# Q003220.4
+1	e₂-ninnu-anzud₂{mušen}-babbar₂-ra-ni	e₂-ninnu-anzud₂{mušen}-babbar₂	Eninnu-anzubabbar	TN	e₂-ninnu-anzud₂{mušen}-babbar₂-ra-ni\abs	1	sux	N1=Eninnu-anzubabbar.N3=ani.N5=ø	N1=NAME.N3=3-SG-H-POSS.N5=ABS	Eninnu-anzubabbar.ani.ø	TN	1	_	_	_	_	_	_	_
+

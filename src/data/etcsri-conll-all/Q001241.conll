@@ -1,0 +1,15 @@
+# project: etcsri 
+# textid: Q001241 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001241.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001241.1
+1	me-barag-si	me-barag-si	Enmebaragesi	RN	me-barag-si	1	sux	N1=Enmebaragesi	N1=NAME	Enmebaragesi	RN	King of Kiš
+

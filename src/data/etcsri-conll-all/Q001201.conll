@@ -1,0 +1,36 @@
+# project: etcsri 
+# textid: Q001201 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001201.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001201.1
+1	diŋir-mah	diŋir-mah	Diŋirmah	DN	diŋir-mah\dat	1	sux	N1=Diŋirmah.N5=ra	N1=NAME.N5=DAT-H	Diŋirmah.ra	DN	1
+
+# Q001201.2
+1	e₂-igi-nim-pa-e₃	e₂-igi-nim-pa-e₃	Eiginimpae	RN	e₂-igi-nim-pa-e₃	1	sux	N1=Eiginimpae	N1=NAME	Eiginimpae	RN	Ruler of Adab
+
+# Q001201.3
+1	ensiₓ(|GAR.PA.TE.SI|)	ensiₓ(|GAR.PA.TE.SI|)	ensik	N	ensiₓ(|GAR.PA.TE.SI|)	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001201.4
+1	adab{ki}	adab{ki}	Adab	SN	adab{ki}\gen\erg	1	sux	N1=Adab.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Adab.ak.e	SN	1
+
+# Q001201.5
+1	e₂-mah	e₂-mah	Emah	TN	e₂-mah\abs	3	sux	N1=Emah.N5=ø	N1=NAME.N5=ABS	Emah.ø	TN	3
+2	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+
+# Q001201.6
+1	ur₂-be₂	ur₂	ur	N	ur₂-be₂\n5el3	root	sux	N1=ur.N3=bi.N5=e	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	ur.bi.e	N	root
+2	ki-še₃	ki	ki	N	ki-še₃	place	sux	N1=ki.N5=še	N1=STEM.N5=TERM	ki.še	N	place
+
+# Q001201.7
+1	temen	temen	temen	N	temen\abs	foundation	sux	N1=temen.N5=ø	N1=STEM.N5=ABS	temen.ø	N	foundation, foundation peg
+2	ba-sig₉	sig₉	sig	V/t	ba-sig₉	put	sux	V5=ba.V11=n.V12=sig.V14=ø	V5=MID.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ba.n.sig.ø	V/t	put
+

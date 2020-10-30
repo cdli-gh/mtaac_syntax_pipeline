@@ -1,0 +1,23 @@
+#new_text=P101706
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	a-sza3	aszag[field]	NOUN	N	Number=Sing	_	_	_	_
+2	4(asz)	4(asz)[one]	NUM	NU	_	_	_	_	_
+3	...	_	_	_	_	_	_	_	_
+4	sza3-bi-ta	szag[heart]	NOUN	N	Animacy=Nhum|Case=Abl|Number=Sing	szag[heart]-bi-ta	N.3-SG-NH-POSS.ABL	_	_
+5	...	_	_	_	_	_	_	_	_
+6	1(bur3)	1(bur)[unit]	NOUN	N	Number=Sing	1(bur)[unit]	_	_	_
+7	2(esze3)	2(esze)[unit]	NOUN	N	Number=Sing	_	_	_	_
+8	3(iku)	3(iku)[unit]	NOUN	N	Number=Sing	_	_	_	_
+9	GAN2	GAN[surface]	NOUN	N	Number=Sing	_	_	_	_
+10	...	_	_	_	_	_	_	_	_
+11	2(esze3)	2(esze)[unit]	NOUN	N	Number=Sing	_	_	_	_
+12	3(iku)	3(iku)[unit]	NOUN	N	Number=Sing	_	_	_	_
+13	1/2(iku)	1/2(iku)[unit]	NOUN	N	Number=Sing	_	_	_	_
+14	1/4(iku)	1/4(iku)[unit]	NOUN	N	Number=Sing	_	_	_	_
+15	GAN2	GAN[surface]	NOUN	N	Number=Sing	_	_	_	_
+16	...	_	_	_	_	_	_	_	_
+17	2(esze3)	2(esze)[unit]	NOUN	N	Number=Sing	_	_	_	_
+18	4(iku)	4(iku)[unit]	NOUN	N	Number=Sing	_	_	_	_
+19	1/2(iku)	1/2(iku)[unit]	NOUN	N	Number=Sing	_	_	_	_
+20	GAN2	GAN[field]	NOUN	N	Number=Sing	_	_	_	_
+21	...	_	_	_	_	_	_	_	_

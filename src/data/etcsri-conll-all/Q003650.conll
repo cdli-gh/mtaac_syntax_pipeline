@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q003650 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003650.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003650.1
+1	lugal-an-da-nu-huŋ-ŋa₂	lugal-an-da-nu-huŋ-ŋa₂	Lugalanda	RN	lugal-an-da-nu-huŋ-ŋa₂	1	sux	N1=Lugalanda	N1=NAME	Lugalanda	RN	Ruler of Lagaš
+
+# Q003650.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q003650.3
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen\abs	1	sux	N1=Lagaš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lagaš.ak.ø	SN	1
+

@@ -1,0 +1,142 @@
+# project: etcsri 
+# textid: Q001556 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001556.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001556.1
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1	_	_	_	_	_	_	_
+
+# Q001556.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001556.3
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001556.4
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd	_	_	_	_	_	_	_
+2	zid	zid	zid	V/i	zid	right	sux	NV2=zid	NV2=STEM	zid	V/i	right	_	_	_	_	_	_	_
+3	inim	inim	inim	N	inim	word	sux	N1=inim	N1=STEM	inim	N	word	_	_	_	_	_	_	_
+4	gen₆-na	gen₆	gin	V/t	gen₆-na	establish	sux	NV2=gin.NV4='a	NV2=STEM.NV4=SUB	gin.'a	V/i	establish, confirm, make firm	_	_	_	_	_	_	_
+
+# Q001556.5
+1	{d}nin-ŋir₂-su-ka-ke₄	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka-ke₄	1	sux	N1=Ninŋirsuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninŋirsuk.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001556.6
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	bi₃-lu₅-da	bi₃-lu₅-da	biluda	N	bi₃-lu₅-da	rituals	sux	N1=biluda	N1=STEM	biluda	N	rituals	_	_	_	_	_	_	_
+3	diŋir-re-ne-ke₄	diŋir	diŋir	N	diŋir-re-ne-ke₄\n5el3	deity	sux	N1=diŋir.N4=enee.N5=ak.N5=e	N1=STEM.N4=PL.N5=GEN.N5=L3-NH	diŋir.enee.ak.e	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001556.7
+1	si	si	si	N	si\abs	horn	sux	N1=si.N5=ø	N1=STEM.N5=ABS	si.ø	N	horn	_	_	_	_	_	_	_
+2	bi₂-sa₂-sa₂-a	sa₂-sa₂	sa	N	bi₂-sa₂-sa₂-a\v10l3\erg	equal	sux	V5=b.V10=i.V11=n.V12=sasa.V14=ø.V15='a.N5=e	V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P.V15=SUB.N5=ERG	b.i.n.sasa.ø.'a.e	V/t	equal	_	_	_	_	_	_	_
+
+# Q001556.8
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	e₂-ninnu	e₂-ninnu	Eninnu	TN	e₂-ninnu	1	sux	N1=Eninnu	N1=NAME	Eninnu	TN	1	_	_	_	_	_	_	_
+
+# Q001556.9
+1	{d}nin-ŋir₂-su-ka	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka\abs	1	sux	N1=Ninŋirsuk.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninŋirsuk.ak.ø	DN	1	_	_	_	_	_	_	_
+
+# Q001556.10
+1	in-du₃-a-ta	du₃	du	V/t	in-du₃-a-ta	build	sux	V2=i.V11=n.V12=du.V14=ø.V15='a.N5=ta	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ABL	i.n.du.ø.'a.ta	V/t	to build	_	_	_	_	_	_	_
+
+# Q001556.11
+1	nam-ha-ni	nam-ha-ni	Nammahni	PN	nam-ha-ni	1	sux	N1=Nammahni	N1=NAME	Nammahni	PN	1	_	_	_	_	_	_	_
+2	gala-mah	gala-mah	galamah	N	gala-mah	singer	sux	N1=galamah	N1=STEM	galamah	N	chief lament singer	_	_	_	_	_	_	_
+
+# Q001556.12
+1	e₂-munus-gil-sa-ka-ra	e₂-munus-gil-sa	Emunusgilsak	TN	e₂-munus-gil-sa-ka-ra	1	sux	N1=Emunusgilsak.N5=ak.N5=ra	N1=Emunusgilsak.N5=GEN.N5=DAT-H	Emunusgilsak.ak.ra	TN	1	_	_	_	_	_	_	_
+
+# Q001556.13
+1	kug-babbar	kug-babbar	kugbabbar	N	kug-babbar	silver	sux	N1=kugbabbar	N1=STEM	kugbabbar	N	silver	_	_	_	_	_	_	_
+2	zabar	zabar	zabar	N	zabar	bronze	sux	N1=zabar	N1=STEM	zabar	N	bronze	_	_	_	_	_	_	_
+
+# Q001556.14
+1	dupsik	dupsik	dupsik	N	dupsik	basket	sux	N1=dupsik	N1=STEM	dupsik	N	basket	_	_	_	_	_	_	_
+2	sahar-ra	sahar	sahar	N	sahar-ra\gen	dust	sux	N1=sahar.N5=ak	N1=STEM.N5=GEN	sahar.ak	N	dust	_	_	_	_	_	_	_
+
+# Q001556.15
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+2	niŋ₂	niŋ₂	niŋ	N	niŋ₂	thing	sux	N1=niŋ	N1=STEM	niŋ	N	thing	_	_	_	_	_	_	_
+3	en-na	en-na	enna	CNJ	en-na	until	sux	enna	STEM	enna	CNJ	until, up to	_	_	_	_	_	_	_
+4	ŋal₂-la-aš	ŋal₂	ŋal	V/i	ŋal₂-la-aš	be	sux	NV2=ŋal.NV4='a.N5=še	NV2=STEM.NV4=SUB.N5=TERM	ŋal.'a.še	V/i	be	_	_	_	_	_	_	_
+
+# Q001556.16
+1	e₂-a-na	e₂	e	N	e₂-a-na	house	sux	N1=e.N3=ani.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L1	e.ani.'a	N	house, temple	_	_	_	_	_	_	_
+2	lu₂	lu₂	lu	N	lu₂\abs	person	sux	N1=lu.N5=ø	N1=STEM.N5=ABS	lu.ø	N	person	_	_	_	_	_	_	_
+3	nu-ku₄(REC145)-ku₄(REC145)-de₃	ku₄(REC145)-ku₄(REC145)	kur	V/i	nu-ku₄(REC145)-ku₄(REC145)-de₃	enter	sux	NV1=nu.NV2=kuku.NV3=ed.N5=e	NV1=NEG.NV2=STEM-PF.NV3=PF.N5=DAT-NH	nu.kuku.ed.e	V/i	enter	_	_	_	_	_	_	_
+
+# Q001556.17
+1	ama-ar-gi₄-bi	ama-ar-gi₄	amargi	N	ama-ar-gi₄-bi\abs	reversion	sux	N1=amargi.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	amargi.bi.ø	N	reversion to a previous state	_	_	_	_	_	_	_
+2	mu-na-ŋar	ŋar	ŋar	V/t	mu-na-ŋar	place	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ŋar.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ŋar.ø	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q001556.18
+1	mu-bi-a	mu	mu	N	mu-bi-a\l1	year	sux	N1=mu.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L1	mu.bi.'a	N	year	_	_	_	_	_	_	_
+2	6(bur₃)	_	_	_	6(bur₃)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+3	NE@s	_	_	_	NE@s	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+4	E	_	_	_	E	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+5	GABA	_	_	_	GABA	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+6	ašag	ašag	ašag	N	ašag	field	sux	N1=ašag	N1=STEM	ašag	N	field	_	_	_	_	_	_	_
+
+# Q001556.19
+1	inim	inim	inim	N	inim\abs	word	sux	N1=inim.N5=ø	N1=STEM.N5=ABS	inim.ø	N	word	_	_	inim gin	confirm	to confirm	V/t	V/t
+2	mu-na-gen₆	gen₆	gin	V/t	mu-na-gen₆	establish	sux	V4=mu.V6=nn.V7=a.V11=n.V12=gin.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=gin.V14=3-SG-P	mu.nn.a.n.gin.ø	V/i	establish, confirm, make firm	1	mwe	_	_	_	_	_
+
+# Q001556.21
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+5	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+6	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001556.22
+1	NI	_	_	_	NI	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001556.23
+1	TUR	_	_	_	TUR	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	UR	_	_	_	UR	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001556.24
+1	MU	_	_	_	MU	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001556.25
+1	MU	_	_	_	MU	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001556.28
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+4	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001556.29
+1	e₂-munus-gil-sa-ka	e₂-munus-gil-sa	Emunusgilsak	TN	e₂-munus-gil-sa-ka	1	sux	N1=Emunusgilsak.N5='a	N1=NAME.N5=L1	Emunusgilsak.'a	TN	1	_	_	_	_	_	_	_
+
+# Q001556.30
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	dug₄-gaba	dug₄	dug	V/t	dug₄-gaba\l1	speak	sux	NV2=dug.NV4='a.N3=bi.N5='a	NV2=STEM.NV4=SUB.N3=3-SG-NH-POSS.N5=L1	dug.'a.bi.'a	V/t	speak	_	_	_	_	_	_	_
+3	mu-na-ni-gub	gub	gub	V/i	mu-na-ni-gub	stand	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=gub.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.gub.ø	V/i	stand	_	_	_	_	_	_	_
+
+# Q001556.31
+1	alan-ba	alan	alan	N	alan-ba\dem2	statue	sux	N1=alan.N3=bi.N5=ak	N1=STEM.N3=DEM2.N5=GEN	alan.bi.ak	N	statue	_	_	_	_	_	_	_
+
+# Q001556.32
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a\erg	1	sux	N1=Gudea.N5=e	N1=NAME.N5=ERG	Gudea.e	RN	1	_	_	_	_	_	_	_
+2	ma-ba	ba	ba	V/t	ma-ba	allot	sux	V4=m.V7=a.V11=n.V12=ba.V14=ø	V4=VEN.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-A	m.a.n.ba.ø	V/t	allot	_	_	_	_	_	_	_
+
+# Q001556.33
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name	_	_	_	_	_	_	_
+

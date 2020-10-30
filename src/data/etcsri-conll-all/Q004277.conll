@@ -1,0 +1,25 @@
+# project: etcsri 
+# textid: Q004277 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004277.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004277.1
+1	{d}bil₂-ga-meš₃-ra	{d}bil₂-ga-meš₃	Gilgameš	DN	{d}bil₂-ga-meš₃-ra	1	sux	N1=Gilgameš.N5=ra	N1=NAME.N5=DAT-H	Gilgameš.ra	DN	1	_	_	_	_	_	_	_
+
+# Q004277.2
+1	ur-{d}nu-muš-da	ur-{d}nu-muš-da	Urnumušda	PN	ur-{d}nu-muš-da	1	sux	N1=Urnumušda	N1=NAME	Urnumušda	PN	1	_	_	_	_	_	_	_
+
+# Q004277.3
+1	aga₃-us₂	aga₃-us₂	agaʾus	N	aga₃-us₂\erg	soldier	sux	N1=aga'us.N5=e	N1=STEM.N5=ERG	aga'us.e	N	a soldier	_	_	_	_	_	_	_
+
+# Q004277.4
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

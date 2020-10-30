@@ -1,0 +1,26 @@
+# project: etcsri 
+# textid: Q004288 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004288.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004288.1
+1	dug₄-ga-zid-da	dug₄-ga-zid-da	Dugazida	PN	dug₄-ga-zid-da	3	sux	N1=Dugazida	N1=NAME	Dugazida	PN	3
+
+# Q004288.2
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+
+# Q004288.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	niŋ₂-u₂-rum	niŋ₂-u₂-rum	Niŋurum	PN	niŋ₂-u₂-rum\gen	1	sux	N1=Niŋurum.N5=ak	N1=NAME.N5=GEN	Niŋurum.ak	PN	1
+
+# Q004288.4
+1	sagi	sagi	šagia	N	sagi	cup-bearer	sux	N1=šagia	N1=STEM	šagia	N	cup-bearer
+2	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi\gen\abs	1	sux	N1=Šulgir.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šulgir.ak.ø	RN	2nd king of the 3rd dynasty of Urim
+

@@ -1,0 +1,46 @@
+# project: etcsri 
+# textid: Q001814 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001814.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001814.2
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	ul	ul	ul	N	ul	distant	sux	NV2=ul	NV2=STEM	ul	V/i	distant time	_	_	_	_	_	_	_
+3	uŋ₃	uŋ₃	uŋ	N	uŋ₃\abs	people	sux	N1=uŋ.N5=ø	N1=STEM.N5=ABS	uŋ.ø	N	people	_	_	_	_	_	_	_
+4	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki ŋar	found	to found	V/t	V/t
+5	ŋar-ra-ta	ŋar	ŋar	V/t	ŋar-ra-ta	place	sux	NV2=ŋar.NV4='a.N5=ta	NV2=STEM.NV4=SUB.N5=ABL	ŋar.'a.ta	V/t	put, place, lay down	4	mwe	_	_	_	_	_
+
+# Q001814.3
+1	na-ru₂-a	na-ru₂-a	narua	N	na-ru₂-a	stele	sux	N1=narua	N1=STEM	narua	N	stele	_	_	_	_	_	_	_
+2	mah	mah	mah	V/i	mah\abs	great	sux	NV2=mah.N5=ø	NV2=mah.N5=ABS	mah.ø	V/i	great	_	_	_	_	_	_	_
+
+# Q001814.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	na-me	na-me	name	XP	na-me\erg	somebody	sux	N1=name.N5=e	N1=STEM.N5=ERG	name.e	XP	some, any	_	_	_	_	_	_	_
+
+# Q001814.6
+1	nu-mu-na-an-dim₂	dim₂	dim	V/t	nu-mu-na-an-dim₂	create	sux	V1=nu.V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V1=NEG.V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	nu.mu.nn.a.n.dim.ø	V/t	create	_	_	_	_	_	_	_
+
+# Q001814.8
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim	_	_	_	_	_	_	_
+
+# Q001814.9
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001814.10
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001814.11
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)	_	_	_	_	_	_	_
+3	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba\abs	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ø	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	limmu.bi.ak.ø	NU	four	_	_	_	_	_	_	_
+

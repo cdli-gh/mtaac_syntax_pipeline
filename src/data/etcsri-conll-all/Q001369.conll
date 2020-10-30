@@ -1,0 +1,47 @@
+# project: etcsri 
+# textid: Q001369 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001369.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001369.1
+1	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\dat	1	sux	N1=Nanna.N5=ra	N1=NAME.N5=DAT-H	Nanna.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001369.2
+1	a-nu-zu	a-nu-zu	Anuzu	PN	a-nu-zu	1	sux	N1=Anuzu	N1=NAME	Anuzu	PN	1	_	_	_	_	_	_	_
+
+# Q001369.3
+1	dam-gar₃-ra	dam-gar₃	damgar	N	dam-gar₃-ra\erg	merchant	sux	N1=damgar.N5=e	N1=STEM.N5=ERG	damgar.e	N	merchant	_	_	_	_	_	_	_
+
+# Q001369.4
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001369.5
+1	lugal-ki-ne₂-eš₂-du₇-du₇	lugal-ki-ne₂-eš₂-du₇-du₇	Lugalkiŋenešdudud	RN	lugal-ki-ne₂-eš₂-du₇-du₇	1	sux	N1=Lugalkiŋenešdudud	N1=NAME	Lugalkiŋenešdudud	RN	King of Unug, king of Urim	_	_	_	_	_	_	_
+
+# Q001369.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kiš{ki}-a	kiš{ki}	Kiš	SN	kiš{ki}-a\gen\gen\term	1	sux	N1=Kiš.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Kiš.ak.ak.še	SN	1	_	_	_	_	_	_	_
+
+# Q001369.7
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001369.8
+1	nin-banda₃-še₃	nin-banda₃	Ninbanda	PN	nin-banda₃-še₃	1	sux	N1=Ninbanda.N5=ak.N5=še	N1=NAME.N5=GEN.N5=TERM	Ninbanda.ak.še	PN	Spouse of Lugal-kiĝeneš-dudu, king of Unug (?)	_	_	_	_	_	_	_
+
+# Q001369.9
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001369.10
+1	lugal-kisal-si-še₃	lugal-kisal-si	Lugalkisalesi	RN	lugal-kisal-si-še₃	1	sux	N1=Lugalkisalesi.N5=ak.N5=še	N1=NAME.N5=GEN.N5=TERM	Lugalkisalesi.ak.še	RN	King of Unug, king of Urim	_	_	_	_	_	_	_
+
+# Q001369.11
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

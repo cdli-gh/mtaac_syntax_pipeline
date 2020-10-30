@@ -1,0 +1,28 @@
+# project: etcsri 
+# textid: Q001399 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001399.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001399.1
+1	mu-sar-ra	mu-sar-ra	musara	N	mu-sar-ra	inscription	sux	N1=musara	N1=STEM	musara	N	inscription
+
+# Q001399.2
+1	ki-gal-la	ki-gal	kigal	N	ki-gal-la\n5al2	platform	sux	N1=kigal.N5='a	N1=STEM.N5=L2-NH	kigal.'a	N	platform, pedestal
+
+# Q001399.3
+1	a-ab-sar	sar	sar	V/t	a-ab-sar\v14sg3s	write	sux	V2=aa.V5=b.V10=ø.V12=sar.V14=ø	V2=FIN-L2.V5=3-NH.V10=L2-SYN.V12=STEM.V14=3-SG-S	aa.b.ø.sar.ø	V/t	write
+
+# Q001399.4
+1	mu-sar-ra	mu-sar-ra	musara	N	mu-sar-ra	inscription	sux	N1=musara	N1=STEM	musara	N	inscription
+
+# Q001399.5
+1	murgu	murgu	murgu	N	murgu	shoulder	sux	N1=murgu	N1=STEM	murgu	N	shoulder
+2	lugal-zag-ge-si	lugal-zag-ge-si	Lugalzagesi	RN	lugal-zag-ge-si\gen\gen\abs	1	sux	N1=Lugalzagesi.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Lugalzagesi.ak.ak.ø	RN	1
+

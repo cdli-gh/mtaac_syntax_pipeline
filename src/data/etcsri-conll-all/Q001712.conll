@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001712 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001712.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001712.1
+1	lu₂-{d}na-ru₂-a	lu₂-{d}na-ru₂-a	Lunarua	PN	lu₂-{d}na-ru₂-a	1	sux	N1=Lunarua	N1=NAME	Lunarua	PN	1
+
+# Q001712.2
+1	nu-{ŋeš}kiri₆	nu-{ŋeš}kiri₆	nukirik	N	nu-{ŋeš}kiri₆	gardener	sux	N1=nukirik	N1=STEM	nukirik	N	gardener, horticulturalist
+
+# Q001712.3
+1	e₂-a-ni-ša	e₂-a-ni-ša	Eaniša	PN	e₂-a-ni-ša\gen\abs	1	sux	N1=Eaniša.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Eaniša.ak.ø	PN	(Accompanying) consort of Šulgi, king of Urim
+

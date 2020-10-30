@@ -1,0 +1,24 @@
+# project: etcsri 
+# textid: Q001212 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001212.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001212.1
+1	e₂-kiri₆	e₂-kiri₆	Ekiri	TN	e₂-kiri₆\abs	1	sux	N1=Ekiri.N5=ø	N1=NAME.N5=ABS	Ekiri.ø	TN	1
+
+# Q001212.2
+1	ama-a-na-ak	ama-a-na-ak	Amaanaak	PN	ama-a-na-ak	1	sux	N1=Amaanaak	N1=NAME	Amaanaak	PN	1
+
+# Q001212.3
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+
+# Q001212.4
+1	inim-utu-zid	inim-utu-zid	Inimutuzid	PN	inim-utu-zid\gen\abs	2	sux	N1=Inimutuzid.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Inimutuzid.ak.ø	PN	2
+

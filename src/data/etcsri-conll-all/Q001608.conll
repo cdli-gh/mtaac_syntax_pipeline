@@ -1,0 +1,32 @@
+# project: etcsri 
+# textid: Q001608 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001608.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001608.2
+1	lagaš{ki}-ka-še₃	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-še₃	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=še	N1=NAME.N5=GEN.N5=GEN.N5=TERM	Lagaš.ak.ak.še	SN	1
+
+# Q001608.3
+1	lu₂-{d}šara₂	lu₂-{d}šara₂	Lušara	PN	lu₂-{d}šara₂	1	sux	N1=Lušara	N1=NAME	Lušara	PN	1
+
+# Q001608.4
+1	nu-banda₃	nu-banda₃	nubanda	N	nu-banda₃	overseer	sux	N1=nubanda	N1=STEM	nubanda	N	overseer
+
+# Q001608.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	gu₃-de₂-a	gu₃-de₂-a	Gudea	PN	gu₃-de₂-a	2	sux	N1=Gudea	N1=NAME	Gudea	PN	2
+
+# Q001608.6
+1	nu-banda₃-ke₄	nu-banda₃	nubanda	N	nu-banda₃-ke₄	overseer	sux	N1=nubanda.N3=ak.N5=e	N1=STEM.N3=GEN.N5=ERG	nubanda.ak.e	N	overseer
+
+# Q001608.7
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also
+2	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life
+

@@ -1,0 +1,67 @@
+# project: etcsri 
+# textid: Q001494 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001494.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001494.1
+1	{d}nin-ŋir₂-su	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su	1	sux	N1=Ninŋirsuk	N1=NAME	Ninŋirsuk	DN	1
+
+# Q001494.2
+1	ur-saŋ	ur-saŋ	ursaŋ	N	ur-saŋ	hero	sux	N1=ursaŋ	N1=STEM	ursaŋ	N	hero, warrior
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001494.3
+1	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1
+
+# Q001494.4
+1	lugal-a-ni	lugal	lugal	N	lugal-a-ni\dat	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king
+
+# Q001494.5
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1
+
+# Q001494.6
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001494.7
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1
+
+# Q001494.8
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+2	e₂-ninnu	e₂-ninnu	Eninnu	TN	e₂-ninnu	1	sux	N1=Eninnu	N1=NAME	Eninnu	TN	1
+
+# Q001494.9
+1	{d}nin-ŋir₂-su-ka	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka\abs	1	sux	N1=Ninŋirsuk.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninŋirsuk.ak.ø	DN	1
+
+# Q001494.10
+1	in-du₃-a	du₃	du	V/t	in-du₃-a\erg	build	sux	V2=i.V11=n.V12=du.V14=ø.V15='a.N5=e	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=ERG	i.n.du.ø.'a.e	V/t	to build
+
+# Q001494.11
+1	abul	abul	abula	N	abul	gate	sux	N1=abula	N1=STEM	abula	N	gate
+2	ka₂-sur-ra	ka₂-sur-ra	Kasura	SN	ka₂-sur-ra	1	sux	N1=Kasura	N1=NAME	Kasura	SN	1
+
+# Q001494.12
+1	igi	igi	igi	N	igi	eye	sux	N1=igi	N1=STEM	igi	N	eye
+2	u₆	u₆	u	N	u₆\abs	admiration	sux	N1=u.N5=ø	N1=STEM.N5=ABS	u.ø	N	admiration
+3	di	di	dug	V/t	di	speak	sux	NV2=did	NV2=STEM-PF	did	V/t	speak
+
+# Q001494.13
+1	he₂-ŋal₂	he₂-ŋal₂	heŋal	N	he₂-ŋal₂\abs	plenty	sux	N1=heŋal.N5=ø	N1=STEM.N5=ABS	heŋal.ø	N	plenty
+2	il₂-ni	il₂	il	V/t	il₂-ni\abs	raise	sux	NV2=il.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	il.ani.ø	V/t	raise
+
+# Q001494.14
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+
+# Q001494.15
+1	ki-be₂	ki	ki	N	ki-be₂\n5el3	place	sux	N1=ki.N3=bi.N5=e	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	ki.bi.e	N	place
+2	mu-na-gi₄	gi₄	gi	V/i	mu-na-gi₄	turn	sux	V4=mu.V6=nn.V7=a.V11=n.V12=gi.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.gi.ø	V/i	turn
+
+# Q001494.16
+1	{ŋeš}ig-kam	{ŋeš}ig	ig	N	{ŋeš}ig-kam	door	sux	N1=ig.N5=ak.N6=am	N1=STEM.N5=GEN.N6=COP-3-SG	ig.ak.am	N	door
+

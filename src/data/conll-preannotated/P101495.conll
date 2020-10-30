@@ -1,0 +1,24 @@
+#new_text=P101495
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	1(esze3)	1(esze)[unit]	NOUN	N	Number=Sing	_	_	_	_
+2	3(iku)	3(iku)[unit]	NOUN	N	Number=Sing	_	_	_	_
+3	GAN2	GAN[surface]	NOUN	N	Number=Sing	_	_	_	_
+4	...	_	_	_	_	_	_	_	_
+5	uru4-a	uru[sow]	VERB	V	_	_	_	_	_
+6	ugula	ugula[overseer]	NOUN	N	Number=Sing	_	_	_	_
+7	szesz-kal-la	Szeszkala[1]	PROPN	PN	Animacy=Hum|Number=Sing	Szeszkala[1][-ak]	PN.GEN	_	_
+8	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	kiszib[seal]	N	_	_
+9	i7-pa-e3	Ipa'e[1]	PROPN	PN	Animacy=Hum|Number=Sing	Ipa'e[1]	PN	_	_
+10	nu-banda3-gu4	nubandagu[ox_overseer]	NOUN	N	Case=Gen|Number=Sing	_	_	_	_
+11	a-sza3	aszag[field]	NOUN	N	Number=Sing	_	_	_	_
+12	la2-tur	Latur[1]	PROPN	FN	Number=Sing	_	_	_	_
+13	mu	mu[year]	NOUN	N	Number=Sing	mu[name]	N	_	mu[year]
+14	{d}amar-{d}suen	Amarsuen[1]	PROPN	RN	Animacy=Hum|Number=Sing	_	_	_	_
+15	lugal-e	lugal[king]	NOUN	N	Case=Erg|Number=Sing	_	_	_	_
+16	ur-bi2-lum{ki}	Urbillum[1]	PROPN	SN	Case=Abs|Number=Sing	_	_	_	_
+17	mu-hul	n]	VERB	V	Number=Sing|Person=3	mu[-n]-hulu[destroy][-ø]	VEN.3-SG-H-A.V.3-SG-P	_	mu[-n]-hulu[bad][-ø][-'a]
+18	i7-pa-e3	Ipa'e[1]	PROPN	PN	Animacy=Hum|Number=Sing	Ipa'e[1]	PN	_	_
+19	dumu	dumu[child]	NOUN	N	Number=Sing	_	_	_	_
+20	lugal-uszurx(|LAL2.TUG2|)	Lugaluszurx[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+21	nu-banda3-gu4	nubandagu[ox_overseer]	NOUN	N	Number=Sing	_	_	_	_
+22	{d}szara2	Szara[1]	PROPN	DN	Animacy=Hum|Case=Gen,Gen|Number=Sing	Szara[1][-ak]	DN.GEN	_	Szara[1][-ak][-ø]

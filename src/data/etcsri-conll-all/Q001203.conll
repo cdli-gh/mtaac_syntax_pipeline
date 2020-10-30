@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q001203 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001203.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001203.1
+1	e₂-kiri₆	e₂-kiri₆	Ekiri	TN	e₂-kiri₆\abs	1	sux	N1=Ekiri.N5=ø	N1=NAME.N5=ABS	Ekiri.ø	TN	1
+
+# Q001203.2
+1	lugal-da-lu	lugal-da-lu	Lugaldalu	RN	lugal-da-lu	1	sux	N1=Lugaldalu	N1=NAME	Lugaldalu	RN	King of Adab
+
+# Q001203.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	adab{ki}	adab{ki}	Adab	SN	adab{ki}\gen\abs	1	sux	N1=Adab.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Adab.ak.ø	SN	1
+

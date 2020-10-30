@@ -1,0 +1,51 @@
+# project: etcsri 
+# textid: Q003646 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003646.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q003646.2
+1	a₂	a₂	a	N	a₂\abs	arm	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	arm	_	_	a šum	give power	give power	V/t	V/t
+2	šum₂-ma	šum₂	šum	V/t	šum₂-ma	give	sux	NV2=šum.NV4='a	NV2=STEM.NV4=SUB	šum.'a	V/t	give	1	mwe	_	_	_	_	_
+
+# Q003646.3
+1	{d}en-lil₂-ke₄	{d}en-lil₂	Enlil	DN	{d}en-lil₂-ke₄	1	sux	N1=Enlil.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Enlil.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q003646.4
+1	ŋeštug₃	ŋeštug₃	ŋeštug	N	ŋeštug₃\abs	ear	sux	N1=ŋeštug.N5=ø	N1=ŋeštug.N5=ø	ŋeštug.ø	N	ear	_	_	_	_	_	_	_
+2	šum₂-ma	šum₂	šum	V/t	šum₂-ma	give	sux	NV2=šum.NV4='a	NV2=STEM.NV4=SUB	šum.'a	V/t	give	_	_	_	_	_	_	_
+
+# Q003646.5
+1	{d}en-ki-ke₄	{d}en-ki	Enkik	DN	{d}en-ki-ke₄	1	sux	N1=Enkik.N5=e	N1=NAME.N5=ERG	Enkik.e	DN	1	_	_	_	_	_	_	_
+
+# Q003646.7
+1	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	mu pad	nominate	to nominate, to proclaim one's name publicly	V/t	V/t
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	1	mwe	_	_	_	_	_
+
+# Q003646.8
+1	{d}hendur-saŋ	{d}hendur-saŋ	Hendursaŋak	DN	{d}hendur-saŋ\gen	1	sux	N1=Hendursaŋak.N5=ak	N1=NAME.N5=GEN	Hendursaŋak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q003646.9
+1	gu₅-li	gu₅-li	guli	N	gu₅-li	friend	sux	N1=guli	N1=STEM	guli	N	friend	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q003646.10
+1	{d}lugal-urub{ki}	{d}lugal-urub{ki}	Lugalurubak	DN	{d}lugal-urub{ki}\gen	1	sux	N1=Lugalurubak.N5=ak	N1=NAME.N5=GEN	Lugalurubak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q003646.11
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	aya₂-kur-gal	aya₂-kur-gal	Ayakurgal	RN	aya₂-kur-gal	1	sux	N1=Ayakurgal	N1=NAME	Ayakurgal	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q003646.12
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q003646.13
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen\gen\erg	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1	_	_	_	_	_	_	_
+

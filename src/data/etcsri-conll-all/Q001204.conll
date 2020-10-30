@@ -1,0 +1,18 @@
+# project: etcsri 
+# textid: Q001204 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001204.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001204.1
+1	e₂-kiri₆	e₂-kiri₆	Ekiri	TN	e₂-kiri₆\abs	1	sux	N1=Ekiri.N5=ø	N1=NAME.N5=ABS	Ekiri.ø	TN	1
+
+# Q001204.2
+1	lum-ma	lum-ma	Luma	RN	lum-ma	2	sux	N1=Luma	N1=NAME	Luma	RN	King of Adab
+

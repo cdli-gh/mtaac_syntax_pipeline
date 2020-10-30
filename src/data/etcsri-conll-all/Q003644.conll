@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q003644 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q003644.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q003644.2
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	ti-ra-aš₂{ki}	ti-ra-aš₂{ki}	Tiraš	TN	ti-ra-aš₂{ki}\gen\abs	1	sux	N1=Tiraš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Tiraš.ak.ø	TN	1
+
+# Q003644.3
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build
+

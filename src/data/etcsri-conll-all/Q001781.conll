@@ -1,0 +1,24 @@
+# project: etcsri 
+# textid: Q001781 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001781.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001781.1
+1	{d}nin-lil₂	{d}nin-lil₂	Ninlil	DN	{d}nin-lil₂	1	sux	N1=Ninlil	N1=NAME	Ninlil	DN	1
+
+# Q001781.2
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady
+
+# Q001781.3
+1	nam-ti-il	nam-ti-il	namtil	N	nam-ti-il	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q001781.4
+1	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+

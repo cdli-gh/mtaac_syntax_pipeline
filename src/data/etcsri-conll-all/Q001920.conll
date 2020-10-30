@@ -1,0 +1,64 @@
+# project: etcsri 
+# textid: Q001920 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001920.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001920.1
+1	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂	1	sux	N1=Enlil	N1=NAME	Enlil	DN	1	_	_	_	_	_	_	_
+
+# Q001920.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kur-kur-ra	kur-kur	kur	N	kur-kur-ra	mountain	sux	N1=kurkur.N5=ak	N1=STEM-RDP.N5=GEN	kurkur.ak	N	mountain	_	_	_	_	_	_	_
+
+# Q001920.3
+1	lugal-a-ni-ir	lugal	lugal	N	lugal-a-ni-ir	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king	_	_	_	_	_	_	_
+
+# Q001920.4
+1	{d}iš-bi-er₃-ra	{d}iš-bi-er₃-ra	Išbierra	RN	{d}iš-bi-er₃-ra	1	sux	N1=Išbierra	N1=NAME	Išbierra	RN	1st king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q001920.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001920.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ma-da-na-ke₄	ma-da	mada	N	ma-da-na-ke₄	land	sux	N1=mada.N3=ani.N5=ak.N5=e	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=ERG	mada.ani.ak.e	N	land, country	_	_	_	_	_	_	_
+
+# Q001920.7
+1	balaŋ	balaŋ	balaŋ	N	balaŋ	instrument	sux	N1=balaŋ	N1=STEM	balaŋ	N	drum	_	_	_	_	_	_	_
+2	mah	mah	mah	V/i	mah	great	sux	NV2=mah	NV2=STEM	mah	V/i	great	_	_	_	_	_	_	_
+
+# Q001920.8
+1	šag₄	šag₄	šag	N	šag₄\abs	heart	sux	N1=šag.N5=ø	N1=STEM.N5=ABS	šag.ø	N	heart, inner body	_	_	_	_	_	_	_
+2	tu-x-da	_	_	_	tu-x-da	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001920.9
+1	mu-na-an-dim₂	dim₂	dim	V/t	mu-na-an-dim₂	create	sux	V4=mu.V6=nn.V7=a.V11=n.V12=dim.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.dim.ø	V/t	create	_	_	_	_	_	_	_
+
+# Q001920.10
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q001920.11
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+
+# Q001920.12
+1	balaŋ-ba	balaŋ	balaŋ	N	balaŋ-ba	instrument	sux	N1=balaŋ.N3=bi.N5=ak	N1=STEM.N3=DEM2.N5=GEN	balaŋ.bi.ak	N	drum	_	_	_	_	_	_	_
+
+# Q001920.13
+1	{d}iš-bi-er₃-ra	{d}iš-bi-er₃-ra	Išbierra	RN	{d}iš-bi-er₃-ra\abs	1	sux	N1=Išbierra.N5=ø	N1=NAME.N5=ABS	Išbierra.ø	RN	1st king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q001920.14
+1	{d}en-lil₂-da	{d}en-lil₂	Enlil	DN	{d}en-lil₂-da	1	sux	N1=Enlil.N5=da	N1=NAME.N5=COM	Enlil.da	DN	1	_	_	_	_	_	_	_
+2	nir-ŋal₂	nir-ŋal₂	nirŋal	V/i	nir-ŋal₂\abs	authoritative	sux	NV2=nirŋal.N5=ø	NV2=STEM.N5=ABS	nirŋal.ø	V/i	(to be) authoritative	_	_	_	_	_	_	_
+
+# Q001920.15
+1	mu-bi-im	mu	mu	N	mu-bi-im	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name	_	_	_	_	_	_	_
+

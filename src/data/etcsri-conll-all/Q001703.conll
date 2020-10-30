@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001703 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001703.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001703.1
+1	be-li₂-DU₁₀	be-li₂-DU₁₀	Beliṭab	PN	be-li₂-DU₁₀	1	sux	N1=Beliṭab	N1=NAME	Beliṭab	PN	1
+2	gurušta	gurušta	kurušda	N	gurušta	fattener	sux	N1=kurušda	N1=STEM	kurušda	N	animal fattener
+
+# Q001703.2
+1	{d}šul-gi-si₂-im-tum-ma	{d}šul-gi-si₂-im-tum	Šulgisimti	PN	{d}šul-gi-si₂-im-tum-ma\gen\abs	1	sux	N1=Šulgisimti.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Šulgisimti.ak.ø	PN	Consort of Šulgi, king of Urim
+

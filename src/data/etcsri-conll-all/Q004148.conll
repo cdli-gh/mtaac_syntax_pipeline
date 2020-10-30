@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q004148 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004148.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004148.1
+1	šu-er₃-ra	šu-er₃-ra	Šuerra	PN	šu-er₃-ra	3	sux	N1=Šuerra	N1=NAME	Šuerra	PN	3
+
+# Q004148.2
+1	aga₃-us₂	aga₃-us₂	agaʾus	N	aga₃-us₂	soldier	sux	N1=aga'us	N1=STEM	aga'us	N	a soldier
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great
+
+# Q004148.3
+1	{d}amar-{d}suen	{d}amar-{d}suen	Amarsuenak	RN	{d}amar-{d}suen\gen\abs	1	sux	N1=Amarsuenak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Amarsuenak.ak.ø	RN	3rd king of the 3rd dynasty of Urim
+

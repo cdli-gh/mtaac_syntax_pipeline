@@ -1,0 +1,100 @@
+# project: etcsri 
+# textid: Q001066 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001066.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001066.3
+1	aga₃-kar₂	aga₃-kar₂	agakar	N	aga₃-kar₂\abs	conqueror	sux	N1=agakar.N5=ø	N1=STEM.N5=ABS	agakar.ø	N	conqueror	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+2	be₂-seg₁₀	seg₁₀	sig	V/t	be₂-seg₁₀\v10l2	put	sux	V5=b.V10=i.V11=n.V12=sig.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.sig.ø	V/t	put	1	mwe	_	_	_	_	_
+
+# Q001066.4
+1	unug{ki}	unug{ki}	Unug	SN	unug{ki}\l2	1	sux	N1=Unug.N5='a	N1=NAME.N5=L2-NH	Unug.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001066.5
+1	aga₃-kar₂	aga₃-kar₂	agakar	N	aga₃-kar₂\abs	conqueror	sux	N1=agakar.N5=ø	N1=STEM.N5=ABS	agakar.ø	N	conqueror	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+2	be₂-seg₁₀	seg₁₀	sig	V/t	be₂-seg₁₀\v10l2	put	sux	V5=b.V10=i.V11=n.V12=sig.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.sig.ø	V/t	put	1	mwe	_	_	_	_	_
+
+# Q001066.6
+1	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\n5al2	1	sux	N1=Urim.N5='a	N1=NAME.N5=L2-NH	Urim.'a	SN	1	_	_	_	_	_	_	_
+
+# Q001066.7
+1	aga₃-kar₂	aga₃-kar₂	agakar	N	aga₃-kar₂\abs	conqueror	sux	N1=agakar.N5=ø	N1=STEM.N5=ABS	agakar.ø	N	conqueror	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+2	be₂-seg₁₀	seg₁₀	sig	V/t	be₂-seg₁₀\v10l2	put	sux	V5=b.V10=i.V11=n.V12=sig.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.sig.ø	V/t	put	1	mwe	_	_	_	_	_
+
+# Q001066.9
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001066.10
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+3	{d}ŋa₂-tum₃-dug₃	{d}ŋa₂-tum₃-dug₃	Ŋatumdug	DN	{d}ŋa₂-tum₃-dug₃\gen\abs	1	sux	N1=Ŋatumdug.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ŋatumdug.ak.ø	DN	1	_	_	_	_	_	_	_
+4	du₃-a	du₃	du	V/t	du₃-a\gen	build	sux	NV2=du.NV4='a.N5=ak	NV2=STEM.NV4=SUB.N5=GEN	du.'a.ak	V/t	to build	_	_	_	_	_	_	_
+
+# Q001066.11
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni	deity	sux	N1=diŋir.N3=ani	N1=STEM.N3=3-SG-H-POSS	diŋir.ani	N	deity, personal god	_	_	_	_	_	_	_
+
+# Q001066.12
+1	{d}šul-|MUŠ×PA|	{d}šul-|MUŠ×PA|	Šul-MUŠ×PA	DN	{d}šul-|MUŠ×PA|\cop	1	sux	N1=Šul-|MUŠ×PA|.N5=ø.N6=am	N1=NAME.N5=ABS.N6=COP-3-SG	Šul-|MUŠ×PA|.ø.am	DN	1	_	_	_	_	_	_	_
+
+# Q001066.13
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂\erg	1	sux	N1=Eanatum.N5=e	N1=NAME.N5=ERG	Eanatum.e	RN	Eanatum, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001066.14
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše\abs	1	sux	N1=Nanše.N5=ø	N1=NAME.N5=ABS	Nanše.ø	DN	1	_	_	_	_	_	_	_
+
+# Q001066.15
+1	mu-tud	tud	utud	V/t	mu-tud	bear	sux	V4=mu.V11=n.V12=utud.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.utud.ø	V/t	fashion a statue, to bring a statue into being	_	_	_	_	_	_	_
+
+# Q001066.17
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+3	e-da-x	_	_	_	e-da-x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001066.18
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše\dat	1	sux	N1=Nanše.N5=ra	N1=NAME.N5=DAT-H	Nanše.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001066.19
+1	gi-gu₃-na	gi-gu₃-na	giguna	N	gi-gu₃-na	terrace	sux	N1=giguna	N1=STEM	giguna	N	terrace, high temple	_	_	_	_	_	_	_
+2	mah	mah	mah	V/i	mah\l3	great	sux	NV2=mah.N5=e	NV2=mah.N5=L3-NH	mah.e	V/i	great	_	_	_	_	_	_	_
+
+# Q001066.20
+1	sa₂	sa₂	sa	N	sa₂\abs	equal	sux	NV2=sa.N5=ø	NV2=STEM.N5=ABS	sa.ø	V/t	equal	_	_	sa dug	arrive	to arrive, to cause to arrive (regularly)	V/t	V/t
+2	še₃-na-dug₄-dug₄	dug₄-dug₄	dug	V/t	še₃-na-dug₄-dug₄	speak	sux	V1=ša.V2=i.V6=nn.V7=a.V11=n.V12=dugdug.V14=ø	V1=MOD6.V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ša.i.nn.a.n.dugdug.ø	V/t	speak	1	mwe	_	_	_	_	_
+
+# Q001066.21
+1	{d}nin-ŋir₂-su₂-ra	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001066.22
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	ŊEŠ-x-ga-ke₄	_	_	_	ŊEŠ-x-ga-ke₄	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001066.23
+1	sa₂	sa₂	sa	N	sa₂\abs	equal	sux	NV2=sa.N5=ø	NV2=STEM.N5=ABS	sa.ø	V/t	equal	_	_	sa dug	arrive	to arrive, to cause to arrive (regularly)	V/t	V/t
+2	še₃-na-dug₄-dug₄	dug₄-dug₄	dug	V/t	še₃-na-dug₄-dug₄	speak	sux	V1=ša.V2=i.V6=nn.V7=a.V11=n.V12=dugdug.V14=ø	V1=MOD6.V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ša.i.nn.a.n.dugdug.ø	V/t	speak	1	mwe	_	_	_	_	_
+
+# Q001066.24
+1	{d}en-lilₓ(E₂)-la	{d}en-lilₓ(E₂)	Enlil	DN	{d}en-lilₓ(E₂)-la	1	sux	N1=Enlil.N5=ra	N1=NAME.N5=DAT-H	Enlil.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001066.25
+1	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\l3	1	sux	N1=Nibru.N5=e	N1=NAME.N5=L3-NH	Nibru.e	SN	1	_	_	_	_	_	_	_
+
+# Q001066.26
+1	sa₂	sa₂	sa	N	sa₂\abs	equal	sux	NV2=sa.N5=ø	NV2=STEM.N5=ABS	sa.ø	V/t	equal	_	_	sa dug	arrive	to arrive, to cause to arrive (regularly)	V/t	V/t
+2	še₃-na-dug₄-dug₄	dug₄-dug₄	dug	V/t	še₃-na-dug₄-dug₄	speak	sux	V1=ša.V2=i.V6=nn.V7=a.V11=n.V12=dugdug.V14=ø	V1=MOD6.V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ša.i.nn.a.n.dugdug.ø	V/t	speak	1	mwe	_	_	_	_	_
+
+# Q001066.31
+1	{d}nanše	{d}nanše	Nanše	DN	{d}nanše\dat	1	sux	N1=Nanše.N5=ra	N1=NAME.N5=DAT-H	Nanše.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001066.32
+1	e₂-mah-ha	e₂-mah	Emah	TN	e₂-mah-ha	4	sux	N1=Emah.N5='a	N1=NAME.N5=L1	Emah.'a	TN	E-mah of Nanše	_	_	_	_	_	_	_
+
+# Q001066.33
+1	mu-na-ni-kurₓ(DU)	kurₓ(DU)	kur	V/i	mu-na-ni-kurₓ(DU)	enter	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=kur.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.kur.ø	V/i	enter	_	_	_	_	_	_	_
+

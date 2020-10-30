@@ -1,0 +1,30 @@
+# project: etcsri 
+# textid: Q002028 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002028.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q002028.1
+1	IR₁₁-{d}x	IR₁₁-{d}x	Warad-X	PN	IR₁₁-{d}x	1	sux	N1=Warad-X	N1=NAME	Warad-X	PN	1
+
+# Q002028.2
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+
+# Q002028.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	lu₂-{d}nin-šubur	lu₂-{d}nin-šubur	Luninšubur	PN	lu₂-{d}nin-šubur\gen	2	sux	N1=Luninšubur.N5=ak	N1=NAME.N5=GEN	Luninšubur.ak	PN	2
+
+# Q002028.4
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household
+2	{d}nin-gal	{d}nin-gal	Ningal	DN	{d}nin-gal\gen	1	sux	N1=Ningal.N5=ak	N1=NAME.N5=GEN	Ningal.ak	DN	1
+
+# Q002028.5
+1	arad	arad	arad	N	arad	slave	sux	N1=arad	N1=STEM	arad	N	slave, servant
+2	a-bi₂-sa-re-e	a-bi₂-sa-re-e	Abisare	RN	a-bi₂-sa-re-e\gen\abs	1	sux	N1=Abisare.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Abisare.ak.ø	RN	King of Larsam
+

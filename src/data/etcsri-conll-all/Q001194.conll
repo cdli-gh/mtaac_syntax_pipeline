@@ -1,0 +1,48 @@
+# project: etcsri 
+# textid: Q001194 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001194.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001194.2
+1	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	mu pad	nominate	to nominate, to proclaim one's name publicly	V/t	V/t
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	1	mwe	_	_	_	_	_
+
+# Q001194.3
+1	{d}en-lilₓ(E₂)-ke₄	{d}en-lilₓ(E₂)	Enlil	DN	{d}en-lilₓ(E₂)-ke₄	1	sux	N1=Enlil.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Enlil.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001194.4
+1	šag₄	šag₄	šag	N	šag₄\l3	heart	sux	N1=šag.N5=e	N1=STEM.N5=L3-NH	šag.e	N	heart, inner body	_	_	_	_	_	_	_
+2	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q001194.5
+1	{d}nanše-ke₄	{d}nanše	Nanše	DN	{d}nanše-ke₄	1	sux	N1=Nanše.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Nanše.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001194.6
+1	kur	kur	kur	N	kur\l3	mountain	sux	N1=kur.N5=e	N1=STEM.N5=L3-NH	kur.e	N	mountain	_	_	_	_	_	_	_
+2	gu₂	gu₂	gu	N	gu₂\abs	neck	sux	N1=gu.N5=ø	N1=STEM.N5=ABS	gu.ø	N	neck	_	_	_	_	_	_	_
+3	ŋar-ŋar	ŋar-ŋar	ŋar	V/t	ŋar-ŋar	place	sux	NV2=ŋarŋar	NV2=STEM-RDP	ŋarŋar	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q001194.7
+1	{d}nin-ŋir₂-su₂-ka-ke₄	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ka-ke₄	1	sux	N1=Ninŋirsuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninŋirsuk.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001194.9
+1	kur-kur	kur-kur	kur	N	kur-kur\abs	mountain	sux	N1=kurkur.N5=ø	N1=STEM-RDP.N5=ABS	kurkur.ø	N	mountain	_	_	_	_	_	_	_
+2	šu-ni-še₃	šu	šu	N	šu-ni-še₃	hand	sux	N1=šu.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	šu.ani.še	N	hand	_	_	_	_	_	_	_
+
+# Q001194.10
+1	mu-še₃-ŋar-ra-a	ŋar	ŋar	V/t	mu-še₃-ŋar-ra-a\l1	place	sux	V4=mu.V6=nn.V9=ši.V11=n.V12=ŋar.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.ši.n.ŋar.ø.'a.'a	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q001194.11
+1	ki-bala	ki-bala	kibala	N	ki-bala\abs	rebel land	sux	N1=kibala.N5=ø	N1=STEM.N5=ABS	kibala.ø	N	rebel land	_	_	_	_	_	_	_
+2	ŋiri₃-ni-še₃	ŋiri₃	ŋiri	N	ŋiri₃-ni-še₃	foot	sux	N1=ŋiri.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	ŋiri.ani.še	N	foot	_	_	_	_	_	_	_
+
+# Q001194.12
+1	mu-še₃-ŋar-ra-a	ŋar	ŋar	V/t	mu-še₃-ŋar-ra-a\l1	place	sux	V4=mu.V6=nn.V9=ši.V11=n.V12=ŋar.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.ši.n.ŋar.ø.'a.'a	V/t	put, place, lay down	_	_	_	_	_	_	_
+

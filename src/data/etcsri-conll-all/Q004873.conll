@@ -1,0 +1,92 @@
+# project: etcsri 
+# textid: Q004873 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004873.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004873.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q004873.3
+1	ki	ki	ki	N	ki	place	sux	N1=ki	N1=STEM	ki	N	place	_	_	_	_	_	_	_
+2	šum₂-ma	šum₂	šum	N	šum₂-ma	garlic	sux	N1=šum.N5=ak	N1=STEM.N5=GEN	šum.ak	N	garlic, onion	_	_	_	_	_	_	_
+
+# Q004873.4
+1	ensi₂-ka	ensi₂	ensik	N	ensi₂-ka\gen\abs	ruler	sux	N1=ensik.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	ensik.ak.ø	N	ruler	_	_	_	_	_	_	_
+
+# Q004873.5
+1	e-ŋal₂-lam	ŋal₂	ŋal	V/i	e-ŋal₂-lam	be	sux	V2=i.V10=n.V12=ŋal.V14=ø.N6=am	V2=FIN.V10=L1-SYN.V12=STEM.V14=3-SG-S.N6=COP-3-SG	i.n.ŋal.ø.am	V/i	be	_	_	_	_	_	_	_
+
+# Q004873.6
+1	anše	anše	anše	N	anše	equid	sux	N1=anše	N1=STEM	anše	N	equid	_	_	_	_	_	_	_
+2	surₓ(ERIN₂)-ra	surₓ(ERIN₂)	sur	N	surₓ(ERIN₂)-ra	people	sux	N1=sur.N5=ak	N1=STEM.N5=GEN	sur.ak	N	harness team (of draft animals or workers)	_	_	_	_	_	_	_
+
+# Q004873.7
+1	gud	gud	gud	N	gud	ox	sux	N1=gud	N1=STEM	gud	N	bull, ox	_	_	_	_	_	_	_
+2	du₇-du₇	du₇-du₇	du	V/i	du₇-du₇\abs	suitable	sux	NV2=dudu.N5=ø	NV2=STEM.N5=ABS	dudu.ø	V/i	(to be) fitting, suitable	_	_	_	_	_	_	_
+
+# Q004873.10
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	e₂-mi₂-e	e₂-mi₂	emi	N	e₂-mi₂-e	household	sux	N1=emi.N5=e	N1=STEM.N5=ERG	emi.e	N	queen's household	_	_	_	_	_	_	_
+
+# Q004873.11
+1	ašag	ašag	ašag	N	ašag	field	sux	N1=ašag	N1=STEM	ašag	N	field	_	_	_	_	_	_	_
+2	e₂-mi₂-e	e₂-mi₂	emi	N	e₂-mi₂-e	household	sux	N1=emi.N5=e	N1=STEM.N5=ERG	emi.e	N	queen's household	_	_	_	_	_	_	_
+
+# Q004873.12
+1	en-na	en-na	enna	CNJ	en-na	until	sux	enna	STEM	enna	CNJ	until, up to	_	_	_	_	_	_	_
+2	tuku-a	tuku	tuku	V/t	tuku-a\gen	acquire	sux	NV2=tuku.N5=ak	NV2=STEM.N5=GEN	tuku.ak	V/t	to acquire, to have	_	_	_	_	_	_	_
+
+# Q004873.13
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1	_	_	_	_	_	_	_
+
+# Q004873.14
+1	nin-bi	nin	nin	N	nin-bi\cop	lady	sux	N1=nin.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	nin.bi.ø.am	N	lady	_	_	_	_	_	_	_
+
+# Q004873.15
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	nam-dumu	nam-dumu	namdumu	N	nam-dumu\erg	status	sux	N1=namdumu.N5=e	N1=STEM.N5=ERG	namdumu.e	N	status as son	_	_	_	_	_	_	_
+
+# Q004873.16
+1	ašag	ašag	ašag	N	ašag	field	sux	N1=ašag	N1=STEM	ašag	N	field	_	_	_	_	_	_	_
+2	nam-dumu	nam-dumu	namdumu	N	nam-dumu\erg	status	sux	N1=namdumu.N5=e	N1=STEM.N5=ERG	namdumu.e	N	status as son	_	_	_	_	_	_	_
+
+# Q004873.17
+1	en-na	en-na	enna	CNJ	en-na	until	sux	enna	STEM	enna	CNJ	until, up to	_	_	_	_	_	_	_
+2	tuku-a	tuku	tuku	V/t	tuku-a\gen	acquire	sux	NV2=tuku.N5=ak	NV2=STEM.N5=GEN	tuku.ak	V/t	to acquire, to have	_	_	_	_	_	_	_
+
+# Q004873.20
+1	3(geš₂@c)	_	_	_	3(geš₂@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	ninda	ninda	ninda	N	ninda	bread	sux	N1=ninda	N1=STEM	ninda	N	bread	_	_	_	_	_	_	_
+
+# Q004873.21
+1	1(aš@c)	_	_	_	1(aš@c)	_	sux	_	_	_	n	_	_	_	_	_	_	_	_
+2	mudₓ(LAK449)	mudₓ(LAK449)	mud	N	mudₓ(LAK449)	jar	sux	N1=mud	N1=STEM	mud	N	beer jar, a unit of liquid capacity	_	_	_	_	_	_	_
+3	kaš	kaš	kaš	N	kaš\abs	beer	sux	N1=kaš.N5=ø	N1=STEM.N5=ABS	kaš.ø	N	beer	_	_	_	_	_	_	_
+
+# Q004873.22
+1	|ABBA₂.IGI|	|ABBA₂.IGI|	ABBA.IGI	N	|ABBA₂.IGI|	unmng	sux	N1=ABBA.IGI	N1=STEM	ABBA.IGI	N	(unknown meaning)	_	_	_	_	_	_	_
+
+# Q004873.23
+1	niŋin₆{ki}-kam	niŋin₆{ki}	Niŋin	SN	niŋin₆{ki}-kam	1	sux	N1=Niŋin.N5=ak.N6=am	N1=NAME.N5=GEN.N6=COP-3-SG	Niŋin.ak.am	SN	1	_	_	_	_	_	_	_
+
+# Q004873.24
+1	addirₓ(|PAD.DUG.GIŠ.SI|)	addirₓ(|PAD.DUG.GIŠ.SI|)	addir	N	addirₓ(|PAD.DUG.GIŠ.SI|)	hire	sux	N1=addir	N1=STEM	addir	N	hire, wage, ferry toll	_	_	_	_	_	_	_
+
+# Q004873.25
+1	a-bul₅-la	a-bul₅-la	abula	N	a-bul₅-la\gen\abs	gate	sux	N1=abula.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	abula.ak.ø	N	gate	_	_	_	_	_	_	_
+
+# Q004873.26
+1	ŋuruš	ŋuruš	ŋuruš	N	ŋuruš	male	sux	N1=ŋuruš	N1=STEM	ŋuruš	N	young adult male, able-bodied male worker, semi-free male worker	_	_	_	_	_	_	_
+2	min-ma-ka	mi₂	min	NU	min-ma-ka	two	sux	NV2=min.N5=ak.N5='a	NV2=STEM.N5=GEN.N5=L2-NH	min.ak.'a	NU	two	_	_	_	_	_	_	_
+
+# Q004873.27
+1	inim	inim	inim	N	inim\abs	word	sux	N1=inim.N5=ø	N1=STEM.N5=ABS	inim.ø	N	word	_	_	inim gi	answer	to contest, to withdraw, to answer	V/t	V/t
+2	i₃-gi₄	gi₄	gi	V/i	i₃-gi₄\v14sg3s	turn	sux	V2=i.V5=b.V10=ø.V12=gi.V14=ø	V1=V2=FIN.V5=3-NH.V10=L2-SYN.V12=STEM.V14=3-SG-S	i.b.ø.gi.ø	V/i	turn	1	mwe	_	_	_	_	_
+

@@ -1,0 +1,55 @@
+# project: etcsri 
+# textid: Q004842 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004842.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004842.1
+1	e₂-an-na-tum₂	e₂-an-na-tum₂	Eanatum	RN	e₂-an-na-tum₂	1	sux	N1=Eanatum	N1=NAME	Eanatum	RN	Eanatum, ruler of Lagaš
+
+# Q004842.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	aya₂-kur-gal	aya₂-kur-gal	Ayakurgal	RN	aya₂-kur-gal	1	sux	N1=Ayakurgal	N1=NAME	Ayakurgal	RN	Ruler of Lagaš
+
+# Q004842.3
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q004842.4
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen\erg	1	sux	N1=Lagaš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Lagaš.ak.e	SN	1
+
+# Q004842.5
+1	šeš	šeš	šeš	N	šeš	brother	sux	N1=šeš	N1=STEM	šeš	N	brother
+2	amar-e₂-gal	amar-e₂-gal	Amaregalak	PN	amar-e₂-gal	1	sux	N1=Amaregalak	N1=NAME	Amaregalak	PN	1
+
+# Q004842.6
+1	ga-eš₈	ga-eš₈	gaʾeš	N	ga-eš₈\gen\term	trader	sux	N1=ga'eš.N5=ak.N5=še	N1=STEM.N5=GEN.N5=TERM	ga'eš.ak.še	N	trader
+
+# Q004842.7
+1	kiri₆	kiri₆	kiri	N	kiri₆	orchard	sux	N1=kiri	N1=STEM	kiri	N	(fruit) plantation, orchard
+2	1(bur₃@c)	_	_	_	1(bur₃@c)	_	sux	_	_	_	n	_
+3	2(iku@c)	_	_	_	2(iku@c)	_	sux	_	_	_	n	_
+4	gana₂	gana₂	gana	N	gana₂\abs	field	sux	N1=gana.N5=ø	N1=STEM.N5=ABS	gana.ø	N	field
+
+# Q004842.8
+1	e-še₃-sa₁₀	sa₁₀	sa	V/t	e-še₃-sa₁₀	pay for	sux	V2=i.V6=nn.V9=ši.V11=n.V12=sa.V14=ø	V2=FIN.V6=3-SG-H.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.ši.n.sa.ø	V/t	to pay for, to buy
+
+# Q004842.9
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	2(diš@t)	_	_	_	2(diš@t)	_	sux	_	_	_	n	_
+3	ma-na	ma-na	mana	N	ma-na\abs	unit	sux	N1=mana.N5=ø	N1=STEM.N5=ABS	mana.ø	N	a unit of weight
+
+# Q004842.10
+1	e-še₃-la₂	la₂	la	V/t	e-še₃-la₂	hang	sux	V2=i.V6=nn.V9=ši.V11=n.V12=la.V14=ø	V2=FIN.V6=3-SG-H.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.ši.n.la.ø	V/t	to weigh (out), to pay
+
+# Q004842.11
+1	niŋ₂-ba	niŋ₂-ba	niŋba	N	niŋ₂-ba\abs	gift	sux	N1=niŋba.N5=ø	N1=STEM.N5=ABS	niŋba.ø	N	gift
+2	1(diš@t)	_	_	_	1(diš@t)	_	sux	_	_	_	n	_
+3	dug	dug	dug	N	dug	pot	sux	N1=dug	N1=STEM	dug	N	(clay) pot
+4	kaš	kaš	kaš	N	kaš\abs	beer	sux	N1=kaš.N5=ø	N1=STEM.N5=ABS	kaš.ø	N	beer
+

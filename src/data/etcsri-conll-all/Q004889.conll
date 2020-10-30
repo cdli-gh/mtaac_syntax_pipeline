@@ -1,0 +1,37 @@
+# project: etcsri 
+# textid: Q004889 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004889.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004889.2
+1	{d}nin-ŋir₂-su-ke₄	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ke₄	1	sux	N1=Ninŋirsuk.N5=e	N1=NAME.N5=ERG	Ninŋirsuk.e	DN	1
+
+# Q004889.3
+1	x-ma	_	_	_	x-ma	_	sux	_	_	_	u	_
+2	šag₄	šag₄	šag	N	šag₄	heart	sux	N1=šag	N1=STEM	šag	N	heart, inner body
+3	kug-ge	kug	kug	V/i	kug-ge\n5el3	pure	sux	NV2=kug.N5=e	NV2=STEM.N5=L3-NH	kug.e	V/i	pure
+
+# Q004889.4
+1	x-pad₃-da-a	_	_	_	x-pad₃-da-a	_	sux	_	_	_	u	_
+
+# Q004889.6
+1	kur-ta	kur	kur	N	kur-ta	mountain	sux	N1=kur.N5=ta	N1=STEM.N5=ABL	kur.ta	N	mountain
+2	x-ge	_	_	_	x-ge	_	sux	_	_	_	u	_
+3	DU-x	_	_	_	DU-x	_	sux	_	_	_	u	_
+
+# Q004889.7
+1	e₂-x	_	_	_	e₂-x	_	sux	_	_	_	u	_
+
+# Q004889.8
+1	saŋ-x	_	_	_	saŋ-x	_	sux	_	_	_	u	_
+
+# Q004889.9
+1	mu-x	_	_	_	mu-x	_	sux	_	_	_	u	_
+

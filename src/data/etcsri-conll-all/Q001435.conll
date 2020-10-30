@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q001435 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001435.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001435.1
+1	mu-sar-ra	mu-sar-ra	musara	N	mu-sar-ra	inscription	sux	N1=musara	N1=STEM	musara	N	inscription
+2	ki-gal-ba	ki-gal	kigal	N	ki-gal-ba\gen\abs	platform	sux	N1=kigal.N3=bi.N5=ak.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	kigal.bi.ak.ø	N	platform, pedestal
+
+# Q001435.2
+1	mu-sar-ra	mu-sar-ra	musara	N	mu-sar-ra	inscription	sux	N1=musara	N1=STEM	musara	N	inscription
+
+# Q001435.3
+1	zag-ga-na	zag	zag	N	zag-ga-na\gen\abs	side	sux	N1=zag.N3=ani.N5=ak.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=ABS	zag.ani.ak.ø	N	side
+
+# Q001435.4
+1	dub	dub	dub	N	dub	tablet	sux	N1=dub	N1=STEM	dub	N	tablet
+2	mu-sar-ra	mu-sar-ra	musara	N	mu-sar-ra	inscription	sux	N1=musara	N1=STEM	musara	N	inscription
+
+# Q001435.5
+1	eš₅	eš₅	eš	NU	eš₅\gen	three	sux	NV2=eš.N5=ak	NV2=STEM.N5=GEN	eš.ak	NU	three
+2	alan	alan	alan	N	alan	statue	sux	N1=alan	N1=STEM	alan	N	statue
+
+# Q001435.6
+1	e-er-ri-du-pi-zi-ir	e-er-ri-du-pi-zi-ir	Erridupizir	RN	e-er-ri-du-pi-zi-ir\gen\abs	1	sux	N1=Erridupizir.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Erridupizir.ak.ø	RN	1
+

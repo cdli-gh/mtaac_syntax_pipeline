@@ -1,0 +1,41 @@
+# project: etcsri 
+# textid: Q001967 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001967.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001967.1
+1	{d}li-pi₂-it-eš₄-tar₂	{d}li-pi₂-it-eš₄-tar₂	Lipiteštar	RN	{d}li-pi₂-it-eš₄-tar₂	1	sux	N1=Lipiteštar	N2=NAME	Lipiteštar	RN	5th king of the dynasty of Isin
+
+# Q001967.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001967.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\abs	1	sux	N1=Urim.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urim.ak.ø	SN	1
+
+# Q001967.4
+1	a-a-dug₃-ga	a-a-dug₃-ga	Ayaduga	PN	a-a-dug₃-ga	1	sux	N1=Ayaduga	N1=NAME	Ayaduga	PN	1
+
+# Q001967.5
+1	gudu₄-abzu	gudu₄-abzu	gudugabzuk	N	gudu₄-abzu	priest	sux	N1=gudugabzuk	N1=STEM	gudugabzuk	N	a priest
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen	1	sux	N1=Nanna.N5=ak	N1=NAME.N5=GEN	Nanna.ak	DN	1
+
+# Q001967.6
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also
+2	šita-eš₃	šita-eš₃	šitaʾeša	N	šita-eš₃	priest	sux	N1=šita'eša	N1=STEM	šita'eša	N	a priest
+
+# Q001967.7
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	dug₄-ga-zid-da	dug₄-ga-zid-da	Dugazida	PN	dug₄-ga-zid-da\gen\abs	1	sux	N1=Dugazida.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Dugazida.ak.ø	PN	1
+
+# Q001967.8
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

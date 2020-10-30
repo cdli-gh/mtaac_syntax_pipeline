@@ -1,0 +1,81 @@
+# project: etcsri 
+# textid: Q001073 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001073.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001073.1
+1	en-an-na-tum₂	en-an-na-tum₂	Enanatum	RN	en-an-na-tum₂	1	sux	N1=Enanatum	N1=NAME	Enanatum	RN	En-ana-tum I, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001073.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001073.3
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}	1	sux	N1=Lagaš	N1=NAME	Lagaš	SN	1	_	_	_	_	_	_	_
+
+# Q001073.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	aya₂-kur-gal	aya₂-kur-gal	Ayakurgal	RN	aya₂-kur-gal	1	sux	N1=Ayakurgal	N1=NAME	Ayakurgal	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001073.5
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001073.6
+1	lagaš{ki}-ka-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-ke₄	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001073.7
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	{d}nin-ŋir₂-su₂-ke₄	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ke₄	1	sux	N1=Ninŋirsuk.N5=e	N1=NAME.N5=ERG	Ninŋirsuk.e	DN	1	_	_	_	_	_	_	_
+
+# Q001073.8
+1	šag₄-ge	šag₄	šag	N	šag₄-ge\n5edat	heart	sux	N1=šag.N5=e	N1=STEM.N5=DAT-NH	šag.e	N	heart, inner body	_	_	_	_	_	_	_
+2	ba-pad₃-da-a	pad₃	pad	V/t	ba-pad₃-da-a\l1	find	sux	V5=b.V7=a.V11=n.V12=pad.V14=ø.V15='a.N5='a	V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=pad.V14=3-SG-P.V15=SUB.N5=L1	b.a.n.pad.ø.'a.'a	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q001073.9
+1	eren	eren	eren	N	eren	cedar	sux	N1=eren	N1=STEM	eren	N	cedar	_	_	_	_	_	_	_
+2	babbar₂	babbar₂	babbar	V/i	babbar₂\abs	white	sux	NV2=babbar.N5=ø	NV2=STEM.N5=ABS	babbar.ø	V/i	(to be) white	_	_	_	_	_	_	_
+
+# Q001073.10
+1	kur-ta	kur	kur	N	kur-ta	mountain	sux	N1=kur.N5=ta	N1=STEM.N5=ABL	kur.ta	N	mountain	_	_	_	_	_	_	_
+2	mu-na-ta-ed₃	ed₃	ed	V/i	mu-na-ta-ed₃	ascend	sux	V4=mu.V6=nn.V7=a.V9=ta.V11=n.V12=ed.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ta.n.ed.ø	V/i	ascend	_	_	_	_	_	_	_
+
+# Q001073.11
+1	e₂-še₃	e₂	e	N	e₂-še₃	house	sux	N1=e.N5=še	N1=STEM=N5=TERM	e.še	N	house, temple	_	_	_	_	_	_	_
+2	mu-na-sig₉-sig₉-ga-a	sig₉-sig₉	sig	V/t	mu-na-sig₉-sig₉-ga-a\l1	put	sux	V4=mu.V6=nn.V7=a.V11=n.V12=sigsig.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P.V15=SUB.N5=LI	mu.nn.a.n.sigsig.ø.'a.'a	V/t	put	_	_	_	_	_	_	_
+
+# Q001073.12
+1	saŋ-šu₄-bi	saŋ-šu₄	saŋšu	N	saŋ-šu₄-bi\term	helmet	sux	N1=saŋšu.N3=bi.N5=še	N1=STEM.N3=3-SG-NH-POSS.N5=TERM	saŋšu.bi.še	N	roof	_	_	_	_	_	_	_
+
+# Q001073.13
+1	eren	eren	eren	N	eren	cedar	sux	N1=eren	N1=STEM	eren	N	cedar	_	_	_	_	_	_	_
+2	babbar₂	babbar₂	babbar	V/i	babbar₂\abs	white	sux	NV2=babbar.N5=ø	NV2=STEM.N5=ABS	babbar.ø	V/i	(to be) white	_	_	_	_	_	_	_
+
+# Q001073.14
+1	mu-na-ni-gub	gub	gub	V/i	mu-na-ni-gub	stand	sux	V4=mu.V6=nn.V7=a.V10=ni.V11=n.V12=gub.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.ni.n.gub.ø	V/i	stand	_	_	_	_	_	_	_
+
+# Q001073.15
+1	ur	ur	ur	N	ur	dog	sux	N1=ur	N1=STEM	ur	N	dog, lion	_	_	_	_	_	_	_
+2	ha-lu-ub₂	ha-lu-ub₂	halub	N	ha-lu-ub₂\abs	tree	sux	N1=halub.N5=ø	N1=STEM.N5=ABS	halub.ø	N	a tree	_	_	_	_	_	_	_
+
+# Q001073.16
+1	i₃-du₈-še₃	i₃-du₈	idu	N	i₃-du₈-še₃	doorkeeper	sux	N1=idu.N5=še	N1=STEM.N5=TERM	idu.še	N	doorkeeper	_	_	_	_	_	_	_
+2	mu-na-durunₓ(|KU.KU|)-na-a	durunₓ(|KU.KU|)	tuš	V/i	mu-na-durunₓ(|KU.KU|)-na-a\n5al2	sit	sux	V4=mu.V6=nn.V7=a.V11=n.V12=durun.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM-PL.V14=3-SG-P.V15=SUB.N5=L2-NH	mu.nn.a.n.durun.ø.'a.'a	V/i	to sit (down)	_	_	_	_	_	_	_
+
+# Q001073.17
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	an-na-aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	an-na-aŋ₂-ŋa₂-ni	measure	sux	V2=a.V6=nn.V7=a.V11=n.V12=aŋ.V14=ø.V15='a.N3=ani	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N3=3-SG-H-POSS	a.nn.a.n.aŋ.ø.'a.ani	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001073.18
+1	{d}nin-ŋir₂-su₂-ra	{d}nin-ŋir₂-su₂	Ninŋirsuk	DN	{d}nin-ŋir₂-su₂-ra	1	sux	N1=Ninŋirsuk.N5=ra	N1=NAME.N5=DAT-H	Ninŋirsuk.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001073.19
+1	mu	mu	mu	N	mu\abs	name	sux	N1=mu.N5=ø	N1=STEM.N5=ABS	mu.ø	N	name	_	_	_	_	_	_	_
+2	mu-na-ŋar	ŋar	ŋar	V/t	mu-na-ŋar	place	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ŋar.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ŋar.ø	V/t	put, place, lay down	_	_	_	_	_	_	_
+

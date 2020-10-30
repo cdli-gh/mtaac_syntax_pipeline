@@ -1,0 +1,382 @@
+# project: etcsri 
+# textid: Q001133 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001133.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001133.1
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+2	umma{ki}-ke₄	umma{ki}	Umma	SN	umma{ki}-ke₄	1	sux	N1=Umma.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Umma.ak.e	SN	1
+
+# Q001133.2
+1	eg₂	eg₂	eg	N	eg₂	levee	sux	N1=eg	N1=STEM	eg	N	levee
+2	ki-surₓ(ERIN₂)-ra-ke₄	ki-surₓ(ERIN₂)-ra	kisura	N	ki-surₓ(ERIN₂)-ra-ke₄\n5edat	border	sux	N1=kisura.N5=ak.N5=e	N1=STEM.N5=GEN.N5=DAT-NH	kisura.ak.e	N	border
+
+# Q001133.3
+1	izi	izi	izi	N	izi\abs	fire	sux	N1=izi.N5=ø	N1=STEM.N5=ABS	izi.ø	N	fire
+2	ba-šum₂	šum₂	šum	V/t	ba-šum₂	give	sux	V5=b.V7=a.V11=n.V12=šum.V14=ø	V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.a.n.šum.ø	V/t	give
+
+# Q001133.4
+1	an-ta-sur-ra	an-ta-sur-ra	Antasura	TN	an-ta-sur-ra\dat	1	sux	N1=Antasura.N5=e	N1=NAME.N5=DAT-NH	Antasura.e	TN	1
+
+# Q001133.5
+1	izi	izi	izi	N	izi\abs	fire	sux	N1=izi.N5=ø	N1=STEM.N5=ABS	izi.ø	N	fire
+2	ba-šum₂	šum₂	šum	V/t	ba-šum₂	give	sux	V5=b.V7=a.V11=n.V12=šum.V14=ø	V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.a.n.šum.ø	V/t	give
+
+# Q001133.6
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi\abs	lapis	sux	N1=zagin.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	zagin.bi.ø	N	lapis lazuli
+
+# Q001133.7
+1	ba-ta-keše₂-keše₂	keše₂-keše₂	kešed	V/t	ba-ta-keše₂-keše₂	bind	sux	V5=ba.V9=ta.V11=n.V12=kešedkešed.V14=ø	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ba.ta.n.kešedkešed.ø	V/t	to bind
+
+# Q001133.8
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	gal	gal	gal	V/i	gal	big	sux	NV2=gal	NV2=STEM	gal	V/i	(to be) big, great
+3	ti-ra-aš₂-ka	ti-ra-aš₂	Tiraš	TN	ti-ra-aš₂-ka\n5al2	1	sux	N1=Tiraš.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L2-NH	Tiraš.ak.'a	TN	1
+
+# Q001133.9
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	be₂-bad	bad	bad	V/t	be₂-bad	open	sux	V5=b.V10=i.V11=n.V12=bad.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.bad.ø	V/i	to open
+
+# Q001133.10
+1	abzu-ban₃-da-a	abzu-ban₃-da	Abzubanda	TN	abzu-ban₃-da-a\n5al2	1	sux	N1=Abzubanda.N5='a	N1=NAME.N5=L2-NH	Abzubanda.'a	TN	1
+
+# Q001133.11
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	be₂-bad	bad	bad	V/t	be₂-bad	open	sux	V5=b.V10=i.V11=n.V12=bad.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.bad.ø	V/i	to open
+
+# Q001133.12
+1	barag	barag	barag	N	barag	dais	sux	N1=barag	N1=STEM	barag	N	dais
+2	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1
+
+# Q001133.13
+1	barag	barag	barag	N	barag	dais	sux	N1=barag	N1=STEM	barag	N	dais
+2	{d}utu-ka	{d}utu	Utu	DN	{d}utu-ka\n5al2	1	sux	N1=Utu.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L2-NH	Utu.ak.'a	DN	1
+
+# Q001133.14
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	be₂-bad	bad	bad	V/t	be₂-bad	open	sux	V5=b.V10=i.V11=n.V12=bad.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.bad.ø	V/i	to open
+
+# Q001133.15
+1	a-huš-a	a-huš	Ahuš	TN	a-huš-a\n5al2	1	sux	N1=Ahuš.N5='a	N1=NAME.N5=L2-NH	Ahuš.'a	TN	1
+
+# Q001133.16
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	be₂-bad	bad	bad	V/t	be₂-bad	open	sux	V5=b.V10=i.V11=n.V12=bad.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.bad.ø	V/i	to open
+
+# Q001133.17
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi\abs	lapis	sux	N1=zagin.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	zagin.bi.ø	N	lapis lazuli
+
+# Q001133.18
+1	ba-ta-keše₂-keše₂	keše₂-keše₂	kešed	V/t	ba-ta-keše₂-keše₂	bind	sux	V5=ba.V9=ta.V11=n.V12=kešedkešed.V14=ø	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ba.ta.n.kešedkešed.ø	V/t	to bind
+
+# Q001133.19
+1	e₂-babbar₂-ra	e₂-babbar₂	Ebabbar	TN	e₂-babbar₂-ra\n5al2	1	sux	N1=Ebabbar.N5='a	N1=NAME.N5=L2-NH	Ebabbar.'a	TN	1
+
+# Q001133.20
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	be₂-bad	bad	bad	V/t	be₂-bad	open	sux	V5=b.V10=i.V11=n.V12=bad.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.bad.ø	V/i	to open
+
+# Q001133.21
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi\abs	lapis	sux	N1=zagin.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	zagin.bi.ø	N	lapis lazuli
+
+# Q001133.22
+1	ba-ta-keše₂-keše₂	keše₂-keše₂	kešed	V/t	ba-ta-keše₂-keše₂	bind	sux	V5=ba.V9=ta.V11=n.V12=kešedkešed.V14=ø	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ba.ta.n.kešedkešed.ø	V/t	to bind
+
+# Q001133.23
+1	gi-gu₃-na	gi-gu₃-na	giguna	N	gi-gu₃-na	terrace	sux	N1=giguna	N1=STEM	giguna	N	terrace, high temple
+
+# Q001133.24
+1	{d}nin-mah	{d}nin-mah	Ninmah	DN	{d}nin-mah	1	sux	N1=Ninmah	N1=NAME	Ninmah	DN	1
+
+# Q001133.25
+1	tir-kug-ga-ka-ka	tir-kug	Tirkug	GN	tir-kug-ga-ka-ka\n5al2	1	sux	N1=Tirkug.N5=ak.N5=ak.N5='a	N1=NAME.N5=GEN.N5=GEN.N5=L2-NH	Tirkug.ak.ak.'a	GN	1
+
+# Q001133.26
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	be₂-bad	bad	bad	V/t	be₂-bad	open	sux	V5=b.V10=i.V11=n.V12=bad.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.bad.ø	V/i	to open
+
+# Q001133.27
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi\abs	lapis	sux	N1=zagin.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	zagin.bi.ø	N	lapis lazuli
+
+# Q001133.28
+1	ba-ta-keše₂-keše₂	keše₂-keše₂	kešed	V/t	ba-ta-keše₂-keše₂	bind	sux	V5=ba.V9=ta.V11=n.V12=kešedkešed.V14=ø	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ba.ta.n.kešedkešed.ø	V/t	to bind
+
+# Q001133.29
+1	ba-gara₂-a	ba-gara₂	Bagara	TN	ba-gara₂-a\n5al2	1	sux	N1=Bagara.N5='a	N1=NAME.N5=L2-NH	Bagara.'a	TN	1
+
+# Q001133.30
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	be₂-bad	bad	bad	V/t	be₂-bad	open	sux	V5=b.V10=i.V11=n.V12=bad.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.bad.ø	V/i	to open
+
+# Q001133.31
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi\abs	lapis	sux	N1=zagin.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	zagin.bi.ø	N	lapis lazuli
+
+# Q001133.32
+1	ba-ta-keše₂-keše₂	keše₂-keše₂	kešed	V/t	ba-ta-keše₂-keše₂	bind	sux	V5=ba.V9=ta.V11=n.V12=kešedkešed.V14=ø	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ba.ta.n.kešedkešed.ø	V/t	to bind
+
+# Q001133.33
+1	dug-ru	dug-ru	Dugru	GN	dug-ru\dat	1	sux	N1=Dugru.N5=e	N1=NAME.N5=DAT-NH	Dugru.e	GN	1
+
+# Q001133.34
+1	izi	izi	izi	N	izi\abs	fire	sux	N1=izi.N5=ø	N1=STEM.N5=ABS	izi.ø	N	fire
+2	ba-šum₂	šum₂	šum	V/t	ba-šum₂	give	sux	V5=b.V7=a.V11=n.V12=šum.V14=ø	V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.a.n.šum.ø	V/t	give
+
+# Q001133.35
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi\abs	lapis	sux	N1=zagin.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	zagin.bi.ø	N	lapis lazuli
+
+# Q001133.36
+1	ba-ta-keše₂-keše₂	keše₂-keše₂	kešed	V/t	ba-ta-keše₂-keše₂	bind	sux	V5=ba.V9=ta.V11=n.V12=kešedkešed.V14=ø	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ba.ta.n.kešedkešed.ø	V/t	to bind
+
+# Q001133.37
+1	abzu-eg₂-ga-ka	abzu-eg₂	Abzuegak	TN	abzu-eg₂-ga-ka\n5al2	1	sux	N1=Abzuegak.N5='a	N1=NAME.N5=L2-NH	Abzuegak.'a	TN	1
+
+# Q001133.38
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	be₂-bad	bad	bad	V/t	be₂-bad	open	sux	V5=b.V10=i.V11=n.V12=bad.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.bad.ø	V/i	to open
+
+# Q001133.39
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}ŋa₂-tum₃-dug₃-ke₄	{d}ŋa₂-tum₃-dug₃	Ŋatumdug	DN	{d}ŋa₂-tum₃-dug₃-ke₄\n5edat	1	sux	N1=Ŋatumdug.N5=ak.N5=e	N1=NAME.N5=GEN.N5=DAT-NH	Ŋatumdug.ak.e	DN	1
+
+# Q001133.40
+1	izi	izi	izi	N	izi\abs	fire	sux	N1=izi.N5=ø	N1=STEM.N5=ABS	izi.ø	N	fire
+2	ba-šum₂	šum₂	šum	V/t	ba-šum₂	give	sux	V5=b.V7=a.V11=n.V12=šum.V14=ø	V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.a.n.šum.ø	V/t	give
+
+# Q001133.41
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi\abs	lapis	sux	N1=zagin.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	zagin.bi.ø	N	lapis lazuli
+
+# Q001133.42
+1	ba-ta-keše₂-keše₂	keše₂-keše₂	kešed	V/t	ba-ta-keše₂-keše₂	bind	sux	V5=ba.V9=ta.V11=n.V12=kešedkešed.V14=ø	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ba.ta.n.kešedkešed.ø	V/t	to bind
+
+# Q001133.43
+1	alan-bi	alan	alan	N	alan-bi\abs	statue	sux	N1=alan.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	alan.bi.ø	N	statue
+
+# Q001133.44
+1	i₃-gul-gul	gul-gul	gul	V/t	i₃-gul-gul	destroy	sux	V2=i.V11=n.V12=gulgul.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	i.n.gulgul.ø	V/t	destroy
+
+# Q001133.45
+1	eb	eb	eb	N	eb	oval	sux	N1=eb	N1=STEM	eb	N	oval, shrine(?)
+2	e₂-an-na	e₂-an-na	Eanak	TN	e₂-an-na	1	sux	N1=Eanak	N1=NAME	Eanak	TN	1
+3	{d}inana-ka-ke₄	{d}inana	Inanak	DN	{d}inana-ka-ke₄\n5edat	1	sux	N1=Inanak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=DAT-NH	Inanak.ak.e	DN	1
+
+# Q001133.46
+1	izi	izi	izi	N	izi\abs	fire	sux	N1=izi.N5=ø	N1=STEM.N5=ABS	izi.ø	N	fire
+2	ba-šum₂	šum₂	šum	V/t	ba-šum₂	give	sux	V5=b.V7=a.V11=n.V12=šum.V14=ø	V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.a.n.šum.ø	V/t	give
+
+# Q001133.47
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi\abs	lapis	sux	N1=zagin.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	zagin.bi.ø	N	lapis lazuli
+
+# Q001133.48
+1	ba-ta-keše₂-keše₂	keše₂-keše₂	kešed	V/t	ba-ta-keše₂-keše₂	bind	sux	V5=ba.V9=ta.V11=n.V12=kešedkešed.V14=ø	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ba.ta.n.kešedkešed.ø	V/t	to bind
+
+# Q001133.49
+1	alan-bi	alan	alan	N	alan-bi\abs	statue	sux	N1=alan.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	alan.bi.ø	N	statue
+
+# Q001133.50
+1	i₃-gul-gul	gul-gul	gul	V/t	i₃-gul-gul	destroy	sux	V2=i.V11=n.V12=gulgul.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	i.n.gulgul.ø	V/t	destroy
+
+# Q001133.51
+1	šag₄-pad₃-da	šag₄-pad₃-da	Ešagepada	TN	šag₄-pad₃-da\n5al2	2	sux	N1=Ešagepada.N5='a	N1=NAME.N5=L2-NH	Ešagepada.'a	TN	Temple of Nanše in Lagaš
+
+# Q001133.52
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	be₂-bad	bad	bad	V/t	be₂-bad	open	sux	V5=b.V10=i.V11=n.V12=bad.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.bad.ø	V/i	to open
+
+# Q001133.53
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi\abs	lapis	sux	N1=zagin.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	zagin.bi.ø	N	lapis lazuli
+
+# Q001133.54
+1	ba-ta-keše₂-keše₂	keše₂-keše₂	kešed	V/t	ba-ta-keše₂-keše₂	bind	sux	V5=ba.V9=ta.V11=n.V12=kešedkešed.V14=ø	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ba.ta.n.kešedkešed.ø	V/t	to bind
+
+# Q001133.55
+1	he-en-da-ka	he-en-da	Hendak	SN	he-en-da-ka\l1	1	sux	N1=Hendak.N5='a	N1=NAME.N5=L1	Hendak.'a	SN	1
+
+# Q001133.56
+1	sumur₃	sumur₃	sumur	N	sumur₃\abs	roof	sux	N1=sumur.N5=ø	N1=STEM.ABS	sumur.ø	N	roof
+2	ne₂-bala-bala	bala-bala	bala	V/t	ne₂-bala-bala	turn	sux	V10=ni.V11=n.V12=balabala.V14=ø	V10=L1.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ni.n.balabala.ø	V/t	turn, rotate, to change, to revoke
+
+# Q001133.57
+1	ki-eš₃{ki}	ki-eš₃{ki}	Kieša	SN	ki-eš₃{ki}\l1	1	sux	N1=Kieša.N5='a	N1=NAME.N5=L1	Kieša.'a	SN	1
+
+# Q001133.58
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}nin-dar-ka	{d}nin-dar	Nindara	DN	{d}nin-dar-ka\n5al2	1	sux	N1=Nindara.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L2-NH	Nindara.ak.'a	DN	1
+
+# Q001133.59
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	be₂-bad	bad	bad	V/t	be₂-bad	open	sux	V5=b.V10=i.V11=n.V12=bad.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.bad.ø	V/i	to open
+
+# Q001133.60
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi\abs	lapis	sux	N1=zagin.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	zagin.bi.ø	N	lapis lazuli
+
+# Q001133.61
+1	ba-ta-keše₂-keše₂	keše₂-keše₂	kešed	V/t	ba-ta-keše₂-keše₂	bind	sux	V5=ba.V9=ta.V11=n.V12=kešedkešed.V14=ø	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ba.ta.n.kešedkešed.ø	V/t	to bind
+
+# Q001133.62
+1	ki-nu-nir{ki}	ki-nu-nir{ki}	Kinunir	SN	ki-nu-nir{ki}\l1	1	sux	N1=Kinunir.N5='a	N1=NAME.N5=L1	Kinunir.'a	SN	1
+
+# Q001133.63
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}dumu-zid-abzu-ka-ke₄	{d}dumu-zid-abzu	Dumuzidabzuk	DN	{d}dumu-zid-abzu-ka-ke₄\n5edat	1	sux	N1=Dumuzidabzuk.N5=ak.N5=e	N1=NAME.N5=GEN.N5=DAT-NH	Dumuzidabzuk.ak.e	DN	1
+
+# Q001133.64
+1	izi	izi	izi	N	izi\abs	fire	sux	N1=izi.N5=ø	N1=STEM.N5=ABS	izi.ø	N	fire
+2	ba-šum₂	šum₂	šum	V/t	ba-šum₂	give	sux	V5=b.V7=a.V11=n.V12=šum.V14=ø	V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.a.n.šum.ø	V/t	give
+
+# Q001133.65
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi\abs	lapis	sux	N1=zagin.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	zagin.bi.ø	N	lapis lazuli
+
+# Q001133.66
+1	ba-ta-keše₂-keše₂	keše₂-keše₂	kešed	V/t	ba-ta-keše₂-keše₂	bind	sux	V5=ba.V9=ta.V11=n.V12=kešedkešed.V14=ø	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ba.ta.n.kešedkešed.ø	V/t	to bind
+
+# Q001133.67
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}lugal-urub{ki}-ka-ke₄	{d}lugal-urub{ki}	Lugalurubak	DN	{d}lugal-urub{ki}-ka-ke₄\n5edat	1	sux	N1=Lugalurubak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=DAT-NH	Lugalurubak.ak.e	DN	1
+
+# Q001133.68
+1	izi	izi	izi	N	izi\abs	fire	sux	N1=izi.N5=ø	N1=STEM.N5=ABS	izi.ø	N	fire
+2	ba-šum₂	šum₂	šum	V/t	ba-šum₂	give	sux	V5=b.V7=a.V11=n.V12=šum.V14=ø	V5=3-NH.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.a.n.šum.ø	V/t	give
+
+# Q001133.69
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi\abs	lapis	sux	N1=zagin.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	zagin.bi.ø	N	lapis lazuli
+
+# Q001133.70
+1	ba-ta-keše₂-keše₂	keše₂-keše₂	kešed	V/t	ba-ta-keše₂-keše₂	bind	sux	V5=ba.V9=ta.V11=n.V12=kešedkešed.V14=ø	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ba.ta.n.kešedkešed.ø	V/t	to bind
+
+# Q001133.71
+1	e₂-engur-ra	e₂-engur-ra	Eʾengur	TN	e₂-engur-ra	1	sux	N1=E'engur	N1=NAME	E'engur	TN	1
+
+# Q001133.72
+1	{d}nanše-ka	{d}nanše	Nanše	DN	{d}nanše-ka\n5al2	1	sux	N1=Nanše.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L2-NH	Nanše.ak.'a	DN	1
+
+# Q001133.73
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	be₂-bad	bad	bad	V/t	be₂-bad	open	sux	V5=b.V10=i.V11=n.V12=bad.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.bad.ø	V/i	to open
+
+# Q001133.74
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-bi	za-gin₃	zagin	N	za-gin₃-bi\abs	lapis	sux	N1=zagin.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	zagin.bi.ø	N	lapis lazuli
+
+# Q001133.75
+1	ba-ta-keše₂-keše₂	keše₂-keše₂	kešed	V/t	ba-ta-keše₂-keše₂	bind	sux	V5=ba.V9=ta.V11=n.V12=kešedkešed.V14=ø	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ba.ta.n.kešedkešed.ø	V/t	to bind
+
+# Q001133.76
+1	saŋ-ubₓ(|EZEN×BAD|)	saŋ-ubₓ(|EZEN×BAD|)	Saŋub	SN	saŋ-ubₓ(|EZEN×BAD|)\l1	1	sux	N1=Saŋub.N5='a	N1=NAME.N5=L1	Saŋub.'a	SN	1
+
+# Q001133.77
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple
+2	{d}ama-ŋeštin-na-ka	{d}ama-ŋeštin	Ŋeštinanak	DN	{d}ama-ŋeštin-na-ka\n5al2	1	sux	N1=Ŋeštinanak.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L2-NH	Ŋeštinanak.ak.'a	DN	1
+
+# Q001133.78
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	be₂-bad	bad	bad	V/t	be₂-bad	open	sux	V5=b.V10=i.V11=n.V12=bad.V14=ø	V5=3-NH.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.bad.ø	V/i	to open
+
+# Q001133.79
+1	{d}ama-ŋeštin-ta	{d}ama-ŋeštin	Ŋeštinanak	DN	{d}ama-ŋeštin-ta	1	sux	N1=Ŋeštinanak.N5=ta	N1=NAME.N5=ABL	Ŋeštinanak.ta	DN	1
+
+# Q001133.80
+1	kug	kug	kug	N	kug	metal	sux	N1=kug	N1=STEM	kug	N	metal, silver
+2	za-gin₃-na-ni	za-gin₃	zagin	N	za-gin₃-na-ni\abs	lapis	sux	N1=zagin.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	zagin.ani.ø	N	lapis lazuli
+
+# Q001133.81
+1	ba-ta-keše₂-keše₂	keše₂-keše₂	kešed	V/t	ba-ta-keše₂-keše₂	bind	sux	V5=ba.V9=ta.V11=n.V12=kešedkešed.V14=ø	V5=MID.V9=ABL.V11=3-SG-H-A.V12=STEM-RDP.V14=3-SG-P	ba.ta.n.kešedkešed.ø	V/t	to bind
+
+# Q001133.82
+1	pu₂-ba	pu₂	pu	N	pu₂-ba	well	sux	N1=pu.N3=bi.N5='a	N1=STEM.N3=3-SG-NH-POSS.N5=L1	pu.bi.'a	N	well
+2	ni-šub	šub	šub	V/t	ni-šub	fall	sux	V10=ni.V11=n.V12=šub.V14=ø	V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ni.n.šub.ø	V/t	fall, to throw
+
+# Q001133.83
+1	ašag	ašag	ašag	N	ašag	field	sux	N1=ašag	N1=STEM	ašag	N	field
+2	{d}nin-ŋir₂-su-ka	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-ka	1	sux	N1=Ninŋirsuk.N5=ak	N1=NAME.N5=GEN	Ninŋirsuk.ak	DN	1
+
+# Q001133.84
+1	en-na	en-na	enna	CNJ	en-na	until	sux	enna	STEM	enna	CNJ	until, up to
+2	uru₄-a	uru₄	uru	V/t	uru₄-a\gen	sow	sux	NV2=uru.NV4='a.N5=ak	NV2=STEM.NV4=SUB.N5=GEN	uru.'a.ak	V/t	sow, to cultivate
+
+# Q001133.85
+1	še-bi	še	še	N	še-bi\abs	barley	sux	N1=še.N3=bi.N5=ø	N1=STEM.N3=DEM2.N5=ABS	še.bi.ø	N	barley
+2	i₃-burₓ(PAD)	burₓ(PAD)	bur	V/t	i₃-burₓ(PAD)	tear	sux	V2=i.V11=n.V12=bur.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.bur.ø	V/t	tear
+
+# Q001133.86
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person
+2	umma{ki}-ke₄	umma{ki}	Umma	SN	umma{ki}-ke₄	1	sux	N1=Umma.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Umma.ak.e	SN	1
+
+# Q001133.87
+1	eŋir	eŋir	eŋir	N	eŋir	back	sux	N1=eŋir	N1=STEM	eŋir	N	back
+2	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\abs	1	sux	N1=Lagaš.N5=ø	N1=NAME.N5=ABS	Lagaš.ø	SN	1
+
+# Q001133.88
+1	ba-hul-a-ta	hul	hulu	V/t	ba-hul-a-ta\v14sg3s	bad	sux	V5=ba.V12=hulu.V14=ø.V15='a.N5=ta	V5=MID.V12=STEM.V14=3-SG-S.V15=SUB.N5=ABL	ba.hulu.ø.'a.ta	V/t	to plunder, raid
+
+# Q001133.89
+1	nam-tag₂	nam-tag₂	namtaga	N	nam-tag₂\abs	sin	sux	N1=namtag.N5=ø	N1=STEM.N5=ABS	namtag.ø	N	sin, punishment
+
+# Q001133.90
+1	{d}nin-ŋir₂-su-da	{d}nin-ŋir₂-su	Ninŋirsuk	DN	{d}nin-ŋir₂-su-da	1	sux	N1=Ninŋirsuk.N5=da	N1=NAME.N5=COM	Ninŋirsuk.da	DN	1
+
+# Q001133.91
+1	e-da-ak-ka-am₆	ak	ak	V/t	e-da-ak-ka-am₆	do	sux	V2=i.V6=nn.V7=da.V11=n.V12=ak.V14=ø.V15='a.N6=am	V2=FIN.V6=3-SG-H.V7=COM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N6=COP-3-SG	i.nn.da.n.ak.ø.'a.am	V/t	do
+
+# Q001133.92
+1	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand
+2	in-ši-de₆-a-am₆	de₆	de	V/t	in-ši-de₆-a-am₆	bring	sux	V2=i.V6=nn.V9=ši.V11=n.V12=de.V14=ø.V15='a.N6=am	V2=FIN.V6=3-SG-H.V9=TERM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N6=COP-3-SG	i.nn.ši.n.de.ø.'a.am	V/t	to bring
+
+# Q001133.93
+1	e-ta-|KUD.KUD|	|KUD.KUD|	kud	V/t	e-ta-|KUD.KUD|\v14sg3s	cut	sux	V2=i.V6=nn.V9=ta.V12=kud.V14=ø	V2=FIN.V6=3-SG-H.V9=ABL.V12=STEM.V14=3-SG-S	i.nn.ta.kud.ø	V/t	cut
+
+# Q001133.94
+1	nam-tag₂	nam-tag₂	namtaga	N	nam-tag₂	sin	sux	N1=namtag	N1=STEM	namtag	N	sin, punishment
+
+# Q001133.95
+1	iri-ka-gen₆-na	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na	1	sux	N1=Irikaginak	N1=NAME	Irikaginak	RN	Ruler of Lagaš
+
+# Q001133.96
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001133.97
+1	ŋir₂-su{ki}-ka	ŋir₂-su{ki}	Ŋirsu	SN	ŋir₂-su{ki}-ka\abs	1	sux	N1=Ŋirsu.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Ŋirsu.ak.ak.ø	SN	1
+
+# Q001133.98
+1	nu-ŋal₂	ŋal₂	ŋal	V/i	nu-ŋal₂\v14sg3s	be	sux	V1=nu.V12=ŋal.V14=ø	V1=NEG.V12=STEM.V14=3-SG-S	nu.ŋal.ø	V/i	be
+
+# Q001133.99
+1	lugal-zag-ge-si	lugal-zag-ge-si	Lugalzagesi	RN	lugal-zag-ge-si	1	sux	N1=Lugalzagesi	N1=NAME	Lugalzagesi	RN	1
+
+# Q001133.100
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler
+
+# Q001133.101
+1	umma{ki}-ka	umma{ki}	Umma	SN	umma{ki}-ka	1	sux	N1=Umma.N5=ak.N5=ak	N1=NAME.N5=GEN.N5=GEN	Umma.ak.ak	SN	1
+
+# Q001133.102
+1	diŋir-ra-ni	diŋir	diŋir	N	diŋir-ra-ni	deity	sux	N1=diŋir.N3=ani	N1=STEM.N3=3-SG-H-POSS	diŋir.ani	N	deity, personal god
+
+# Q001133.103
+1	{d}nisaba-ke₄	{d}nisaba	Nisabak	DN	{d}nisaba-ke₄	1	sux	N1=Nisabak.N5=e	N1=NAME.N5=ERG	Nisabak.e	DN	1
+
+# Q001133.104
+1	nam-tag₂-bi	nam-tag₂	namtaga	N	nam-tag₂-bi\abs	sin	sux	N1=namtag.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	namtag.bi.ø	N	sin, punishment
+
+# Q001133.105
+1	gu₂-na	gu₂	gu	N	gu₂-na	neck	sux	N1=gu.N3=ani.N5='a	N1=STEM.N3=3-SG-H-POSS.N5=L2-NH	gu.ani.'a	N	neck
+2	he₂-|IL₂.IL₂|	|IL₂.IL₂|	il	V/t	he₂-|IL₂.IL₂|	raise	sux	V1=ha.V2=i.V5=b.V10=ø.V12=il.V14=e	V1=MOD1.V2=FIN.V5=3-NH.V10=L2-SYN.V12=STEM.V14=3-SG-A	ha.i.b.ø.il.e	V/t	raise
+

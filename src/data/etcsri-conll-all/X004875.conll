@@ -1,0 +1,20 @@
+# project: etcsri 
+# textid: X004875 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: X004875.U0 
+# bracketing_level: 0 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# X004875.2
+1	nin-ŋu₁₀	nin	nin	N	nin-ŋu₁₀\dat	lady	sux	N1=nin.N3=ŋu.N5=ra	N1=STEM.N3=1-SG-POSS.N5=DAT-H	nin.ŋu.ra	N	lady
+
+# X004875.3
+1	sizkur₂-ŋu₁₀	sizkur₂	siškur	N	sizkur₂-ŋu₁₀\abs	prayer	sux	N1=siškur.N3=ŋu.N5=ø	N1=STEM.N3=1-SG-POSS.N5=ABS	siškur.ŋu.ø	N	prayer
+2	he₂-na-ab-be₂	b°e₂	dug	V/t	he₂-na-ab-be₂	speak	sux	V1=ha.V2=i.V6=nn.V7=a.V11=b.V12=e.V14=e	V1=MOD1.V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-NH-P.V12=STEM-PF.V14=3-SG-A	ha.i.nn.a.b.e.e	V/t	speak
+
+# X004875.4
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name
+

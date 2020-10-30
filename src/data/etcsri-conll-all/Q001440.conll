@@ -1,0 +1,64 @@
+# project: etcsri 
+# textid: Q001440 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001440.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001440.1
+1	{d}nin-gublaga	{d}nin-gublaga	Ningublagak	DN	{d}nin-gublaga	1	sux	N1=Ningublagak	N1=NAME	Ningublagak	DN	1	_	_	_	_	_	_	_
+
+# Q001440.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q001440.3
+1	hul-ŋal₂	hul-ŋal₂	huluŋal	V/i	hul-ŋal₂\abs	evil	sux	NV2=huluŋal.N5=ø	NV2=STEM.N5=ABS	huluŋal.ø	V/i	(to be) bad, evil	_	_	_	_	_	_	_
+2	ra	ra	rah	V/t	ra\dat	beat	sux	NV2=ra.N5=ra	NV2=STEM.N5=DAT-H	ra.ra	V/t	beat, kill	_	_	_	_	_	_	_
+
+# Q001440.4
+1	niŋ₂-du₇-pa-e₃	niŋ₂-du₇-pa-e₃	Niŋdupae	PN	niŋ₂-du₇-pa-e₃	1	sux	N1=Niŋdupae	N1=NAME	Niŋdupae	PN	1	_	_	_	_	_	_	_
+
+# Q001440.5
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe	_	_	_	_	_	_	_
+
+# Q001440.6
+1	bisaŋ-dub-ba	bisaŋ-dub-ba	bisaŋdubak	N	bisaŋ-dub-ba	archivist	sux	N1=bisaŋdubak	N1=STEM	bisaŋdubak	N	archivist	_	_	_	_	_	_	_
+
+# Q001440.7
+1	iri-saŋ-rig₇{ki}	iri-saŋ-rig₇{ki}	Irisaŋrig	SN	iri-saŋ-rig₇{ki}\gen	1	sux	N1=Irisaŋrig.N5=ak	N1=NAME.N5=GEN	Irisaŋrig.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001440.8
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	ur-{ŋeš}kiri₆	ur-{ŋeš}kiri₆	Urkiri	PN	ur-{ŋeš}kiri₆	1	sux	N1=Urkiri	N1=NAME	Urkiri	PN	1	_	_	_	_	_	_	_
+
+# Q001440.9
+1	dub-sar-ra-ke₄	dub-sar	dubsar	N	dub-sar-ra-ke₄	scribe	sux	N1=dubsar.N5=ak.N5=e	N1=STEM.N5=GEN.N5=ERG	dubsar.ak.e	N	scribe	_	_	_	_	_	_	_
+
+# Q001440.10
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001440.11
+1	SAR-a-TI-gu-bi-si-in	SAR-a-TI-gu-bi-si-in	Šaratigubisin	RN	SAR-a-TI-gu-bi-si-in	1	sux	N1=Šaratigubisin	N1=STEM	Šaratigubisin	RN	King of Irisagrig	_	_	_	_	_	_	_
+
+# Q001440.12
+1	lugal-la-na-še₃	lugal	lugal	N	lugal-la-na-še₃	king	sux	N1=lugal.N3=ani.N5=ak.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=TERM	lugal.ani.ak.še	N	king	_	_	_	_	_	_	_
+
+# Q001440.13
+1	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q001440.14
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001440.15
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+2	dumu-na-še₃	dumu	dumu	N	dumu-na-še₃	child	sux	N1=dumu.N3=ani.N5=ak.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=TERM	dumu.ani.ak.še	N	child	_	_	_	_	_	_	_
+
+# Q001440.16
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

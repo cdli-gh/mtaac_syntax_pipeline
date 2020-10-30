@@ -1,0 +1,49 @@
+# project: etcsri 
+# textid: Q001998 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001998.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001998.1
+1	{d}lu₂-lal₃	{d}lu₂-lal₃	Lulal	DN	{d}lu₂-lal₃	1	sux	N1=Lulal	N1=NAME	Lulal	DN	1	_	_	_	_	_	_	_
+
+# Q001998.2
+1	du₆-eden-na	du₆-eden	Dueden	GN	du₆-eden-na	1	sux	N1=Dueden.N5=ak	N1=NAME.N5=GEN	Dueden.ak	GN	1	_	_	_	_	_	_	_
+
+# Q001998.3
+1	lugal-a-ni-ir	lugal	lugal	N	lugal-a-ni-ir	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king	_	_	_	_	_	_	_
+
+# Q001998.4
+1	ur-du₆-kug-ga	ur-du₆-kug-ga	Urdukuga	RN	ur-du₆-kug-ga	1	sux	N1=Urdukuga	N1=NAME	Urdukuga	RN	1	_	_	_	_	_	_	_
+
+# Q001998.5
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd	_	_	_	_	_	_	_
+2	niŋ₂-nam	niŋ₂-nam	niŋnam	N	niŋ₂-nam\abs	anything	sux	N1=niŋnam.N5=ø	N1=STEM.N5=ABS	niŋnam.ø	N	gift	_	_	_	_	_	_	_
+3	tumu₃	tumu₃	de	V/t	tumu₃	bring	sux	NV2=tumu	NV2=STEM-PF	tumu	V/t	to bring	_	_	_	_	_	_	_
+
+# Q001998.6
+1	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen	1	sux	N1=Nibru.N5=ak	N1=NAME.N5=GEN	Nibru.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001998.8
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+2	igi	igi	igi	N	igi	eye	sux	N1=igi	N1=STEM	igi	N	eye	_	_	igi bar	look favourably at	to look favourably at somebody or something	V/t	V/t
+3	zid	zid	zid	V/i	zid\abs	right	sux	NV2=zid.N5=ø	NV2=STEM.N5=ABS	zid.ø	V/i	right	2	mwe	_	_	_	_	_
+4	bar-ra	bar	bar	V/t	bar-ra	cvve	sux	NV2=bar.NV4='a	NV2=STEM.NV4=SUB	bar.'a	V/t	(compound verb verbal element)	2	mwe	_	_	_	_	_
+
+# Q001998.9
+1	{d}inana-ke₄	{d}inana	Inanak	DN	{d}inana-ke₄	1	sux	N1=Inanak.N5=e	N1=NAME.N5=ERG	Inanak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001998.10
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+3	aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni	measure	sux	NV2=aŋ.N3=ani	NV2=STEM.N3=3-SG-H-POSS	aŋ.ani	V/t	measure	2	mwe	_	_	_	_	_
+
+# Q001998.11
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

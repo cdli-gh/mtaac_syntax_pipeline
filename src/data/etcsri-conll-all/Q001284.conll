@@ -1,0 +1,29 @@
+# project: etcsri 
+# textid: Q001284 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001284.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001284.1
+1	{d}inana	{d}inana	Inanak	DN	{d}inana\dat	1	sux	N1=Inanak.N5=ra	N1=NAME.N5=DAT-H	Inanak.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001284.2
+1	AK-{d}en-lilₓ(E₂)	AK-{d}en-lilₓ(E₂)	AK-Enlilak	PN	AK-{d}en-lilₓ(E₂)	1	sux	N1=AK-Enlilak	N1=NAME	AK-Enlilak	PN	1	_	_	_	_	_	_	_
+
+# Q001284.3
+1	dam-gar₃-gal	dam-gar₃-gal	damgargal	N	dam-gar₃-gal	merchant	sux	N1=damgargal	N1=STEM	damgargal	N	leading merchant	_	_	_	_	_	_	_
+
+# Q001284.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	ti-GAN	ti-GAN	Ti-GAN	PN	ti-GAN\gen\erg	1	sux	N1=Ti-GAN.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ti-GAN.ak.e	PN	1	_	_	_	_	_	_	_
+
+# Q001284.5
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-ru	ru	ru	V/t	mu-ru\dat	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

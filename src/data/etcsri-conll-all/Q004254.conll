@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q004254 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004254.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004254.1
+1	SAR-a-TI-gu-bi-si-in	SAR-a-TI-gu-bi-si-in	Šaratigubisin	RN	SAR-a-TI-gu-bi-si-in	1	sux	N1=Šaratigubisin	N1=STEM	Šaratigubisin	RN	King of Irisagrig
+
+# Q004254.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	lugal	lugal	lugal	N	lugal\gen	king	sux	N1=lugal.N5=ak	N1=STEM.N5=GEN	lugal.ak	N	king
+
+# Q004254.3
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household
+2	keš₃{ki}	keš₃{ki}	Keš	SN	keš₃{ki}\gen\abs	1	sux	N1=Keš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Keš.ak.ø	SN	1
+

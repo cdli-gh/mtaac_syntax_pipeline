@@ -1,0 +1,27 @@
+#new_text=P101135
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	5(disz)	5(disz)[one]	NUM	NU	_	2	nummod	_	_
+2	gurusz	gurusz[male]	NOUN	N	Number=Sing	0	_	_	_
+3	u4	ud[day]	NOUN	N	Number=Sing	2	appos	_	_
+4	1(disz)-sze3	1(disz)[one]	NUM	NU	_	3	nummod	_	_
+5	kab2-ku5	kabkul[water_installation]	NOUN	N	Number=Sing	2	appos	_	_
+6	i7-sal4-la{ki}	Isalla[1]	PROPN	SN	Case=Gen|Number=Sing	5	GEN	_	_
+7	sahar	sahar[earth]	NOUN	N	Number=Sing	0	_	_	_
+8	si-ga	si[fill]	VERB	V	_	7	amod	_	_
+9	ugula	ugula[overseer]	NOUN	N	Number=Sing	7	appos	_	_
+10	ab-ba-gi-na	Abbagina[1]	PROPN	PN	Animacy=Hum|Number=Sing	7	appos	_	_
+11	giri3	giri[foot]	NOUN	N	Number=Sing	7	appos	_	_
+12	a-szi-an	Aszi'an[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	11	GEN	_	_
+13	kiszib3	kiszib[seal]	NOUN	N	Number=Sing	7	appos	_	_
+14	lugal-e2-mah-e	Lugalemahe[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	13	GEN	_	_
+15	iti	iti[month]	NOUN	N	Number=Sing	7	appos	_	_
+16	{d}li9-si4	Lisi[1]	PROPN	MN	Number=Sing	7	appos	_	_
+17	mu	mu[year]	NOUN	N	Number=Sing	0	_	_	_
+18	en	en[priest]	NOUN	N	Number=Sing	0	_	_	_
+19	x	_	_	_	_	0	_	_	_
+20	x	_	_	_	_	0	_	_	_
+21	ba-hun	hug[hire]	VERB	V	Number=Sing|Person=3|Voice=Mid	0	_	_	_
+22	lugal-e2-mah-e	Lugalemahe[1]	PROPN	PN	Animacy=Hum|Number=Sing	0	_	_	_
+23	dub-sar	dubsar[scribe]	NOUN	N	Number=Sing	0	_	_	_
+24	dumu	dumu[child]	NOUN	N	Number=Sing	0	_	_	_
+25	lugal-ku3-ga-ni	Lugalkugani[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	24	GEN	_	_

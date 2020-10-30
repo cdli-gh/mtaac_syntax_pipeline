@@ -1,0 +1,35 @@
+# project: etcsri 
+# textid: Q001997 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001997.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001997.1
+1	ur-du₃-kug-ga	ur-du₃-kug-ga	Urdukuga	RN	ur-du₃-kug-ga	1	sux	N1=Urdukuga	N1=NAME	Urdukuga	RN	1
+
+# Q001997.2
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd
+2	niŋ₂-nam	niŋ₂-nam	niŋnam	N	niŋ₂-nam\abs	anything	sux	N1=niŋnam.N5=ø	N1=STEM.N5=ABS	niŋnam.ø	N	gift
+3	tumu₃	tumu₃	de	V/t	tumu₃	bring	sux	NV2=tumu	NV2=STEM-PF	tumu	V/t	to bring
+
+# Q001997.3
+1	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen	1	sux	N1=Nibru.N5=ak	N1=NAME.N5=GEN	Nibru.ak	SN	1
+
+# Q001997.4
+1	engar	engar	engar	N	engar	farmer	sux	N1=engar	N1=STEM	engar	N	farmer
+2	mah	mah	mah	V/i	mah	great	sux	NV2=mah	NV2=STEM	mah	V/i	great
+
+# Q001997.5
+1	an	an	An	DN	an	1	sux	N1=AN	N1=NAME	AN	DN	1
+2	{d}en-lil₂-la₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂	1	sux	N1=Enlil.N5=ak	N1=NAME.N5=GEN	Enlil.ak	DN	1
+
+# Q001997.6
+1	u₂-a	u₂-a	ua	N	u₂-a	provisioner	sux	N1=ua	N1=STEM	ua	N	provisioner, provider
+2	e₂-kur-ra	e₂-kur	Ekur	TN	e₂-kur-ra	1	sux	N1=Ekur.N5=ak	N1=NAME.N5=GEN	Ekur.ak	TN	1
+

@@ -1,0 +1,56 @@
+# project: etcsri 
+# textid: Q001671 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001671.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001671.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001671.4
+1	da-wa-a-x	da-wa-a-x	DA.WA.A.X	PN	da-wa-a-x	1	sux	N1=DA.WA.A.X	N1=NAME	DA.WA.A.X	PN	1
+
+# Q001671.5
+1	ensi₂(|PA.TE.SI|)	ensi₂	ensik	N	ensi₂(|PA.TE.SI|)	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+
+# Q001671.6
+1	za-ul{ki}	za-ul{ki}	Zaul	GN	za-ul{ki}\gen	1	sux	N1=Zaul	N1=NAME	Zaul	GN	1
+
+# Q001671.8
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001671.9
+1	ensi₂(|PA.TE.SI|)	ensi₂	ensik	N	ensi₂(|PA.TE.SI|)	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+
+# Q001671.10
+1	hu-uh₂-nu-ri{ki}	hu-uh₂-nu-ri{ki}	Huhnuri	SN	hu-uh₂-nu-ri{ki}\gen	1	sux	N1=Huhnuri.N5=ak	N1=NAME.N5=GEN	Huhnuri.ak	SN	1
+
+# Q001671.12
+1	x-x-ma-at	x-x-ma-at	X.MA.AT	PN	x-x-ma-at	1	sux	N1=X.MA.AT	N1=NAME	X.MA.AT	PN	1
+
+# Q001671.13
+1	ensi₂(|PA.TE.SI|)	ensi₂	ensik	N	ensi₂(|PA.TE.SI|)	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+
+# Q001671.14
+1	x-x-la₂-ka	x-x-la₂-ka	X.LA₂	GN	x-x-la₂-ka	1	sux	N1=X.LA₂.N5=ak	N1=NAME.N5=GEN	X.ak	GN	1
+
+# Q001671.16
+1	x-x-a	x-x-a	X.A	PN	x-x-a	1	sux	N1=X.A	N1=NAME	X.A	PN	1
+
+# Q001671.17
+1	šagina	šagina	šakkanak	N	šagina	general	sux	N1=šakkanak	N1=STEM	šakkanak	N	military governor
+
+# Q001671.18
+1	x-al{ki}	x-al{ki}	X.AL	GN	x-al{ki}	1	sux	N1=X.AL	N1=NAME	X.AL	GN	1
+
+# Q001671.19
+1	sa-bu-um{ki}	sa-bu-um{ki}	Sabum	SN	sa-bu-um{ki}	1	sux	N1=Sabum	N1=NAME	Sabum	SN	1
+

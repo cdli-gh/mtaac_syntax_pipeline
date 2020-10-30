@@ -1,0 +1,32 @@
+# project: etcsri 
+# textid: Q001944 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001944.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001944.1
+1	{d}i-din-{d}da-gan	{d}i-din-{d}da-gan	Iddindagan	RN	{d}i-din-{d}da-gan	1	sux	N1=Iddindagan	N1=NAME	Iddindagan	RN	3rd king of the dynasty of Isin
+
+# Q001944.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001944.4
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001944.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q001944.6
+1	dub-sar	dub-sar	dubsar	N	dub-sar\gen\abs	scribe	sux	N1=dubsar.N5=ak.N5=ø	N1=STEM.N5=GEN.N5=ABS	dubsar.ak.ø	N	scribe
+
+# Q001944.7
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

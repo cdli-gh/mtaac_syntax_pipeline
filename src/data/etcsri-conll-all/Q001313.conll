@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q001313 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001313.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001313.2
+1	nam-til₃-la-ni-da	nam-til₃	namtil	N	nam-til₃-la-ni-da	life	sux	N1=namtil.N3=ani.N5=da	N1=STEM.N3=3-SG-H-POSS.N5=COM	namtil.ani.da	N	life
+
+# Q001313.3
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life
+
+# Q001313.4
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	dumu-ne-ne-da	dumu	dumu	N	dumu-ne-ne-da	child	sux	N1=dumu.N3=ani.N4=enee.N5=ak.N5=da	N1=STEM.N3=3-SG-H-POSS.N4=PL.N5=GEN.N5=COM	dumu.ani.enee.ak.da	N	child
+

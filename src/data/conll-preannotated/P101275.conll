@@ -1,0 +1,25 @@
+#new_text=P101275
+#ID	FORM	LEMMA	UPOSTAG	XPOSTAG	FEATS	HEAD	DEPREL	DEPS	MISC
+1	3(disz)	3(disz)[one]	NUM	NU	_	_	_	_	NU
+2	tug2	tug[textile]	NOUN	N	Number=Sing	_	_	_	_
+3	ba-zi	Bazi[1]	PROPN	PN	Animacy=Hum|Number=Sing	Bazi[1]	PN	_	ba-zig[rise][-ø]
+4	engar	engar[farmer]	NOUN	N	Number=Sing	engar[farmer][-ak]	N.GEN	_	_
+5	ur-{gesz}gigir	Urgigir[1]	PROPN	PN	Animacy=Hum|Case=Gen|Number=Sing	Urgigir[1][-ak]	PN.GEN	_	_
+6	nu-banda3-da	nubanda[overseer]	NOUN	N	Number=Sing	_	_	_	_
+7	maszkim	maszkim[administrator]	NOUN	N	Number=Sing	_	_	_	_
+8	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+9	tug2	tug[textile]	NOUN	N	Number=Sing	_	_	_	_
+10	da-a-gi4	Da'agi[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+11	nu-banda3-gu4	nubandagu[ox_overseer]	NOUN	N	Number=Sing	_	_	_	_
+12	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+13	tug2	tug[textile]	NOUN	N	Number=Sing	_	_	_	_
+14	la-a-mu	La'amu[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+15	iszib	iszib[priest]	NOUN	N	Number=Sing	_	_	_	_
+16	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+17	tug2	tug[textile]	NOUN	N	Number=Sing	_	_	_	_
+18	ur-{d}utu	Urutu[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+19	iszib	iszib[priest]	NOUN	N	Number=Sing	_	_	_	_
+20	1(disz)	1(disz)[one]	NUM	NU	_	_	_	_	_
+21	tug2	tug[textile]	NOUN	N	Number=Sing	_	_	_	_
+22	lugal-nesag-e	Lugalnesage[1]	PROPN	PN	Animacy=Hum|Number=Sing	_	_	_	_
+23	giri17-dab5	giridab[driver]	NOUN	N	Number=Sing	_	_	_	_

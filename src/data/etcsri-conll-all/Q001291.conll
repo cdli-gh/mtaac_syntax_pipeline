@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001291 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001291.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001291.1
+1	i₃-di₃-lum	i₃-di₃-lum	Idilum	PN	i₃-di₃-lum	1	sux	N1=Idilum	N1=NAME	Idilum	PN	1
+
+# Q001291.2
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household
+2	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂\gen\abs	1	sux	N1=Enlil.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Enlil.ak.ø	DN	1
+

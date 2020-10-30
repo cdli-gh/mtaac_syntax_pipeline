@@ -1,0 +1,37 @@
+# project: etcsri 
+# textid: Q001329 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001329.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001329.1
+1	an	an	An	DN	an	1	sux	N1=AN	N1=NAME	AN	DN	1	_	_	_	_	_	_	_
+2	lugal-ni	lugal	lugal	N	lugal-ni\dat	king	sux	N1=lugal.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	lugal.ani.ra	N	king	_	_	_	_	_	_	_
+
+# Q001329.2
+1	meš₃-an-ne₂-pad₃-da	meš₃-an-ne₂-pad₃-da	Mešanepada	RN	meš₃-an-ne₂-pad₃-da	1	sux	N1=Mešanepada	N1=NAME	Mešanepada	RN	King of Urim	_	_	_	_	_	_	_
+
+# Q001329.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}	urim₅{ki}	Urim	SN	urim₅{ki}\gen	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001329.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+
+# Q001329.5
+1	meš₃-KALAM-dug₃	meš₃-KALAM-dug₃	Meškalamdug	RN	meš₃-KALAM-dug₃\gen	1	sux	N1=Meškalamdug.N5=ak	N1=NAME.N5=GEN	Meškalamdug.ak	RN	King of Urim	_	_	_	_	_	_	_
+
+# Q001329.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kiš{ki}	kiš{ki}	Kiš	SN	kiš{ki}\gen\erg	1	sux	N1=Kiš.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Kiš.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001329.7
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

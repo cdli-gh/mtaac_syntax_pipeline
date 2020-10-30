@@ -1,0 +1,62 @@
+# project: etcsri 
+# textid: Q001325 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001325.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001325.1
+1	{d}šara₂	{d}šara₂	Šara	DN	{d}šara₂	1	sux	N1=Šara	N1=NAME	Šara	DN	1	_	_	_	_	_	_	_
+2	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+3	e₂-mah-ra	e₂-mah	Emah	TN	e₂-mah-ra	2	sux	N1=Emah.N5=ak.N5=ra	N1=NAME.N5=GEN.N5=DAT-H	Emah.ak.ra	TN	2	_	_	_	_	_	_	_
+
+# Q001325.2
+1	barag-ir-nun	barag-ir-nun	Baragirnun	PN	barag-ir-nun	1	sux	N1=Baragirnun	N1=NAME	Baragirnun	PN	1	_	_	_	_	_	_	_
+2	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+3	ŋeš-ša₃-ki-dug₃	ŋeš-ša₃-ki-dug₃	Ŋišakidug	RN	ŋeš-ša₃-ki-dug₃	1	sux	N1=Ŋišakidug	N1=NAME	Ŋišakidug	RN	King of Umma	_	_	_	_	_	_	_
+4	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+5	umma₂-ka-ke₄	umma₂	Umma	SN	umma₂-ka-ke₄	1	sux	N1=Umma.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Umma.ak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001325.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	ur-{d}lum-ma	ur-{d}lum-ma	Urluma	RN	ur-{d}lum-ma	1	sux	N1=Urluma	N1=NAME	Urluma	RN	King of Umma	_	_	_	_	_	_	_
+3	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+4	umma₂-ka-ke₄	umma₂	Umma	SN	umma₂-ka-ke₄	1	sux	N1=Umma.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Umma.ak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001325.4
+1	dumu-KA	dumu-KA	dumu.KA	N	dumu-KA	relation	sux	N1=dumu.KA	N1=STEM	dumu.KA	N	a kinship term, descendant	_	_	_	_	_	_	_
+2	en-a₂-kal-le	en-a₂-kal-le	Enakale	RN	en-a₂-kal-le	1	sux	N1=Enakale	N1=NAME	Enakale	RN	King of Umma	_	_	_	_	_	_	_
+3	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+4	umma₂-ka-ke₄	umma₂	Umma	SN	umma₂-ka-ke₄	1	sux	N1=Umma.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Umma.ak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001325.5
+1	e₂-gi₄-a	e₂-gi₄-a	egia	N	e₂-gi₄-a	bride	sux	N1=egia	N1=STEM	egia	N	bride	_	_	_	_	_	_	_
+2	il₂	il₂	Il	RN	il₂	1	sux	N1=Il	N1=NAME	Il	RN	King of Umma	_	_	_	_	_	_	_
+3	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+4	umma₂-ka-ke₄	umma₂	Umma	SN	umma₂-ka-ke₄	1	sux	N1=Umma.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Umma.ak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001325.6
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	{d}šara₂	{d}šara₂	Šara	DN	{d}šara₂\erg	1	sux	N1=Šara.N5=e	N1=NAME.N5=ERG	Šara.e	DN	1	_	_	_	_	_	_	_
+3	pa	pa	pa	N	pa\abs	branch	sux	N1=pa.N5=ø	N1=STEM.N5=ABS	pa.ø	N	branch	_	_	pa e	appear	appear	V/t	V/t
+4	mu-e₃-a	e₃	e	V/i	mu-e₃-a	leave	sux	V4=mu.V11=n.V12=e.V14=ø.V15='a	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB	mu.n.e.ø.'a	V/i	to leave, go out	3	mwe	_	_	_	_	_
+
+# Q001325.7
+1	barag	barag	barag	N	barag	dais	sux	N1=barag	N1=STEM	barag	N	dais	_	_	_	_	_	_	_
+2	kug	kug	kug	V/i	kug\abs	pure	sux	NV2=kug.N5=ø	NV2=STEM.N5=ABS	kug.ø	V/i	pure	_	_	_	_	_	_	_
+3	mu-na-du₃-a	du₃	du	V/t	mu-na-du₃-a\l1	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø.V15='a.N5='a	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	mu.nn.a.n.du.ø.'a.'a	V/t	to build	_	_	_	_	_	_	_
+
+# Q001325.8
+1	nam-til₃-la-ni-da	nam-til₃	namtil	N	nam-til₃-la-ni-da	life	sux	N1=namtil.N3=ani.N5=da	N1=STEM.N3=3-SG-H-POSS.N5=COM	namtil.ani.da	N	life	_	_	_	_	_	_	_
+
+# Q001325.9
+1	{d}šara₂	{d}šara₂	Šara	DN	{d}šara₂\l3	1	sux	N1=Šara.N5=ra	N1=NAME.N5=L3-H	Šara.ra	DN	1	_	_	_	_	_	_	_
+2	e₂-mah-še₃	e₂-mah	Emah	TN	e₂-mah-še₃	2	sux	N1=Emah.N5=še	N1=NAME.N5=TERM	Emah.še	TN	2	_	_	_	_	_	_	_
+3	saŋ-še₃	saŋ	saŋ	N	saŋ-še₃	head	sux	N1=saŋ.N5=še	N1=STEM.N5=TERM	saŋ.še	N	head	_	_	saŋ rig	bestow	bestow	V/t	V/t
+4	mu-ni-rig₉	rig₉	rig	V/t	mu-ni-rig₉\v10l3	donate	sux	V4=mu.V6=nn.V10=i.V11=n.V12=rig.V14=ø	V4=VEN.V6=3-SG-H.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.i.n.rig.ø	V/t	donate	3	mwe	_	_	_	_	_
+

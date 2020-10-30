@@ -1,0 +1,38 @@
+# project: etcsri 
+# textid: Q001782 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001782.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001782.2
+1	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂	1	sux	N1=Enlil	N1=NAME	Enlil	DN	1
+
+# Q001782.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+
+# Q001782.4
+1	kur-kur-ra-ke₄	kur-kur	kur	N	kur-kur-ra-ke₄	mountain	sux	N1=kurkur.N5=ak.N5=e	N1=STEM-RDP.N5=GEN.N5=ERG	kurkur.ak.e	N	mountain
+
+# Q001782.5
+1	{d}nin-lil₂	{d}nin-lil₂	Ninlil	DN	{d}nin-lil₂	1	sux	N1=Ninlil	N1=NAME	Ninlil	DN	1
+
+# Q001782.6
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady
+2	kur-kur-ra-ke₄	kur-kur	kur	N	kur-kur-ra-ke₄	mountain	sux	N1=kurkur.N5=ak.N5=e	N1=STEM-RDP.N5=GEN.N5=ERG	kurkur.ak.e	N	mountain
+
+# Q001782.7
+1	nam	nam	nam	N	nam	fate	sux	N1=nam	N1=STEM	nam	N	fate
+2	ha-ba-da-kuru₅-ne	kuru₅	kud	V/t	ha-ba-da-kuru₅-ne	cut	sux	V1=ha.V5=ba.V6=nn.V8=da.V12=kud.V14=enee	V1=MOD1.V5=MID.V6=3-SG-H.V8=COM.V12=STEM.V14=3-PL-A	ha.ba.nn.da.kud.enee	V/t	cut
+
+# Q001782.8
+1	mu-sar-ra	mu-sar-ra	musara	N	mu-sar-ra	inscription	sux	N1=musara	N1=STEM	musara	N	inscription
+
+# Q001782.9
+1	x-x-na	_	_	_	x-x-na	_	sux	_	_	_	u	_
+

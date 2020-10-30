@@ -1,0 +1,40 @@
+# project: etcsri 
+# textid: Q004975 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004975.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004975.1
+1	{d}i-bi₂-{d}suen	{d}i-bi₂-{d}suen	Ibbisuen	RN	{d}i-bi₂-{d}suen	1	sux	N1=Ibbisuen	N1=NAME	Ibbisuen	RN	5th king of the 3rd dynasty of Urim
+
+# Q004975.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q004975.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q004975.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba-ke₄	limmu₂	limmu	NU	limmu₂-ba-ke₄	four	sux	NV2=limmu.N3=bi.N5=ak.N5=e	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ERG	limmu.bi.ak.e	NU	four
+
+# Q004975.5
+1	nu-ur₂-{d}UTU	nu-ur₂-{d}UTU	Nuršamaš	PN	nu-ur₂-{d}UTU	1	sux	N1=Nuršamaš	N1=NAME	Nuršamaš	PN	1
+
+# Q004975.6
+1	šu-i	šu-i	šuʾi	N	šu-i	barber	sux	N1=šuʾi	N1=STEM	šuʾi	N	barber
+
+# Q004975.7
+1	arad₂-da-ni-ir	arad₂	arad	N	arad₂-da-ni-ir	slave	sux	N1=arad.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT.H	arad.ani.ra	N	slave, servant
+
+# Q004975.8
+1	in-na-ba	ba	ba	V/t	in-na-ba	allot	sux	V2=i.V6=nn.V7=a.V11=n.V12=ba.V14=ø	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.a.n.ba.ø	V/t	allot
+

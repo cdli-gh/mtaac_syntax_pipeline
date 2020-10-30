@@ -1,0 +1,25 @@
+# project: etcsri 
+# textid: Q001166 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001166.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001166.1
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1
+2	he₂-gurum-gurum	gurum-gurum	gurum	V/t	he₂-gurum-gurum\v14sg3s	bend	sux	V1=ha.V2=i.V12=gurumgurum.V14=ø	V1=MOD1.V2=FIN.V12=STEM-RDP.V14=3-SG-P	ha.i.gurumgurum.ø	V/t	bend, curve, wrap around
+3	iri-kug-ga-ke₄	iri-kug	Irikug	SN	iri-kug-ga-ke₄	1	sux	N1=Irikug.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Irikug.ak.e	SN	1
+4	iri-ka-gen₆-na	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na\abs	1	sux	N1=Irikaginak.N5=ø	N1=NAME.N5=ABS	Irikaginak.ø	RN	Ruler of Lagaš
+
+# Q001166.2
+1	nam-sipad-še₃	nam-sipad	namsipad	N	nam-sipad-še₃	shepherdship	sux	N1=namsipad.N5=še	N1=STEM.N5=TERM	namsipad.še	N	shepherdship
+2	mu-tud	tud	utud	V/t	mu-tud	bear	sux	V4=mu.V11=n.V12=utud.V14=ø	V4=VEN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.n.utud.ø	V/t	bear
+
+# Q001166.3
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name
+

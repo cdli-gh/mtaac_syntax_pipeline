@@ -1,0 +1,56 @@
+# project: etcsri 
+# textid: Q001436 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001436.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001436.1
+1	{d}nin-lil₂-ra	{d}nin-lil₂	Ninlil	DN	{d}nin-lil₂-ra	1	sux	N1=Ninlil.N5=ra	N1=NAME.N5=DAT-H	Ninlil.ra	DN	1	_	_	_	_	_	_	_
+
+# Q001436.2
+1	iri-na-bad₃-bi	iri-na-bad₃-bi	Irinabadbi	PN	iri-na-bad₃-bi	1	sux	N1=Irinabadbi	N1=NAME	Irinabadbi	PN	1	_	_	_	_	_	_	_
+
+# Q001436.3
+1	saŋŋa	saŋŋa	saŋŋa	N	saŋŋa	official	sux	N1=saŋŋa	N1=STEM	saŋŋa	N	an official, the chief administrator of a temple household	_	_	_	_	_	_	_
+2	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂\gen\abs	1	sux	N1=Enlil.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Enlil.ak.ø	DN	1	_	_	_	_	_	_	_
+
+# Q001436.4
+1	he₂-til₃-la-še₃	he₂-til₃-la	hetila	N	he₂-til₃-la-še₃	vow	sux	N1=hetila.N5=še	N1=STEM.N5=TERM	hetila.še	N	vow, a votive offering	_	_	_	_	_	_	_
+
+# Q001436.5
+1	ur-sag₉-ga	ur-sag₉-ga	Ursaga	PN	ur-sag₉-ga	2	sux	N1=Ursaga	N1=NAME	Ursaga	PN	2	_	_	_	_	_	_	_
+
+# Q001436.6
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe	_	_	_	_	_	_	_
+2	|AB×LAK178|	_	_	_	|AB×LAK178|	_	sux	_	_	_	_	_	_	_	_	_	_	_	_
+
+# Q001436.7
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	{d}en-lil₂-ka-ke₄	{d}en-lil₂	Enlil	DN	{d}en-lil₂-ka-ke₄	1	sux	N1=Enlil.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Enlil.ak.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001436.8
+1	ga-til₃-la-še₃	ga-til₃-la	gatil	N	ga-til₃-la-še₃	vow	sux	N1=gatil.N5=še	N1=STEM.N5=TERM	gatil.še	N	vow, a votive offering	_	_	_	_	_	_	_
+
+# Q001436.9
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001436.10
+1	ama-ab₂-zi-še₃	ama-ab₂-zi	Amaabzid	PN	ama-ab₂-zi-še₃	1	sux	N1=Amaabzid.N5=ak.N5=še	N1=NAME.N5=GEN.N5=TERM	Amaabzid.ak.še	PN	1	_	_	_	_	_	_	_
+
+# Q001436.11
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001436.12
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+2	dumu-na-še₃	dumu	dumu	N	dumu-na-še₃	child	sux	N1=dumu.N3=ani.N5=ak.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=TERM	dumu.ani.ak.še	N	child	_	_	_	_	_	_	_
+
+# Q001436.13
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

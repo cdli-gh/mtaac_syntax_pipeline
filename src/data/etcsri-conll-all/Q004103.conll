@@ -1,0 +1,99 @@
+# project: etcsri 
+# textid: Q004103 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004103.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004103.1
+1	{d}na-na-a	{d}na-na-a	Nanaya	DN	{d}na-na-a	1	sux	N1=Nanaya	N1=NAME	Nanaya	DN	1	_	_	_	_	_	_	_
+
+# Q004103.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	ki	ki	ki	N	ki	place	sux	N1=ki	N1=STEM	ki	N	place	_	_	_	_	_	_	_
+3	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	_	_	_	_	_	_	_
+4	{d}inana	{d}inana	Inanak	DN	{d}inana\gen	1	sux	N1=Inanak.N5=ak	N1=NAME.N5=GEN	Inanak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q004103.3
+1	nin-ŋu₁₀-ra	nin	nin	N	nin-ŋu₁₀-ra	lady	sux	N1=nin.N3=ŋu.N5=ra	N1=STEM.N3=1-SG-POSS.N5=DAT-H	nin.ŋu.ra	N	lady	_	_	_	_	_	_	_
+
+# Q004103.4
+1	{d}li-pi₂-it-eš₄-tar₂	{d}li-pi₂-it-eš₄-tar₂	Lipiteštar	RN	{d}li-pi₂-it-eš₄-tar₂	1	sux	N1=Lipiteštar	N2=NAME	Lipiteštar	RN	5th king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q004103.5
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd	_	_	_	_	_	_	_
+2	sun₅-na	sun₅	sun	V/i	sun₅-na	humble	sux	NV2=sun.NV4='a	NV2=STEM.NV4=SUB	sun.'a	V/i	to be(come) humble	_	_	_	_	_	_	_
+
+# Q004103.6
+1	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen	1	sux	N1=Nibru.N5=ak	N1=NAME.N5=GEN	Nibru.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004103.7
+1	engar	engar	engar	N	engar	farmer	sux	N1=engar	N1=STEM	engar	N	farmer	_	_	_	_	_	_	_
+2	zid	zid	zid	V/i	zid	right	sux	NV2=zid	NV2=STEM	zid	V/i	right	_	_	_	_	_	_	_
+
+# Q004103.8
+1	urim₂{ki}-ma	urim₂{ki}	Urim	SN	urim₂{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004103.9
+1	muš₃	muš₃	muš	N	muš₃\abs	face	sux	N1=muš.N5=ø	N1=STEM.N5=ABS	muš.ø	N	face	_	_	muš tum	stop working	stop working	V/i	V/t
+2	nu-tum₂-mu	tum₂	tum	V/t	nu-tum₂-mu	lead	sux	NV1=nu.NV2=tum.NV3=ed	NV1=NEG.NV2=STEM.NV3=PF	nu.tum.ed	V/t	to lead	1	mwe	_	_	_	_	_
+
+# Q004103.10
+1	eridug{ki}-ga	eridug{ki}	Eridug	SN	eridug{ki}-ga	1	sux	N1=Eridug.N5=ak	N1=Eridug.N5=GEN	Eridug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004103.11
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest	_	_	_	_	_	_	_
+2	me-te	me-te	mete	N	me-te	appropriate thing	sux	N1=mete	N1=STEM	mete	N	appropriate thing, ornament	_	_	_	_	_	_	_
+
+# Q004103.12
+1	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga	1	sux	N1=Unug.N5=ak	N1=NAME.N5=GEN	Unug.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004103.13
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	i₃-si-in{ki}-na	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-na	1	sux	N1=Isin.N5=ak	N1=NAME.N5=GEN	Isin.ak	SN	1	_	_	_	_	_	_	_
+
+# Q004103.14
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri	ki-uri	Akkad	GN	ki-uri\gen	1	sux	N1=Akkad.N5=ak	N1=NAME.N5=GEN	Akkad.ak	GN	1	_	_	_	_	_	_	_
+
+# Q004103.15
+1	šag₄-ge	šag₄	šag	N	šag₄-ge\n5el3	heart	sux	N1=šag.N5=e	N1=STEM.N5=L3-NH	šag.e	N	heart, inner body	_	_	_	_	_	_	_
+2	de₆-a	de₆	de	V/t	de₆-a	bring	sux	NV2=de.NV4='a	NV2=STEM.NV4=SUB	de.'a	V/t	to bring	_	_	_	_	_	_	_
+
+# Q004103.16
+1	{d}inana-me-en	{d}inana	Inanak	DN	{d}inana-me-en\gen\cop	1	sux	N1=Inanak.N5=ak.N5=ø.N6=men	N1=NAME.N5=GEN.N5=ABS.N6=COP-1-SG	Inanak.ak.ø.men	DN	1	_	_	_	_	_	_	_
+
+# Q004103.17
+1	e₂-me-ur₄-ur₄	e₂-me-ur₄-ur₄	Emeurur	TN	e₂-me-ur₄-ur₄	1	sux	N1=Emeurur	N1=NAME	Emeurur	TN	1	_	_	_	_	_	_	_
+
+# Q004103.18
+1	šutumₓ(|E₂.GI.NA.AB.TUM|)	šutumₓ(|E₂.GI.NA.AB.TUM|)	šutum	N	šutumₓ(|E₂.GI.NA.AB.TUM|)	storehouse	sux	N1=šutum	N1=STEM	šutum	N	storehouse	_	_	_	_	_	_	_
+
+# Q004103.19
+1	ki	ki	ki	N	ki	place	sux	N1=ki	N1=STEM	ki	N	place	_	_	_	_	_	_	_
+2	aŋ₂-ŋa₂-ni	aŋ₂	aŋ	V/t	aŋ₂-ŋa₂-ni\abs	measure	sux	NV2=aŋ.N3=ani.N5=ø	NV2=STEM.N3=3-SG-H-POSS.N5=ABS	aŋ.ani.ø	V/t	measure	_	_	_	_	_	_	_
+
+# Q004103.20
+1	šag₄	šag₄	šag	N	šag₄	heart	sux	N1=šag	N1=STEM	šag	N	middle	_	_	_	_	_	_	_
+2	i₃-si-in{ki}-na-ka	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-na-ka	1	sux	N1=Isin.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L1	Isin.ak.'a	SN	1	_	_	_	_	_	_	_
+
+# Q004103.21
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	niŋ₂-si-sa₂	niŋ₂-si-sa₂	niŋsisa	N	niŋ₂-si-sa₂\abs	justice	sux	N1=niŋsisa.N5=ø	N1=STEM.N5=ABS	niŋsisa.ø	N	justice	_	_	_	_	_	_	_
+
+# Q004103.22
+1	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+2	ki-uri-a	ki-uri	Akkad	GN	ki-uri-a	1	sux	N1=Akkad.N5='a	N1=NAME.N5=L1	Akkad.'a	GN	1	_	_	_	_	_	_	_
+
+# Q004103.23
+1	i-ni-in-ŋar-ra-a	ŋar	ŋar	V/t	i-ni-in-ŋar-ra-a\v11sg1a\l1	place	sux	V2=i.V10=ni.V11=1.V12=ŋar.V14=ø.V15='a.N5='a	V2=FIN.V10=L1.V11=1-SG-A.V12=STEM.V14=3-SG-P.V15=SUB.N5=L1	i.ni.1.ŋar.ø.'a.'a	V/t	put, place, lay down	_	_	_	_	_	_	_
+
+# Q004103.24
+1	mu-na-du₃	du₃	du	V/t	mu-na-du₃\v11sg1a	build	sux	V4=mu.V6=nn.V7=a.V11=1.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=1-SG-A.V12=STEM.V14=3-SG-P	mu.nn.a.1.du.ø	V/t	to build	_	_	_	_	_	_	_
+

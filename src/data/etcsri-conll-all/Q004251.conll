@@ -1,0 +1,24 @@
+# project: etcsri 
+# textid: Q004251 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004251.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004251.1
+1	{d}inana	{d}inana	Inanak	DN	{d}inana\dat	1	sux	N1=Inanak.N5=ra	N1=NAME.N5=DAT-H	Inanak.ra	DN	1
+
+# Q004251.2
+1	tul₂-li-li	tul₂-li-li	Tulili	PN	tul₂-li-li	1	sux	N1=Tulili	N1=STEM	Tulili	PN	1
+
+# Q004251.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+
+# Q004251.4
+1	EDEN-x	EDEN-x	EDEN-X	PN	EDEN-x	1	sux	N1=EDEN-X	N1=STEM	EDEN-X	PN	1
+

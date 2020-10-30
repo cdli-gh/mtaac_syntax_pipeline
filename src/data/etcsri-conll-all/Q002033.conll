@@ -1,0 +1,52 @@
+# project: etcsri 
+# textid: Q002033 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q002033.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q002033.1
+1	{d}na-na-a-a	{d}na-na-a-a	Nanaya	DN	{d}na-na-a-a	1	sux	N1=Nanaya	N1=NAME	Nanaya	DN	1	_	_	_	_	_	_	_
+
+# Q002033.2
+1	nin	nin	nin	N	nin	lady	sux	N1=nin	N1=STEM	nin	N	lady	_	_	_	_	_	_	_
+2	hi-li-a	hi-li	hili	N	hi-li-a	attractiveness	sux	N1=hili.N5='a	N1=STEM.N5=L1	hili.'a	N	attractivenes, sex appeal	_	_	_	_	_	_	_
+3	šu	šu	šu	N	šu\abs	hand	sux	N1=šu.N5=ø	N1=STEM.N5=ABS	šu.ø	N	hand	_	_	šu du₇	complete	to complete, perfect, to be in working order (of tools)	V/t	V/t
+4	du₇	du₇	du	V/i	du₇\dat	suitable	sux	NV2=du.N5=ra	NV2=STEM.N5=DAT-H	du.ra	V/i	(to be) fitting, suitable	3	mwe	_	_	_	_	_
+
+# Q002033.3
+1	{d}su-mu-AN	{d}su-mu-AN	Sumuel	RN	{d}su-mu-AN	1	sux	N1=Sumuel	N1=NAME	Sumuel	PN	1 King of Larsa	_	_	_	_	_	_	_
+
+# Q002033.4
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q002033.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1	_	_	_	_	_	_	_
+
+# Q002033.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri	ki-uri	Akkad	GN	ki-uri\gen\erg	1	sux	N1=Akkad.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Akkad.ak.e	GN	1	_	_	_	_	_	_	_
+
+# Q002033.7
+1	e₂-itud-da-ka-ni	e₂-itud-da	Eitudak	TN	e₂-itud-da-ka-ni	1	sux	N1=Eitudak.N3=ani	N1=NAME.N3=3-SG-H-POSS	Eitudak.ani	TN	1	_	_	_	_	_	_	_
+
+# Q002033.8
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	šag₄	šag₄	šag	N	šag₄\abs	heart	sux	N1=šag.N5=ø	N1=STEM.N5=ABS	šag.ø	N	heart, inner body	_	_	šag hul	happy	happy	V/i	V/i
+3	hul₂-a-ni	hul₂	hul	V/i	hul₂-a-ni\abs	rejoice	sux	NV2=hul.NV4='a.N3=ani.N5=ø	NV2=STEM.NV4=SUB.N3=3-SG-H-POSS.N5=ABS	hul.'a.ani.ø	V/i	to rejoice at something (= COM)	2	mwe	_	_	_	_	_
+
+# Q002033.9
+1	šag₄	šag₄	šag	N	šag₄	heart	sux	N1=šag	N1=STEM	šag	N	middle	_	_	_	_	_	_	_
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma\gen\l1	1	sux	N1=Urim.N5=ak.N5='a	N1=NAME.N5=GEN.N5=L1	Urim.ak.'a	SN	1	_	_	_	_	_	_	_
+
+# Q002033.10
+1	mu-un-na-du₃	du₃	du	V/t	mu-un-na-du₃	build	sux	V4=mu.V6=nn.V7=a.V11=n.V12=du.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

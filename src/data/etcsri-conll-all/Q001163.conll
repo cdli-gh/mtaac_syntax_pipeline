@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q001163 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001163.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001163.1
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂\abs	1	sux	N1=Bau.N5=ø	N1=NAME.N5=ABS	Bau.ø	DN	1
+2	men	men	men	N	men	tiara	sux	N1=men	N1=STEM	men	N	tiara, a type of crown, diadem
+3	zid	zid	zid	V/i	zid\abs	right	sux	NV2=zid.N5=ø	NV2=STEM.N5=ABS	zid.ø	V/i	right
+
+# Q001163.2
+1	iri-ka-gen₆-na-ka	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na-ka\abs	1	sux	N1=Irikaginak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Irikaginak.ak.ø	RN	Ruler of Lagaš
+
+# Q001163.3
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name
+

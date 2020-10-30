@@ -1,0 +1,15 @@
+# project: etcsri 
+# textid: Q001189 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001189.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001189.1
+1	|DU.DU.A|	|DU.DU.A|	Dudua	PN	|DU.DU.A|\abs	1	sux	N1=Dudua.N5=ø	N1=NAME.N5=ABS	Dudua.ø	PN	1
+

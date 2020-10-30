@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q001843 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001843.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001843.1
+1	nin₉-he₂-li₂-a	nin₉-he₂-li₂-a	Ninheliya	PN	nin₉-he₂-li₂-a	1	sux	N1=Ninheliya	N1=NAME	Ninheliya	PN	Spouse of Ayakala, governor of Umma
+
+# Q001843.2
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse
+2	a-a-kal-la	a-a-kal-la	Ayakala	PN	a-a-kal-la\gen	1	sux	N1=Ayakala.N5=ak	N1=NAME.N5=GEN	Ayakala.ak	PN	Governor of Umma
+
+# Q001843.3
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	ur-{d}da-mu	ur-{d}da-mu	Urdamu	PN	ur-{d}da-mu\gen\abs	1	sux	N1=Urdamu.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Urdamu.ak.ø	PN	1
+

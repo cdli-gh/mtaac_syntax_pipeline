@@ -1,0 +1,66 @@
+# project: etcsri 
+# textid: Q001985 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001985.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001985.1
+1	{d}en-lil₂-ba-ni	{d}en-lil₂-ba-ni	Enlilbani	RN	{d}en-lil₂-ba-ni	1	sux	N1=Enlilbani	N1=NAME	Enlilbani	RN	10th king of the dynasty of Isin	_	_	_	_	_	_	_
+
+# Q001985.2
+1	sipad	sipad	sipad	N	sipad	shepherd	sux	N1=sipad	N1=STEM	sipad	N	shepherd	_	_	_	_	_	_	_
+2	niŋ₂-nam	niŋ₂-nam	niŋnam	N	niŋ₂-nam\abs	anything	sux	N1=niŋnam.N5=ø	N1=STEM.N5=ABS	niŋnam.ø	N	gift	_	_	_	_	_	_	_
+3	šar₂-ra	šar₂	šar	NU	šar₂-ra	3600	sux	NV2=šar.NV4='a	NV2=STEM.NV4=SUB	šar.'a	NU	3600	_	_	_	_	_	_	_
+
+# Q001985.3
+1	nibru{ki}	nibru{ki}	Nibru	SN	nibru{ki}\gen	1	sux	N1=Nibru.N5=ak	N1=NAME.N5=GEN	Nibru.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001985.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong	_	_	_	_	_	_	_
+
+# Q001985.5
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	i₃-si-in{ki}-na	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-na	1	sux	N1=Isin.N5=ak	N1=NAME.N5=GEN	Isin.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001985.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	ki-en-gi	ki-en-gi	Kiengir	GN	ki-en-gi	1	sux	N1=Kiengir	N1=NAME	Kiengir	GN	1	_	_	_	_	_	_	_
+3	ki-uri	ki-uri	Akkad	GN	ki-uri\gen	1	sux	N1=Akkad.N5=ak	N1=NAME.N5=GEN	Akkad.ak	GN	1	_	_	_	_	_	_	_
+
+# Q001985.7
+1	dam	dam	dam	N	dam	spouse	sux	N1=dam	N1=STEM	dam	N	spouse	_	_	_	_	_	_	_
+2	šag₄-ge	šag₄	šag	N	šag₄-ge\n5el3	heart	sux	N1=šag.N5=e	N1=STEM.N5=L3-NH	šag.e	N	heart, inner body	_	_	_	_	_	_	_
+3	pad₃-da	pad₃	pad	V/t	pad₃-da	find	sux	NV2=pad.NV4='a	NV2=STEM.NV4=SUB	pad.'a	V/t	to find, to discover	_	_	_	_	_	_	_
+
+# Q001985.8
+1	{d}inana	{d}inana	Inanak	DN	{d}inana\gen	1	sux	N1=Inanak.N5=ak	N1=NAME.N5=GEN	Inanak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q001985.9
+1	ki	ki	ki	N	ki\abs	place	sux	N1=ki.N5=ø	N1=STEM.N5=ABS	ki.ø	N	place	_	_	ki aŋ	love	to love	V/t	V/t
+2	aŋ₂	aŋ₂	aŋ	V/t	aŋ₂	measure	sux	NV2=aŋ	NV2=STEM	aŋ	V/t	measure	1	mwe	_	_	_	_	_
+3	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂	1	sux	N1=Enlil	N1=NAME	Enlil	DN	1	_	_	_	_	_	_	_
+
+# Q001985.10
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+2	{d}nin-isin₂{si}-na-ka-ke₄	{d}nin-isin₂{si}-na	Ninisinak	DN	{d}nin-isin₂{si}-na-ka-ke₄	1	sux	N1=Ninisinak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Ninisinak.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q001985.11
+1	bad₃	bad₃	bad	N	bad₃	wall	sux	N1=bad	N1=STEM	bad	N	wall, fortification	_	_	_	_	_	_	_
+2	i₃-si-in{ki}-na	i₃-si-in{ki}	Isin	SN	i₃-si-in{ki}-na	1	sux	N1=Isin.N5=ak	N1=NAME.N5=GEN	Isin.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001985.12
+1	ba-sumun-a	sumun	sumun	V/i	ba-sumun-a\abs	old	sux	V5=ba.V12=sumun.V14=ø.V15='a.N5=ø	V5=MID.V12=STEM.V14=3-SG-S.V15=SUB.N5=ABS	ba.sumun.ø.'a.ø	V/i	to be(come) old, dilapidated	_	_	_	_	_	_	_
+
+# Q001985.13
+1	gibil-be₂-eš₂	gibil	gibil	V/i	gibil-be₂-eš₂	new	sux	NV2=gibil.N3=bi.N5=eš	NV2=STEM.N3=DEM2.N5=ADV	gibil.bi.eš	V/i	new	_	_	_	_	_	_	_
+
+# Q001985.14
+1	in-du₃	du₃	du	V/t	in-du₃	build	sux	V2=i.V11=n.V12=du.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.du.ø	V/t	to build	_	_	_	_	_	_	_
+

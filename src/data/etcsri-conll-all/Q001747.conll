@@ -1,0 +1,31 @@
+# project: etcsri 
+# textid: Q001747 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001747.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001747.1
+1	al-la	al-la	Alla	PN	al-la	2	sux	N1=Alla	N1=NAME	Alla	PN	2 Governor of Lagaš
+
+# Q001747.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+
+# Q001747.3
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen\abs	1	sux	N1=Lagaš.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Lagaš.ak.ø	SN	1
+
+# Q001747.4
+1	ur-{d}nin-mar-ki	ur-{d}nin-mar-ki	Urninmarkik	PN	ur-{d}nin-mar-ki	1	sux	N1=Urninmarkik	N1=NAME	Urninmarkik	PN	1
+
+# Q001747.5
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	lu₂-{d}utu	lu₂-{d}utu	Luutu	PN	lu₂-{d}utu\gen\abs	2	sux	N1=Luutu.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Luutu.ak.ø	PN	2
+
+# Q001747.6
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

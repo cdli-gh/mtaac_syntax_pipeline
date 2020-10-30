@@ -1,0 +1,22 @@
+# project: etcsri 
+# textid: Q004245 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004245.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q004245.1
+1	{d}bil₃-ga-meš₃	{d}bil₃-ga-meš₃	Gilgameš	DN	{d}bil₃-ga-meš₃\dat	1	sux	N1=Gilgameš.N5=ra	N1=NAME.N5=DAT-H	Gilgameš.ra	DN	1	_	_	_	_	_	_	_
+
+# Q004245.2
+1	niŋir-eš₃-a-tum₂	niŋir-eš₃-a-tum₂	Niŋirešatum	PN	niŋir-eš₃-a-tum₂\erg	1	sux	N1=Niŋirešatum.N5=e	N1=NAME.N5=ERG	Niŋirešatum.e	PN	1	_	_	_	_	_	_	_
+
+# Q004245.3
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+

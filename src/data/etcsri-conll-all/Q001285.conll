@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001285 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001285.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001285.1
+1	ur-{d}dumu-zid₂-da	ur-{d}dumu-zid₂-da	Urdumuzidak	PN	ur-{d}dumu-zid₂-da	2	sux	N1=Urdumuzidak	N1=NAME	Urdumuzidak	PN	2
+
+# Q001285.2
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	ME	_	_	_	ME	_	sux	_	_	_	u	_
+

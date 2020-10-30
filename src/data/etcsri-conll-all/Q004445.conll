@@ -1,0 +1,33 @@
+# project: etcsri 
+# textid: Q004445 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q004445.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q004445.1
+1	{d}šu-{d}suen	{d}šu-{d}suen	Šusuen	RN	{d}šu-{d}suen	1	sux	N1=Šusuen	N1=NAME	Šusuen	RN	4th king of the 3rd dynasty of Urim
+
+# Q004445.2
+1	šagina	šagina	šakkanak	N	šagina	general	sux	N1=šakkanak	N1=STEM	šakkanak	N	general
+2	|BAD₃.AN.KI|	|BAD₃.AN.KI|	Der	SN	|BAD₃.AN.KI|\gen\abs	1	sux	N1=Der.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Der.ak.ø	SN	1
+
+# Q004445.3
+1	{d}šul-gi-i₃-li₂	{d}šul-gi-i₃-li₂	Šulgirili	PN	{d}šul-gi-i₃-li₂	5	sux	N1=Šulgirili	N1=NAME	Šulgirili	PN	5
+
+# Q004445.4
+1	dub-sar	dub-sar	dubsar	N	dub-sar	scribe	sux	N1=dubsar	N1=STEM	dubsar	N	scribe
+
+# Q004445.5
+1	x	_	_	_	x	_	sux	_	_	_	u	_
+2	x	_	_	_	x	_	sux	_	_	_	u	_
+3	x	_	_	_	x	_	sux	_	_	_	u	_
+
+# Q004445.6
+1	arad₂-zu	arad₂	arad	N	arad₂-zu\abs	slave	sux	N1=arad.N3=zu.N5=ø	N1=STEM.N3=2-SG-POSS.N5=ABS	arad.zu.ø	N	slave, servant
+

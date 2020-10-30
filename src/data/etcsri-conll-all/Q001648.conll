@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001648 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001648.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001648.1
+1	puzur₄-{d}suen	puzur₄-{d}suen	Puzursuen	PN	puzur₄-{d}suen\abs	1	sux	N1=Puzursuen.N5=ø	N1=NAME.N5=ABS	Puzursuen.ø	PN	1
+
+# Q001648.2
+1	engar	engar	engar	N	engar	farmer	sux	N1=engar	N1=STEM	engar	N	farmer
+2	ta₂-ra-am-urim₅{ki}	ta₂-ra-am-urim₅{ki}	Taramurim	PN	ta₂-ra-am-urim₅{ki}\gen\abs	1	sux	N1=Taramurim.N5=ak.N5=ø	N1=Taramurim.N5=GEN.N5=ABS	Taramurim.ak.ø	PN	Daughter of Apil-kīn, king of Mari, daughter-in-law of Ur-Namma, king of Urim
+

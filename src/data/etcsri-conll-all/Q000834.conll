@@ -1,0 +1,336 @@
+# project: etcsri 
+# textid: Q000834 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q000834.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q000834.1
+1	šar-um-GI	šar-rum-GI	Šarrukin	RN	šar-um-GI	1	sux	N1=Šarrukin	N1=NAME	Šarrukin	RN	1st king of the dynasty of Agade	_	_	_	_	_	_	_
+
+# Q000834.2
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q000834.3
+1	ag-ge-de₃{ki}	ag-ge-de₃{ki}	Agade	SN	ag-ge-de₃{ki}\gen	1	sux	N1=Agade.N5=ak	N1=NAME.N5=GEN	Agade.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000834.4
+1	maškim	maškim	maškim	N	maškim	administrator	sux	N1=maškim	N1=STEM	maškim	N	an administrator, commissioner	_	_	_	_	_	_	_
+
+# Q000834.5
+1	{d}inana	{d}inana	Inanak	DN	{d}inana\gen	1	sux	N1=Inanak.N5=ak	N1=NAME.N5=GEN	Inanak.ak	DN	1	_	_	_	_	_	_	_
+
+# Q000834.6
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+2	kiš	kiš	kiš	N	kiš\gen	totality	sux	N1=kiš.N5=ak	N1=STEM.N5=GEN	kiš.ak	N	totality, world	_	_	_	_	_	_	_
+
+# Q000834.7
+1	išib	išib	išib	N	išib	priest	sux	N1=išib	N1=STEM	išib	N	incantation priest, exorcist	_	_	_	_	_	_	_
+2	an-na	an	An	DN	an-na	1	sux	N1=An.N5=ak	N1=NAME.N5=GEN	An.ak	DN	1	_	_	_	_	_	_	_
+
+# Q000834.8
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q000834.9
+1	kalam-ma	kalam	kalam	N	kalam-ma\gen	land	sux	N1=kalam.N5=ak	N1=STEM.N5=GEN	kalam.ak	N	the Land (of Sumer)	_	_	_	_	_	_	_
+
+# Q000834.10
+1	ensi₂-gal	ensi₂-gal	ensikgal	N	ensi₂-gal	governor	sux	N1=ensikgal	N1=STEM	ensikgal	N	chief governor	_	_	_	_	_	_	_
+
+# Q000834.11
+1	{d}en-lil₂	{d}en-lil₂	Enlil	DN	{d}en-lil₂\gen\erg	1	sux	N1=Enlil.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Enlil.ak.e	DN	1	_	_	_	_	_	_	_
+
+# Q000834.12
+1	iri	iri	iri	N	iri	city	sux	N1=iri	N1=STEM	iri	N	city	_	_	_	_	_	_	_
+2	unug{ki}	unug{ki}	Unug	SN	unug{ki}\abs	1	sux	N1=Unug.N5=ø	N1=NAME.N5=ABS	Unug.ø	SN	1	_	_	_	_	_	_	_
+
+# Q000834.13
+1	e-hul	hul	hulu	V/i	e-hul	bad	sux	V2=i.V11=n.V12=hulu.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.hulu.ø	V/t	(to be) bad, evil	_	_	_	_	_	_	_
+
+# Q000834.14
+1	bad₃-bi	bad₃	bad	N	bad₃-bi\abs	wall	sux	N1=bad.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	bad.bi.ø	N	wall, fortification	_	_	_	_	_	_	_
+
+# Q000834.15
+1	e-ga-sig₁₀	sig₁₀	sig	V/t	e-ga-sig₁₀	flatten	sux	V2=i.V3=nga.V11=n.V12=sig.V14=ø	V2=FIN.V3=COOR.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nga.n.sig.ø	V/t	flatten	_	_	_	_	_	_	_
+
+# Q000834.16
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	leader	_	_	_	_	_	_	_
+2	unug{ki}-ga-da	unug{ki}	Unug	SN	unug{ki}-ga-da	1	sux	N1=Unug.N5=ak.N5=da	N1=NAME.N5=GEN.N5=COM	Unug.ak.da	SN	1	_	_	_	_	_	_	_
+
+# Q000834.17
+1	{ŋeš}tukul	{ŋeš}tukul	tukul	N	{ŋeš}tukul\abs	weapon	sux	N1=tukul.N5=ø	N1=STEM.N5=ABS	tukul.ø	N	weapon	_	_	_	_	_	_	_
+
+# Q000834.18
+1	e-da-sag₃	sag₃	sag	V/t	e-da-sag₃	beat	sux	V2=i.V6=nn.V8=da.V11=n.V12=sag.V14=ø	V2=FIN.V6=3-SG-H.V8=COM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.da.n.sag.ø	V/t	to strike, to beat	_	_	_	_	_	_	_
+
+# Q000834.19
+1	aga₃-kar₂	aga₃-kar₂	agakar	N	aga₃-kar₂\abs	conqueror	sux	N1=agakar.N5=ø	N1=STEM.N5=ABS	agakar.ø	N	conqueror	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+
+# Q000834.20
+1	e-ne₂-seg₁₀	seg₁₀	sig	V/t	e-ne₂-seg₁₀	put	sux	V2=i.V6=nn.V10=i.V11=n.V12=sig.V14=ø	V2=FIN.V6=3-SG-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.i.n.sig.ø	V/t	put	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+
+# Q000834.21
+1	lugal-zag-ge-si	lugal-zag-ge-si	Lugalzagesi	RN	lugal-zag-ge-si	1	sux	N1=Lugalzagesi	N1=NAME	Lugalzagesi	RN	1	_	_	_	_	_	_	_
+
+# Q000834.22
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q000834.23
+1	unug{ki}-ga-da	unug{ki}	Unug	SN	unug{ki}-ga-da	1	sux	N1=Unug.N5=ak.N5=da	N1=NAME.N5=GEN.N5=COM	Unug.ak.da	SN	1	_	_	_	_	_	_	_
+
+# Q000834.24
+1	{ŋeš}tukul	{ŋeš}tukul	tukul	N	{ŋeš}tukul\abs	weapon	sux	N1=tukul.N5=ø	N1=STEM.N5=ABS	tukul.ø	N	weapon	_	_	_	_	_	_	_
+
+# Q000834.25
+1	e-da-sag₃	sag₃	sag	V/t	e-da-sag₃	beat	sux	V2=i.V6=nn.V8=da.V11=n.V12=sag.V14=ø	V2=FIN.V6=3-SG-H.V8=COM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.da.n.sag.ø	V/t	to strike, to beat	_	_	_	_	_	_	_
+
+# Q000834.26
+1	e-ga-dab₅	dab₅	dab	V/t	e-ga-dab₅	seize	sux	V2=i.V3=nga.V11=n.V12=dab.V14=ø	V2=FIN.V3=COOR.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nga.n.dab.ø	V/t	to seize, to take, to hold	_	_	_	_	_	_	_
+
+# Q000834.27
+1	{ŋeš}si-ŋar-ta	{ŋeš}si-ŋar	siŋar	N	{ŋeš}si-ŋar-ta	bolt	sux	N1=siŋar.N5=ta	N1=STEM.N5=ABL	siŋar.ta	N	bolt, clamp	_	_	_	_	_	_	_
+
+# Q000834.28
+1	kan₄	kan₄	kan	N	kan₄	gate	sux	N1=kan	N1=STEM	kan	N	gate, door	_	_	_	_	_	_	_
+2	{d}en-lil₂-la₂-še₃	{d}en-lil₂	Enlil	DN	{d}en-lil₂-la₂-še₃	1	sux	N1=Enlil.N5=ak.N5=še	N1=NAME.N5=GEN.N5=TERM	Enlil.ak.še	DN	1	_	_	_	_	_	_	_
+
+# Q000834.29
+1	e-de₆	de₆	de	V/t	e-de₆	bring	sux	V2=i.V11=n.V12=de.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.de.ø	V/t	to bring	_	_	_	_	_	_	_
+
+# Q000834.30
+1	šar-um-GI	šar-rum-GI	Šarrukin	RN	šar-um-GI	1	sux	N1=Šarrukin	N1=NAME	Šarrukin	RN	1st king of the dynasty of Agade	_	_	_	_	_	_	_
+
+# Q000834.31
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q000834.32
+1	ag-ge-de₃{ki}	ag-ge-de₃{ki}	Agade	SN	ag-ge-de₃{ki}\gen\erg	1	sux	N1=Agade.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Agade.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q000834.33
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	leader	_	_	_	_	_	_	_
+2	urim₂{ki}-ma-da	urim₂{ki}	Urim	SN	urim₂{ki}-ma-da	1	sux	N1=Urim.N5=ak.N5=da	N1=NAME.N5=GEN.N5=COM	Urim.ak.da	SN	1	_	_	_	_	_	_	_
+
+# Q000834.34
+1	{ŋeš}tukul	{ŋeš}tukul	tukul	N	{ŋeš}tukul\abs	weapon	sux	N1=tukul.N5=ø	N1=STEM.N5=ABS	tukul.ø	N	weapon	_	_	_	_	_	_	_
+
+# Q000834.35
+1	e-da-sag₃	sag₃	sag	V/t	e-da-sag₃	beat	sux	V2=i.V6=nn.V8=da.V11=n.V12=sag.V14=ø	V2=FIN.V6=3-SG-H.V8=COM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.da.n.sag.ø	V/t	to strike, to beat	_	_	_	_	_	_	_
+
+# Q000834.36
+1	aga₃-kar₂	aga₃-kar₂	agakar	N	aga₃-kar₂\abs	conqueror	sux	N1=agakar.N5=ø	N1=STEM.N5=ABS	agakar.ø	N	conqueror	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+
+# Q000834.37
+1	e-ne₂-seg₁₀	seg₁₀	sig	V/t	e-ne₂-seg₁₀	put	sux	V2=i.V6=nn.V10=i.V11=n.V12=sig.V14=ø	V2=FIN.V6=3-SG-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.i.n.sig.ø	V/t	put	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+
+# Q000834.38
+1	iri-ni	iri	iri	N	iri-ni\abs	city	sux	N1=iri.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	iri.ani.ø	N	city	_	_	_	_	_	_	_
+
+# Q000834.39
+1	e-hul	hul	hulu	V/i	e-hul	bad	sux	V2=i.V11=n.V12=hulu.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.hulu.ø	V/t	(to be) bad, evil	_	_	_	_	_	_	_
+
+# Q000834.40
+1	bad₃-bi	bad₃	bad	N	bad₃-bi\abs	wall	sux	N1=bad.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	bad.bi.ø	N	wall, fortification	_	_	_	_	_	_	_
+
+# Q000834.41
+1	e-ga-sig₁₀	sig₁₀	sig	V/t	e-ga-sig₁₀	flatten	sux	V2=i.V3=nga.V11=n.V12=sig.V14=ø	V2=FIN.V3=COOR.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nga.n.sig.ø	V/t	flatten	_	_	_	_	_	_	_
+
+# Q000834.42
+1	e₂	e₂	e	N	e₂	house	sux	N1=e	N1=STEM	e	N	house, temple	_	_	_	_	_	_	_
+2	{d}nin-mar-ki	{d}nin-mar-ki	Ninmarkik	DN	{d}nin-mar-ki\gen\abs	1	sux	N1=Ninmarkik.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Ninmarkik.ak.ø	DN	1	_	_	_	_	_	_	_
+
+# Q000834.43
+1	e-hul	hul	hulu	V/i	e-hul	bad	sux	V2=i.V11=n.V12=hulu.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.hulu.ø	V/t	(to be) bad, evil	_	_	_	_	_	_	_
+
+# Q000834.44
+1	bad₃-bi	bad₃	bad	N	bad₃-bi\abs	wall	sux	N1=bad.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	bad.bi.ø	N	wall, fortification	_	_	_	_	_	_	_
+
+# Q000834.45
+1	e-ga-sig₁₀	sig₁₀	sig	V/t	e-ga-sig₁₀	flatten	sux	V2=i.V3=nga.V11=n.V12=sig.V14=ø	V2=FIN.V3=COOR.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nga.n.sig.ø	V/t	flatten	_	_	_	_	_	_	_
+
+# Q000834.46
+1	gu₂	gu₂	gu	N	gu₂	entirety	sux	N1=gu	N1=STEM	gu	N	entirety, sum, total	_	_	_	_	_	_	_
+2	kalam-bi	kalam	kalam	N	kalam-bi	land	sux	N1=kalam.N3=bi	N1=STEM.N3=DEM2	kalam.bi	N	the Land (of Sumer)	_	_	_	_	_	_	_
+
+# Q000834.47
+1	lagaš{ki}-ta	lagaš{ki}	Lagaš	SN	lagaš{ki}-ta	1	sux	N1=Lagaš.N5=ta	N1=NAME.N5=ABL	Lagaš.ta	SN	1	_	_	_	_	_	_	_
+
+# Q000834.48
+1	a-ab-ba-še₃	a-ab-ba	aʾabak	N	a-ab-ba-še₃	sea	sux	N1=a'abak.N5=še	N1=STEM.N5=TERM	a'abak.še	N	sea	_	_	_	_	_	_	_
+2	na-me-ne-ne	na-me	name	XP	na-me-ne-ne\gen\abs	somebody	sux	N1=name.N3=anenee.N5=ak.N5=ø	N1=STEM.N3=3-PL-H-POSS.N5=GEN.N5=ABS	name.anenee.ak.ø	XP	some, any	_	_	_	_	_	_	_
+
+# Q000834.49
+1	e-hul	hul	hulu	V/i	e-hul	bad	sux	V2=i.V11=n.V12=hulu.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.hulu.ø	V/t	(to be) bad, evil	_	_	_	_	_	_	_
+
+# Q000834.50
+1	{ŋeš}tukul-ni	{ŋeš}tukul	tukul	N	{ŋeš}tukul-ni\abs	weapon	sux	N1=tukul.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	tukul.ani.ø	N	weapon	_	_	_	_	_	_	_
+
+# Q000834.51
+1	a-ab-ba-ka	a-ab-ba	aʾabak	N	a-ab-ba-ka\l1	sea	sux	N1=a'abak.N5='a	N1=STEM.N5=L1	a'abak.'a	N	sea	_	_	_	_	_	_	_
+
+# Q000834.52
+1	ni-luh	luh	luh	V/t	ni-luh	clean	sux	V10=ni.V11=n.V12=luh.V14=ø	V10=L1.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	ni.n.luh.ø	V/t	clean, wash	_	_	_	_	_	_	_
+
+# Q000834.53
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	leader	_	_	_	_	_	_	_
+2	umma{ki}-da	umma{ki}	Umma	SN	umma{ki}-da\gen\com	1	sux	N1=Umma.N5=ak.N5=da	N1=NAME.N5=GEN.N5=COM	Umma.ak.da	SN	1	_	_	_	_	_	_	_
+
+# Q000834.54
+1	{ŋeš}tukul	{ŋeš}tukul	tukul	N	{ŋeš}tukul\abs	weapon	sux	N1=tukul.N5=ø	N1=STEM.N5=ABS	tukul.ø	N	weapon	_	_	_	_	_	_	_
+
+# Q000834.55
+1	e-da-sag₃	sag₃	sag	V/t	e-da-sag₃	beat	sux	V2=i.V6=nn.V8=da.V11=n.V12=sag.V14=ø	V2=FIN.V6=3-SG-H.V8=COM.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.da.n.sag.ø	V/t	to strike, to beat	_	_	_	_	_	_	_
+
+# Q000834.56
+1	aga₃-kar₂	aga₃-kar₂	agakar	N	aga₃-kar₂\abs	conqueror	sux	N1=agakar.N5=ø	N1=STEM.N5=ABS	agakar.ø	N	conqueror	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+
+# Q000834.57
+1	e-ne₂-seg₁₀	seg₁₀	sig	V/t	e-ne₂-seg₁₀	put	sux	V2=i.V6=nn.V10=i.V11=n.V12=sig.V14=ø	V2=FIN.V6=3-SG-H.V10=L2.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.i.n.sig.ø	V/t	put	_	_	agakar sig	defeat	to defeat someone/something (= L2)	V/t	V/t
+
+# Q000834.58
+1	iri-ni	iri	iri	N	iri-ni\abs	city	sux	N1=iri.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	iri.ani.ø	N	city	_	_	_	_	_	_	_
+
+# Q000834.59
+1	e-hul	hul	hulu	V/t	e-hul	bad	sux	V2=i.V11=n.V12=hulu.V14=ø	V2=FIN.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.n.hulu.ø	V/t	to plunder, raid	_	_	_	_	_	_	_
+
+# Q000834.60
+1	bad₃-bi	bad₃	bad	N	bad₃-bi\abs	wall	sux	N1=bad.N3=bi.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=ABS	bad.bi.ø	N	wall, fortification	_	_	_	_	_	_	_
+
+# Q000834.61
+1	e-ga-sig₁₀	sig₁₀	sig	V/t	e-ga-sig₁₀	flatten	sux	V2=i.V3=nga.V11=n.V12=sig.V14=ø	V2=FIN.V3=COOR.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nga.n.sig.ø	V/t	flatten	_	_	_	_	_	_	_
+
+# Q000834.62
+1	šar-um-GI	šar-rum-GI	Šarrukin	RN	šar-um-GI	1	sux	N1=Šarrukin	N1=NAME	Šarrukin	RN	1st king of the dynasty of Agade	_	_	_	_	_	_	_
+
+# Q000834.63
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q000834.64
+1	kalam-ma-ra	kalam	kalam	N	kalam-ma-ra	land	sux	N1=kalam.N5=ak.N5=ra	N1=STEM.N5=GEN.N5=DAT-H	kalam.ak.ra	N	the Land (of Sumer)	_	_	_	_	_	_	_
+
+# Q000834.65
+1	{d}en-lil₂-le	{d}en-lil₂	Enlil	DN	{d}en-lil₂-le	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+
+# Q000834.66
+1	lu₂-erim₂	lu₂-erim₂	luʾerim	N	lu₂-erim₂\abs	evildoer	sux	N1=lu'erim.N5=ø	N1=STEM.N5=ABS	lu'erim.ø	N	opponent	_	_	_	_	_	_	_
+
+# Q000834.67
+1	nu-na-šum₂	šum₂	šum	V/t	nu-na-šum₂	give	sux	V1=nu.V2=i.V6=nn.V7=a.V11=n.V12=šum.V14=ø	V1=NEG.V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	nu.i.nn.a.n.šum.ø	V/t	give	_	_	_	_	_	_	_
+
+# Q000834.68
+1	a-ab-ba	a-ab-ba	aʾabak	N	a-ab-ba	sea	sux	N1=a'abak	N1=STEM	a'abak	N	sea	_	_	_	_	_	_	_
+
+# Q000834.69
+1	igi-nim-ma-ta	igi-nim	iginim	N	igi-nim-ma-ta	land	sux	N1=iginim.N5=ak.N5=ta	N1=STEM.N5=GEN.N5=ABL	iginim.ak.ta	N	land	_	_	_	_	_	_	_
+
+# Q000834.70
+1	a-ab-ba	a-ab-ba	aʾabak	N	a-ab-ba	sea	sux	N1=a'abak	N1=STEM	a'abak	N	sea	_	_	_	_	_	_	_
+
+# Q000834.71
+1	sig-sig-še₃	sig	sig	V/i	sig-sig-še₃	weak	sux	NV2=sigsig.N5=še	NV2=STEM-RDP.N5=TERM	sigsig.še	V/i	(to be) weak, (to be) low, (to be) thin, (to be) narrow	_	_	_	_	_	_	_
+
+# Q000834.72
+1	{d}en-lil₂-le	{d}en-lil₂	Enlil	DN	{d}en-lil₂-le	1	sux	N1=Enlil.N5=e	N1=NAME.N5=ERG	Enlil.e	DN	1	_	_	_	_	_	_	_
+
+# Q000834.73
+1	mu-na-šum₂	šum₂	šum	V/t	mu-na-šum₂	give	sux	V4=mu.V6=nn.V7=a.V11=n.V12=šum.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.šum.ø	V/t	give	_	_	_	_	_	_	_
+
+# Q000834.74
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+
+# Q000834.75
+1	a-ab-ba	a-ab-ba	aʾabak	N	a-ab-ba	sea	sux	N1=a'abak	N1=STEM	a'abak	N	sea	_	_	_	_	_	_	_
+
+# Q000834.76
+1	sig-sig-ta	sig	sig	V/i	sig-sig-ta	weak	sux	NV2=sigsig.N5=ta	NV2=STEM-RDP.N5=ABL	sigsig.ta	V/i	(to be) weak, (to be) low, (to be) thin, (to be) narrow	_	_	_	_	_	_	_
+
+# Q000834.77
+1	dumu-dumu	dumu-dumu	dumu	N	dumu-dumu	child	sux	N1=dumudumu	N1=STEM-RDP	dumudumu	N	citizen	_	_	_	_	_	_	_
+
+# Q000834.78
+1	ag-ge-de₃{ki}	ag-ge-de₃{ki}	Agade	SN	ag-ge-de₃{ki}\gen\erg	1	sux	N1=Agade.N5=ak.N5=e	N1=NAME.N5=GEN.N5=ERG	Agade.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q000834.79
+1	nam-ensi₂	nam-ensi₂	namensik	N	nam-ensi₂\abs	office of ruler	sux	N1=namensik.N5=ø	N1=STEM.N5=ABS	namensik.ø	N	office of ruler	_	_	_	_	_	_	_
+
+# Q000834.80
+1	mu-kin-x	_	_	_	mu-kin-x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q000834.81
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	leader	_	_	_	_	_	_	_
+2	ma-ri₂{ki}	ma-ri₂{ki}	Mari	SN	ma-ri₂{ki}\gen	1	sux	N1=Mari.N5=ak	N1=NAME.N5=GEN	Mari.ak	SN	1	_	_	_	_	_	_	_
+
+# Q000834.82
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	leader	_	_	_	_	_	_	_
+2	elam{ki}	elam{ki}	Elam	GN	elam{ki}\gen\abs	1	sux	N1=Elam.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Elam.ak.ø	GN	1	_	_	_	_	_	_	_
+
+# Q000834.83
+1	igi	igi	igi	N	igi	face	sux	N1=igi	N1=STEM	igi	N	face	_	_	_	_	_	_	_
+2	šar-um-GI	šar-rum-GI	Šarrukin	RN	šar-um-GI	1	sux	N1=Šarrukin	N1=NAME	Šarrukin	RN	1st king of the dynasty of Agade	_	_	_	_	_	_	_
+
+# Q000834.84
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q000834.85
+1	kalam-ma-ka-še₃	kalam	kalam	N	kalam-ma-ka-še₃	land	sux	N1=kalam.N5=ak.N5=ak.N5=še	N1=STEM.N5=GEN.N5=GEN.N5=TERM	kalam.ak.ak.še	N	the Land (of Sumer)	_	_	_	_	_	_	_
+
+# Q000834.86
+1	i₃-sug₂-ge-eš	sug₂	gub	V/i	i₃-sug₂-ge-eš	stand	sux	V2=i.V12=sug.V14=eš	V2=FIN.V12=STEM-PL.V14=3-PL-S	i.sug.eš	V/i	stand	_	_	_	_	_	_	_
+
+# Q000834.87
+1	šar-um-GI	šar-rum-GI	Šarrukin	RN	šar-um-GI	1	sux	N1=Šarrukin	N1=NAME	Šarrukin	RN	1st king of the dynasty of Agade	_	_	_	_	_	_	_
+
+# Q000834.88
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king	_	_	_	_	_	_	_
+
+# Q000834.89
+1	kalam-ma-ke₄	kalam	kalam	N	kalam-ma-ke₄	land	sux	N1=kalam.N5=ak.N5=e	N1=STEM.N5=GEN.N5=ERG	kalam.ak.e	N	the Land (of Sumer)	_	_	_	_	_	_	_
+
+# Q000834.90
+1	kiš{ki}	kiš{ki}	Kiš	SN	kiš{ki}\abs	1	sux	N1=Kiš.N5=ø	N1=NAME.N5=ABS	Kiš.ø	SN	1	_	_	_	_	_	_	_
+
+# Q000834.91
+1	ki-be₂	ki	ki	N	ki-be₂\n5el3	place	sux	N1=ki.N3=bi.N5=e	N1=STEM.N3=3-SG-NH-POSS.N5=L3-NH	ki.bi.e	N	place	_	_	_	_	_	_	_
+
+# Q000834.92
+1	bi₂-gi₄	gi₄	gi	V/i	bi₂-gi₄	turn	sux	V5=b.V10=i.V11=n.V12=gi.V14=ø	V5=3-NH.V10=L3.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	b.i.n.gi.ø	V/i	turn	_	_	_	_	_	_	_
+
+# Q000834.93
+1	iri-be₂	iri	iri	N	iri-be₂\erg	city	sux	N1=iri.N3=bi.N5=e	N1=STEM.N3=DEM2.N5=ERG	iri.bi.e	N	city	_	_	_	_	_	_	_
+
+# Q000834.94
+1	ki-gub	ki-gub	kigub	N	ki-gub\abs	station	sux	N1=kigub.N5=ø	N1=STEM.N5=ABS	kigub.ø	N	station	_	_	_	_	_	_	_
+2	e-na-ba	ba	ba	V/t	e-na-ba	allot	sux	V2=i.V6=nn.V7=a.V11=n.V12=ba.V14=ø	V2=FIN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	i.nn.a.n.ba.ø	V/t	allot	_	_	_	_	_	_	_
+
+# Q000834.95
+1	lu₂	lu₂	lu	N	lu₂	person	sux	N1=lu	N1=STEM	lu	N	person	_	_	_	_	_	_	_
+2	mu-sar-ra-e	mu-sar-ra	musara	N	mu-sar-ra-e\abs	inscription	sux	N1=musara.N2=e.N5=ø	N1=STEM.N2=DEM1.N5=ABS	musara.e.ø	N	inscription	_	_	_	_	_	_	_
+
+# Q000834.96
+1	ab-ha-lam-e-a	ha-lam	halam	V/t	ab-ha-lam-e-a\gen	forsake	sux	V2=a.V11=b.V12=halam.V14=e.V15='a.N5=ak	V2=FIN.V11=3-SG-NH-P.V12=STEM.V14=3-SG-A.V15=SUB.N5=GEN	a.b.halam.e.'a.ak	V/t	forsake, destroy, become forgotten	_	_	_	_	_	_	_
+
+# Q000834.97
+1	{d}utu	{d}utu	Utu	DN	{d}utu\erg	1	sux	N1=Utu.N5=e	N1=NAME.N5=ERG	Utu.e	DN	1	_	_	_	_	_	_	_
+
+# Q000834.98
+1	suhuš-ni	suhuš	suhuš	N	suhuš-ni\abs	foundation	sux	N1=suhuš.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	suhuš.ani.ø	N	foundation	_	_	_	_	_	_	_
+
+# Q000834.99
+1	he₂-burₓ(|KA×ŠU|)-re₆	burₓ(|KA×ŠU|)	bur	V/t	he₂-burₓ(|KA×ŠU|)-re₆	tear	sux	V1=ha.V2=i.V12=bur.V14=e	V1=MOD1.V2=FIN.V12=STEM.V14=3-SG-A	ha.i.bur.e	V/t	tear	_	_	_	_	_	_	_
+
+# Q000834.100
+1	numun-na-ni	numun	numun	N	numun-na-ni\abs	seed	sux	N1=numun.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	numun.ani.ø	N	seed	_	_	_	_	_	_	_
+
+# Q000834.101
+1	he₂-ga-degₓ(RI)-degₓ(RI)-ge	degₓ(RI)-degₓ(RI)	deg	V/t	he₂-ga-degₓ(RI)-degₓ(RI)-ge	collect	sux	V1=ha.V2=i.V3=nga.V12=degdeg.V14=e	V1=MOD1.V2=FIN.V3=COOR.V12=STEM-RDP.V14=3-SG-A	ha.i.nga.degdeg.e	V/t	to take, to gather up, glean, to tear out, to collect, pick up	_	_	_	_	_	_	_
+
+# Q000834.103
+1	mu-sar-ra	mu-sar-ra	musara	N	mu-sar-ra	inscription	sux	N1=musara	N1=STEM	musara	N	inscription	_	_	_	_	_	_	_
+
+# Q000834.104
+1	ki-gal-ba	ki-gal	kigal	N	ki-gal-ba\gen\abs	platform	sux	N1=kigal.N3=bi.N5=ak.N5=ø	N1=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	kigal.bi.ak.ø	N	platform, pedestal	_	_	_	_	_	_	_
+

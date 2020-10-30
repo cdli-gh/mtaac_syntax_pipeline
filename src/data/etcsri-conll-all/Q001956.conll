@@ -1,0 +1,23 @@
+# project: etcsri 
+# textid: Q001956 
+# file: 00atf/ETCSRI_RIME4.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001956.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Babylonian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001956.1
+1	a-ab-ba	a-ab-ba	Aaba	PN	a-ab-ba	1	sux	N1=Aaba	N1=NAME	Aaba	PN	1
+
+# Q001956.2
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child
+2	en-an-na-tum₂-ma	en-an-na-tum₂-ma	Enanatuma	PN	en-an-na-tum₂-ma	1	sux	N1=Enanatuma	N1=NAME	Enanatuma	PN	En-ana-tuma, daughter of Išme-Dagan, king of Isin
+
+# Q001956.3
+1	en	en	en	N	en	priest	sux	N1=en	N1=STEM	en	N	priest
+2	{d}nanna	{d}nanna	Nanna	DN	{d}nanna\gen\gen\abs	1	sux	N1=Nanna.N5=ak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=GEN.N5=ABS	Nanna.ak.ak.ø	DN	1
+

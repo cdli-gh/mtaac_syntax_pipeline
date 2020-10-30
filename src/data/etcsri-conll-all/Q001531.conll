@@ -1,0 +1,70 @@
+# project: etcsri 
+# textid: Q001531 
+# file: 00atf/ETCSRI_RIME3_1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001531.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Lagaš II 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE	HEAD	EDGE	CF_MWE	GW_MWE	SENSE_MWE	POS_MWE	EPOS_MWE
+
+# Q001531.1
+1	{d}nin-x	_	_	_	{d}nin-x	_	sux	_	_	_	u	_	_	_	_	_	_	_	_
+
+# Q001531.2
+1	nin-a-ni	nin	nin	N	nin-a-ni\dat	lady	sux	N1=nin.N3=ani.N5=ra	N1=STEM.N3=3-SG-H-POSS.N5=DAT-H	nin.ani.ra	N	lady	_	_	_	_	_	_	_
+
+# Q001531.3
+1	nin-al-la	nin-al-la	Ninalla	RN	nin-al-la	1	sux	N1=Ninalla	N1=NAME	Ninalla	RN	Spouse of Gudea, ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001531.4
+1	dumu	dumu	dumu	N	dumu	child	sux	N1=dumu	N1=STEM	dumu	N	child	_	_	_	_	_	_	_
+2	ur-{d}ba-u₂	ur-{d}ba-u₂	Urbauk	RN	ur-{d}ba-u₂	1	sux	N1=Urbauk	N1=NAME	Urbauk	RN	Ruler of Lagaš	_	_	_	_	_	_	_
+
+# Q001531.5
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001531.6
+1	lagaš{ki}-ka-ke₄	lagaš{ki}	Lagaš	SN	lagaš{ki}-ka-ke₄	1	sux	N1=Lagaš.N5=ak.N5=ak.N5=e	N1=NAME.N5=GEN.N5=GEN.N5=ERG	Lagaš.ak.ak.e	SN	1	_	_	_	_	_	_	_
+
+# Q001531.7
+1	nam-til₃	nam-til₃	namtil	N	nam-til₃	life	sux	N1=namtil	N1=STEM	namtil	N	life	_	_	_	_	_	_	_
+
+# Q001531.8
+1	gu₃-de₂-a	gu₃-de₂-a	Gudea	RN	gu₃-de₂-a	1	sux	N1=Gudea	N1=NAME	Gudea	RN	1	_	_	_	_	_	_	_
+
+# Q001531.9
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	ruler	_	_	_	_	_	_	_
+
+# Q001531.10
+1	lagaš{ki}	lagaš{ki}	Lagaš	SN	lagaš{ki}\gen	1	sux	N1=Lagaš.N5=ak	N1=NAME.N5=GEN	Lagaš.ak	SN	1	_	_	_	_	_	_	_
+
+# Q001531.11
+1	dam-ma-na-še₃	dam	dam	N	dam-ma-na-še₃	spouse	sux	N1=dam.N3=ani.N5=ak.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=GEN.N5=TERM	dam.ani.ak.še	N	spouse	_	_	_	_	_	_	_
+
+# Q001531.12
+1	u₃	u₃	u	CNJ	u₃	and	sux	N1=u	N1=STEM	u	CNJ	and, but, also	_	_	_	_	_	_	_
+2	nam-til₃-la-ni-še₃	nam-til₃	namtil	N	nam-til₃-la-ni-še₃	life	sux	N1=namtil.N3=ani.N5=še	N1=STEM.N3=3-SG-H-POSS.N5=TERM	namtil.ani.še	N	life	_	_	_	_	_	_	_
+
+# Q001531.13
+1	a	a	a	N	a\abs	water	sux	N1=a.N5=ø	N1=STEM.N5=ABS	a.ø	N	water	_	_	a ru	dedicate	dedicate	V/t	V/t
+2	mu-na-ru	ru	ru	V/t	mu-na-ru	cvve	sux	V4=mu.V6=nn.V7=a.V11=n.V12=ru.V14=ø	V4=VEN.V6=3-SG-H.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	mu.nn.a.n.ru.ø	V/t	(compound verb verbal element)	1	mwe	_	_	_	_	_
+
+# Q001531.14
+1	alan-ba	alan	alan	N	alan-ba\dem2	statue	sux	N1=alan.N3=bi.N5=ak	N1=STEM.N3=DEM2.N5=GEN	alan.bi.ak	N	statue	_	_	_	_	_	_	_
+
+# Q001531.15
+1	nin-ŋu₁₀	nin	nin	N	nin-ŋu₁₀\erg	lady	sux	N1=nin.N3=ŋu.N5=e	N1=STEM.N3=1-SG-POSS.N5=ERG	nin.ŋu.e	N	lady	_	_	_	_	_	_	_
+2	gu₃	gu₃	gu	N	gu₃\abs	voice	sux	N1=gu.N5=ø	N1=STEM.N5=ABS	gu.ø	N	voice	_	_	gu de	say	say	V/t	V/t
+3	ma-de₂	de₂	de	V/t	ma-de₂	pour	sux	V4=m.V7=a.V11=n.V12=de.V14=ø	V4=VEN.V7=DAT.V11=3-SG-H-A.V12=STEM.V14=3-SG-P	m.a.n.de.ø	V/t	pour	2	mwe	_	_	_	_	_
+
+# Q001531.16
+1	ud	ud	ud	N	ud	sun	sux	N1=ud	N1=STEM	ud	N	day, sun	_	_	_	_	_	_	_
+2	dug₄-ga-ba	dug₄	dug	V/t	dug₄-ga-ba\l1	speak	sux	NV2=dug.NV4='a.N3=bi.N5='a	NV2=STEM.NV4=SUB.N3=3-SG-NH-POSS.N5=L1	dug.'a.bi.'a	V/t	speak	_	_	_	_	_	_	_
+3	i₃-du₃	du₃	du	V/t	i₃-du₃	build	sux	V2=i.V11=1.V12=du.V14=ø	V2=FIN.V11=1-SG-A.V12=STEM.V14=3-SG-P	i.1.du.ø	V/t	to build	_	_	_	_	_	_	_
+
+# Q001531.17
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name	_	_	_	_	_	_	_
+

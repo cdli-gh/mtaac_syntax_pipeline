@@ -1,0 +1,21 @@
+# project: etcsri 
+# textid: Q001164 
+# file: 00atf/ETCSRI_RIME1.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001164.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Early Dynastic 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001164.1
+1	{d}ba-u₂	{d}ba-u₂	Bau	DN	{d}ba-u₂	1	sux	N1=Bau	N1=NAME	Bau	DN	1
+2	dug₄-ga	dug₄	dug	V/t	dug₄-ga	speak	sux	NV2=dug.NV4='a	NV2=STEM.NV4=SUB	dug.'a	V/t	speak
+3	iri-ka-gen₆-na-ka	iri-ka-gen₆-na	Irikaginak	RN	iri-ka-gen₆-na-ka\abs	1	sux	N1=Irikaginak.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Irikaginak.ak.ø	RN	Ruler of Lagaš
+4	mu-gen₆	gen₆	gin	V/t	mu-gen₆	establish	sux	V4=mu.V11=n.V12=gin.V14=ø	V4=.V11=3-SG-H-A.V12=gin.V14=3-SG-P	mu.n.gin.ø	V/i	establish, confirm, make firm
+
+# Q001164.2
+1	mu-bi	mu	mu	N	mu-bi\cop	name	sux	N1=mu.N3=bi.N5=ø.N6=am	N1=STEM.N3=3-SG-NH-POSS.N5=ABS.N6=COP-3-SG	mu.bi.ø.am	N	name
+

@@ -1,0 +1,19 @@
+# project: etcsri 
+# textid: Q001445 
+# file: 00atf/ETCSRI_RIME2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001445.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Old Akkadian 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001445.1
+1	su₄-ru-uš₂-GI	su₄-ru-uš₂-GI	Šuruškin	PN	su₄-ru-uš₂-GI	1	sux	N1=Šuruškin	N1=NAME	Šuruškin	PN	Governor of Umma
+
+# Q001445.2
+1	ensi₂	ensi₂	ensik	N	ensi₂	ruler	sux	N1=ensik	N1=STEM	ensik	N	governor
+2	umma{ki}	umma{ki}	Umma	SN	umma{ki}\gen\abs	1	sux	N1=Umma.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Umma.ak.ø	SN	1
+

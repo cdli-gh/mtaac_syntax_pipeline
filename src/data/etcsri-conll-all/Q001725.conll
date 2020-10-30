@@ -1,0 +1,40 @@
+# project: etcsri 
+# textid: Q001725 
+# file: 00atf/ETCSRI_RIME3_2.atf 
+# langs: sux 
+# type: text 
+# xml:id: Q001725.U0 
+# bracketing_level: 0 
+# m/@k=genre : Royal Inscription 
+# m/@k=period : Ur III 
+
+# ID	WORD	BASE	CF	EPOS	FORM	GW	LANG	MORPH	MORPH2	NORM	POS	SENSE
+
+# Q001725.1
+1	{d}šul-gi	{d}šul-gi	Šulgir	RN	{d}šul-gi	1	sux	N1=Šulgir	N1=NAME	Šulgir	RN	2nd king of the 3rd dynasty of Urim
+
+# Q001725.2
+1	nita	nita	nita	N	nita	male	sux	N1=nita	N1=STEM	nita	N	male
+2	kalag-ga	kalag	kalag	V/i	kalag-ga	strong	sux	NV2=kalag.NV4='a	NV2=STEM.NV4=SUB	kalag.'a	V/i	strong
+
+# Q001725.3
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	urim₅{ki}-ma	urim₅{ki}	Urim	SN	urim₅{ki}-ma	1	sux	N1=Urim.N5=ak	N1=NAME.N5=GEN	Urim.ak	SN	1
+
+# Q001725.4
+1	lugal	lugal	lugal	N	lugal	king	sux	N1=lugal	N1=STEM	lugal	N	king
+2	an-ub-da	an-ub-da	anubda	N	an-ub-da	quarter	sux	N1=anubda	N1=STEM	anubda	N	a cosmographic or geographic term, quarter (of the universe)
+3	limmu₂-ba	limmu₂	limmu	NU	limmu₂-ba\abs	four	sux	NV2=limmu.N3=bi.N5=ak.N5=ø	NV2=STEM.N3=3-SG-NH-POSS.N5=GEN.N5=ABS	limmu.bi.ak.ø	NU	four
+
+# Q001725.5
+1	šu-{d}en-lil₂	šu-{d}en-lil₂	Šuenlil	PN	šu-{d}en-lil₂	1	sux	N1=Šuenlil	N1=NAME	Šuenlil	PN	Son of Šulgi, king of Urim
+
+# Q001725.6
+1	šagina	šagina	šakkanak	N	šagina	general	sux	N1=šakkanak	N1=STEM	šakkanak	N	military governor
+
+# Q001725.7
+1	unug{ki}-ga	unug{ki}	Unug	SN	unug{ki}-ga\abs	1	sux	N1=Unug.N5=ak.N5=ø	N1=NAME.N5=GEN.N5=ABS	Unug.ak.ø	SN	1
+
+# Q001725.8
+1	dumu-ni	dumu	dumu	N	dumu-ni\abs	child	sux	N1=dumu.N3=ani.N5=ø	N1=STEM.N3=3-SG-H-POSS.N5=ABS	dumu.ani.ø	N	child
+
