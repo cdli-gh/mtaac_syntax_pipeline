@@ -1,6 +1,8 @@
 # NU NU => NU <-nummod- NU
 # NU1 NU2 => NU1 <-nummod- NU2
 
+# Can also apply for tokens annotated differently if first FORM char is a num.
+
 prefix : <http://oracc.museum.upenn.edu/etcsri/>
 prefix conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
 prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
@@ -16,18 +18,23 @@ DELETE {
 } WHERE {
 	?num1 conll:SHIFT ?num2.
 	?num1 conll:POS ?num1_pos.
-	?num2 conll:POS ?num2_pos.	
+	?num1 conll:FORM ?num1_form.
+	?num2 conll:POS ?num2_pos.
+	?num2 conll:FORM ?num2_form.
 	FILTER(
-		str(?num1_pos)='NU' && 
-		str(?num2_pos)='NU')
+		( str(?num1_pos)='NU' || REGEX(substr(str(?num1_form), 1, 1), "[1-9]") ) && 
+		( str(?num2_pos)='NU' || REGEX(substr(str(?num2_form), 1, 1), "[1-9]") )
+		)
 	OPTIONAL {
 		?prev conll:SHIFT ?num1.
 		?prev conll:POS ?prev_pos.
+		?prev conll:FORM ?prev_form.
 	}
-	FILTER(str(?prev_pos)!='NU'||!BOUND(?prev_pos))
+	FILTER( 
+		!BOUND(?prev_pos) || 
+		!REGEX(substr(str(?prev_form), 1, 1), "[1-9]")
+		)
 	OPTIONAL {
 		?num2 conll:SHIFT ?next.
 	}
-	#continue here: the non-NU filter does not work!!!!
-
 }

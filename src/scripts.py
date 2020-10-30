@@ -111,8 +111,8 @@ class CC2CU(common_functions, CdliCoNLLtoCoNLLUConverter):
     if '\t' in headerLines[-1]:
       headerLines = headerLines[:-1]
     headerLines.append(self.header)
-    for l in inputLines:
-      print([l])
+##    for l in inputLines:
+##      print([l])
     self.convertCDLICoNLLtoCoNLLU(inputLines)
     #print(self.outputLines, ['\t'.join(l) for l in self.outputLines])
     conll_str = '\n'.join(headerLines+['\t'.join(l) for l in self.outputLines])
@@ -272,7 +272,7 @@ class CoNLL2RDF(common_functions):
       stdin = stdin.encode('utf-8')
 ##    if escape_unicode==True:
 ##      stdin = self.standardize_translit(stdin)
-    print(stdin_str)
+    #print(stdin_str)
     return stdin
     
   def run(self, command, cwd_path=None, stdin_path=None, stdin_str=None,
@@ -355,7 +355,7 @@ class CoNLL2RDF(common_functions):
          if '.jar' in l])
     # Make command to run CoNLL2RDF with java
     cp = libs
-    if include_bin==True: 
+    if include_bin==True:
       cp = ';'.join([dest, libs])
     return ['java', '-cp', cp]
       
@@ -380,23 +380,23 @@ class syntax_preannotation(CoNLL2RDF):
     ('extract-feats', 1),
     ('remove-MORPH2', 0),
     ('init-SHIFT',  1),
-    ('REDUCE-adjective', 3),
-    ('REDUCE-math-operators', 1), # <- additional rules for admin - 
-    ('REDUCE-numerals-chain', 6),
-    ('REDUCE-time-num', 1),
-    ('REDUCE-measurements', 1), # -->
-    ('REDUCE-compound-verbs', 1),
-    ('REDUCE-adnominal', 3),
-    ('REDUCE-appos', 1),
-    ('REDUCE-absolutive', 1),
-    ('REDUCE-appos', 1), # again?
-    ('REDUCE-adjective', 1), # again?
-    ('REDUCE-appos', 4), # again?
-    ('REDUCE-preposed-genitive', 1),
-    ('REDUCE-arguments', 5), # again?
-    ('REDUCE-adjective', 1), # again?
-    ('REDUCE-to-HEAD', 1),
-    ('remove-feats', 1),
+##    ('REDUCE-adjective', 3),
+##    ('REDUCE-math-operators', 1), # <- additional rules for admin - 
+##    ('REDUCE-numerals-chain', 6),
+##    ('REDUCE-time-num', 1),
+##    ('REDUCE-measurements', 1), # -->
+##    ('REDUCE-compound-verbs', 1),
+##    ('REDUCE-adnominal', 3),
+##    ('REDUCE-appos', 1),
+##    ('REDUCE-absolutive', 1),
+##    ('REDUCE-appos', 1), # again?
+##    ('REDUCE-adjective', 1), # again?
+##    ('REDUCE-appos', 4), # again?
+##    ('REDUCE-preposed-genitive', 1),
+##    ('REDUCE-arguments', 5), # again?
+##    ('REDUCE-adjective', 1), # again?
+##    ('REDUCE-to-HEAD', 1),
+##    ('remove-feats', 1),
     ('create-ID-and-DEP', 1),
     ('create-_HEAD', 1)
     ]
@@ -470,7 +470,7 @@ class syntax_preannotation(CoNLL2RDF):
     c = conll_file(path=f_path, corpus=corpus)
     c.configure_str_output(columns, override=override)
     rdf_str = self.convert_to_conll_and_preannotate(c)
-    print('zzzzzzzzzzzzzzzzz', rdf_str) #<-- PROBLEM HERE !!!! returns b''
+    #print('zzzzzzzzzzzzzzzzz', rdf_str) #<-- PROBLEM HERE !!!! returns b''
     filename, target_path, target_path_tree = self.get_path_data(f_path)
     self.tree_output(rdf_str, target_path_tree)
     conll_str = self.rdf2conll(columns=c.override_columns,
@@ -506,8 +506,6 @@ class syntax_preannotation(CoNLL2RDF):
     #print(run_dict) #<-- ALL GOOD
     (rdf_str, errors) = self.run(**run_dict) #<-- PROBLEM SOMEWHERE HERE !!!! returns b''
     print(errors) #Error in Parsing Data: Incorrect XPOSTAG at line:
-    #'1	{d}en-lil₂	_	NAME	_	_	_' in file CoNLL data.
-    print('!!!!!!!!!!!!!!!!!!!!', str(conll_obj))
     return rdf_str
 
   def tree_output(self, rdf_str, target_path=''):
@@ -541,15 +539,36 @@ Preannotate all files in data/etsri-conll-all, except all errors:
 '''
 Preannotate all files in data/cdli-conll-all, except all errors:
 '''
-f_path = os.path.join(_path, 'data', 'cdli-jinyan-non-admin') #'etcsri-conll-all')
-##f_path = os.path.join(_path, 'data', 'cdli-conll-all')
+
+#f_path = os.path.join(_path, 'data', 'etcsri-conll')
+#f_path = os.path.join(_path, 'data', 'cdli-jinyan-non-admin') #'etcsri-conll-all')
+
+f_path = os.path.join(_path, 'data', 'cdli-conll-all')
+#f_path = os.path.join(_path, 'data', 'evaluate')
+
+preannotated = os.listdir(os.path.join(_path, 'data', 'conll-preannotated'))
+exclude = [pa.replace('_tree.html', '.conll') for pa in preannotated if '_tree.html' in pa]
+
+
+from list_errors import list_files_with_errors
+
+errors_list = list_files_with_errors() # files previusly annotated with errors 
+
 sx = syntax_preannotation()
 for f in os.listdir(f_path):
-  try:
-    sx.preannotate(os.path.join(f_path, f))
-  except Exception as e:
-    raise e
-    pass
+  if f in errors_list: #f not in exclude
+    try:
+      sx.preannotate(os.path.join(f_path, f))
+    except Exception as e:
+      raise e
+      pass
+
+errors_list_new = list_files_with_errors()
+
+print('old_errors', errors_list)
+print('new_errors', errors_list_new)
+
+
 
 #CC2CU()
 #CoNLL2RDF()

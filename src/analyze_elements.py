@@ -1,15 +1,34 @@
 import os
+import json
+import codecs
 from mtaac_package.CoNLL_file_parser import conll_file
 
 _path = os.path.dirname(os.path.abspath(__file__))
 path = os.path.join(_path, 'data', 'cdli-conll-all')
-corpus = 'cdli'
-if 'etcsri' in path:
-  corpus = 'etcsri'
+path_out = os.path.join(_path, 'data', 'cdli-conll-all-json')
+
 conll_lst = []
-for f in list(os.listdir(path)):
-  conll_lst.append(conll_file(path=os.path.join(path,f),
-                              corpus=corpus))
+
+def dump_corpus_to_json():
+  corpus = 'cdli'
+  if 'etcsri' in path:
+    corpus = 'etcsri'
+  for f in list(os.listdir(path)):
+    conll_lst.append(conll_file(path=os.path.join(path,f),
+                                corpus=corpus))
+    d = conll_lst[-1].dict_output()
+    out = os.path.join(path_out,f.replace('conll', 'json'))
+    with codecs.open(out, 'w', 'utf-8') as ff:
+      ff.write(json.dumps(d))
+
+dump_corpus_to_json()
+
+for f in os.listdir(path_out):
+  j_path = os.path.join(path_out, f)
+  with codecs.open(j_path, 'r', 'utf-8') as ff:
+    d = json.loads(ff.read())  
+  conll_lst.append(conll_file(data_dict=d))
+
 print('corpus loaded')
 
 comb_dict_EPOS = {
@@ -50,36 +69,76 @@ def filter_valid(c, i, filtr):
       return True
   return False  
 
-def analyze(c, field, filtr=None):
-  i = 0
-  while i < len(c.tokens_lst):
-    if not filtr or filter_valid(c, i, filtr):
-      if i==0:
-        comb_key = '0 %s' %c.tokens_lst[i][field]
-      elif i+1 < len(c.tokens_lst):
-        comb_key = '%s %s' %(c.tokens_lst[i][field], c.tokens_lst[i+1][field])
-      else:
-        comb_key = '%s 0' %c.tokens_lst[i][field]
-      if comb_key in comb_dict.keys():
-        comb_dict[comb_key]+=1
-      else:
-        comb_dict[comb_key] = 1
-    i+=1
-
-def produce_comb(field='EPOS', filtr=None):
+def produce_comb(field='EPOS', replace=None, filtr=None):
+  comb_dict = {}
+  
+  def analyze(c):
+    i = 0
+    while i<len(c.tokens_lst):
+      if not filtr or filter_valid(c, i, filtr):
+        if i==0:
+          pair = [None, c.tokens_lst[i][field]]
+        elif i+1<len(c.tokens_lst):
+          pair = [c.tokens_lst[i][field], c.tokens_lst[i+1][field]]
+        else:
+          pair = [c.tokens_lst[i][field], None]
+        if replace:
+          for n in range(0,2):
+            if replace[n]:
+              pair[n] = replace[n]
+        comb_key = ' '.join(pair)
+        if comb_key in comb_dict.keys():
+          comb_dict[comb_key]+=1
+        else:
+          comb_dict[comb_key] = 1
+      i+=1
+      
   for c in conll_lst:
-    try: 
-      analyze(c, field, filtr)
+    try:
+      analyze(c)
     except Exception as e:
       raise e
       pass
+  return comb_dict
 
-for k in sorted(list(comb_dict_EPOS.keys()),
-                key=lambda k: -comb_dict_EPOS[k]):
-  comb_dict = {}
-  print(k, comb_dict_EPOS[k])
-  filtr = ('EPOS', k.split(' ')[0], k.split(' ')[1])
-  produce_comb(field='XPOSTAG', filtr=filtr)
-  for kk in sorted(list(comb_dict.keys()),
-                   key=lambda k: -comb_dict[k]):
-    print('\t', kk, comb_dict[kk])
+def apply_rules(kk, field):
+  try:
+    first, second = kk.split()
+  except ValueError:
+    first = kk
+    second = 'None'
+  if field=='EPOS':
+    if first==second=='NU':
+      return False
+  if field=='XPOSTAG':
+    if 'GEN' in kk:
+      return False
+  return True
+
+def print_combinations(k, depth=0):
+
+  def print_c(kk, field, c_dict):
+    if c_dict[kk]>5 and apply_rules(kk, field): #note that this filters rare cases
+      indent_str = ''.join(['\t' for i in range(0,depth)])
+      print(indent_str, kk, c_dict[kk])
+      return True
+
+  prim_field = 'EPOS'
+  secd_field = 'BASE'
+
+  if print_c(k, prim_field, comb_dict_EPOS):
+    filtr_EPOS = (prim_field, k.split(' ')[0], k.split(' ')[1])
+    comb_dict = produce_comb(field=secd_field,
+                             filtr=filtr_EPOS,
+                             replace=(None,'Second')) #('First',None)
+    depth+=1
+    for kk in sorted(list(comb_dict.keys()),
+                     key=lambda k: -comb_dict[k]):
+      print_c(kk, secd_field, comb_dict)
+
+comb_dict = {}
+
+for k in sorted(
+  list(comb_dict_EPOS.keys()),
+  key=lambda k: -comb_dict_EPOS[k]):
+  print_combinations(k)
